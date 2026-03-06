@@ -1,0 +1,300 @@
+.coloring-page {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background: linear-gradient(180deg, #FFF8F0 0%, #F0E6FF 100%);
+}
+
+/* Header */
+.coloring-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: var(--space-sm) var(--space-xl);
+    background: var(--bg-card);
+    box-shadow: var(--shadow-soft);
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+.coloring-back {
+    font-size: 0.85rem;
+    padding: var(--space-xs) var(--space-md);
+}
+
+.coloring-title {
+    font-family: var(--font-display);
+    font-size: 1.2rem;
+    color: var(--color-primary);
+}
+
+.coloring-page-info {
+    font-weight: 700;
+    color: var(--text-secondary);
+    font-size: 0.85rem;
+}
+
+.coloring-nav {
+    display: flex;
+    align-items: center;
+    gap: var(--space-xs);
+}
+
+.coloring-nav-btn {
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+    border: 3px solid var(--color-primary);
+    background: var(--bg-card);
+    color: var(--color-primary);
+    font-size: 1.8rem;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all var(--transition-fast);
+    padding: 0;
+    box-shadow: 0 4px 12px rgba(108, 92, 231, 0.2);
+}
+
+.coloring-nav-btn:hover:not(:disabled) {
+    background: var(--color-primary);
+    color: white;
+    transform: scale(1.15);
+}
+
+.coloring-nav-btn:disabled {
+    opacity: 0.3;
+    cursor: not-allowed;
+    border-color: var(--text-secondary);
+    color: var(--text-secondary);
+}
+
+/* Story text */
+.coloring-text {
+    padding: var(--space-sm) var(--space-xl);
+    background: rgba(255, 255, 255, 0.85);
+    text-align: center;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.coloring-text-line {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: var(--text-primary);
+    line-height: 1.5;
+}
+
+/* Workspace */
+.coloring-workspace {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: var(--space-md);
+    overflow: hidden;
+}
+
+.coloring-canvas {
+    background: #FFFFFF;
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-float);
+    max-width: 700px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    position: relative;
+}
+
+.coloring-canvas-element {
+    display: block;
+    max-width: 100%;
+    max-height: 60vh;
+    cursor: crosshair;
+    touch-action: none;
+    border-radius: var(--radius-lg);
+}
+
+.svg-coloring-area {
+    width: 100%;
+    padding: var(--space-md);
+    cursor: pointer;
+}
+
+.svg-coloring-area svg {
+    width: 100%;
+    height: 100%;
+}
+
+/* Toolbar */
+.coloring-toolbar {
+    background: var(--bg-card);
+    padding: var(--space-sm) var(--space-lg);
+    box-shadow: 0 -4px 20px rgba(0, 0, 0, 0.08);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: var(--space-lg);
+    flex-wrap: wrap;
+}
+
+.toolbar-tools {
+    display: flex;
+    gap: var(--space-sm);
+}
+
+.tool-btn {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+    padding: var(--space-sm) var(--space-md);
+    border-radius: var(--radius-lg);
+    border: 3px solid transparent;
+    background: var(--bg-surface);
+    cursor: pointer;
+    transition: all var(--transition-fast);
+    min-width: 80px;
+}
+
+.tool-btn.active {
+    border-color: var(--color-primary);
+    background: var(--color-primary-light);
+    box-shadow: 0 4px 12px rgba(108, 92, 231, 0.25);
+}
+
+.tool-btn:hover {
+    transform: scale(1.1);
+}
+
+.tool-icon {
+    font-size: 2.5rem;
+}
+
+.tool-label {
+    font-size: 0.9rem;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: var(--text-secondary);
+}
+
+.tool-btn.active .tool-label {
+    color: var(--color-primary);
+}
+
+/* Brush size selector */
+.brush-sizes {
+    display: flex;
+    gap: var(--space-xs);
+    padding: 0 var(--space-sm);
+    border-left: 2px solid var(--border-color);
+    border-right: 2px solid var(--border-color);
+}
+
+.brush-size-btn {
+    width: 54px;
+    height: 54px;
+    border-radius: var(--radius-lg);
+    border: 3px solid transparent;
+    background: var(--bg-surface);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all var(--transition-fast);
+}
+
+.brush-size-btn.active {
+    border-color: var(--color-primary);
+    background: var(--color-primary-light);
+}
+
+.brush-size-btn:hover {
+    transform: scale(1.1);
+}
+
+.brush-dot {
+    border-radius: 50%;
+    background: var(--text-primary);
+    display: block;
+    min-width: 5px;
+    min-height: 5px;
+}
+
+/* Color Palette */
+.color-palette {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.color-swatch {
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    background: var(--swatch-color);
+    border: 3px solid #DDD;
+    cursor: pointer;
+    transition: all var(--transition-bounce);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.color-swatch:hover {
+    transform: scale(1.15);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.color-swatch.selected {
+    border-color: var(--color-primary);
+    box-shadow: 0 0 0 3px var(--color-primary-light), 0 2px 8px rgba(108, 92, 231, 0.3);
+    transform: scale(1.15);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .coloring-header {
+        padding: var(--space-xs) var(--space-md);
+    }
+
+    .coloring-title {
+        font-size: 1rem;
+    }
+
+    .coloring-text {
+        padding: var(--space-xs) var(--space-md);
+    }
+
+    .coloring-text-line {
+        font-size: 0.9rem;
+    }
+
+    .coloring-toolbar {
+        padding: var(--space-sm);
+        gap: var(--space-md);
+    }
+
+    .color-swatch {
+        width: 38px;
+        height: 38px;
+    }
+
+    .tool-btn {
+        min-width: 60px;
+        padding: 5px var(--space-sm);
+    }
+
+    .tool-icon {
+        font-size: 1.8rem;
+    }
+
+    .coloring-nav-btn {
+        width: 48px;
+        height: 48px;
+        font-size: 1.4rem;
+    }
+}

@@ -1,0 +1,319 @@
+.reader-page {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background: linear-gradient(180deg, var(--bg-primary) 0%, var(--bg-secondary) 100%);
+}
+
+/* Header */
+.reader-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: var(--space-md) var(--space-xl);
+    background: var(--bg-card);
+    box-shadow: var(--shadow-soft);
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+.reader-back,
+.reader-pdf {
+    font-size: 0.9rem;
+    padding: var(--space-sm) var(--space-md);
+}
+
+.reader-title-area {
+    display: flex;
+    align-items: center;
+    gap: var(--space-sm);
+}
+
+.reader-story-emoji {
+    font-size: 2.5rem;
+}
+
+.reader-title {
+    font-family: var(--font-display);
+    font-size: 2rem;
+    color: var(--color-primary);
+}
+
+/* Content */
+.reader-content {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: var(--space-xl);
+    transition: opacity 0.3s ease, transform 0.3s ease;
+}
+
+.page-enter {
+    opacity: 1;
+    transform: translateX(0);
+}
+
+.page-exit {
+    opacity: 0;
+    transform: translateX(-20px);
+}
+
+/* Cover */
+.story-cover {
+    width: 100%;
+    max-width: 500px;
+}
+
+.cover-card {
+    background: var(--bg-card);
+    border-radius: var(--radius-xl);
+    padding: var(--space-3xl) var(--space-2xl);
+    text-align: center;
+    box-shadow: var(--shadow-float);
+    border-top: 6px solid var(--story-color);
+}
+
+.cover-emoji {
+    font-size: 8rem;
+    margin-bottom: var(--space-md);
+    filter: drop-shadow(0 8px 16px rgba(0, 0, 0, 0.15));
+}
+
+.cover-illustration {
+    width: 100%;
+    max-width: 320px;
+    border-radius: var(--radius-lg);
+    margin-bottom: var(--space-md);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+}
+
+.cover-title {
+    font-family: var(--font-display);
+    font-size: 3rem;
+    color: var(--text-primary);
+    margin-bottom: var(--space-sm);
+    line-height: 1.1;
+}
+
+.cover-subtitle {
+    color: var(--text-secondary);
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-bottom: var(--space-lg);
+}
+
+.cover-lesson {
+    display: inline-flex;
+    gap: var(--space-sm);
+    padding: var(--space-sm) var(--space-lg);
+    background: var(--bg-surface);
+    border-radius: var(--radius-full);
+    margin-bottom: var(--space-md);
+}
+
+.lesson-label {
+    font-weight: 600;
+    color: var(--text-light);
+}
+
+.lesson-value {
+    font-weight: 700;
+    color: var(--color-primary);
+}
+
+.cover-starring {
+    color: var(--text-secondary);
+    font-size: 1.05rem;
+    margin-bottom: var(--space-xl);
+}
+
+/* Family Photo Polaroid */
+.cover-family-photo {
+    background: white;
+    padding: 12px 12px 45px 12px;
+    border-radius: 4px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+    display: inline-block;
+    transform: rotate(-3deg);
+    margin: var(--space-md) 0 var(--space-xl) 0;
+    position: relative;
+    max-width: 250px;
+    transition: transform 0.3s ease;
+}
+
+.cover-family-photo:hover {
+    transform: rotate(0deg) scale(1.05);
+}
+
+.cover-family-photo img {
+    width: 100%;
+    aspect-ratio: 1;
+    object-fit: cover;
+    border-radius: 2px;
+    background: #f0f0f0;
+}
+
+.photo-caption {
+    position: absolute;
+    bottom: 12px;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    font-family: var(--font-display);
+    font-size: 1.4rem;
+    color: var(--text-primary);
+}
+
+/* Story Page Layout */
+.story-page-layout {
+    width: 100%;
+    max-width: 900px;
+    display: grid;
+    grid-template-columns: 1fr 1.2fr;
+    gap: var(--space-xl);
+    align-items: start;
+}
+
+/* Text Section */
+.story-text-section {
+    background: var(--bg-card);
+    border-radius: var(--radius-xl);
+    padding: var(--space-xl);
+    box-shadow: var(--shadow-card);
+}
+
+.page-number {
+    font-size: 0.8rem;
+    font-weight: 700;
+    color: var(--text-light);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: var(--space-lg);
+}
+
+.story-text-content {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-md);
+}
+
+.story-line {
+    font-size: 1.8rem;
+    font-weight: 700;
+    line-height: 1.6;
+    color: var(--text-primary);
+    font-family: var(--font-primary);
+}
+
+/* Illustration Section */
+.story-illustration-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: var(--space-md);
+}
+
+.illustration-frame {
+    background: var(--bg-card);
+    border-radius: var(--radius-xl);
+    padding: var(--space-md);
+    box-shadow: var(--shadow-card);
+    width: 100%;
+    aspect-ratio: 5/4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.illustration-frame svg {
+    width: 100%;
+    height: 100%;
+}
+
+.color-btn {
+    width: 100%;
+    max-width: 250px;
+}
+
+/* Navigation */
+.reader-nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: var(--space-lg);
+    padding: var(--space-lg);
+    background: var(--bg-card);
+    box-shadow: 0 -4px 20px rgba(0, 0, 0, 0.05);
+}
+
+.nav-btn {
+    background: var(--color-primary);
+    color: white;
+    font-size: 1.5rem;
+    padding: var(--space-md) var(--space-xl);
+    border-radius: 50px;
+    box-shadow: var(--shadow-card);
+    font-weight: 800;
+}
+
+.nav-btn:disabled {
+    background: #E8E0F0;
+    color: var(--text-light);
+    box-shadow: none;
+    cursor: not-allowed;
+}
+
+.nav-btn:disabled:hover {
+    transform: none;
+}
+
+.page-dots {
+    display: flex;
+    gap: 6px;
+    align-items: center;
+}
+
+.page-dot {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background: #E8E0F0;
+    cursor: pointer;
+    transition: all var(--transition-fast);
+}
+
+.page-dot.active {
+    background: var(--color-primary);
+    width: 35px;
+    border-radius: 10px;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .story-page-layout {
+        grid-template-columns: 1fr;
+    }
+
+    .story-line {
+        font-size: 1.4rem;
+    }
+
+    .reader-title {
+        font-size: 1.5rem;
+    }
+
+    .reader-content {
+        padding: var(--space-md);
+    }
+
+    .cover-title {
+        font-size: 2.2rem;
+    }
+
+    .cover-emoji {
+        font-size: 5rem;
+    }
+}
