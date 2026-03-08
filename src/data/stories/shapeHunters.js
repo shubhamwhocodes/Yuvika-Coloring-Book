@@ -1,511 +1,511 @@
-// Refined story - {{CHILD}} Finds the Circle
+// {{CHILD}}'s Shape Hunters — Unique story with 50 distinct pages
 const story = {
     "id": "shape-hunters",
-    "title": "{{CHILD}} Finds the Circle",
+    "title": "{{CHILD}}'s Shape Hunters",
     "emoji": "🔵",
     "theme": "Learning Stories",
     "lesson": "Observation",
-    "description": "Explore the wonders of shape hunters and learn about Observation!",
+    "description": "Join {{CHILD}} on a hunt for shapes hiding in the everyday world around us!",
     "coverColor": "#16A085",
     "pages": [
         {
             "id": "shape-hunters-1",
             "text": [
-                "Today was the start of something amazing for {{CHILD}}.",
-                "They were going to explore the world of shape hunters!",
-                "\"Are you ready for the shape-hunters journey?\" asked {{MOTHER}}."
+                "The neighborhood walk was filled with exciting possibilities.",
+                "{{CHILD}} looked around with wide, sparkling eyes.",
+                "\"Are you ready for the shape hunters adventure?\" asked {{MOTHER}}."
             ],
-            "illustrationHint": "Page 1: Opening scene: {{CHILD}} and family standing by a sign for \"shape hunters\".. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 1: Introduction — {{CHILD}} discovering the Shape Hunters world. Unique scene 1 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "shape-hunters-1"
         },
         {
             "id": "shape-hunters-2",
             "text": [
-                "Then, they checked the triangle to make sure it was ready.",
-                "They sorted the triangle into different groups.",
-                "\"This Learning Stories is full of surprises!\""
+                "Everything was set up and waiting — the circle, the square, and more.",
+                "{{CHILD}} picked up the circle and turned it over in their hands.",
+                "\"This is going to be the best day ever!\" they declared."
             ],
-            "illustrationHint": "Page 2: Setup: {{CHILD}} working with round.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 2: Introduction — {{CHILD}} discovering the Shape Hunters world. Unique scene 2 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "shape-hunters-2"
         },
         {
             "id": "shape-hunters-3",
             "text": [
-                "{{CHILD}} put on their special round gear.",
-                "{{CHILD}} traced the outline of the square.",
-                "\"This Learning Stories is full of surprises!\""
+                "{{MOTHER}} explained how the triangle worked while {{CHILD}} listened carefully.",
+                "\"First, you need to understand the triangle before you use it.\"",
+                "{{CHILD}} nodded seriously, determined to learn everything."
             ],
-            "illustrationHint": "Page 3: Setup: {{CHILD}} working with corners.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 3: Introduction — {{CHILD}} discovering the Shape Hunters world. Unique scene 3 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "shape-hunters-3"
         },
         {
             "id": "shape-hunters-4",
             "text": [
-                "\"Don't forget the corners!\" called out {{MOTHER}}.",
-                "The path was marked by tiny round prints.",
-                "\"This Learning Stories is full of surprises!\""
+                "The first step was spotting — and {{CHILD}} gave it their best try.",
+                "It wasn't perfect, but it was a wonderful beginning.",
+                "\"Everyone starts exactly where you are right now,\" {{MOTHER}} encouraged."
             ],
-            "illustrationHint": "Page 4: Setup: {{CHILD}} working with edges.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 4: Introduction — {{CHILD}} discovering the Shape Hunters world. Unique scene 4 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "shape-hunters-4"
         },
         {
             "id": "shape-hunters-5",
             "text": [
-                "Everything felt so edges and new today.",
-                "They listened to the sound of the corners.",
-                "\"This Learning Stories is full of surprises!\""
+                "{{CHILD}} noticed how the rectangle connected to the star.",
+                "\"Oh! I see how they work together!\" they exclaimed.",
+                "Understanding one thing opened a door to understanding another."
             ],
-            "illustrationHint": "Page 5: Setup: {{CHILD}} working with flat.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 5: Introduction — {{CHILD}} discovering the Shape Hunters world. Unique scene 5 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "shape-hunters-5"
         },
         {
             "id": "shape-hunters-6",
             "text": [
-                "{{CHILD}} noticed a small flat near the entrance.",
-                "\"How many triangle can you see?\" asked {{MOTHER}}.",
-                "\"This Learning Stories is full of surprises!\""
+                "A moment of focus: {{CHILD}} concentrated on tracing with careful hands.",
+                "The diamond responded beautifully to their gentle touch.",
+                "\"You have a natural talent for this,\" {{MOTHER}} said warmly."
             ],
-            "illustrationHint": "Page 6: Setup: {{CHILD}} working with square.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 6: Introduction — {{CHILD}} discovering the Shape Hunters world. Unique scene 6 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "shape-hunters-6"
         },
         {
             "id": "shape-hunters-7",
             "text": [
-                "Step 7 of the plan was to look for the square.",
-                "They followed the pattern of the round.",
-                "\"This Learning Stories is full of surprises!\""
+                "\"Can I try drawing next?\" {{CHILD}} asked eagerly.",
+                "{{MOTHER}} showed them the technique step by step.",
+                "Slow at first, then smoother, then almost graceful."
             ],
-            "illustrationHint": "Page 7: Setup: {{CHILD}} working with triangle.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 7: Introduction — {{CHILD}} discovering the Shape Hunters world. Unique scene 7 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "shape-hunters-7"
         },
         {
             "id": "shape-hunters-8",
             "text": [
-                "\"I can't wait to see the triangle!\" {{CHILD}} cheered.",
-                "They compared the size of the edges and the flat.",
-                "\"This Learning Stories is full of surprises!\""
+                "The hexagon was trickier than expected.",
+                "{{CHILD}} bit their lower lip in concentration.",
+                "\"Take your time — there's no rush,\" reminded {{MOTHER}}."
             ],
-            "illustrationHint": "Page 8: Setup: {{CHILD}} working with round.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 8: Introduction — {{CHILD}} discovering the Shape Hunters world. Unique scene 8 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "shape-hunters-8"
         },
         {
             "id": "shape-hunters-9",
             "text": [
-                "The air was filled with the scent of round.",
-                "A diagram showed the cycle of the edges.",
-                "\"This Learning Stories is full of surprises!\""
+                "Something unexpected happened — the oval did something surprising!",
+                "\"Whoa! Did you see that?\" {{CHILD}} jumped with excitement.",
+                "Even {{MOTHER}} looked impressed by the unexpected discovery."
             ],
-            "illustrationHint": "Page 9: Setup: {{CHILD}} working with corners.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 9: Introduction — {{CHILD}} discovering the Shape Hunters world. Unique scene 9 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "shape-hunters-9"
         },
         {
             "id": "shape-hunters-10",
             "text": [
-                "They found a map that showed the way to the corners.",
-                "{{CHILD}} pointed at the bright square.",
-                "\"This Learning Stories is full of surprises!\""
+                "By the end of the first session, {{CHILD}} had learned so much.",
+                "The neighborhood walk felt like a second home already.",
+                "\"Can we come back tomorrow?\" {{CHILD}} asked hopefully."
             ],
-            "illustrationHint": "Page 10: Setup: {{CHILD}} working with edges.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 10: Introduction — {{CHILD}} discovering the Shape Hunters world. Unique scene 10 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "shape-hunters-10"
         },
         {
             "id": "shape-hunters-11",
             "text": [
-                "Look at that square! It's bigger than I thought!",
-                "The world of shape hunters was opening up.",
-                "Learning about square is like solving a mystery."
+                "The second session started with a review of what {{CHILD}} already knew.",
+                "Spotting came more naturally now.",
+                "\"Your muscle memory is building,\" {{MOTHER}} observed."
             ],
-            "illustrationHint": "Page 11: Discovery: {{CHILD}} finding flat.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 11: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 11 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "shape-hunters-11"
         },
         {
             "id": "shape-hunters-12",
             "text": [
-                "{{CHILD}} discovered a hidden path made of edges.",
-                "The world of shape hunters was opening up.",
-                "They felt smarter after seeing the round."
+                "{{CHILD}} wanted to explore the circle in a new way.",
+                "\"What happens if I try building instead?\" they wondered aloud.",
+                "The result was surprising and delightful!"
             ],
-            "illustrationHint": "Page 12: Discovery: {{CHILD}} finding square.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 12: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 12 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "shape-hunters-12"
         },
         {
             "id": "shape-hunters-13",
             "text": [
-                "Wait, is that a flat peeking through the triangle?",
-                "The world of shape hunters was opening up.",
-                "\"Science and nature are so cool,\" said {{CHILD}}."
+                "A challenge appeared: combining tracing with finding at the same time.",
+                "{{CHILD}}'s brain had to think about two things at once.",
+                "\"It's like patting your head and rubbing your tummy!\" they laughed."
             ],
-            "illustrationHint": "Page 13: Discovery: {{CHILD}} finding triangle.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 13: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 13 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "shape-hunters-13"
         },
         {
             "id": "shape-hunters-14",
             "text": [
-                "They found a mysterious round sitting on a stone.",
-                "The world of shape hunters was opening up.",
-                "\"I want to find more triangle tomorrow!\""
+                "{{CHILD}} discovered a secret about the square.",
+                "When they tried matching more gently, the square responded much better.",
+                "\"Everything works better with a gentle touch,\" {{CHILD}} realized."
             ],
-            "illustrationHint": "Page 14: Discovery: {{CHILD}} finding round.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 14: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 14 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "shape-hunters-14"
         },
         {
             "id": "shape-hunters-15",
             "text": [
-                "\"Look at how the corners shines!\" {{CHILD}} exclaimed.",
-                "The world of shape hunters was opening up.",
-                "\"The world is full of amazing flat!\""
+                "The triangle and the rectangle were used together for the first time.",
+                "{{CHILD}} created something they'd never seen before.",
+                "\"I made this! All by myself!\" they beamed with pride."
             ],
-            "illustrationHint": "Page 15: Discovery: {{CHILD}} finding corners.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 15: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 15 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "shape-hunters-15"
         },
         {
             "id": "shape-hunters-16",
             "text": [
-                "Each step revealed more about the magic of square.",
-                "The world of shape hunters was opening up.",
-                "Learning about square is like solving a mystery."
+                "\"Let me show {{FATHER}} what I learned!\" {{CHILD}} said at dinner.",
+                "A mini demonstration right there at the table.",
+                "{{FATHER}} clapped and said, \"That's incredibly impressive!\"\""
             ],
-            "illustrationHint": "Page 16: Discovery: {{CHILD}} finding edges.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 16: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 16 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "shape-hunters-16"
         },
         {
             "id": "shape-hunters-17",
             "text": [
-                "{{CHILD}} used a magnifying glass to see the triangle.",
-                "The world of shape hunters was opening up.",
-                "They felt smarter after seeing the round."
+                "Practice at home became part of {{CHILD}}'s daily routine.",
+                "Ten minutes every day — sometimes fifteen when it was extra fun.",
+                "Consistency turned hesitation into confidence."
             ],
-            "illustrationHint": "Page 17: Discovery: {{CHILD}} finding flat.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 17: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 17 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "shape-hunters-17"
         },
         {
             "id": "shape-hunters-18",
             "text": [
-                "\"The edges here is so colorful!\" they said.",
-                "The world of shape hunters was opening up.",
-                "\"Science and nature are so cool,\" said {{CHILD}}."
+                "A book from the library showed experts doing the same thing.",
+                "{{CHILD}} studied the pictures and tried to copy the techniques.",
+                "\"Even pros started as beginners,\" they said to themselves."
             ],
-            "illustrationHint": "Page 18: Discovery: {{CHILD}} finding square.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 18: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 18 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "shape-hunters-18"
         },
         {
             "id": "shape-hunters-19",
             "text": [
-                "They followed a trail of flat into the deep round.",
-                "The world of shape hunters was opening up.",
-                "\"I want to find more triangle tomorrow!\""
+                "Something clicked today — a skill that was hard became easy.",
+                "{{CHILD}} repeated it four times just to make sure it wasn't a fluke.",
+                "Not a fluke. A breakthrough. The feeling was incredible."
             ],
-            "illustrationHint": "Page 19: Discovery: {{CHILD}} finding triangle.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 19: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 19 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "shape-hunters-19"
         },
         {
             "id": "shape-hunters-20",
             "text": [
-                "A friendly bird chirped from the top of the corners.",
-                "The world of shape hunters was opening up.",
-                "\"The world is full of amazing flat!\""
+                "\"I think I'm ready for something bigger,\" {{CHILD}} told {{MOTHER}}.",
+                "The sparkle in their eyes showed they meant it.",
+                "\"Then let's make it happen,\" {{MOTHER}} agreed with a smile."
             ],
-            "illustrationHint": "Page 20: Discovery: {{CHILD}} finding round.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 20: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 20 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "shape-hunters-20"
         },
         {
             "id": "shape-hunters-21",
             "text": [
-                "Oh no! The path to the square was blocked!",
-                "\"Remember,\" said {{FATHER}}, \"Observation is the key.\"",
-                "Look at how the corners changes in the light!"
+                "The advanced challenge was right in front of {{CHILD}}.",
+                "A bigger project that required everything they'd learned.",
+                "\"This looks harder than anything I've tried before,\" they admitted."
             ],
-            "illustrationHint": "Page 21: Challenge: {{CHILD}} overcoming an obstacle involving corners.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 21: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 21 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "shape-hunters-21"
         },
         {
             "id": "shape-hunters-22",
             "text": [
-                "How will we ever move this heavy triangle?",
-                "\"Remember,\" said {{FATHER}}, \"Observation is the key.\"",
-                "They sorted the triangle into different groups."
+                "Step one went smoothly — confidence from practice shone through.",
+                "But step two was different. The star didn't cooperate.",
+                "\"Come on, work with me,\" {{CHILD}} muttered, trying again."
             ],
-            "illustrationHint": "Page 22: Challenge: {{CHILD}} overcoming an obstacle involving edges.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 22: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 22 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "shape-hunters-22"
         },
         {
             "id": "shape-hunters-23",
             "text": [
-                "The round started to spin faster and faster!",
-                "\"Remember,\" said {{FATHER}}, \"Observation is the key.\"",
-                "{{CHILD}} traced the outline of the square."
+                "Frustration crept in like an unwelcome visitor.",
+                "Three attempts, three mistakes, three sighs.",
+                "{{CHILD}} put down the diamond and stared at the ceiling."
             ],
-            "illustrationHint": "Page 23: Challenge: {{CHILD}} overcoming an obstacle involving flat.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 23: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 23 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "shape-hunters-23"
         },
         {
             "id": "shape-hunters-24",
             "text": [
-                "{{CHILD}} had to hold onto the corners very tightly.",
-                "\"Remember,\" said {{FATHER}}, \"Observation is the key.\"",
-                "The path was marked by tiny round prints."
+                "\"Remember,\" said {{FATHER}}, \"Observation is what gets you through.\"",
+                "{{CHILD}} took three deep breaths, finding calm.",
+                "\"Okay. Let me think about this differently.\""
             ],
-            "illustrationHint": "Page 24: Challenge: {{CHILD}} overcoming an obstacle involving square.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 24: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 24 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "shape-hunters-24"
         },
         {
             "id": "shape-hunters-25",
             "text": [
-                "\"We need to solve this edges puzzle,\" said {{FATHER}}.",
-                "\"Remember,\" said {{FATHER}}, \"Observation is the key.\"",
-                "They listened to the sound of the corners."
+                "A new approach! Instead of forcing it, {{CHILD}} went slowly.",
+                "Breaking the problem into tiny, manageable pieces.",
+                "The first small piece worked perfectly."
             ],
-            "illustrationHint": "Page 25: Challenge: {{CHILD}} overcoming an obstacle involving triangle.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 25: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 25 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "shape-hunters-25"
         },
         {
             "id": "shape-hunters-26",
             "text": [
-                "It was time to use all their Observation skills.",
-                "\"Remember,\" said {{FATHER}}, \"Observation is the key.\"",
-                "\"How many triangle can you see?\" asked {{MOTHER}}."
+                "\"One piece at a time. One small step at a time,\" {{CHILD}} repeated.",
+                "The second piece fell into place. Then the third.",
+                "Momentum built like a gentle snowball rolling downhill."
             ],
-            "illustrationHint": "Page 26: Challenge: {{CHILD}} overcoming an obstacle involving round.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 26: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 26 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "shape-hunters-26"
         },
         {
             "id": "shape-hunters-27",
             "text": [
-                "The flat was being a bit stubborn today.",
-                "\"Remember,\" said {{FATHER}}, \"Observation is the key.\"",
-                "They followed the pattern of the round."
+                "A wobble on step seven threatened to undo everything.",
+                "But {{CHILD}} caught it in time — quick thinking saved the project!",
+                "\"That was close!\" they exhaled with relief."
             ],
-            "illustrationHint": "Page 27: Challenge: {{CHILD}} overcoming an obstacle involving corners.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 27: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 27 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "shape-hunters-27"
         },
         {
             "id": "shape-hunters-28",
             "text": [
-                "{{CHILD}} tried to balance the square on their head.",
-                "\"Remember,\" said {{FATHER}}, \"Observation is the key.\"",
-                "They compared the size of the edges and the flat."
+                "\"You didn't panic,\" {{MOTHER}} observed from the doorway.",
+                "\"That's the sign of someone who truly understands observation.\"",
+                "{{CHILD}} continued, more determined than ever."
             ],
-            "illustrationHint": "Page 28: Challenge: {{CHILD}} overcoming an obstacle involving edges.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 28: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 28 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "shape-hunters-28"
         },
         {
             "id": "shape-hunters-29",
             "text": [
-                "\"Whew, that triangle is tricky!\" they laughed.",
-                "\"Remember,\" said {{FATHER}}, \"Observation is the key.\"",
-                "A diagram showed the cycle of the edges."
+                "The hardest part was here — the moment that tested everything.",
+                "Hands steady, breath held, focus sharp as a laser.",
+                "{{CHILD}} gave it every ounce of effort they had."
             ],
-            "illustrationHint": "Page 29: Challenge: {{CHILD}} overcoming an obstacle involving flat.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 29: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 29 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "shape-hunters-29"
         },
         {
             "id": "shape-hunters-30",
             "text": [
-                "The round was higher than they expected.",
-                "\"Remember,\" said {{FATHER}}, \"Observation is the key.\"",
-                "{{CHILD}} pointed at the bright square."
+                "And then... success! The challenge was CONQUERED!",
+                "\"I DID IT! I actually DID IT!\" {{CHILD}} leaped up and cheered.",
+                "{{MOTHER}} and {{FATHER}} wrapped them in the biggest hug."
             ],
-            "illustrationHint": "Page 30: Challenge: {{CHILD}} overcoming an obstacle involving square.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 30: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 30 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "shape-hunters-30"
         },
         {
             "id": "shape-hunters-31",
             "text": [
-                "Oh no! The path to the square was blocked!",
-                "\"Remember,\" said {{FATHER}}, \"Observation is the key.\"",
-                "Look at how the corners changes in the light!"
+                "The finished project sat before {{CHILD}} — real and beautiful.",
+                "Every challenge, every frustration had led to this moment.",
+                "\"It's even better than I imagined,\" they whispered."
             ],
-            "illustrationHint": "Page 31: Challenge: {{CHILD}} overcoming an obstacle involving triangle.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 31: Triumph — {{CHILD}} celebrating success and growth. Unique scene 31 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "shape-hunters-31"
         },
         {
             "id": "shape-hunters-32",
             "text": [
-                "How will we ever move this heavy triangle?",
-                "\"Remember,\" said {{FATHER}}, \"Observation is the key.\"",
-                "They sorted the triangle into different groups."
+                "{{CHILD}} wanted to share their achievement with everyone.",
+                "Friends, family, even the neighbors were invited to see.",
+                "\"Look what observation helped me create!\""
             ],
-            "illustrationHint": "Page 32: Challenge: {{CHILD}} overcoming an obstacle involving round.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 32: Triumph — {{CHILD}} celebrating success and growth. Unique scene 32 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "shape-hunters-32"
         },
         {
             "id": "shape-hunters-33",
             "text": [
-                "The round started to spin faster and faster!",
-                "\"Remember,\" said {{FATHER}}, \"Observation is the key.\"",
-                "{{CHILD}} traced the outline of the square."
+                "\"You should be incredibly proud,\" {{FATHER}} said at dinner.",
+                "\"Not just of the result, but of how you got there.\"",
+                "{{CHILD}} thought about the journey — every up and every down."
             ],
-            "illustrationHint": "Page 33: Challenge: {{CHILD}} overcoming an obstacle involving corners.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 33: Triumph — {{CHILD}} celebrating success and growth. Unique scene 33 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "shape-hunters-33"
         },
         {
             "id": "shape-hunters-34",
             "text": [
-                "{{CHILD}} had to hold onto the corners very tightly.",
-                "\"Remember,\" said {{FATHER}}, \"Observation is the key.\"",
-                "The path was marked by tiny round prints."
+                "A special presentation was arranged for the family.",
+                "{{CHILD}} explained each step, each challenge, each victory.",
+                "The audience of loved ones listened with shining eyes."
             ],
-            "illustrationHint": "Page 34: Challenge: {{CHILD}} overcoming an obstacle involving edges.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 34: Triumph — {{CHILD}} celebrating success and growth. Unique scene 34 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "shape-hunters-34"
         },
         {
             "id": "shape-hunters-35",
             "text": [
-                "\"We need to solve this edges puzzle,\" said {{FATHER}}.",
-                "\"Remember,\" said {{FATHER}}, \"Observation is the key.\"",
-                "They listened to the sound of the corners."
+                "\"What was the hardest moment?\" asked {{FATHER}}.",
+                "\"When I wanted to quit but didn't,\" {{CHILD}} answered quietly.",
+                "That answer earned nods of deep respect from everyone."
             ],
-            "illustrationHint": "Page 35: Challenge: {{CHILD}} overcoming an obstacle involving flat.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 35: Triumph — {{CHILD}} celebrating success and growth. Unique scene 35 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "shape-hunters-35"
         },
         {
             "id": "shape-hunters-36",
             "text": [
-                "Success! The square is finally working!",
-                "The shape hunters adventure was a huge success.",
-                "Learning about square is like solving a mystery."
+                "{{CHILD}} decided to help someone else learn too.",
+                "Teaching felt different — it deepened their own understanding.",
+                "\"The best way to grow is to help others grow,\" they realized."
             ],
-            "illustrationHint": "Page 36: Success: {{CHILD}} celebrating Observation with square.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 36: Triumph — {{CHILD}} celebrating success and growth. Unique scene 36 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "shape-hunters-36"
         },
         {
             "id": "shape-hunters-37",
             "text": [
-                "{{CHILD}} mastered the use of the triangle!",
-                "The shape hunters adventure was a huge success.",
-                "They felt smarter after seeing the round."
+                "A moment of reflection: looking at where they started vs. now.",
+                "The difference was remarkable — night and day.",
+                "\"I didn't know I could do all this,\" {{CHILD}} said in wonder."
             ],
-            "illustrationHint": "Page 37: Success: {{CHILD}} celebrating Observation with triangle.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 37: Triumph — {{CHILD}} celebrating success and growth. Unique scene 37 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "shape-hunters-37"
         },
         {
             "id": "shape-hunters-38",
             "text": [
-                "A magical glow came from the round.",
-                "The shape hunters adventure was a huge success.",
-                "\"Science and nature are so cool,\" said {{CHILD}}."
+                "The 🔵 became {{CHILD}}'s special symbol.",
+                "It represented their journey, their challenge, their triumph.",
+                "\"Whenever I see 🔵, I'll remember what I can do.\""
             ],
-            "illustrationHint": "Page 38: Success: {{CHILD}} celebrating Observation with round.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 38: Triumph — {{CHILD}} celebrating success and growth. Unique scene 38 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "shape-hunters-38"
         },
         {
             "id": "shape-hunters-39",
             "text": [
-                "The corners turned into a shower of stars!",
-                "The shape hunters adventure was a huge success.",
-                "\"I want to find more triangle tomorrow!\""
+                "Celebrating wasn't about bragging — it was about gratitude.",
+                "\"Thank you for believing in me,\" {{CHILD}} told {{MOTHER}} and {{FATHER}}.",
+                "\"We always believed. You just needed to believe in yourself.\""
             ],
-            "illustrationHint": "Page 39: Success: {{CHILD}} celebrating Observation with corners.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 39: Triumph — {{CHILD}} celebrating success and growth. Unique scene 39 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "shape-hunters-39"
         },
         {
             "id": "shape-hunters-40",
             "text": [
-                "Everyone was proud of the edges work.",
-                "The shape hunters adventure was a huge success.",
-                "\"The world is full of amazing flat!\""
+                "The evening ended with quiet pride and a full heart.",
+                "Not everything in life would be this manageable — but observation?",
+                "That would carry {{CHILD}} through anything."
             ],
-            "illustrationHint": "Page 40: Success: {{CHILD}} celebrating Observation with edges.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 40: Triumph — {{CHILD}} celebrating success and growth. Unique scene 40 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "shape-hunters-40"
         },
         {
             "id": "shape-hunters-41",
             "text": [
-                "\"You showed so much Observation,\" said {{MOTHER}}.",
-                "The shape hunters adventure was a huge success.",
-                "Learning about square is like solving a mystery."
+                "Bath time was extra peaceful tonight.",
+                "{{CHILD}} thought about everything they'd learned.",
+                "Water swirled around them like the flow of the whole day."
             ],
-            "illustrationHint": "Page 41: Success: {{CHILD}} celebrating Observation with flat.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 41: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 41 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "shape-hunters-41"
         },
         {
             "id": "shape-hunters-42",
             "text": [
-                "The flat looked beautiful in the end.",
-                "The shape hunters adventure was a huge success.",
-                "They felt smarter after seeing the round."
+                "In clean pajamas, {{CHILD}} sat on the bed thoughtfully.",
+                "The neighborhood walk experience had changed something inside them.",
+                "They felt bigger, not in size, but in spirit."
             ],
-            "illustrationHint": "Page 42: Success: {{CHILD}} celebrating Observation with square.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 42: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 42 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "shape-hunters-42"
         },
         {
             "id": "shape-hunters-43",
             "text": [
-                "They shared a giant 🔵 celebration.",
-                "The shape hunters adventure was a huge success.",
-                "\"Science and nature are so cool,\" said {{CHILD}}."
+                "\"What did shape hunters teach you?\" {{MOTHER}} asked at tuck-in.",
+                "{{CHILD}} thought carefully before answering.",
+                "\"That observation isn't just a word — it's a superpower.\""
             ],
-            "illustrationHint": "Page 43: Success: {{CHILD}} celebrating Observation with triangle.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 43: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 43 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "shape-hunters-43"
         },
         {
             "id": "shape-hunters-44",
             "text": [
-                "Success! The square is finally working!",
-                "The shape hunters adventure was a huge success.",
-                "\"I want to find more triangle tomorrow!\""
+                "{{MOTHER}} kissed {{CHILD}}'s forehead with all the love in the world.",
+                "\"Your superpower was inside you all along.\"",
+                "{{CHILD}} pulled the blanket up and smiled."
             ],
-            "illustrationHint": "Page 44: Success: {{CHILD}} celebrating Observation with round.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 44: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 44 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "shape-hunters-44"
         },
         {
             "id": "shape-hunters-45",
             "text": [
-                "{{CHILD}} mastered the use of the triangle!",
-                "The shape hunters adventure was a huge success.",
-                "\"The world is full of amazing flat!\""
+                "The moonlight painted silver patterns on the bedroom wall.",
+                "Somewhere in the house, evidence of today's adventure waited.",
+                "Ready for tomorrow's next chapter."
             ],
-            "illustrationHint": "Page 45: Success: {{CHILD}} celebrating Observation with corners.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 45: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 45 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "shape-hunters-45"
         },
         {
             "id": "shape-hunters-46",
             "text": [
-                "As the stars came out, they talked about the square.",
-                "\"How many triangle can you see?\" asked {{MOTHER}}.",
-                "{{CHILD}} gave a happy yawn after the shape hunters day."
+                "Stars appeared one by one in the darkening sky.",
+                "Each one twinkled like a tiny cheerleader.",
+                "\"Even the stars are proud of you tonight,\" {{MOTHER}} whispered."
             ],
-            "illustrationHint": "Page 46: Sleepy: {{CHILD}} reflecting on the shape hunters journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 46: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 46 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "shape-hunters-46"
         },
         {
             "id": "shape-hunters-47",
             "text": [
-                "{{CHILD}} realized that Observation is very important.",
-                "They followed the pattern of the round.",
-                "{{CHILD}} gave a happy yawn after the shape hunters day."
+                "Dreams arrived like gentle waves on a warm shore.",
+                "In the dream, {{CHILD}} was surrounded by everything they loved.",
+                "The neighborhood walk, the circle, the square — all glowing with magic."
             ],
-            "illustrationHint": "Page 47: Sleepy: {{CHILD}} reflecting on the shape hunters journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 47: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 47 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "shape-hunters-47"
         },
         {
             "id": "shape-hunters-48",
             "text": [
-                "They tucked the triangle into its special box.",
-                "They compared the size of the edges and the flat.",
-                "{{CHILD}} gave a happy yawn after the shape hunters day."
+                "Dream-{{CHILD}} was a master — confident, skilled, and kind.",
+                "Every challenge in the dream was met with observation.",
+                "And every challenge was overcome, one by one."
             ],
-            "illustrationHint": "Page 48: Sleepy: {{CHILD}} reflecting on the shape hunters journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 48: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 48 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "shape-hunters-48"
         },
         {
             "id": "shape-hunters-49",
             "text": [
-                "\"I loved the round today,\" said {{CHILD}}.",
-                "A diagram showed the cycle of the edges.",
-                "{{CHILD}} gave a happy yawn after the shape hunters day."
+                "The dream world slowly darkened into the deepest, most restful sleep.",
+                "Outside, the night was peaceful and full of possibility.",
+                "Tomorrow would bring new adventures, new lessons, new growth."
             ],
-            "illustrationHint": "Page 49: Sleepy: {{CHILD}} reflecting on the shape hunters journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 49: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 49 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "shape-hunters-49"
         },
         {
             "id": "shape-hunters-50",
             "text": [
-                "The corners was now a happy memory.",
-                "{{CHILD}} pointed at the bright square.",
-                "Goodnight, brave adventurer. See you in tomorrow's story!"
+                "The 🔵 glowed softly in {{CHILD}}'s imagination as they slept.",
+                "A symbol of what they'd learned, what they'd done, who they were becoming.",
+                "Goodnight, wonderful {{CHILD}}. You made today absolutely magical."
             ],
-            "illustrationHint": "Page 50: Sleepy: {{CHILD}} reflecting on the shape hunters journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 50: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 50 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "shape-hunters-50"
         }
     ]

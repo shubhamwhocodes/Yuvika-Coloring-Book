@@ -1,511 +1,511 @@
-// Refined story - {{CHILD}}'s Solar System
+// {{CHILD}}'s Planet Explorer — Unique story with 50 distinct pages
 const story = {
     "id": "planet-explorer",
-    "title": "{{CHILD}}'s Solar System",
+    "title": "{{CHILD}}'s Planet Explorer",
     "emoji": "🪐",
     "theme": "Learning Stories",
     "lesson": "Wonder",
-    "description": "Explore the wonders of planet explorer and learn about Wonder!",
+    "description": "Blast off with {{CHILD}} on a journey through the solar system full of wonder and discovery!",
     "coverColor": "#2C3E50",
     "pages": [
         {
             "id": "planet-explorer-1",
             "text": [
-                "Today was the start of something amazing for {{CHILD}}.",
-                "They were going to explore the world of planet explorer!",
-                "\"Are you ready for the planet-explorer journey?\" asked {{MOTHER}}."
+                "The backyard observatory was filled with exciting possibilities.",
+                "{{CHILD}} looked around with wide, sparkling eyes.",
+                "\"Are you ready for the planet explorer adventure?\" asked {{MOTHER}}."
             ],
-            "illustrationHint": "Page 1: Opening scene: {{CHILD}} and family standing by a sign for \"planet explorer\".. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 1: Introduction — {{CHILD}} discovering the Planet Explorer world. Unique scene 1 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "planet-explorer-1"
         },
         {
             "id": "planet-explorer-2",
             "text": [
-                "Then, they checked the planets to make sure it was ready.",
-                "\"How many planets can you see?\" asked {{MOTHER}}.",
-                "\"This Learning Stories is full of surprises!\""
+                "Everything was set up and waiting — the telescope, the star chart, and more.",
+                "{{CHILD}} picked up the telescope and turned it over in their hands.",
+                "\"This is going to be the best day ever!\" they declared."
             ],
-            "illustrationHint": "Page 2: Setup: {{CHILD}} working with sun.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 2: Introduction — {{CHILD}} discovering the Planet Explorer world. Unique scene 2 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "planet-explorer-2"
         },
         {
             "id": "planet-explorer-3",
             "text": [
-                "{{CHILD}} put on their special sun gear.",
-                "The path was marked by tiny sun prints.",
-                "\"This Learning Stories is full of surprises!\""
+                "{{MOTHER}} explained how the planets worked while {{CHILD}} listened carefully.",
+                "\"First, you need to understand the planets before you use it.\"",
+                "{{CHILD}} nodded seriously, determined to learn everything."
             ],
-            "illustrationHint": "Page 3: Setup: {{CHILD}} working with rings.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 3: Introduction — {{CHILD}} discovering the Planet Explorer world. Unique scene 3 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "planet-explorer-3"
         },
         {
             "id": "planet-explorer-4",
             "text": [
-                "\"Don't forget the rings!\" called out {{MOTHER}}.",
-                "They sorted the planets into different groups.",
-                "\"This Learning Stories is full of surprises!\""
+                "The first step was observing — and {{CHILD}} gave it their best try.",
+                "It wasn't perfect, but it was a wonderful beginning.",
+                "\"Everyone starts exactly where you are right now,\" {{MOTHER}} encouraged."
             ],
-            "illustrationHint": "Page 4: Setup: {{CHILD}} working with telescope.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 4: Introduction — {{CHILD}} discovering the Planet Explorer world. Unique scene 4 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "planet-explorer-4"
         },
         {
             "id": "planet-explorer-5",
             "text": [
-                "Everything felt so telescope and new today.",
-                "They compared the size of the telescope and the galaxy.",
-                "\"This Learning Stories is full of surprises!\""
+                "{{CHILD}} noticed how the moon connected to the sun.",
+                "\"Oh! I see how they work together!\" they exclaimed.",
+                "Understanding one thing opened a door to understanding another."
             ],
-            "illustrationHint": "Page 5: Setup: {{CHILD}} working with galaxy.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 5: Introduction — {{CHILD}} discovering the Planet Explorer world. Unique scene 5 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "planet-explorer-5"
         },
         {
             "id": "planet-explorer-6",
             "text": [
-                "{{CHILD}} noticed a small galaxy near the entrance.",
-                "{{CHILD}} traced the outline of the orbit.",
-                "\"This Learning Stories is full of surprises!\""
+                "A moment of focus: {{CHILD}} concentrated on mapping with careful hands.",
+                "The asteroid responded beautifully to their gentle touch.",
+                "\"You have a natural talent for this,\" {{MOTHER}} said warmly."
             ],
-            "illustrationHint": "Page 6: Setup: {{CHILD}} working with orbit.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 6: Introduction — {{CHILD}} discovering the Planet Explorer world. Unique scene 6 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "planet-explorer-6"
         },
         {
             "id": "planet-explorer-7",
             "text": [
-                "Step 7 of the plan was to look for the orbit.",
-                "A diagram showed the cycle of the telescope.",
-                "\"This Learning Stories is full of surprises!\""
+                "\"Can I try counting next?\" {{CHILD}} asked eagerly.",
+                "{{MOTHER}} showed them the technique step by step.",
+                "Slow at first, then smoother, then almost graceful."
             ],
-            "illustrationHint": "Page 7: Setup: {{CHILD}} working with planets.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 7: Introduction — {{CHILD}} discovering the Planet Explorer world. Unique scene 7 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "planet-explorer-7"
         },
         {
             "id": "planet-explorer-8",
             "text": [
-                "\"I can't wait to see the planets!\" {{CHILD}} cheered.",
-                "Look at how the rings changes in the light!",
-                "\"This Learning Stories is full of surprises!\""
+                "The constellation was trickier than expected.",
+                "{{CHILD}} bit their lower lip in concentration.",
+                "\"Take your time — there's no rush,\" reminded {{MOTHER}}."
             ],
-            "illustrationHint": "Page 8: Setup: {{CHILD}} working with sun.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 8: Introduction — {{CHILD}} discovering the Planet Explorer world. Unique scene 8 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "planet-explorer-8"
         },
         {
             "id": "planet-explorer-9",
             "text": [
-                "The air was filled with the scent of sun.",
-                "They listened to the sound of the rings.",
-                "\"This Learning Stories is full of surprises!\""
+                "Something unexpected happened — the compass did something surprising!",
+                "\"Whoa! Did you see that?\" {{CHILD}} jumped with excitement.",
+                "Even {{MOTHER}} looked impressed by the unexpected discovery."
             ],
-            "illustrationHint": "Page 9: Setup: {{CHILD}} working with rings.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 9: Introduction — {{CHILD}} discovering the Planet Explorer world. Unique scene 9 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "planet-explorer-9"
         },
         {
             "id": "planet-explorer-10",
             "text": [
-                "They found a map that showed the way to the rings.",
-                "They followed the pattern of the sun.",
-                "\"This Learning Stories is full of surprises!\""
+                "By the end of the first session, {{CHILD}} had learned so much.",
+                "The backyard observatory felt like a second home already.",
+                "\"Can we come back tomorrow?\" {{CHILD}} asked hopefully."
             ],
-            "illustrationHint": "Page 10: Setup: {{CHILD}} working with telescope.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 10: Introduction — {{CHILD}} discovering the Planet Explorer world. Unique scene 10 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "planet-explorer-10"
         },
         {
             "id": "planet-explorer-11",
             "text": [
-                "Look at that orbit! It's bigger than I thought!",
-                "The world of planet explorer was opening up.",
-                "\"The world is full of amazing galaxy!\""
+                "The second session started with a review of what {{CHILD}} already knew.",
+                "Observing came more naturally now.",
+                "\"Your muscle memory is building,\" {{MOTHER}} observed."
             ],
-            "illustrationHint": "Page 11: Discovery: {{CHILD}} finding galaxy.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 11: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 11 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "planet-explorer-11"
         },
         {
             "id": "planet-explorer-12",
             "text": [
-                "{{CHILD}} discovered a hidden path made of telescope.",
-                "The world of planet explorer was opening up.",
-                "Learning about orbit is like solving a mystery."
+                "{{CHILD}} wanted to explore the telescope in a new way.",
+                "\"What happens if I try drawing instead?\" they wondered aloud.",
+                "The result was surprising and delightful!"
             ],
-            "illustrationHint": "Page 12: Discovery: {{CHILD}} finding orbit.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 12: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 12 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "planet-explorer-12"
         },
         {
             "id": "planet-explorer-13",
             "text": [
-                "Wait, is that a galaxy peeking through the planets?",
-                "The world of planet explorer was opening up.",
-                "They felt smarter after seeing the sun."
+                "A challenge appeared: combining mapping with imagining at the same time.",
+                "{{CHILD}}'s brain had to think about two things at once.",
+                "\"It's like patting your head and rubbing your tummy!\" they laughed."
             ],
-            "illustrationHint": "Page 13: Discovery: {{CHILD}} finding planets.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 13: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 13 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "planet-explorer-13"
         },
         {
             "id": "planet-explorer-14",
             "text": [
-                "They found a mysterious sun sitting on a stone.",
-                "The world of planet explorer was opening up.",
-                "\"I want to find more planets tomorrow!\""
+                "{{CHILD}} discovered a secret about the star chart.",
+                "When they tried measuring more gently, the star chart responded much better.",
+                "\"Everything works better with a gentle touch,\" {{CHILD}} realized."
             ],
-            "illustrationHint": "Page 14: Discovery: {{CHILD}} finding sun.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 14: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 14 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "planet-explorer-14"
         },
         {
             "id": "planet-explorer-15",
             "text": [
-                "\"Look at how the rings shines!\" {{CHILD}} exclaimed.",
-                "The world of planet explorer was opening up.",
-                "\"Science and nature are so cool,\" said {{CHILD}}."
+                "The planets and the moon were used together for the first time.",
+                "{{CHILD}} created something they'd never seen before.",
+                "\"I made this! All by myself!\" they beamed with pride."
             ],
-            "illustrationHint": "Page 15: Discovery: {{CHILD}} finding rings.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 15: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 15 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "planet-explorer-15"
         },
         {
             "id": "planet-explorer-16",
             "text": [
-                "Each step revealed more about the magic of orbit.",
-                "The world of planet explorer was opening up.",
-                "\"The world is full of amazing galaxy!\""
+                "\"Let me show {{FATHER}} what I learned!\" {{CHILD}} said at dinner.",
+                "A mini demonstration right there at the table.",
+                "{{FATHER}} clapped and said, \"That's incredibly impressive!\"\""
             ],
-            "illustrationHint": "Page 16: Discovery: {{CHILD}} finding telescope.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 16: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 16 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "planet-explorer-16"
         },
         {
             "id": "planet-explorer-17",
             "text": [
-                "{{CHILD}} used a magnifying glass to see the planets.",
-                "The world of planet explorer was opening up.",
-                "Learning about orbit is like solving a mystery."
+                "Practice at home became part of {{CHILD}}'s daily routine.",
+                "Ten minutes every day — sometimes fifteen when it was extra fun.",
+                "Consistency turned hesitation into confidence."
             ],
-            "illustrationHint": "Page 17: Discovery: {{CHILD}} finding galaxy.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 17: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 17 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "planet-explorer-17"
         },
         {
             "id": "planet-explorer-18",
             "text": [
-                "\"The telescope here is so colorful!\" they said.",
-                "The world of planet explorer was opening up.",
-                "They felt smarter after seeing the sun."
+                "A book from the library showed experts doing the same thing.",
+                "{{CHILD}} studied the pictures and tried to copy the techniques.",
+                "\"Even pros started as beginners,\" they said to themselves."
             ],
-            "illustrationHint": "Page 18: Discovery: {{CHILD}} finding orbit.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 18: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 18 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "planet-explorer-18"
         },
         {
             "id": "planet-explorer-19",
             "text": [
-                "They followed a trail of galaxy into the deep sun.",
-                "The world of planet explorer was opening up.",
-                "\"I want to find more planets tomorrow!\""
+                "Something clicked today — a skill that was hard became easy.",
+                "{{CHILD}} repeated it four times just to make sure it wasn't a fluke.",
+                "Not a fluke. A breakthrough. The feeling was incredible."
             ],
-            "illustrationHint": "Page 19: Discovery: {{CHILD}} finding planets.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 19: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 19 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "planet-explorer-19"
         },
         {
             "id": "planet-explorer-20",
             "text": [
-                "A friendly bird chirped from the top of the rings.",
-                "The world of planet explorer was opening up.",
-                "\"Science and nature are so cool,\" said {{CHILD}}."
+                "\"I think I'm ready for something bigger,\" {{CHILD}} told {{MOTHER}}.",
+                "The sparkle in their eyes showed they meant it.",
+                "\"Then let's make it happen,\" {{MOTHER}} agreed with a smile."
             ],
-            "illustrationHint": "Page 20: Discovery: {{CHILD}} finding sun.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 20: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 20 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "planet-explorer-20"
         },
         {
             "id": "planet-explorer-21",
             "text": [
-                "Oh no! The path to the orbit was blocked!",
-                "\"Remember,\" said {{FATHER}}, \"Wonder is the key.\"",
-                "{{CHILD}} pointed at the bright orbit."
+                "The advanced challenge was right in front of {{CHILD}}.",
+                "A bigger project that required everything they'd learned.",
+                "\"This looks harder than anything I've tried before,\" they admitted."
             ],
-            "illustrationHint": "Page 21: Challenge: {{CHILD}} overcoming an obstacle involving rings.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 21: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 21 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "planet-explorer-21"
         },
         {
             "id": "planet-explorer-22",
             "text": [
-                "How will we ever move this heavy planets?",
-                "\"Remember,\" said {{FATHER}}, \"Wonder is the key.\"",
-                "\"How many planets can you see?\" asked {{MOTHER}}."
+                "Step one went smoothly — confidence from practice shone through.",
+                "But step two was different. The sun didn't cooperate.",
+                "\"Come on, work with me,\" {{CHILD}} muttered, trying again."
             ],
-            "illustrationHint": "Page 22: Challenge: {{CHILD}} overcoming an obstacle involving telescope.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 22: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 22 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "planet-explorer-22"
         },
         {
             "id": "planet-explorer-23",
             "text": [
-                "The sun started to spin faster and faster!",
-                "\"Remember,\" said {{FATHER}}, \"Wonder is the key.\"",
-                "The path was marked by tiny sun prints."
+                "Frustration crept in like an unwelcome visitor.",
+                "Three attempts, three mistakes, three sighs.",
+                "{{CHILD}} put down the asteroid and stared at the ceiling."
             ],
-            "illustrationHint": "Page 23: Challenge: {{CHILD}} overcoming an obstacle involving galaxy.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 23: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 23 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "planet-explorer-23"
         },
         {
             "id": "planet-explorer-24",
             "text": [
-                "{{CHILD}} had to hold onto the rings very tightly.",
-                "\"Remember,\" said {{FATHER}}, \"Wonder is the key.\"",
-                "They sorted the planets into different groups."
+                "\"Remember,\" said {{FATHER}}, \"Wonder is what gets you through.\"",
+                "{{CHILD}} took three deep breaths, finding calm.",
+                "\"Okay. Let me think about this differently.\""
             ],
-            "illustrationHint": "Page 24: Challenge: {{CHILD}} overcoming an obstacle involving orbit.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 24: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 24 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "planet-explorer-24"
         },
         {
             "id": "planet-explorer-25",
             "text": [
-                "\"We need to solve this telescope puzzle,\" said {{FATHER}}.",
-                "\"Remember,\" said {{FATHER}}, \"Wonder is the key.\"",
-                "They compared the size of the telescope and the galaxy."
+                "A new approach! Instead of forcing it, {{CHILD}} went slowly.",
+                "Breaking the problem into tiny, manageable pieces.",
+                "The first small piece worked perfectly."
             ],
-            "illustrationHint": "Page 25: Challenge: {{CHILD}} overcoming an obstacle involving planets.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 25: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 25 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "planet-explorer-25"
         },
         {
             "id": "planet-explorer-26",
             "text": [
-                "It was time to use all their Wonder skills.",
-                "\"Remember,\" said {{FATHER}}, \"Wonder is the key.\"",
-                "{{CHILD}} traced the outline of the orbit."
+                "\"One piece at a time. One small step at a time,\" {{CHILD}} repeated.",
+                "The second piece fell into place. Then the third.",
+                "Momentum built like a gentle snowball rolling downhill."
             ],
-            "illustrationHint": "Page 26: Challenge: {{CHILD}} overcoming an obstacle involving sun.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 26: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 26 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "planet-explorer-26"
         },
         {
             "id": "planet-explorer-27",
             "text": [
-                "The galaxy was being a bit stubborn today.",
-                "\"Remember,\" said {{FATHER}}, \"Wonder is the key.\"",
-                "A diagram showed the cycle of the telescope."
+                "A wobble on step seven threatened to undo everything.",
+                "But {{CHILD}} caught it in time — quick thinking saved the project!",
+                "\"That was close!\" they exhaled with relief."
             ],
-            "illustrationHint": "Page 27: Challenge: {{CHILD}} overcoming an obstacle involving rings.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 27: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 27 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "planet-explorer-27"
         },
         {
             "id": "planet-explorer-28",
             "text": [
-                "{{CHILD}} tried to balance the orbit on their head.",
-                "\"Remember,\" said {{FATHER}}, \"Wonder is the key.\"",
-                "Look at how the rings changes in the light!"
+                "\"You didn't panic,\" {{MOTHER}} observed from the doorway.",
+                "\"That's the sign of someone who truly understands wonder.\"",
+                "{{CHILD}} continued, more determined than ever."
             ],
-            "illustrationHint": "Page 28: Challenge: {{CHILD}} overcoming an obstacle involving telescope.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 28: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 28 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "planet-explorer-28"
         },
         {
             "id": "planet-explorer-29",
             "text": [
-                "\"Whew, that planets is tricky!\" they laughed.",
-                "\"Remember,\" said {{FATHER}}, \"Wonder is the key.\"",
-                "They listened to the sound of the rings."
+                "The hardest part was here — the moment that tested everything.",
+                "Hands steady, breath held, focus sharp as a laser.",
+                "{{CHILD}} gave it every ounce of effort they had."
             ],
-            "illustrationHint": "Page 29: Challenge: {{CHILD}} overcoming an obstacle involving galaxy.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 29: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 29 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "planet-explorer-29"
         },
         {
             "id": "planet-explorer-30",
             "text": [
-                "The sun was higher than they expected.",
-                "\"Remember,\" said {{FATHER}}, \"Wonder is the key.\"",
-                "They followed the pattern of the sun."
+                "And then... success! The challenge was CONQUERED!",
+                "\"I DID IT! I actually DID IT!\" {{CHILD}} leaped up and cheered.",
+                "{{MOTHER}} and {{FATHER}} wrapped them in the biggest hug."
             ],
-            "illustrationHint": "Page 30: Challenge: {{CHILD}} overcoming an obstacle involving orbit.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 30: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 30 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "planet-explorer-30"
         },
         {
             "id": "planet-explorer-31",
             "text": [
-                "Oh no! The path to the orbit was blocked!",
-                "\"Remember,\" said {{FATHER}}, \"Wonder is the key.\"",
-                "{{CHILD}} pointed at the bright orbit."
+                "The finished project sat before {{CHILD}} — real and beautiful.",
+                "Every challenge, every frustration had led to this moment.",
+                "\"It's even better than I imagined,\" they whispered."
             ],
-            "illustrationHint": "Page 31: Challenge: {{CHILD}} overcoming an obstacle involving planets.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 31: Triumph — {{CHILD}} celebrating success and growth. Unique scene 31 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "planet-explorer-31"
         },
         {
             "id": "planet-explorer-32",
             "text": [
-                "How will we ever move this heavy planets?",
-                "\"Remember,\" said {{FATHER}}, \"Wonder is the key.\"",
-                "\"How many planets can you see?\" asked {{MOTHER}}."
+                "{{CHILD}} wanted to share their achievement with everyone.",
+                "Friends, family, even the neighbors were invited to see.",
+                "\"Look what wonder helped me create!\""
             ],
-            "illustrationHint": "Page 32: Challenge: {{CHILD}} overcoming an obstacle involving sun.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 32: Triumph — {{CHILD}} celebrating success and growth. Unique scene 32 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "planet-explorer-32"
         },
         {
             "id": "planet-explorer-33",
             "text": [
-                "The sun started to spin faster and faster!",
-                "\"Remember,\" said {{FATHER}}, \"Wonder is the key.\"",
-                "The path was marked by tiny sun prints."
+                "\"You should be incredibly proud,\" {{FATHER}} said at dinner.",
+                "\"Not just of the result, but of how you got there.\"",
+                "{{CHILD}} thought about the journey — every up and every down."
             ],
-            "illustrationHint": "Page 33: Challenge: {{CHILD}} overcoming an obstacle involving rings.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 33: Triumph — {{CHILD}} celebrating success and growth. Unique scene 33 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "planet-explorer-33"
         },
         {
             "id": "planet-explorer-34",
             "text": [
-                "{{CHILD}} had to hold onto the rings very tightly.",
-                "\"Remember,\" said {{FATHER}}, \"Wonder is the key.\"",
-                "They sorted the planets into different groups."
+                "A special presentation was arranged for the family.",
+                "{{CHILD}} explained each step, each challenge, each victory.",
+                "The audience of loved ones listened with shining eyes."
             ],
-            "illustrationHint": "Page 34: Challenge: {{CHILD}} overcoming an obstacle involving telescope.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 34: Triumph — {{CHILD}} celebrating success and growth. Unique scene 34 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "planet-explorer-34"
         },
         {
             "id": "planet-explorer-35",
             "text": [
-                "\"We need to solve this telescope puzzle,\" said {{FATHER}}.",
-                "\"Remember,\" said {{FATHER}}, \"Wonder is the key.\"",
-                "They compared the size of the telescope and the galaxy."
+                "\"What was the hardest moment?\" asked {{FATHER}}.",
+                "\"When I wanted to quit but didn't,\" {{CHILD}} answered quietly.",
+                "That answer earned nods of deep respect from everyone."
             ],
-            "illustrationHint": "Page 35: Challenge: {{CHILD}} overcoming an obstacle involving galaxy.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 35: Triumph — {{CHILD}} celebrating success and growth. Unique scene 35 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "planet-explorer-35"
         },
         {
             "id": "planet-explorer-36",
             "text": [
-                "Success! The orbit is finally working!",
-                "The planet explorer adventure was a huge success.",
-                "\"The world is full of amazing galaxy!\""
+                "{{CHILD}} decided to help someone else learn too.",
+                "Teaching felt different — it deepened their own understanding.",
+                "\"The best way to grow is to help others grow,\" they realized."
             ],
-            "illustrationHint": "Page 36: Success: {{CHILD}} celebrating Wonder with orbit.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 36: Triumph — {{CHILD}} celebrating success and growth. Unique scene 36 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "planet-explorer-36"
         },
         {
             "id": "planet-explorer-37",
             "text": [
-                "{{CHILD}} mastered the use of the planets!",
-                "The planet explorer adventure was a huge success.",
-                "Learning about orbit is like solving a mystery."
+                "A moment of reflection: looking at where they started vs. now.",
+                "The difference was remarkable — night and day.",
+                "\"I didn't know I could do all this,\" {{CHILD}} said in wonder."
             ],
-            "illustrationHint": "Page 37: Success: {{CHILD}} celebrating Wonder with planets.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 37: Triumph — {{CHILD}} celebrating success and growth. Unique scene 37 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "planet-explorer-37"
         },
         {
             "id": "planet-explorer-38",
             "text": [
-                "A magical glow came from the sun.",
-                "The planet explorer adventure was a huge success.",
-                "They felt smarter after seeing the sun."
+                "The 🪐 became {{CHILD}}'s special symbol.",
+                "It represented their journey, their challenge, their triumph.",
+                "\"Whenever I see 🪐, I'll remember what I can do.\""
             ],
-            "illustrationHint": "Page 38: Success: {{CHILD}} celebrating Wonder with sun.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 38: Triumph — {{CHILD}} celebrating success and growth. Unique scene 38 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "planet-explorer-38"
         },
         {
             "id": "planet-explorer-39",
             "text": [
-                "The rings turned into a shower of stars!",
-                "The planet explorer adventure was a huge success.",
-                "\"I want to find more planets tomorrow!\""
+                "Celebrating wasn't about bragging — it was about gratitude.",
+                "\"Thank you for believing in me,\" {{CHILD}} told {{MOTHER}} and {{FATHER}}.",
+                "\"We always believed. You just needed to believe in yourself.\""
             ],
-            "illustrationHint": "Page 39: Success: {{CHILD}} celebrating Wonder with rings.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 39: Triumph — {{CHILD}} celebrating success and growth. Unique scene 39 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "planet-explorer-39"
         },
         {
             "id": "planet-explorer-40",
             "text": [
-                "Everyone was proud of the telescope work.",
-                "The planet explorer adventure was a huge success.",
-                "\"Science and nature are so cool,\" said {{CHILD}}."
+                "The evening ended with quiet pride and a full heart.",
+                "Not everything in life would be this manageable — but wonder?",
+                "That would carry {{CHILD}} through anything."
             ],
-            "illustrationHint": "Page 40: Success: {{CHILD}} celebrating Wonder with telescope.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 40: Triumph — {{CHILD}} celebrating success and growth. Unique scene 40 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "planet-explorer-40"
         },
         {
             "id": "planet-explorer-41",
             "text": [
-                "\"You showed so much Wonder,\" said {{MOTHER}}.",
-                "The planet explorer adventure was a huge success.",
-                "\"The world is full of amazing galaxy!\""
+                "Bath time was extra peaceful tonight.",
+                "{{CHILD}} thought about everything they'd learned.",
+                "Water swirled around them like the flow of the whole day."
             ],
-            "illustrationHint": "Page 41: Success: {{CHILD}} celebrating Wonder with galaxy.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 41: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 41 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "planet-explorer-41"
         },
         {
             "id": "planet-explorer-42",
             "text": [
-                "The galaxy looked beautiful in the end.",
-                "The planet explorer adventure was a huge success.",
-                "Learning about orbit is like solving a mystery."
+                "In clean pajamas, {{CHILD}} sat on the bed thoughtfully.",
+                "The backyard observatory experience had changed something inside them.",
+                "They felt bigger, not in size, but in spirit."
             ],
-            "illustrationHint": "Page 42: Success: {{CHILD}} celebrating Wonder with orbit.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 42: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 42 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "planet-explorer-42"
         },
         {
             "id": "planet-explorer-43",
             "text": [
-                "They shared a giant 🪐 celebration.",
-                "The planet explorer adventure was a huge success.",
-                "They felt smarter after seeing the sun."
+                "\"What did planet explorer teach you?\" {{MOTHER}} asked at tuck-in.",
+                "{{CHILD}} thought carefully before answering.",
+                "\"That wonder isn't just a word — it's a superpower.\""
             ],
-            "illustrationHint": "Page 43: Success: {{CHILD}} celebrating Wonder with planets.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 43: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 43 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "planet-explorer-43"
         },
         {
             "id": "planet-explorer-44",
             "text": [
-                "Success! The orbit is finally working!",
-                "The planet explorer adventure was a huge success.",
-                "\"I want to find more planets tomorrow!\""
+                "{{MOTHER}} kissed {{CHILD}}'s forehead with all the love in the world.",
+                "\"Your superpower was inside you all along.\"",
+                "{{CHILD}} pulled the blanket up and smiled."
             ],
-            "illustrationHint": "Page 44: Success: {{CHILD}} celebrating Wonder with sun.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 44: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 44 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "planet-explorer-44"
         },
         {
             "id": "planet-explorer-45",
             "text": [
-                "{{CHILD}} mastered the use of the planets!",
-                "The planet explorer adventure was a huge success.",
-                "\"Science and nature are so cool,\" said {{CHILD}}."
+                "The moonlight painted silver patterns on the bedroom wall.",
+                "Somewhere in the house, evidence of today's adventure waited.",
+                "Ready for tomorrow's next chapter."
             ],
-            "illustrationHint": "Page 45: Success: {{CHILD}} celebrating Wonder with rings.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 45: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 45 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "planet-explorer-45"
         },
         {
             "id": "planet-explorer-46",
             "text": [
-                "As the stars came out, they talked about the orbit.",
-                "{{CHILD}} traced the outline of the orbit.",
-                "{{CHILD}} gave a happy yawn after the planet explorer day."
+                "Stars appeared one by one in the darkening sky.",
+                "Each one twinkled like a tiny cheerleader.",
+                "\"Even the stars are proud of you tonight,\" {{MOTHER}} whispered."
             ],
-            "illustrationHint": "Page 46: Sleepy: {{CHILD}} reflecting on the planet explorer journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 46: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 46 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "planet-explorer-46"
         },
         {
             "id": "planet-explorer-47",
             "text": [
-                "{{CHILD}} realized that Wonder is very important.",
-                "A diagram showed the cycle of the telescope.",
-                "{{CHILD}} gave a happy yawn after the planet explorer day."
+                "Dreams arrived like gentle waves on a warm shore.",
+                "In the dream, {{CHILD}} was surrounded by everything they loved.",
+                "The backyard observatory, the telescope, the star chart — all glowing with magic."
             ],
-            "illustrationHint": "Page 47: Sleepy: {{CHILD}} reflecting on the planet explorer journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 47: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 47 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "planet-explorer-47"
         },
         {
             "id": "planet-explorer-48",
             "text": [
-                "They tucked the planets into its special box.",
-                "Look at how the rings changes in the light!",
-                "{{CHILD}} gave a happy yawn after the planet explorer day."
+                "Dream-{{CHILD}} was a master — confident, skilled, and kind.",
+                "Every challenge in the dream was met with wonder.",
+                "And every challenge was overcome, one by one."
             ],
-            "illustrationHint": "Page 48: Sleepy: {{CHILD}} reflecting on the planet explorer journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 48: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 48 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "planet-explorer-48"
         },
         {
             "id": "planet-explorer-49",
             "text": [
-                "\"I loved the sun today,\" said {{CHILD}}.",
-                "They listened to the sound of the rings.",
-                "{{CHILD}} gave a happy yawn after the planet explorer day."
+                "The dream world slowly darkened into the deepest, most restful sleep.",
+                "Outside, the night was peaceful and full of possibility.",
+                "Tomorrow would bring new adventures, new lessons, new growth."
             ],
-            "illustrationHint": "Page 49: Sleepy: {{CHILD}} reflecting on the planet explorer journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 49: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 49 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "planet-explorer-49"
         },
         {
             "id": "planet-explorer-50",
             "text": [
-                "The rings was now a happy memory.",
-                "They followed the pattern of the sun.",
-                "Goodnight, brave adventurer. See you in tomorrow's story!"
+                "The 🪐 glowed softly in {{CHILD}}'s imagination as they slept.",
+                "A symbol of what they'd learned, what they'd done, who they were becoming.",
+                "Goodnight, wonderful {{CHILD}}. You made today absolutely magical."
             ],
-            "illustrationHint": "Page 50: Sleepy: {{CHILD}} reflecting on the planet explorer journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 50: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 50 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "planet-explorer-50"
         }
     ]

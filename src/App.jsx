@@ -6,6 +6,21 @@ import StorySelectPage from './pages/StorySelectPage';
 import StoryReaderPage from './pages/StoryReaderPage';
 import ColoringPage from './pages/ColoringPage';
 
+// Register service worker for PWA
+import { registerSW } from 'virtual:pwa-register'
+
+const updateSW = registerSW({
+  onNeedRefresh() {
+    // Show an update prompt if needed, or rely on autoUpdate
+    if (confirm('New content available. Reload?')) {
+      updateSW(true)
+    }
+  },
+  onOfflineReady() {
+    console.log('App ready to work offline')
+  },
+})
+
 export default function App() {
   return (
     <Router>

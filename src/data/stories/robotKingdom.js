@@ -1,511 +1,511 @@
-// Refined story - {{CHILD}}'s Best Friend Bot
+// {{CHILD}}'s Robot Kingdom — Unique story with 50 distinct pages
 const story = {
     "id": "robot-kingdom",
-    "title": "{{CHILD}}'s Best Friend Bot",
+    "title": "{{CHILD}}'s Robot Kingdom",
     "emoji": "🤖",
     "theme": "Imagination Stories",
-    "lesson": "Friendship",
-    "description": "Explore the wonders of robot kingdom and learn about Friendship!",
+    "lesson": "Innovation",
+    "description": "Build, program, and befriend robots with {{CHILD}} in a kingdom of amazing innovation!",
     "coverColor": "#95A5A6",
     "pages": [
         {
             "id": "robot-kingdom-1",
             "text": [
-                "Today was the start of something amazing for {{CHILD}}.",
-                "They were going to explore the world of robot kingdom!",
-                "\"Are you ready for the robot-kingdom journey?\" asked {{MOTHER}}."
+                "The robot city was filled with exciting possibilities.",
+                "{{CHILD}} looked around with wide, sparkling eyes.",
+                "\"Are you ready for the robot kingdom adventure?\" asked {{MOTHER}}."
             ],
-            "illustrationHint": "Page 1: Opening scene: {{CHILD}} and family standing by a sign for \"robot kingdom\".. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 1: Introduction — {{CHILD}} discovering the Robot Kingdom world. Unique scene 1 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "robot-kingdom-1"
         },
         {
             "id": "robot-kingdom-2",
             "text": [
-                "Then, they checked the beeps to make sure it was ready.",
-                "Suddenly, the metal began to glow with magic!",
-                "\"This Imagination Stories is full of surprises!\""
+                "Everything was set up and waiting — the robot friend, the gears, and more.",
+                "{{CHILD}} picked up the robot friend and turned it over in their hands.",
+                "\"This is going to be the best day ever!\" they declared."
             ],
-            "illustrationHint": "Page 2: Setup: {{CHILD}} working with shiny.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 2: Introduction — {{CHILD}} discovering the Robot Kingdom world. Unique scene 2 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "robot-kingdom-2"
         },
         {
             "id": "robot-kingdom-3",
             "text": [
-                "{{CHILD}} put on their special shiny gear.",
-                "They had to solve the riddle of the metal.",
-                "\"This Imagination Stories is full of surprises!\""
+                "{{MOTHER}} explained how the circuit worked while {{CHILD}} listened carefully.",
+                "\"First, you need to understand the circuit before you use it.\"",
+                "{{CHILD}} nodded seriously, determined to learn everything."
             ],
-            "illustrationHint": "Page 3: Setup: {{CHILD}} working with battery.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 3: Introduction — {{CHILD}} discovering the Robot Kingdom world. Unique scene 3 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "robot-kingdom-3"
         },
         {
             "id": "robot-kingdom-4",
             "text": [
-                "\"Don't forget the battery!\" called out {{MOTHER}}.",
-                "\"We must find the secret of the shiny!\"",
-                "\"This Imagination Stories is full of surprises!\""
+                "The first step was building — and {{CHILD}} gave it their best try.",
+                "It wasn't perfect, but it was a wonderful beginning.",
+                "\"Everyone starts exactly where you are right now,\" {{MOTHER}} encouraged."
             ],
-            "illustrationHint": "Page 4: Setup: {{CHILD}} working with workshop.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 4: Introduction — {{CHILD}} discovering the Robot Kingdom world. Unique scene 4 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "robot-kingdom-4"
         },
         {
             "id": "robot-kingdom-5",
             "text": [
-                "Everything felt so workshop and new today.",
-                "A map pointed toward the hidden battery.",
-                "\"This Imagination Stories is full of surprises!\""
+                "{{CHILD}} noticed how the tool kit connected to the blueprint.",
+                "\"Oh! I see how they work together!\" they exclaimed.",
+                "Understanding one thing opened a door to understanding another."
             ],
-            "illustrationHint": "Page 5: Setup: {{CHILD}} working with gears.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 5: Introduction — {{CHILD}} discovering the Robot Kingdom world. Unique scene 5 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "robot-kingdom-5"
         },
         {
             "id": "robot-kingdom-6",
             "text": [
-                "{{CHILD}} noticed a small gears near the entrance.",
-                "They soared high above the shiny clouds.",
-                "\"This Imagination Stories is full of surprises!\""
+                "A moment of focus: {{CHILD}} concentrated on programming with careful hands.",
+                "The antenna responded beautifully to their gentle touch.",
+                "\"You have a natural talent for this,\" {{MOTHER}} said warmly."
             ],
-            "illustrationHint": "Page 6: Setup: {{CHILD}} working with metal.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 6: Introduction — {{CHILD}} discovering the Robot Kingdom world. Unique scene 6 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "robot-kingdom-6"
         },
         {
             "id": "robot-kingdom-7",
             "text": [
-                "Step 7 of the plan was to look for the metal.",
-                "They put on their invisible workshop and vanished.",
-                "\"This Imagination Stories is full of surprises!\""
+                "\"Can I try assembling next?\" {{CHILD}} asked eagerly.",
+                "{{MOTHER}} showed them the technique step by step.",
+                "Slow at first, then smoother, then almost graceful."
             ],
-            "illustrationHint": "Page 7: Setup: {{CHILD}} working with beeps.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 7: Introduction — {{CHILD}} discovering the Robot Kingdom world. Unique scene 7 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "robot-kingdom-7"
         },
         {
             "id": "robot-kingdom-8",
             "text": [
-                "\"I can't wait to see the beeps!\" {{CHILD}} cheered.",
-                "\"Hold onto the beeps very tightly!\"",
-                "\"This Imagination Stories is full of surprises!\""
+                "The energy crystal was trickier than expected.",
+                "{{CHILD}} bit their lower lip in concentration.",
+                "\"Take your time — there's no rush,\" reminded {{MOTHER}}."
             ],
-            "illustrationHint": "Page 8: Setup: {{CHILD}} working with shiny.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 8: Introduction — {{CHILD}} discovering the Robot Kingdom world. Unique scene 8 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "robot-kingdom-8"
         },
         {
             "id": "robot-kingdom-9",
             "text": [
-                "The air was filled with the scent of shiny.",
-                "A friendly battery led the way to the palace.",
-                "\"This Imagination Stories is full of surprises!\""
+                "Something unexpected happened — the control pad did something surprising!",
+                "\"Whoa! Did you see that?\" {{CHILD}} jumped with excitement.",
+                "Even {{MOTHER}} looked impressed by the unexpected discovery."
             ],
-            "illustrationHint": "Page 9: Setup: {{CHILD}} working with battery.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 9: Introduction — {{CHILD}} discovering the Robot Kingdom world. Unique scene 9 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "robot-kingdom-9"
         },
         {
             "id": "robot-kingdom-10",
             "text": [
-                "They found a map that showed the way to the battery.",
-                "The sky turned into a swirl of gears colors.",
-                "\"This Imagination Stories is full of surprises!\""
+                "By the end of the first session, {{CHILD}} had learned so much.",
+                "The robot city felt like a second home already.",
+                "\"Can we come back tomorrow?\" {{CHILD}} asked hopefully."
             ],
-            "illustrationHint": "Page 10: Setup: {{CHILD}} working with workshop.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 10: Introduction — {{CHILD}} discovering the Robot Kingdom world. Unique scene 10 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "robot-kingdom-10"
         },
         {
             "id": "robot-kingdom-11",
             "text": [
-                "Look at that metal! It's bigger than I thought!",
-                "The world of robot kingdom was opening up.",
-                "\"We are the heroes of this gears story!\""
+                "The second session started with a review of what {{CHILD}} already knew.",
+                "Building came more naturally now.",
+                "\"Your muscle memory is building,\" {{MOTHER}} observed."
             ],
-            "illustrationHint": "Page 11: Discovery: {{CHILD}} finding gears.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 11: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 11 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "robot-kingdom-11"
         },
         {
             "id": "robot-kingdom-12",
             "text": [
-                "{{CHILD}} discovered a hidden path made of workshop.",
-                "The world of robot kingdom was opening up.",
-                "\"Anything is possible in ${theme.id}!\""
+                "{{CHILD}} wanted to explore the robot friend in a new way.",
+                "\"What happens if I try testing instead?\" they wondered aloud.",
+                "The result was surprising and delightful!"
             ],
-            "illustrationHint": "Page 12: Discovery: {{CHILD}} finding metal.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 12: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 12 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "robot-kingdom-12"
         },
         {
             "id": "robot-kingdom-13",
             "text": [
-                "Wait, is that a gears peeking through the beeps?",
-                "The world of robot kingdom was opening up.",
-                "\"I wish I could live in the workshop forever!\""
+                "A challenge appeared: combining programming with repairing at the same time.",
+                "{{CHILD}}'s brain had to think about two things at once.",
+                "\"It's like patting your head and rubbing your tummy!\" they laughed."
             ],
-            "illustrationHint": "Page 13: Discovery: {{CHILD}} finding beeps.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 13: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 13 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "robot-kingdom-13"
         },
         {
             "id": "robot-kingdom-14",
             "text": [
-                "They found a mysterious shiny sitting on a stone.",
-                "The world of robot kingdom was opening up.",
-                "The adventure was just beginning in the beeps."
+                "{{CHILD}} discovered a secret about the gears.",
+                "When they tried inventing more gently, the gears responded much better.",
+                "\"Everything works better with a gentle touch,\" {{CHILD}} realized."
             ],
-            "illustrationHint": "Page 14: Discovery: {{CHILD}} finding shiny.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 14: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 14 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "robot-kingdom-14"
         },
         {
             "id": "robot-kingdom-15",
             "text": [
-                "\"Look at how the battery shines!\" {{CHILD}} exclaimed.",
-                "The world of robot kingdom was opening up.",
-                "\"Let's use our magic metal powers!\""
+                "The circuit and the tool kit were used together for the first time.",
+                "{{CHILD}} created something they'd never seen before.",
+                "\"I made this! All by myself!\" they beamed with pride."
             ],
-            "illustrationHint": "Page 15: Discovery: {{CHILD}} finding battery.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 15: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 15 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "robot-kingdom-15"
         },
         {
             "id": "robot-kingdom-16",
             "text": [
-                "Each step revealed more about the magic of metal.",
-                "The world of robot kingdom was opening up.",
-                "\"We are the heroes of this gears story!\""
+                "\"Let me show {{FATHER}} what I learned!\" {{CHILD}} said at dinner.",
+                "A mini demonstration right there at the table.",
+                "{{FATHER}} clapped and said, \"That's incredibly impressive!\"\""
             ],
-            "illustrationHint": "Page 16: Discovery: {{CHILD}} finding workshop.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 16: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 16 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "robot-kingdom-16"
         },
         {
             "id": "robot-kingdom-17",
             "text": [
-                "{{CHILD}} used a magnifying glass to see the beeps.",
-                "The world of robot kingdom was opening up.",
-                "\"Anything is possible in ${theme.id}!\""
+                "Practice at home became part of {{CHILD}}'s daily routine.",
+                "Ten minutes every day — sometimes fifteen when it was extra fun.",
+                "Consistency turned hesitation into confidence."
             ],
-            "illustrationHint": "Page 17: Discovery: {{CHILD}} finding gears.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 17: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 17 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "robot-kingdom-17"
         },
         {
             "id": "robot-kingdom-18",
             "text": [
-                "\"The workshop here is so colorful!\" they said.",
-                "The world of robot kingdom was opening up.",
-                "\"I wish I could live in the workshop forever!\""
+                "A book from the library showed experts doing the same thing.",
+                "{{CHILD}} studied the pictures and tried to copy the techniques.",
+                "\"Even pros started as beginners,\" they said to themselves."
             ],
-            "illustrationHint": "Page 18: Discovery: {{CHILD}} finding metal.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 18: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 18 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "robot-kingdom-18"
         },
         {
             "id": "robot-kingdom-19",
             "text": [
-                "They followed a trail of gears into the deep shiny.",
-                "The world of robot kingdom was opening up.",
-                "The adventure was just beginning in the beeps."
+                "Something clicked today — a skill that was hard became easy.",
+                "{{CHILD}} repeated it four times just to make sure it wasn't a fluke.",
+                "Not a fluke. A breakthrough. The feeling was incredible."
             ],
-            "illustrationHint": "Page 19: Discovery: {{CHILD}} finding beeps.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 19: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 19 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "robot-kingdom-19"
         },
         {
             "id": "robot-kingdom-20",
             "text": [
-                "A friendly bird chirped from the top of the battery.",
-                "The world of robot kingdom was opening up.",
-                "\"Let's use our magic metal powers!\""
+                "\"I think I'm ready for something bigger,\" {{CHILD}} told {{MOTHER}}.",
+                "The sparkle in their eyes showed they meant it.",
+                "\"Then let's make it happen,\" {{MOTHER}} agreed with a smile."
             ],
-            "illustrationHint": "Page 20: Discovery: {{CHILD}} finding shiny.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 20: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 20 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "robot-kingdom-20"
         },
         {
             "id": "robot-kingdom-21",
             "text": [
-                "Oh no! The path to the metal was blocked!",
-                "\"Remember,\" said {{FATHER}}, \"Friendship is the key.\"",
-                "They jumped onto a floating beeps."
+                "The advanced challenge was right in front of {{CHILD}}.",
+                "A bigger project that required everything they'd learned.",
+                "\"This looks harder than anything I've tried before,\" they admitted."
             ],
-            "illustrationHint": "Page 21: Challenge: {{CHILD}} overcoming an obstacle involving battery.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 21: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 21 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "robot-kingdom-21"
         },
         {
             "id": "robot-kingdom-22",
             "text": [
-                "How will we ever move this heavy beeps?",
-                "\"Remember,\" said {{FATHER}}, \"Friendship is the key.\"",
-                "Suddenly, the metal began to glow with magic!"
+                "Step one went smoothly — confidence from practice shone through.",
+                "But step two was different. The blueprint didn't cooperate.",
+                "\"Come on, work with me,\" {{CHILD}} muttered, trying again."
             ],
-            "illustrationHint": "Page 22: Challenge: {{CHILD}} overcoming an obstacle involving workshop.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 22: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 22 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "robot-kingdom-22"
         },
         {
             "id": "robot-kingdom-23",
             "text": [
-                "The shiny started to spin faster and faster!",
-                "\"Remember,\" said {{FATHER}}, \"Friendship is the key.\"",
-                "They had to solve the riddle of the metal."
+                "Frustration crept in like an unwelcome visitor.",
+                "Three attempts, three mistakes, three sighs.",
+                "{{CHILD}} put down the antenna and stared at the ceiling."
             ],
-            "illustrationHint": "Page 23: Challenge: {{CHILD}} overcoming an obstacle involving gears.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 23: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 23 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "robot-kingdom-23"
         },
         {
             "id": "robot-kingdom-24",
             "text": [
-                "{{CHILD}} had to hold onto the battery very tightly.",
-                "\"Remember,\" said {{FATHER}}, \"Friendship is the key.\"",
-                "\"We must find the secret of the shiny!\""
+                "\"Remember,\" said {{FATHER}}, \"Innovation is what gets you through.\"",
+                "{{CHILD}} took three deep breaths, finding calm.",
+                "\"Okay. Let me think about this differently.\""
             ],
-            "illustrationHint": "Page 24: Challenge: {{CHILD}} overcoming an obstacle involving metal.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 24: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 24 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "robot-kingdom-24"
         },
         {
             "id": "robot-kingdom-25",
             "text": [
-                "\"We need to solve this workshop puzzle,\" said {{FATHER}}.",
-                "\"Remember,\" said {{FATHER}}, \"Friendship is the key.\"",
-                "A map pointed toward the hidden battery."
+                "A new approach! Instead of forcing it, {{CHILD}} went slowly.",
+                "Breaking the problem into tiny, manageable pieces.",
+                "The first small piece worked perfectly."
             ],
-            "illustrationHint": "Page 25: Challenge: {{CHILD}} overcoming an obstacle involving beeps.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 25: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 25 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "robot-kingdom-25"
         },
         {
             "id": "robot-kingdom-26",
             "text": [
-                "It was time to use all their Friendship skills.",
-                "\"Remember,\" said {{FATHER}}, \"Friendship is the key.\"",
-                "They soared high above the shiny clouds."
+                "\"One piece at a time. One small step at a time,\" {{CHILD}} repeated.",
+                "The second piece fell into place. Then the third.",
+                "Momentum built like a gentle snowball rolling downhill."
             ],
-            "illustrationHint": "Page 26: Challenge: {{CHILD}} overcoming an obstacle involving shiny.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 26: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 26 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "robot-kingdom-26"
         },
         {
             "id": "robot-kingdom-27",
             "text": [
-                "The gears was being a bit stubborn today.",
-                "\"Remember,\" said {{FATHER}}, \"Friendship is the key.\"",
-                "They put on their invisible workshop and vanished."
+                "A wobble on step seven threatened to undo everything.",
+                "But {{CHILD}} caught it in time — quick thinking saved the project!",
+                "\"That was close!\" they exhaled with relief."
             ],
-            "illustrationHint": "Page 27: Challenge: {{CHILD}} overcoming an obstacle involving battery.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 27: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 27 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "robot-kingdom-27"
         },
         {
             "id": "robot-kingdom-28",
             "text": [
-                "{{CHILD}} tried to balance the metal on their head.",
-                "\"Remember,\" said {{FATHER}}, \"Friendship is the key.\"",
-                "\"Hold onto the beeps very tightly!\""
+                "\"You didn't panic,\" {{MOTHER}} observed from the doorway.",
+                "\"That's the sign of someone who truly understands innovation.\"",
+                "{{CHILD}} continued, more determined than ever."
             ],
-            "illustrationHint": "Page 28: Challenge: {{CHILD}} overcoming an obstacle involving workshop.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 28: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 28 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "robot-kingdom-28"
         },
         {
             "id": "robot-kingdom-29",
             "text": [
-                "\"Whew, that beeps is tricky!\" they laughed.",
-                "\"Remember,\" said {{FATHER}}, \"Friendship is the key.\"",
-                "A friendly battery led the way to the palace."
+                "The hardest part was here — the moment that tested everything.",
+                "Hands steady, breath held, focus sharp as a laser.",
+                "{{CHILD}} gave it every ounce of effort they had."
             ],
-            "illustrationHint": "Page 29: Challenge: {{CHILD}} overcoming an obstacle involving gears.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 29: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 29 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "robot-kingdom-29"
         },
         {
             "id": "robot-kingdom-30",
             "text": [
-                "The shiny was higher than they expected.",
-                "\"Remember,\" said {{FATHER}}, \"Friendship is the key.\"",
-                "The sky turned into a swirl of gears colors."
+                "And then... success! The challenge was CONQUERED!",
+                "\"I DID IT! I actually DID IT!\" {{CHILD}} leaped up and cheered.",
+                "{{MOTHER}} and {{FATHER}} wrapped them in the biggest hug."
             ],
-            "illustrationHint": "Page 30: Challenge: {{CHILD}} overcoming an obstacle involving metal.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 30: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 30 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "robot-kingdom-30"
         },
         {
             "id": "robot-kingdom-31",
             "text": [
-                "Oh no! The path to the metal was blocked!",
-                "\"Remember,\" said {{FATHER}}, \"Friendship is the key.\"",
-                "They jumped onto a floating beeps."
+                "The finished project sat before {{CHILD}} — real and beautiful.",
+                "Every challenge, every frustration had led to this moment.",
+                "\"It's even better than I imagined,\" they whispered."
             ],
-            "illustrationHint": "Page 31: Challenge: {{CHILD}} overcoming an obstacle involving beeps.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 31: Triumph — {{CHILD}} celebrating success and growth. Unique scene 31 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "robot-kingdom-31"
         },
         {
             "id": "robot-kingdom-32",
             "text": [
-                "How will we ever move this heavy beeps?",
-                "\"Remember,\" said {{FATHER}}, \"Friendship is the key.\"",
-                "Suddenly, the metal began to glow with magic!"
+                "{{CHILD}} wanted to share their achievement with everyone.",
+                "Friends, family, even the neighbors were invited to see.",
+                "\"Look what innovation helped me create!\""
             ],
-            "illustrationHint": "Page 32: Challenge: {{CHILD}} overcoming an obstacle involving shiny.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 32: Triumph — {{CHILD}} celebrating success and growth. Unique scene 32 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "robot-kingdom-32"
         },
         {
             "id": "robot-kingdom-33",
             "text": [
-                "The shiny started to spin faster and faster!",
-                "\"Remember,\" said {{FATHER}}, \"Friendship is the key.\"",
-                "They had to solve the riddle of the metal."
+                "\"You should be incredibly proud,\" {{FATHER}} said at dinner.",
+                "\"Not just of the result, but of how you got there.\"",
+                "{{CHILD}} thought about the journey — every up and every down."
             ],
-            "illustrationHint": "Page 33: Challenge: {{CHILD}} overcoming an obstacle involving battery.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 33: Triumph — {{CHILD}} celebrating success and growth. Unique scene 33 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "robot-kingdom-33"
         },
         {
             "id": "robot-kingdom-34",
             "text": [
-                "{{CHILD}} had to hold onto the battery very tightly.",
-                "\"Remember,\" said {{FATHER}}, \"Friendship is the key.\"",
-                "\"We must find the secret of the shiny!\""
+                "A special presentation was arranged for the family.",
+                "{{CHILD}} explained each step, each challenge, each victory.",
+                "The audience of loved ones listened with shining eyes."
             ],
-            "illustrationHint": "Page 34: Challenge: {{CHILD}} overcoming an obstacle involving workshop.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 34: Triumph — {{CHILD}} celebrating success and growth. Unique scene 34 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "robot-kingdom-34"
         },
         {
             "id": "robot-kingdom-35",
             "text": [
-                "\"We need to solve this workshop puzzle,\" said {{FATHER}}.",
-                "\"Remember,\" said {{FATHER}}, \"Friendship is the key.\"",
-                "A map pointed toward the hidden battery."
+                "\"What was the hardest moment?\" asked {{FATHER}}.",
+                "\"When I wanted to quit but didn't,\" {{CHILD}} answered quietly.",
+                "That answer earned nods of deep respect from everyone."
             ],
-            "illustrationHint": "Page 35: Challenge: {{CHILD}} overcoming an obstacle involving gears.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 35: Triumph — {{CHILD}} celebrating success and growth. Unique scene 35 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "robot-kingdom-35"
         },
         {
             "id": "robot-kingdom-36",
             "text": [
-                "Success! The metal is finally working!",
-                "The robot kingdom adventure was a huge success.",
-                "\"We are the heroes of this gears story!\""
+                "{{CHILD}} decided to help someone else learn too.",
+                "Teaching felt different — it deepened their own understanding.",
+                "\"The best way to grow is to help others grow,\" they realized."
             ],
-            "illustrationHint": "Page 36: Success: {{CHILD}} celebrating Friendship with metal.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 36: Triumph — {{CHILD}} celebrating success and growth. Unique scene 36 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "robot-kingdom-36"
         },
         {
             "id": "robot-kingdom-37",
             "text": [
-                "{{CHILD}} mastered the use of the beeps!",
-                "The robot kingdom adventure was a huge success.",
-                "\"Anything is possible in ${theme.id}!\""
+                "A moment of reflection: looking at where they started vs. now.",
+                "The difference was remarkable — night and day.",
+                "\"I didn't know I could do all this,\" {{CHILD}} said in wonder."
             ],
-            "illustrationHint": "Page 37: Success: {{CHILD}} celebrating Friendship with beeps.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 37: Triumph — {{CHILD}} celebrating success and growth. Unique scene 37 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "robot-kingdom-37"
         },
         {
             "id": "robot-kingdom-38",
             "text": [
-                "A magical glow came from the shiny.",
-                "The robot kingdom adventure was a huge success.",
-                "\"I wish I could live in the workshop forever!\""
+                "The 🤖 became {{CHILD}}'s special symbol.",
+                "It represented their journey, their challenge, their triumph.",
+                "\"Whenever I see 🤖, I'll remember what I can do.\""
             ],
-            "illustrationHint": "Page 38: Success: {{CHILD}} celebrating Friendship with shiny.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 38: Triumph — {{CHILD}} celebrating success and growth. Unique scene 38 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "robot-kingdom-38"
         },
         {
             "id": "robot-kingdom-39",
             "text": [
-                "The battery turned into a shower of stars!",
-                "The robot kingdom adventure was a huge success.",
-                "The adventure was just beginning in the beeps."
+                "Celebrating wasn't about bragging — it was about gratitude.",
+                "\"Thank you for believing in me,\" {{CHILD}} told {{MOTHER}} and {{FATHER}}.",
+                "\"We always believed. You just needed to believe in yourself.\""
             ],
-            "illustrationHint": "Page 39: Success: {{CHILD}} celebrating Friendship with battery.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 39: Triumph — {{CHILD}} celebrating success and growth. Unique scene 39 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "robot-kingdom-39"
         },
         {
             "id": "robot-kingdom-40",
             "text": [
-                "Everyone was proud of the workshop work.",
-                "The robot kingdom adventure was a huge success.",
-                "\"Let's use our magic metal powers!\""
+                "The evening ended with quiet pride and a full heart.",
+                "Not everything in life would be this manageable — but innovation?",
+                "That would carry {{CHILD}} through anything."
             ],
-            "illustrationHint": "Page 40: Success: {{CHILD}} celebrating Friendship with workshop.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 40: Triumph — {{CHILD}} celebrating success and growth. Unique scene 40 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "robot-kingdom-40"
         },
         {
             "id": "robot-kingdom-41",
             "text": [
-                "\"You showed so much Friendship,\" said {{MOTHER}}.",
-                "The robot kingdom adventure was a huge success.",
-                "\"We are the heroes of this gears story!\""
+                "Bath time was extra peaceful tonight.",
+                "{{CHILD}} thought about everything they'd learned.",
+                "Water swirled around them like the flow of the whole day."
             ],
-            "illustrationHint": "Page 41: Success: {{CHILD}} celebrating Friendship with gears.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 41: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 41 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "robot-kingdom-41"
         },
         {
             "id": "robot-kingdom-42",
             "text": [
-                "The gears looked beautiful in the end.",
-                "The robot kingdom adventure was a huge success.",
-                "\"Anything is possible in ${theme.id}!\""
+                "In clean pajamas, {{CHILD}} sat on the bed thoughtfully.",
+                "The robot city experience had changed something inside them.",
+                "They felt bigger, not in size, but in spirit."
             ],
-            "illustrationHint": "Page 42: Success: {{CHILD}} celebrating Friendship with metal.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 42: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 42 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "robot-kingdom-42"
         },
         {
             "id": "robot-kingdom-43",
             "text": [
-                "They shared a giant 🤖 celebration.",
-                "The robot kingdom adventure was a huge success.",
-                "\"I wish I could live in the workshop forever!\""
+                "\"What did robot kingdom teach you?\" {{MOTHER}} asked at tuck-in.",
+                "{{CHILD}} thought carefully before answering.",
+                "\"That innovation isn't just a word — it's a superpower.\""
             ],
-            "illustrationHint": "Page 43: Success: {{CHILD}} celebrating Friendship with beeps.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 43: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 43 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "robot-kingdom-43"
         },
         {
             "id": "robot-kingdom-44",
             "text": [
-                "Success! The metal is finally working!",
-                "The robot kingdom adventure was a huge success.",
-                "The adventure was just beginning in the beeps."
+                "{{MOTHER}} kissed {{CHILD}}'s forehead with all the love in the world.",
+                "\"Your superpower was inside you all along.\"",
+                "{{CHILD}} pulled the blanket up and smiled."
             ],
-            "illustrationHint": "Page 44: Success: {{CHILD}} celebrating Friendship with shiny.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 44: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 44 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "robot-kingdom-44"
         },
         {
             "id": "robot-kingdom-45",
             "text": [
-                "{{CHILD}} mastered the use of the beeps!",
-                "The robot kingdom adventure was a huge success.",
-                "\"Let's use our magic metal powers!\""
+                "The moonlight painted silver patterns on the bedroom wall.",
+                "Somewhere in the house, evidence of today's adventure waited.",
+                "Ready for tomorrow's next chapter."
             ],
-            "illustrationHint": "Page 45: Success: {{CHILD}} celebrating Friendship with battery.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 45: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 45 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "robot-kingdom-45"
         },
         {
             "id": "robot-kingdom-46",
             "text": [
-                "As the stars came out, they talked about the metal.",
-                "They soared high above the shiny clouds.",
-                "{{CHILD}} gave a happy yawn after the robot kingdom day."
+                "Stars appeared one by one in the darkening sky.",
+                "Each one twinkled like a tiny cheerleader.",
+                "\"Even the stars are proud of you tonight,\" {{MOTHER}} whispered."
             ],
-            "illustrationHint": "Page 46: Sleepy: {{CHILD}} reflecting on the robot kingdom journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 46: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 46 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "robot-kingdom-46"
         },
         {
             "id": "robot-kingdom-47",
             "text": [
-                "{{CHILD}} realized that Friendship is very important.",
-                "They put on their invisible workshop and vanished.",
-                "{{CHILD}} gave a happy yawn after the robot kingdom day."
+                "Dreams arrived like gentle waves on a warm shore.",
+                "In the dream, {{CHILD}} was surrounded by everything they loved.",
+                "The robot city, the robot friend, the gears — all glowing with magic."
             ],
-            "illustrationHint": "Page 47: Sleepy: {{CHILD}} reflecting on the robot kingdom journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 47: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 47 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "robot-kingdom-47"
         },
         {
             "id": "robot-kingdom-48",
             "text": [
-                "They tucked the beeps into its special box.",
-                "\"Hold onto the beeps very tightly!\"",
-                "{{CHILD}} gave a happy yawn after the robot kingdom day."
+                "Dream-{{CHILD}} was a master — confident, skilled, and kind.",
+                "Every challenge in the dream was met with innovation.",
+                "And every challenge was overcome, one by one."
             ],
-            "illustrationHint": "Page 48: Sleepy: {{CHILD}} reflecting on the robot kingdom journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 48: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 48 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "robot-kingdom-48"
         },
         {
             "id": "robot-kingdom-49",
             "text": [
-                "\"I loved the shiny today,\" said {{CHILD}}.",
-                "A friendly battery led the way to the palace.",
-                "{{CHILD}} gave a happy yawn after the robot kingdom day."
+                "The dream world slowly darkened into the deepest, most restful sleep.",
+                "Outside, the night was peaceful and full of possibility.",
+                "Tomorrow would bring new adventures, new lessons, new growth."
             ],
-            "illustrationHint": "Page 49: Sleepy: {{CHILD}} reflecting on the robot kingdom journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 49: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 49 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "robot-kingdom-49"
         },
         {
             "id": "robot-kingdom-50",
             "text": [
-                "The battery was now a happy memory.",
-                "The sky turned into a swirl of gears colors.",
-                "Goodnight, brave adventurer. See you in tomorrow's story!"
+                "The 🤖 glowed softly in {{CHILD}}'s imagination as they slept.",
+                "A symbol of what they'd learned, what they'd done, who they were becoming.",
+                "Goodnight, wonderful {{CHILD}}. You made today absolutely magical."
             ],
-            "illustrationHint": "Page 50: Sleepy: {{CHILD}} reflecting on the robot kingdom journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 50: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 50 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "robot-kingdom-50"
         }
     ]

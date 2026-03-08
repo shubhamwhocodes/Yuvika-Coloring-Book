@@ -1,511 +1,511 @@
-// Refined story - {{CHILD}}'s Rainbow Day
+// {{CHILD}}'s Rainbow Day — Unique story with 50 distinct pages
 const story = {
     "id": "colors-adventure",
     "title": "{{CHILD}}'s Rainbow Day",
     "emoji": "🌈",
     "theme": "Learning Stories",
     "lesson": "Discovery",
-    "description": "Explore the wonders of colors adventure and learn about Discovery!",
+    "description": "Explore a world of colors with {{CHILD}} and discover how every shade tells a story!",
     "coverColor": "#4FC3F7",
     "pages": [
         {
             "id": "colors-adventure-1",
             "text": [
-                "Today was the start of something amazing for {{CHILD}}.",
-                "They were going to explore the world of colors adventure!",
-                "\"Are you ready for the colors-adventure journey?\" asked {{MOTHER}}."
+                "The colorful world was filled with exciting possibilities.",
+                "{{CHILD}} looked around with wide, sparkling eyes.",
+                "\"Are you ready for the rainbow day adventure?\" asked {{MOTHER}}."
             ],
-            "illustrationHint": "Page 1: Opening scene: {{CHILD}} and family standing by a sign for \"colors adventure\".. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 1: Introduction — {{CHILD}} discovering the Rainbow Day world. Unique scene 1 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "colors-adventure-1"
         },
         {
             "id": "colors-adventure-2",
             "text": [
-                "Then, they checked the blue to make sure it was ready.",
-                "Look at how the green changes in the light!",
-                "\"This Learning Stories is full of surprises!\""
+                "Everything was set up and waiting — the rainbow, the paintbox, and more.",
+                "{{CHILD}} picked up the rainbow and turned it over in their hands.",
+                "\"This is going to be the best day ever!\" they declared."
             ],
-            "illustrationHint": "Page 2: Setup: {{CHILD}} working with yellow.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 2: Introduction — {{CHILD}} discovering the Rainbow Day world. Unique scene 2 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "colors-adventure-2"
         },
         {
             "id": "colors-adventure-3",
             "text": [
-                "{{CHILD}} put on their special yellow gear.",
-                "The path was marked by tiny yellow prints.",
-                "\"This Learning Stories is full of surprises!\""
+                "{{MOTHER}} explained how the prism worked while {{CHILD}} listened carefully.",
+                "\"First, you need to understand the prism before you use it.\"",
+                "{{CHILD}} nodded seriously, determined to learn everything."
             ],
-            "illustrationHint": "Page 3: Setup: {{CHILD}} working with green.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 3: Introduction — {{CHILD}} discovering the Rainbow Day world. Unique scene 3 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "colors-adventure-3"
         },
         {
             "id": "colors-adventure-4",
             "text": [
-                "\"Don't forget the green!\" called out {{MOTHER}}.",
-                "\"How many blue can you see?\" asked {{MOTHER}}.",
-                "\"This Learning Stories is full of surprises!\""
+                "The first step was discovering — and {{CHILD}} gave it their best try.",
+                "It wasn't perfect, but it was a wonderful beginning.",
+                "\"Everyone starts exactly where you are right now,\" {{MOTHER}} encouraged."
             ],
-            "illustrationHint": "Page 4: Setup: {{CHILD}} working with purple.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 4: Introduction — {{CHILD}} discovering the Rainbow Day world. Unique scene 4 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "colors-adventure-4"
         },
         {
             "id": "colors-adventure-5",
             "text": [
-                "Everything felt so purple and new today.",
-                "{{CHILD}} traced the outline of the red.",
-                "\"This Learning Stories is full of surprises!\""
+                "{{CHILD}} noticed how the colored pencils connected to the mixing tray.",
+                "\"Oh! I see how they work together!\" they exclaimed.",
+                "Understanding one thing opened a door to understanding another."
             ],
-            "illustrationHint": "Page 5: Setup: {{CHILD}} working with rainbow.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 5: Introduction — {{CHILD}} discovering the Rainbow Day world. Unique scene 5 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "colors-adventure-5"
         },
         {
             "id": "colors-adventure-6",
             "text": [
-                "{{CHILD}} noticed a small rainbow near the entrance.",
-                "They listened to the sound of the green.",
-                "\"This Learning Stories is full of surprises!\""
+                "A moment of focus: {{CHILD}} concentrated on mixing with careful hands.",
+                "The flowers responded beautifully to their gentle touch.",
+                "\"You have a natural talent for this,\" {{MOTHER}} said warmly."
             ],
-            "illustrationHint": "Page 6: Setup: {{CHILD}} working with red.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 6: Introduction — {{CHILD}} discovering the Rainbow Day world. Unique scene 6 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "colors-adventure-6"
         },
         {
             "id": "colors-adventure-7",
             "text": [
-                "Step 7 of the plan was to look for the red.",
-                "A diagram showed the cycle of the purple.",
-                "\"This Learning Stories is full of surprises!\""
+                "\"Can I try finding next?\" {{CHILD}} asked eagerly.",
+                "{{MOTHER}} showed them the technique step by step.",
+                "Slow at first, then smoother, then almost graceful."
             ],
-            "illustrationHint": "Page 7: Setup: {{CHILD}} working with blue.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 7: Introduction — {{CHILD}} discovering the Rainbow Day world. Unique scene 7 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "colors-adventure-7"
         },
         {
             "id": "colors-adventure-8",
             "text": [
-                "\"I can't wait to see the blue!\" {{CHILD}} cheered.",
-                "They compared the size of the purple and the rainbow.",
-                "\"This Learning Stories is full of surprises!\""
+                "The sky was trickier than expected.",
+                "{{CHILD}} bit their lower lip in concentration.",
+                "\"Take your time — there's no rush,\" reminded {{MOTHER}}."
             ],
-            "illustrationHint": "Page 8: Setup: {{CHILD}} working with yellow.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 8: Introduction — {{CHILD}} discovering the Rainbow Day world. Unique scene 8 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "colors-adventure-8"
         },
         {
             "id": "colors-adventure-9",
             "text": [
-                "The air was filled with the scent of yellow.",
-                "They followed the pattern of the yellow.",
-                "\"This Learning Stories is full of surprises!\""
+                "Something unexpected happened — the sunset did something surprising!",
+                "\"Whoa! Did you see that?\" {{CHILD}} jumped with excitement.",
+                "Even {{MOTHER}} looked impressed by the unexpected discovery."
             ],
-            "illustrationHint": "Page 9: Setup: {{CHILD}} working with green.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 9: Introduction — {{CHILD}} discovering the Rainbow Day world. Unique scene 9 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "colors-adventure-9"
         },
         {
             "id": "colors-adventure-10",
             "text": [
-                "They found a map that showed the way to the green.",
-                "{{CHILD}} pointed at the bright red.",
-                "\"This Learning Stories is full of surprises!\""
+                "By the end of the first session, {{CHILD}} had learned so much.",
+                "The colorful world felt like a second home already.",
+                "\"Can we come back tomorrow?\" {{CHILD}} asked hopefully."
             ],
-            "illustrationHint": "Page 10: Setup: {{CHILD}} working with purple.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 10: Introduction — {{CHILD}} discovering the Rainbow Day world. Unique scene 10 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "colors-adventure-10"
         },
         {
             "id": "colors-adventure-11",
             "text": [
-                "Look at that red! It's bigger than I thought!",
-                "The world of colors adventure was opening up.",
-                "They felt smarter after seeing the yellow."
+                "The second session started with a review of what {{CHILD}} already knew.",
+                "Discovering came more naturally now.",
+                "\"Your muscle memory is building,\" {{MOTHER}} observed."
             ],
-            "illustrationHint": "Page 11: Discovery: {{CHILD}} finding rainbow.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 11: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 11 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "colors-adventure-11"
         },
         {
             "id": "colors-adventure-12",
             "text": [
-                "{{CHILD}} discovered a hidden path made of purple.",
-                "The world of colors adventure was opening up.",
-                "\"Science and nature are so cool,\" said {{CHILD}}."
+                "{{CHILD}} wanted to explore the rainbow in a new way.",
+                "\"What happens if I try matching instead?\" they wondered aloud.",
+                "The result was surprising and delightful!"
             ],
-            "illustrationHint": "Page 12: Discovery: {{CHILD}} finding red.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 12: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 12 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "colors-adventure-12"
         },
         {
             "id": "colors-adventure-13",
             "text": [
-                "Wait, is that a rainbow peeking through the blue?",
-                "The world of colors adventure was opening up.",
-                "\"The world is full of amazing rainbow!\""
+                "A challenge appeared: combining mixing with comparing at the same time.",
+                "{{CHILD}}'s brain had to think about two things at once.",
+                "\"It's like patting your head and rubbing your tummy!\" they laughed."
             ],
-            "illustrationHint": "Page 13: Discovery: {{CHILD}} finding blue.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 13: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 13 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "colors-adventure-13"
         },
         {
             "id": "colors-adventure-14",
             "text": [
-                "They found a mysterious yellow sitting on a stone.",
-                "The world of colors adventure was opening up.",
-                "\"I want to find more blue tomorrow!\""
+                "{{CHILD}} discovered a secret about the paintbox.",
+                "When they tried creating more gently, the paintbox responded much better.",
+                "\"Everything works better with a gentle touch,\" {{CHILD}} realized."
             ],
-            "illustrationHint": "Page 14: Discovery: {{CHILD}} finding yellow.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 14: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 14 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "colors-adventure-14"
         },
         {
             "id": "colors-adventure-15",
             "text": [
-                "\"Look at how the green shines!\" {{CHILD}} exclaimed.",
-                "The world of colors adventure was opening up.",
-                "Learning about red is like solving a mystery."
+                "The prism and the colored pencils were used together for the first time.",
+                "{{CHILD}} created something they'd never seen before.",
+                "\"I made this! All by myself!\" they beamed with pride."
             ],
-            "illustrationHint": "Page 15: Discovery: {{CHILD}} finding green.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 15: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 15 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "colors-adventure-15"
         },
         {
             "id": "colors-adventure-16",
             "text": [
-                "Each step revealed more about the magic of red.",
-                "The world of colors adventure was opening up.",
-                "They felt smarter after seeing the yellow."
+                "\"Let me show {{FATHER}} what I learned!\" {{CHILD}} said at dinner.",
+                "A mini demonstration right there at the table.",
+                "{{FATHER}} clapped and said, \"That's incredibly impressive!\"\""
             ],
-            "illustrationHint": "Page 16: Discovery: {{CHILD}} finding purple.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 16: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 16 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "colors-adventure-16"
         },
         {
             "id": "colors-adventure-17",
             "text": [
-                "{{CHILD}} used a magnifying glass to see the blue.",
-                "The world of colors adventure was opening up.",
-                "\"Science and nature are so cool,\" said {{CHILD}}."
+                "Practice at home became part of {{CHILD}}'s daily routine.",
+                "Ten minutes every day — sometimes fifteen when it was extra fun.",
+                "Consistency turned hesitation into confidence."
             ],
-            "illustrationHint": "Page 17: Discovery: {{CHILD}} finding rainbow.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 17: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 17 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "colors-adventure-17"
         },
         {
             "id": "colors-adventure-18",
             "text": [
-                "\"The purple here is so colorful!\" they said.",
-                "The world of colors adventure was opening up.",
-                "\"The world is full of amazing rainbow!\""
+                "A book from the library showed experts doing the same thing.",
+                "{{CHILD}} studied the pictures and tried to copy the techniques.",
+                "\"Even pros started as beginners,\" they said to themselves."
             ],
-            "illustrationHint": "Page 18: Discovery: {{CHILD}} finding red.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 18: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 18 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "colors-adventure-18"
         },
         {
             "id": "colors-adventure-19",
             "text": [
-                "They followed a trail of rainbow into the deep yellow.",
-                "The world of colors adventure was opening up.",
-                "\"I want to find more blue tomorrow!\""
+                "Something clicked today — a skill that was hard became easy.",
+                "{{CHILD}} repeated it four times just to make sure it wasn't a fluke.",
+                "Not a fluke. A breakthrough. The feeling was incredible."
             ],
-            "illustrationHint": "Page 19: Discovery: {{CHILD}} finding blue.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 19: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 19 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "colors-adventure-19"
         },
         {
             "id": "colors-adventure-20",
             "text": [
-                "A friendly bird chirped from the top of the green.",
-                "The world of colors adventure was opening up.",
-                "Learning about red is like solving a mystery."
+                "\"I think I'm ready for something bigger,\" {{CHILD}} told {{MOTHER}}.",
+                "The sparkle in their eyes showed they meant it.",
+                "\"Then let's make it happen,\" {{MOTHER}} agreed with a smile."
             ],
-            "illustrationHint": "Page 20: Discovery: {{CHILD}} finding yellow.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 20: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 20 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "colors-adventure-20"
         },
         {
             "id": "colors-adventure-21",
             "text": [
-                "Oh no! The path to the red was blocked!",
-                "\"Remember,\" said {{FATHER}}, \"Discovery is the key.\"",
-                "They sorted the blue into different groups."
+                "The advanced challenge was right in front of {{CHILD}}.",
+                "A bigger project that required everything they'd learned.",
+                "\"This looks harder than anything I've tried before,\" they admitted."
             ],
-            "illustrationHint": "Page 21: Challenge: {{CHILD}} overcoming an obstacle involving green.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 21: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 21 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "colors-adventure-21"
         },
         {
             "id": "colors-adventure-22",
             "text": [
-                "How will we ever move this heavy blue?",
-                "\"Remember,\" said {{FATHER}}, \"Discovery is the key.\"",
-                "Look at how the green changes in the light!"
+                "Step one went smoothly — confidence from practice shone through.",
+                "But step two was different. The mixing tray didn't cooperate.",
+                "\"Come on, work with me,\" {{CHILD}} muttered, trying again."
             ],
-            "illustrationHint": "Page 22: Challenge: {{CHILD}} overcoming an obstacle involving purple.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 22: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 22 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "colors-adventure-22"
         },
         {
             "id": "colors-adventure-23",
             "text": [
-                "The yellow started to spin faster and faster!",
-                "\"Remember,\" said {{FATHER}}, \"Discovery is the key.\"",
-                "The path was marked by tiny yellow prints."
+                "Frustration crept in like an unwelcome visitor.",
+                "Three attempts, three mistakes, three sighs.",
+                "{{CHILD}} put down the flowers and stared at the ceiling."
             ],
-            "illustrationHint": "Page 23: Challenge: {{CHILD}} overcoming an obstacle involving rainbow.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 23: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 23 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "colors-adventure-23"
         },
         {
             "id": "colors-adventure-24",
             "text": [
-                "{{CHILD}} had to hold onto the green very tightly.",
-                "\"Remember,\" said {{FATHER}}, \"Discovery is the key.\"",
-                "\"How many blue can you see?\" asked {{MOTHER}}."
+                "\"Remember,\" said {{FATHER}}, \"Discovery is what gets you through.\"",
+                "{{CHILD}} took three deep breaths, finding calm.",
+                "\"Okay. Let me think about this differently.\""
             ],
-            "illustrationHint": "Page 24: Challenge: {{CHILD}} overcoming an obstacle involving red.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 24: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 24 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "colors-adventure-24"
         },
         {
             "id": "colors-adventure-25",
             "text": [
-                "\"We need to solve this purple puzzle,\" said {{FATHER}}.",
-                "\"Remember,\" said {{FATHER}}, \"Discovery is the key.\"",
-                "{{CHILD}} traced the outline of the red."
+                "A new approach! Instead of forcing it, {{CHILD}} went slowly.",
+                "Breaking the problem into tiny, manageable pieces.",
+                "The first small piece worked perfectly."
             ],
-            "illustrationHint": "Page 25: Challenge: {{CHILD}} overcoming an obstacle involving blue.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 25: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 25 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "colors-adventure-25"
         },
         {
             "id": "colors-adventure-26",
             "text": [
-                "It was time to use all their Discovery skills.",
-                "\"Remember,\" said {{FATHER}}, \"Discovery is the key.\"",
-                "They listened to the sound of the green."
+                "\"One piece at a time. One small step at a time,\" {{CHILD}} repeated.",
+                "The second piece fell into place. Then the third.",
+                "Momentum built like a gentle snowball rolling downhill."
             ],
-            "illustrationHint": "Page 26: Challenge: {{CHILD}} overcoming an obstacle involving yellow.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 26: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 26 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "colors-adventure-26"
         },
         {
             "id": "colors-adventure-27",
             "text": [
-                "The rainbow was being a bit stubborn today.",
-                "\"Remember,\" said {{FATHER}}, \"Discovery is the key.\"",
-                "A diagram showed the cycle of the purple."
+                "A wobble on step seven threatened to undo everything.",
+                "But {{CHILD}} caught it in time — quick thinking saved the project!",
+                "\"That was close!\" they exhaled with relief."
             ],
-            "illustrationHint": "Page 27: Challenge: {{CHILD}} overcoming an obstacle involving green.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 27: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 27 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "colors-adventure-27"
         },
         {
             "id": "colors-adventure-28",
             "text": [
-                "{{CHILD}} tried to balance the red on their head.",
-                "\"Remember,\" said {{FATHER}}, \"Discovery is the key.\"",
-                "They compared the size of the purple and the rainbow."
+                "\"You didn't panic,\" {{MOTHER}} observed from the doorway.",
+                "\"That's the sign of someone who truly understands discovery.\"",
+                "{{CHILD}} continued, more determined than ever."
             ],
-            "illustrationHint": "Page 28: Challenge: {{CHILD}} overcoming an obstacle involving purple.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 28: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 28 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "colors-adventure-28"
         },
         {
             "id": "colors-adventure-29",
             "text": [
-                "\"Whew, that blue is tricky!\" they laughed.",
-                "\"Remember,\" said {{FATHER}}, \"Discovery is the key.\"",
-                "They followed the pattern of the yellow."
+                "The hardest part was here — the moment that tested everything.",
+                "Hands steady, breath held, focus sharp as a laser.",
+                "{{CHILD}} gave it every ounce of effort they had."
             ],
-            "illustrationHint": "Page 29: Challenge: {{CHILD}} overcoming an obstacle involving rainbow.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 29: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 29 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "colors-adventure-29"
         },
         {
             "id": "colors-adventure-30",
             "text": [
-                "The yellow was higher than they expected.",
-                "\"Remember,\" said {{FATHER}}, \"Discovery is the key.\"",
-                "{{CHILD}} pointed at the bright red."
+                "And then... success! The challenge was CONQUERED!",
+                "\"I DID IT! I actually DID IT!\" {{CHILD}} leaped up and cheered.",
+                "{{MOTHER}} and {{FATHER}} wrapped them in the biggest hug."
             ],
-            "illustrationHint": "Page 30: Challenge: {{CHILD}} overcoming an obstacle involving red.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 30: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 30 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "colors-adventure-30"
         },
         {
             "id": "colors-adventure-31",
             "text": [
-                "Oh no! The path to the red was blocked!",
-                "\"Remember,\" said {{FATHER}}, \"Discovery is the key.\"",
-                "They sorted the blue into different groups."
+                "The finished project sat before {{CHILD}} — real and beautiful.",
+                "Every challenge, every frustration had led to this moment.",
+                "\"It's even better than I imagined,\" they whispered."
             ],
-            "illustrationHint": "Page 31: Challenge: {{CHILD}} overcoming an obstacle involving blue.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 31: Triumph — {{CHILD}} celebrating success and growth. Unique scene 31 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "colors-adventure-31"
         },
         {
             "id": "colors-adventure-32",
             "text": [
-                "How will we ever move this heavy blue?",
-                "\"Remember,\" said {{FATHER}}, \"Discovery is the key.\"",
-                "Look at how the green changes in the light!"
+                "{{CHILD}} wanted to share their achievement with everyone.",
+                "Friends, family, even the neighbors were invited to see.",
+                "\"Look what discovery helped me create!\""
             ],
-            "illustrationHint": "Page 32: Challenge: {{CHILD}} overcoming an obstacle involving yellow.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 32: Triumph — {{CHILD}} celebrating success and growth. Unique scene 32 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "colors-adventure-32"
         },
         {
             "id": "colors-adventure-33",
             "text": [
-                "The yellow started to spin faster and faster!",
-                "\"Remember,\" said {{FATHER}}, \"Discovery is the key.\"",
-                "The path was marked by tiny yellow prints."
+                "\"You should be incredibly proud,\" {{FATHER}} said at dinner.",
+                "\"Not just of the result, but of how you got there.\"",
+                "{{CHILD}} thought about the journey — every up and every down."
             ],
-            "illustrationHint": "Page 33: Challenge: {{CHILD}} overcoming an obstacle involving green.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 33: Triumph — {{CHILD}} celebrating success and growth. Unique scene 33 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "colors-adventure-33"
         },
         {
             "id": "colors-adventure-34",
             "text": [
-                "{{CHILD}} had to hold onto the green very tightly.",
-                "\"Remember,\" said {{FATHER}}, \"Discovery is the key.\"",
-                "\"How many blue can you see?\" asked {{MOTHER}}."
+                "A special presentation was arranged for the family.",
+                "{{CHILD}} explained each step, each challenge, each victory.",
+                "The audience of loved ones listened with shining eyes."
             ],
-            "illustrationHint": "Page 34: Challenge: {{CHILD}} overcoming an obstacle involving purple.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 34: Triumph — {{CHILD}} celebrating success and growth. Unique scene 34 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "colors-adventure-34"
         },
         {
             "id": "colors-adventure-35",
             "text": [
-                "\"We need to solve this purple puzzle,\" said {{FATHER}}.",
-                "\"Remember,\" said {{FATHER}}, \"Discovery is the key.\"",
-                "{{CHILD}} traced the outline of the red."
+                "\"What was the hardest moment?\" asked {{FATHER}}.",
+                "\"When I wanted to quit but didn't,\" {{CHILD}} answered quietly.",
+                "That answer earned nods of deep respect from everyone."
             ],
-            "illustrationHint": "Page 35: Challenge: {{CHILD}} overcoming an obstacle involving rainbow.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 35: Triumph — {{CHILD}} celebrating success and growth. Unique scene 35 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "colors-adventure-35"
         },
         {
             "id": "colors-adventure-36",
             "text": [
-                "Success! The red is finally working!",
-                "The colors adventure adventure was a huge success.",
-                "They felt smarter after seeing the yellow."
+                "{{CHILD}} decided to help someone else learn too.",
+                "Teaching felt different — it deepened their own understanding.",
+                "\"The best way to grow is to help others grow,\" they realized."
             ],
-            "illustrationHint": "Page 36: Success: {{CHILD}} celebrating Discovery with red.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 36: Triumph — {{CHILD}} celebrating success and growth. Unique scene 36 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "colors-adventure-36"
         },
         {
             "id": "colors-adventure-37",
             "text": [
-                "{{CHILD}} mastered the use of the blue!",
-                "The colors adventure adventure was a huge success.",
-                "\"Science and nature are so cool,\" said {{CHILD}}."
+                "A moment of reflection: looking at where they started vs. now.",
+                "The difference was remarkable — night and day.",
+                "\"I didn't know I could do all this,\" {{CHILD}} said in wonder."
             ],
-            "illustrationHint": "Page 37: Success: {{CHILD}} celebrating Discovery with blue.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 37: Triumph — {{CHILD}} celebrating success and growth. Unique scene 37 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "colors-adventure-37"
         },
         {
             "id": "colors-adventure-38",
             "text": [
-                "A magical glow came from the yellow.",
-                "The colors adventure adventure was a huge success.",
-                "\"The world is full of amazing rainbow!\""
+                "The 🌈 became {{CHILD}}'s special symbol.",
+                "It represented their journey, their challenge, their triumph.",
+                "\"Whenever I see 🌈, I'll remember what I can do.\""
             ],
-            "illustrationHint": "Page 38: Success: {{CHILD}} celebrating Discovery with yellow.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 38: Triumph — {{CHILD}} celebrating success and growth. Unique scene 38 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "colors-adventure-38"
         },
         {
             "id": "colors-adventure-39",
             "text": [
-                "The green turned into a shower of stars!",
-                "The colors adventure adventure was a huge success.",
-                "\"I want to find more blue tomorrow!\""
+                "Celebrating wasn't about bragging — it was about gratitude.",
+                "\"Thank you for believing in me,\" {{CHILD}} told {{MOTHER}} and {{FATHER}}.",
+                "\"We always believed. You just needed to believe in yourself.\""
             ],
-            "illustrationHint": "Page 39: Success: {{CHILD}} celebrating Discovery with green.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 39: Triumph — {{CHILD}} celebrating success and growth. Unique scene 39 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "colors-adventure-39"
         },
         {
             "id": "colors-adventure-40",
             "text": [
-                "Everyone was proud of the purple work.",
-                "The colors adventure adventure was a huge success.",
-                "Learning about red is like solving a mystery."
+                "The evening ended with quiet pride and a full heart.",
+                "Not everything in life would be this manageable — but discovery?",
+                "That would carry {{CHILD}} through anything."
             ],
-            "illustrationHint": "Page 40: Success: {{CHILD}} celebrating Discovery with purple.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 40: Triumph — {{CHILD}} celebrating success and growth. Unique scene 40 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "colors-adventure-40"
         },
         {
             "id": "colors-adventure-41",
             "text": [
-                "\"You showed so much Discovery,\" said {{MOTHER}}.",
-                "The colors adventure adventure was a huge success.",
-                "They felt smarter after seeing the yellow."
+                "Bath time was extra peaceful tonight.",
+                "{{CHILD}} thought about everything they'd learned.",
+                "Water swirled around them like the flow of the whole day."
             ],
-            "illustrationHint": "Page 41: Success: {{CHILD}} celebrating Discovery with rainbow.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 41: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 41 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "colors-adventure-41"
         },
         {
             "id": "colors-adventure-42",
             "text": [
-                "The rainbow looked beautiful in the end.",
-                "The colors adventure adventure was a huge success.",
-                "\"Science and nature are so cool,\" said {{CHILD}}."
+                "In clean pajamas, {{CHILD}} sat on the bed thoughtfully.",
+                "The colorful world experience had changed something inside them.",
+                "They felt bigger, not in size, but in spirit."
             ],
-            "illustrationHint": "Page 42: Success: {{CHILD}} celebrating Discovery with red.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 42: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 42 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "colors-adventure-42"
         },
         {
             "id": "colors-adventure-43",
             "text": [
-                "They shared a giant 🌈 celebration.",
-                "The colors adventure adventure was a huge success.",
-                "\"The world is full of amazing rainbow!\""
+                "\"What did rainbow day teach you?\" {{MOTHER}} asked at tuck-in.",
+                "{{CHILD}} thought carefully before answering.",
+                "\"That discovery isn't just a word — it's a superpower.\""
             ],
-            "illustrationHint": "Page 43: Success: {{CHILD}} celebrating Discovery with blue.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 43: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 43 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "colors-adventure-43"
         },
         {
             "id": "colors-adventure-44",
             "text": [
-                "Success! The red is finally working!",
-                "The colors adventure adventure was a huge success.",
-                "\"I want to find more blue tomorrow!\""
+                "{{MOTHER}} kissed {{CHILD}}'s forehead with all the love in the world.",
+                "\"Your superpower was inside you all along.\"",
+                "{{CHILD}} pulled the blanket up and smiled."
             ],
-            "illustrationHint": "Page 44: Success: {{CHILD}} celebrating Discovery with yellow.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 44: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 44 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "colors-adventure-44"
         },
         {
             "id": "colors-adventure-45",
             "text": [
-                "{{CHILD}} mastered the use of the blue!",
-                "The colors adventure adventure was a huge success.",
-                "Learning about red is like solving a mystery."
+                "The moonlight painted silver patterns on the bedroom wall.",
+                "Somewhere in the house, evidence of today's adventure waited.",
+                "Ready for tomorrow's next chapter."
             ],
-            "illustrationHint": "Page 45: Success: {{CHILD}} celebrating Discovery with green.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 45: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 45 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "colors-adventure-45"
         },
         {
             "id": "colors-adventure-46",
             "text": [
-                "As the stars came out, they talked about the red.",
-                "They listened to the sound of the green.",
-                "{{CHILD}} gave a happy yawn after the colors adventure day."
+                "Stars appeared one by one in the darkening sky.",
+                "Each one twinkled like a tiny cheerleader.",
+                "\"Even the stars are proud of you tonight,\" {{MOTHER}} whispered."
             ],
-            "illustrationHint": "Page 46: Sleepy: {{CHILD}} reflecting on the colors adventure journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 46: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 46 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "colors-adventure-46"
         },
         {
             "id": "colors-adventure-47",
             "text": [
-                "{{CHILD}} realized that Discovery is very important.",
-                "A diagram showed the cycle of the purple.",
-                "{{CHILD}} gave a happy yawn after the colors adventure day."
+                "Dreams arrived like gentle waves on a warm shore.",
+                "In the dream, {{CHILD}} was surrounded by everything they loved.",
+                "The colorful world, the rainbow, the paintbox — all glowing with magic."
             ],
-            "illustrationHint": "Page 47: Sleepy: {{CHILD}} reflecting on the colors adventure journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 47: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 47 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "colors-adventure-47"
         },
         {
             "id": "colors-adventure-48",
             "text": [
-                "They tucked the blue into its special box.",
-                "They compared the size of the purple and the rainbow.",
-                "{{CHILD}} gave a happy yawn after the colors adventure day."
+                "Dream-{{CHILD}} was a master — confident, skilled, and kind.",
+                "Every challenge in the dream was met with discovery.",
+                "And every challenge was overcome, one by one."
             ],
-            "illustrationHint": "Page 48: Sleepy: {{CHILD}} reflecting on the colors adventure journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 48: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 48 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "colors-adventure-48"
         },
         {
             "id": "colors-adventure-49",
             "text": [
-                "\"I loved the yellow today,\" said {{CHILD}}.",
-                "They followed the pattern of the yellow.",
-                "{{CHILD}} gave a happy yawn after the colors adventure day."
+                "The dream world slowly darkened into the deepest, most restful sleep.",
+                "Outside, the night was peaceful and full of possibility.",
+                "Tomorrow would bring new adventures, new lessons, new growth."
             ],
-            "illustrationHint": "Page 49: Sleepy: {{CHILD}} reflecting on the colors adventure journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 49: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 49 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "colors-adventure-49"
         },
         {
             "id": "colors-adventure-50",
             "text": [
-                "The green was now a happy memory.",
-                "{{CHILD}} pointed at the bright red.",
-                "Goodnight, brave adventurer. See you in tomorrow's story!"
+                "The 🌈 glowed softly in {{CHILD}}'s imagination as they slept.",
+                "A symbol of what they'd learned, what they'd done, who they were becoming.",
+                "Goodnight, wonderful {{CHILD}}. You made today absolutely magical."
             ],
-            "illustrationHint": "Page 50: Sleepy: {{CHILD}} reflecting on the colors adventure journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 50: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 50 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "colors-adventure-50"
         }
     ]

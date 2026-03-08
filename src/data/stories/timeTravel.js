@@ -1,511 +1,511 @@
-// Refined story - {{CHILD}}'s Clock Machine
+// {{CHILD}}'s Time Travel — Unique story with 50 distinct pages
 const story = {
     "id": "time-travel",
-    "title": "{{CHILD}}'s Clock Machine",
+    "title": "{{CHILD}}'s Time Travel",
     "emoji": "⏳",
     "theme": "Imagination Stories",
     "lesson": "Wisdom",
-    "description": "Explore the wonders of time travel and learn about Wisdom!",
+    "description": "Past, present, and future — {{CHILD}}'s time machine takes them on a journey of wisdom!",
     "coverColor": "#3498DB",
     "pages": [
         {
             "id": "time-travel-1",
             "text": [
-                "Today was the start of something amazing for {{CHILD}}.",
-                "They were going to explore the world of time travel!",
-                "\"Are you ready for the time-travel journey?\" asked {{MOTHER}}."
+                "The time machine was filled with exciting possibilities.",
+                "{{CHILD}} looked around with wide, sparkling eyes.",
+                "\"Are you ready for the time travel adventure?\" asked {{MOTHER}}."
             ],
-            "illustrationHint": "Page 1: Opening scene: {{CHILD}} and family standing by a sign for \"time travel\".. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 1: Introduction — {{CHILD}} discovering the Time Travel world. Unique scene 1 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "time-travel-1"
         },
         {
             "id": "time-travel-2",
             "text": [
-                "Then, they checked the future to make sure it was ready.",
-                "They soared high above the vortex clouds.",
-                "\"This Imagination Stories is full of surprises!\""
+                "Everything was set up and waiting — the time machine, the clock, and more.",
+                "{{CHILD}} picked up the time machine and turned it over in their hands.",
+                "\"This is going to be the best day ever!\" they declared."
             ],
-            "illustrationHint": "Page 2: Setup: {{CHILD}} working with vortex.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 2: Introduction — {{CHILD}} discovering the Time Travel world. Unique scene 2 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "time-travel-2"
         },
         {
             "id": "time-travel-3",
             "text": [
-                "{{CHILD}} put on their special vortex gear.",
-                "The sky turned into a swirl of ticking colors.",
-                "\"This Imagination Stories is full of surprises!\""
+                "{{MOTHER}} explained how the hourglass worked while {{CHILD}} listened carefully.",
+                "\"First, you need to understand the hourglass before you use it.\"",
+                "{{CHILD}} nodded seriously, determined to learn everything."
             ],
-            "illustrationHint": "Page 3: Setup: {{CHILD}} working with history.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 3: Introduction — {{CHILD}} discovering the Time Travel world. Unique scene 3 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "time-travel-3"
         },
         {
             "id": "time-travel-4",
             "text": [
-                "\"Don't forget the history!\" called out {{MOTHER}}.",
-                "They jumped onto a floating future.",
-                "\"This Imagination Stories is full of surprises!\""
+                "The first step was traveling — and {{CHILD}} gave it their best try.",
+                "It wasn't perfect, but it was a wonderful beginning.",
+                "\"Everyone starts exactly where you are right now,\" {{MOTHER}} encouraged."
             ],
-            "illustrationHint": "Page 4: Setup: {{CHILD}} working with gears.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 4: Introduction — {{CHILD}} discovering the Time Travel world. Unique scene 4 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "time-travel-4"
         },
         {
             "id": "time-travel-5",
             "text": [
-                "Everything felt so gears and new today.",
-                "\"Hold onto the future very tightly!\"",
-                "\"This Imagination Stories is full of surprises!\""
+                "{{CHILD}} noticed how the portal connected to the ancient scroll.",
+                "\"Oh! I see how they work together!\" they exclaimed.",
+                "Understanding one thing opened a door to understanding another."
             ],
-            "illustrationHint": "Page 5: Setup: {{CHILD}} working with ticking.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 5: Introduction — {{CHILD}} discovering the Time Travel world. Unique scene 5 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "time-travel-5"
         },
         {
             "id": "time-travel-6",
             "text": [
-                "{{CHILD}} noticed a small ticking near the entrance.",
-                "\"We must find the secret of the vortex!\"",
-                "\"This Imagination Stories is full of surprises!\""
+                "A moment of focus: {{CHILD}} concentrated on observing with careful hands.",
+                "The futuristic city responded beautifully to their gentle touch.",
+                "\"You have a natural talent for this,\" {{MOTHER}} said warmly."
             ],
-            "illustrationHint": "Page 6: Setup: {{CHILD}} working with past.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 6: Introduction — {{CHILD}} discovering the Time Travel world. Unique scene 6 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "time-travel-6"
         },
         {
             "id": "time-travel-7",
             "text": [
-                "Step 7 of the plan was to look for the past.",
-                "A friendly history led the way to the palace.",
-                "\"This Imagination Stories is full of surprises!\""
+                "\"Can I try learning next?\" {{CHILD}} asked eagerly.",
+                "{{MOTHER}} showed them the technique step by step.",
+                "Slow at first, then smoother, then almost graceful."
             ],
-            "illustrationHint": "Page 7: Setup: {{CHILD}} working with future.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 7: Introduction — {{CHILD}} discovering the Time Travel world. Unique scene 7 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "time-travel-7"
         },
         {
             "id": "time-travel-8",
             "text": [
-                "\"I can't wait to see the future!\" {{CHILD}} cheered.",
-                "A map pointed toward the hidden history.",
-                "\"This Imagination Stories is full of surprises!\""
+                "The compass was trickier than expected.",
+                "{{CHILD}} bit their lower lip in concentration.",
+                "\"Take your time — there's no rush,\" reminded {{MOTHER}}."
             ],
-            "illustrationHint": "Page 8: Setup: {{CHILD}} working with vortex.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 8: Introduction — {{CHILD}} discovering the Time Travel world. Unique scene 8 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "time-travel-8"
         },
         {
             "id": "time-travel-9",
             "text": [
-                "The air was filled with the scent of vortex.",
-                "They put on their invisible gears and vanished.",
-                "\"This Imagination Stories is full of surprises!\""
+                "Something unexpected happened — the journal did something surprising!",
+                "\"Whoa! Did you see that?\" {{CHILD}} jumped with excitement.",
+                "Even {{MOTHER}} looked impressed by the unexpected discovery."
             ],
-            "illustrationHint": "Page 9: Setup: {{CHILD}} working with history.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 9: Introduction — {{CHILD}} discovering the Time Travel world. Unique scene 9 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "time-travel-9"
         },
         {
             "id": "time-travel-10",
             "text": [
-                "They found a map that showed the way to the history.",
-                "They had to solve the riddle of the past.",
-                "\"This Imagination Stories is full of surprises!\""
+                "By the end of the first session, {{CHILD}} had learned so much.",
+                "The time machine felt like a second home already.",
+                "\"Can we come back tomorrow?\" {{CHILD}} asked hopefully."
             ],
-            "illustrationHint": "Page 10: Setup: {{CHILD}} working with gears.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 10: Introduction — {{CHILD}} discovering the Time Travel world. Unique scene 10 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "time-travel-10"
         },
         {
             "id": "time-travel-11",
             "text": [
-                "Look at that past! It's bigger than I thought!",
-                "The world of time travel was opening up.",
-                "\"We are the heroes of this ticking story!\""
+                "The second session started with a review of what {{CHILD}} already knew.",
+                "Traveling came more naturally now.",
+                "\"Your muscle memory is building,\" {{MOTHER}} observed."
             ],
-            "illustrationHint": "Page 11: Discovery: {{CHILD}} finding ticking.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 11: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 11 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "time-travel-11"
         },
         {
             "id": "time-travel-12",
             "text": [
-                "{{CHILD}} discovered a hidden path made of gears.",
-                "The world of time travel was opening up.",
-                "\"I wish I could live in the gears forever!\""
+                "{{CHILD}} wanted to explore the time machine in a new way.",
+                "\"What happens if I try noting instead?\" they wondered aloud.",
+                "The result was surprising and delightful!"
             ],
-            "illustrationHint": "Page 12: Discovery: {{CHILD}} finding past.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 12: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 12 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "time-travel-12"
         },
         {
             "id": "time-travel-13",
             "text": [
-                "Wait, is that a ticking peeking through the future?",
-                "The world of time travel was opening up.",
-                "\"Let's use our magic past powers!\""
+                "A challenge appeared: combining observing with jumping at the same time.",
+                "{{CHILD}}'s brain had to think about two things at once.",
+                "\"It's like patting your head and rubbing your tummy!\" they laughed."
             ],
-            "illustrationHint": "Page 13: Discovery: {{CHILD}} finding future.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 13: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 13 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "time-travel-13"
         },
         {
             "id": "time-travel-14",
             "text": [
-                "They found a mysterious vortex sitting on a stone.",
-                "The world of time travel was opening up.",
-                "\"Anything is possible in ${theme.id}!\""
+                "{{CHILD}} discovered a secret about the clock.",
+                "When they tried landing more gently, the clock responded much better.",
+                "\"Everything works better with a gentle touch,\" {{CHILD}} realized."
             ],
-            "illustrationHint": "Page 14: Discovery: {{CHILD}} finding vortex.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 14: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 14 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "time-travel-14"
         },
         {
             "id": "time-travel-15",
             "text": [
-                "\"Look at how the history shines!\" {{CHILD}} exclaimed.",
-                "The world of time travel was opening up.",
-                "The adventure was just beginning in the future."
+                "The hourglass and the portal were used together for the first time.",
+                "{{CHILD}} created something they'd never seen before.",
+                "\"I made this! All by myself!\" they beamed with pride."
             ],
-            "illustrationHint": "Page 15: Discovery: {{CHILD}} finding history.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 15: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 15 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "time-travel-15"
         },
         {
             "id": "time-travel-16",
             "text": [
-                "Each step revealed more about the magic of past.",
-                "The world of time travel was opening up.",
-                "\"We are the heroes of this ticking story!\""
+                "\"Let me show {{FATHER}} what I learned!\" {{CHILD}} said at dinner.",
+                "A mini demonstration right there at the table.",
+                "{{FATHER}} clapped and said, \"That's incredibly impressive!\"\""
             ],
-            "illustrationHint": "Page 16: Discovery: {{CHILD}} finding gears.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 16: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 16 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "time-travel-16"
         },
         {
             "id": "time-travel-17",
             "text": [
-                "{{CHILD}} used a magnifying glass to see the future.",
-                "The world of time travel was opening up.",
-                "\"I wish I could live in the gears forever!\""
+                "Practice at home became part of {{CHILD}}'s daily routine.",
+                "Ten minutes every day — sometimes fifteen when it was extra fun.",
+                "Consistency turned hesitation into confidence."
             ],
-            "illustrationHint": "Page 17: Discovery: {{CHILD}} finding ticking.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 17: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 17 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "time-travel-17"
         },
         {
             "id": "time-travel-18",
             "text": [
-                "\"The gears here is so colorful!\" they said.",
-                "The world of time travel was opening up.",
-                "\"Let's use our magic past powers!\""
+                "A book from the library showed experts doing the same thing.",
+                "{{CHILD}} studied the pictures and tried to copy the techniques.",
+                "\"Even pros started as beginners,\" they said to themselves."
             ],
-            "illustrationHint": "Page 18: Discovery: {{CHILD}} finding past.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 18: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 18 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "time-travel-18"
         },
         {
             "id": "time-travel-19",
             "text": [
-                "They followed a trail of ticking into the deep vortex.",
-                "The world of time travel was opening up.",
-                "\"Anything is possible in ${theme.id}!\""
+                "Something clicked today — a skill that was hard became easy.",
+                "{{CHILD}} repeated it four times just to make sure it wasn't a fluke.",
+                "Not a fluke. A breakthrough. The feeling was incredible."
             ],
-            "illustrationHint": "Page 19: Discovery: {{CHILD}} finding future.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 19: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 19 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "time-travel-19"
         },
         {
             "id": "time-travel-20",
             "text": [
-                "A friendly bird chirped from the top of the history.",
-                "The world of time travel was opening up.",
-                "The adventure was just beginning in the future."
+                "\"I think I'm ready for something bigger,\" {{CHILD}} told {{MOTHER}}.",
+                "The sparkle in their eyes showed they meant it.",
+                "\"Then let's make it happen,\" {{MOTHER}} agreed with a smile."
             ],
-            "illustrationHint": "Page 20: Discovery: {{CHILD}} finding vortex.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 20: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 20 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "time-travel-20"
         },
         {
             "id": "time-travel-21",
             "text": [
-                "Oh no! The path to the past was blocked!",
-                "\"Remember,\" said {{FATHER}}, \"Wisdom is the key.\"",
-                "Suddenly, the past began to glow with magic!"
+                "The advanced challenge was right in front of {{CHILD}}.",
+                "A bigger project that required everything they'd learned.",
+                "\"This looks harder than anything I've tried before,\" they admitted."
             ],
-            "illustrationHint": "Page 21: Challenge: {{CHILD}} overcoming an obstacle involving history.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 21: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 21 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "time-travel-21"
         },
         {
             "id": "time-travel-22",
             "text": [
-                "How will we ever move this heavy future?",
-                "\"Remember,\" said {{FATHER}}, \"Wisdom is the key.\"",
-                "They soared high above the vortex clouds."
+                "Step one went smoothly — confidence from practice shone through.",
+                "But step two was different. The ancient scroll didn't cooperate.",
+                "\"Come on, work with me,\" {{CHILD}} muttered, trying again."
             ],
-            "illustrationHint": "Page 22: Challenge: {{CHILD}} overcoming an obstacle involving gears.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 22: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 22 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "time-travel-22"
         },
         {
             "id": "time-travel-23",
             "text": [
-                "The vortex started to spin faster and faster!",
-                "\"Remember,\" said {{FATHER}}, \"Wisdom is the key.\"",
-                "The sky turned into a swirl of ticking colors."
+                "Frustration crept in like an unwelcome visitor.",
+                "Three attempts, three mistakes, three sighs.",
+                "{{CHILD}} put down the futuristic city and stared at the ceiling."
             ],
-            "illustrationHint": "Page 23: Challenge: {{CHILD}} overcoming an obstacle involving ticking.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 23: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 23 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "time-travel-23"
         },
         {
             "id": "time-travel-24",
             "text": [
-                "{{CHILD}} had to hold onto the history very tightly.",
-                "\"Remember,\" said {{FATHER}}, \"Wisdom is the key.\"",
-                "They jumped onto a floating future."
+                "\"Remember,\" said {{FATHER}}, \"Wisdom is what gets you through.\"",
+                "{{CHILD}} took three deep breaths, finding calm.",
+                "\"Okay. Let me think about this differently.\""
             ],
-            "illustrationHint": "Page 24: Challenge: {{CHILD}} overcoming an obstacle involving past.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 24: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 24 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "time-travel-24"
         },
         {
             "id": "time-travel-25",
             "text": [
-                "\"We need to solve this gears puzzle,\" said {{FATHER}}.",
-                "\"Remember,\" said {{FATHER}}, \"Wisdom is the key.\"",
-                "\"Hold onto the future very tightly!\""
+                "A new approach! Instead of forcing it, {{CHILD}} went slowly.",
+                "Breaking the problem into tiny, manageable pieces.",
+                "The first small piece worked perfectly."
             ],
-            "illustrationHint": "Page 25: Challenge: {{CHILD}} overcoming an obstacle involving future.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 25: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 25 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "time-travel-25"
         },
         {
             "id": "time-travel-26",
             "text": [
-                "It was time to use all their Wisdom skills.",
-                "\"Remember,\" said {{FATHER}}, \"Wisdom is the key.\"",
-                "\"We must find the secret of the vortex!\""
+                "\"One piece at a time. One small step at a time,\" {{CHILD}} repeated.",
+                "The second piece fell into place. Then the third.",
+                "Momentum built like a gentle snowball rolling downhill."
             ],
-            "illustrationHint": "Page 26: Challenge: {{CHILD}} overcoming an obstacle involving vortex.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 26: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 26 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "time-travel-26"
         },
         {
             "id": "time-travel-27",
             "text": [
-                "The ticking was being a bit stubborn today.",
-                "\"Remember,\" said {{FATHER}}, \"Wisdom is the key.\"",
-                "A friendly history led the way to the palace."
+                "A wobble on step seven threatened to undo everything.",
+                "But {{CHILD}} caught it in time — quick thinking saved the project!",
+                "\"That was close!\" they exhaled with relief."
             ],
-            "illustrationHint": "Page 27: Challenge: {{CHILD}} overcoming an obstacle involving history.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 27: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 27 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "time-travel-27"
         },
         {
             "id": "time-travel-28",
             "text": [
-                "{{CHILD}} tried to balance the past on their head.",
-                "\"Remember,\" said {{FATHER}}, \"Wisdom is the key.\"",
-                "A map pointed toward the hidden history."
+                "\"You didn't panic,\" {{MOTHER}} observed from the doorway.",
+                "\"That's the sign of someone who truly understands wisdom.\"",
+                "{{CHILD}} continued, more determined than ever."
             ],
-            "illustrationHint": "Page 28: Challenge: {{CHILD}} overcoming an obstacle involving gears.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 28: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 28 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "time-travel-28"
         },
         {
             "id": "time-travel-29",
             "text": [
-                "\"Whew, that future is tricky!\" they laughed.",
-                "\"Remember,\" said {{FATHER}}, \"Wisdom is the key.\"",
-                "They put on their invisible gears and vanished."
+                "The hardest part was here — the moment that tested everything.",
+                "Hands steady, breath held, focus sharp as a laser.",
+                "{{CHILD}} gave it every ounce of effort they had."
             ],
-            "illustrationHint": "Page 29: Challenge: {{CHILD}} overcoming an obstacle involving ticking.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 29: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 29 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "time-travel-29"
         },
         {
             "id": "time-travel-30",
             "text": [
-                "The vortex was higher than they expected.",
-                "\"Remember,\" said {{FATHER}}, \"Wisdom is the key.\"",
-                "They had to solve the riddle of the past."
+                "And then... success! The challenge was CONQUERED!",
+                "\"I DID IT! I actually DID IT!\" {{CHILD}} leaped up and cheered.",
+                "{{MOTHER}} and {{FATHER}} wrapped them in the biggest hug."
             ],
-            "illustrationHint": "Page 30: Challenge: {{CHILD}} overcoming an obstacle involving past.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 30: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 30 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "time-travel-30"
         },
         {
             "id": "time-travel-31",
             "text": [
-                "Oh no! The path to the past was blocked!",
-                "\"Remember,\" said {{FATHER}}, \"Wisdom is the key.\"",
-                "Suddenly, the past began to glow with magic!"
+                "The finished project sat before {{CHILD}} — real and beautiful.",
+                "Every challenge, every frustration had led to this moment.",
+                "\"It's even better than I imagined,\" they whispered."
             ],
-            "illustrationHint": "Page 31: Challenge: {{CHILD}} overcoming an obstacle involving future.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 31: Triumph — {{CHILD}} celebrating success and growth. Unique scene 31 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "time-travel-31"
         },
         {
             "id": "time-travel-32",
             "text": [
-                "How will we ever move this heavy future?",
-                "\"Remember,\" said {{FATHER}}, \"Wisdom is the key.\"",
-                "They soared high above the vortex clouds."
+                "{{CHILD}} wanted to share their achievement with everyone.",
+                "Friends, family, even the neighbors were invited to see.",
+                "\"Look what wisdom helped me create!\""
             ],
-            "illustrationHint": "Page 32: Challenge: {{CHILD}} overcoming an obstacle involving vortex.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 32: Triumph — {{CHILD}} celebrating success and growth. Unique scene 32 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "time-travel-32"
         },
         {
             "id": "time-travel-33",
             "text": [
-                "The vortex started to spin faster and faster!",
-                "\"Remember,\" said {{FATHER}}, \"Wisdom is the key.\"",
-                "The sky turned into a swirl of ticking colors."
+                "\"You should be incredibly proud,\" {{FATHER}} said at dinner.",
+                "\"Not just of the result, but of how you got there.\"",
+                "{{CHILD}} thought about the journey — every up and every down."
             ],
-            "illustrationHint": "Page 33: Challenge: {{CHILD}} overcoming an obstacle involving history.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 33: Triumph — {{CHILD}} celebrating success and growth. Unique scene 33 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "time-travel-33"
         },
         {
             "id": "time-travel-34",
             "text": [
-                "{{CHILD}} had to hold onto the history very tightly.",
-                "\"Remember,\" said {{FATHER}}, \"Wisdom is the key.\"",
-                "They jumped onto a floating future."
+                "A special presentation was arranged for the family.",
+                "{{CHILD}} explained each step, each challenge, each victory.",
+                "The audience of loved ones listened with shining eyes."
             ],
-            "illustrationHint": "Page 34: Challenge: {{CHILD}} overcoming an obstacle involving gears.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 34: Triumph — {{CHILD}} celebrating success and growth. Unique scene 34 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "time-travel-34"
         },
         {
             "id": "time-travel-35",
             "text": [
-                "\"We need to solve this gears puzzle,\" said {{FATHER}}.",
-                "\"Remember,\" said {{FATHER}}, \"Wisdom is the key.\"",
-                "\"Hold onto the future very tightly!\""
+                "\"What was the hardest moment?\" asked {{FATHER}}.",
+                "\"When I wanted to quit but didn't,\" {{CHILD}} answered quietly.",
+                "That answer earned nods of deep respect from everyone."
             ],
-            "illustrationHint": "Page 35: Challenge: {{CHILD}} overcoming an obstacle involving ticking.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 35: Triumph — {{CHILD}} celebrating success and growth. Unique scene 35 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "time-travel-35"
         },
         {
             "id": "time-travel-36",
             "text": [
-                "Success! The past is finally working!",
-                "The time travel adventure was a huge success.",
-                "\"We are the heroes of this ticking story!\""
+                "{{CHILD}} decided to help someone else learn too.",
+                "Teaching felt different — it deepened their own understanding.",
+                "\"The best way to grow is to help others grow,\" they realized."
             ],
-            "illustrationHint": "Page 36: Success: {{CHILD}} celebrating Wisdom with past.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 36: Triumph — {{CHILD}} celebrating success and growth. Unique scene 36 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "time-travel-36"
         },
         {
             "id": "time-travel-37",
             "text": [
-                "{{CHILD}} mastered the use of the future!",
-                "The time travel adventure was a huge success.",
-                "\"I wish I could live in the gears forever!\""
+                "A moment of reflection: looking at where they started vs. now.",
+                "The difference was remarkable — night and day.",
+                "\"I didn't know I could do all this,\" {{CHILD}} said in wonder."
             ],
-            "illustrationHint": "Page 37: Success: {{CHILD}} celebrating Wisdom with future.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 37: Triumph — {{CHILD}} celebrating success and growth. Unique scene 37 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "time-travel-37"
         },
         {
             "id": "time-travel-38",
             "text": [
-                "A magical glow came from the vortex.",
-                "The time travel adventure was a huge success.",
-                "\"Let's use our magic past powers!\""
+                "The ⏳ became {{CHILD}}'s special symbol.",
+                "It represented their journey, their challenge, their triumph.",
+                "\"Whenever I see ⏳, I'll remember what I can do.\""
             ],
-            "illustrationHint": "Page 38: Success: {{CHILD}} celebrating Wisdom with vortex.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 38: Triumph — {{CHILD}} celebrating success and growth. Unique scene 38 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "time-travel-38"
         },
         {
             "id": "time-travel-39",
             "text": [
-                "The history turned into a shower of stars!",
-                "The time travel adventure was a huge success.",
-                "\"Anything is possible in ${theme.id}!\""
+                "Celebrating wasn't about bragging — it was about gratitude.",
+                "\"Thank you for believing in me,\" {{CHILD}} told {{MOTHER}} and {{FATHER}}.",
+                "\"We always believed. You just needed to believe in yourself.\""
             ],
-            "illustrationHint": "Page 39: Success: {{CHILD}} celebrating Wisdom with history.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 39: Triumph — {{CHILD}} celebrating success and growth. Unique scene 39 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "time-travel-39"
         },
         {
             "id": "time-travel-40",
             "text": [
-                "Everyone was proud of the gears work.",
-                "The time travel adventure was a huge success.",
-                "The adventure was just beginning in the future."
+                "The evening ended with quiet pride and a full heart.",
+                "Not everything in life would be this manageable — but wisdom?",
+                "That would carry {{CHILD}} through anything."
             ],
-            "illustrationHint": "Page 40: Success: {{CHILD}} celebrating Wisdom with gears.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 40: Triumph — {{CHILD}} celebrating success and growth. Unique scene 40 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "time-travel-40"
         },
         {
             "id": "time-travel-41",
             "text": [
-                "\"You showed so much Wisdom,\" said {{MOTHER}}.",
-                "The time travel adventure was a huge success.",
-                "\"We are the heroes of this ticking story!\""
+                "Bath time was extra peaceful tonight.",
+                "{{CHILD}} thought about everything they'd learned.",
+                "Water swirled around them like the flow of the whole day."
             ],
-            "illustrationHint": "Page 41: Success: {{CHILD}} celebrating Wisdom with ticking.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 41: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 41 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "time-travel-41"
         },
         {
             "id": "time-travel-42",
             "text": [
-                "The ticking looked beautiful in the end.",
-                "The time travel adventure was a huge success.",
-                "\"I wish I could live in the gears forever!\""
+                "In clean pajamas, {{CHILD}} sat on the bed thoughtfully.",
+                "The time machine experience had changed something inside them.",
+                "They felt bigger, not in size, but in spirit."
             ],
-            "illustrationHint": "Page 42: Success: {{CHILD}} celebrating Wisdom with past.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 42: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 42 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "time-travel-42"
         },
         {
             "id": "time-travel-43",
             "text": [
-                "They shared a giant ⏳ celebration.",
-                "The time travel adventure was a huge success.",
-                "\"Let's use our magic past powers!\""
+                "\"What did time travel teach you?\" {{MOTHER}} asked at tuck-in.",
+                "{{CHILD}} thought carefully before answering.",
+                "\"That wisdom isn't just a word — it's a superpower.\""
             ],
-            "illustrationHint": "Page 43: Success: {{CHILD}} celebrating Wisdom with future.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 43: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 43 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "time-travel-43"
         },
         {
             "id": "time-travel-44",
             "text": [
-                "Success! The past is finally working!",
-                "The time travel adventure was a huge success.",
-                "\"Anything is possible in ${theme.id}!\""
+                "{{MOTHER}} kissed {{CHILD}}'s forehead with all the love in the world.",
+                "\"Your superpower was inside you all along.\"",
+                "{{CHILD}} pulled the blanket up and smiled."
             ],
-            "illustrationHint": "Page 44: Success: {{CHILD}} celebrating Wisdom with vortex.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 44: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 44 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "time-travel-44"
         },
         {
             "id": "time-travel-45",
             "text": [
-                "{{CHILD}} mastered the use of the future!",
-                "The time travel adventure was a huge success.",
-                "The adventure was just beginning in the future."
+                "The moonlight painted silver patterns on the bedroom wall.",
+                "Somewhere in the house, evidence of today's adventure waited.",
+                "Ready for tomorrow's next chapter."
             ],
-            "illustrationHint": "Page 45: Success: {{CHILD}} celebrating Wisdom with history.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 45: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 45 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "time-travel-45"
         },
         {
             "id": "time-travel-46",
             "text": [
-                "As the stars came out, they talked about the past.",
-                "\"We must find the secret of the vortex!\"",
-                "{{CHILD}} gave a happy yawn after the time travel day."
+                "Stars appeared one by one in the darkening sky.",
+                "Each one twinkled like a tiny cheerleader.",
+                "\"Even the stars are proud of you tonight,\" {{MOTHER}} whispered."
             ],
-            "illustrationHint": "Page 46: Sleepy: {{CHILD}} reflecting on the time travel journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 46: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 46 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "time-travel-46"
         },
         {
             "id": "time-travel-47",
             "text": [
-                "{{CHILD}} realized that Wisdom is very important.",
-                "A friendly history led the way to the palace.",
-                "{{CHILD}} gave a happy yawn after the time travel day."
+                "Dreams arrived like gentle waves on a warm shore.",
+                "In the dream, {{CHILD}} was surrounded by everything they loved.",
+                "The time machine, the time machine, the clock — all glowing with magic."
             ],
-            "illustrationHint": "Page 47: Sleepy: {{CHILD}} reflecting on the time travel journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 47: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 47 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "time-travel-47"
         },
         {
             "id": "time-travel-48",
             "text": [
-                "They tucked the future into its special box.",
-                "A map pointed toward the hidden history.",
-                "{{CHILD}} gave a happy yawn after the time travel day."
+                "Dream-{{CHILD}} was a master — confident, skilled, and kind.",
+                "Every challenge in the dream was met with wisdom.",
+                "And every challenge was overcome, one by one."
             ],
-            "illustrationHint": "Page 48: Sleepy: {{CHILD}} reflecting on the time travel journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 48: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 48 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "time-travel-48"
         },
         {
             "id": "time-travel-49",
             "text": [
-                "\"I loved the vortex today,\" said {{CHILD}}.",
-                "They put on their invisible gears and vanished.",
-                "{{CHILD}} gave a happy yawn after the time travel day."
+                "The dream world slowly darkened into the deepest, most restful sleep.",
+                "Outside, the night was peaceful and full of possibility.",
+                "Tomorrow would bring new adventures, new lessons, new growth."
             ],
-            "illustrationHint": "Page 49: Sleepy: {{CHILD}} reflecting on the time travel journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 49: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 49 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "time-travel-49"
         },
         {
             "id": "time-travel-50",
             "text": [
-                "The history was now a happy memory.",
-                "They had to solve the riddle of the past.",
-                "Goodnight, brave adventurer. See you in tomorrow's story!"
+                "The ⏳ glowed softly in {{CHILD}}'s imagination as they slept.",
+                "A symbol of what they'd learned, what they'd done, who they were becoming.",
+                "Goodnight, wonderful {{CHILD}}. You made today absolutely magical."
             ],
-            "illustrationHint": "Page 50: Sleepy: {{CHILD}} reflecting on the time travel journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 50: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 50 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "time-travel-50"
         }
     ]

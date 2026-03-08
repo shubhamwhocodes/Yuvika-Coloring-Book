@@ -1,511 +1,511 @@
-// Refined story - {{CHILD}}'s Big Celebration
+// {{CHILD}}'s Birthday Party — Unique story with 50 distinct pages
 const story = {
     "id": "birthday-party",
-    "title": "{{CHILD}}'s Big Celebration",
+    "title": "{{CHILD}}'s Birthday Party",
     "emoji": "🎂",
     "theme": "Family Stories",
-    "lesson": "Gratitude",
-    "description": "Explore the wonders of birthday party and learn about Gratitude!",
+    "lesson": "Generosity",
+    "description": "Celebrate with {{CHILD}} and discover that the best gifts are the ones we give to others!",
     "coverColor": "#F1C40F",
     "pages": [
         {
             "id": "birthday-party-1",
             "text": [
-                "Today was the start of something amazing for {{CHILD}}.",
-                "They were going to explore the world of birthday party!",
-                "\"Are you ready for the birthday-party journey?\" asked {{MOTHER}}."
+                "The decorated house was filled with exciting possibilities.",
+                "{{CHILD}} looked around with wide, sparkling eyes.",
+                "\"Are you ready for the birthday party adventure?\" asked {{MOTHER}}."
             ],
-            "illustrationHint": "Page 1: Opening scene: {{CHILD}} and family standing by a sign for \"birthday party\".. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 1: Introduction — {{CHILD}} discovering the Birthday Party world. Unique scene 1 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "birthday-party-1"
         },
         {
             "id": "birthday-party-2",
             "text": [
-                "Then, they checked the gifts to make sure it was ready.",
-                "They found an old cake that brought back memories.",
-                "\"This Family Stories is full of surprises!\""
+                "Everything was set up and waiting — the cake, the balloons, and more.",
+                "{{CHILD}} picked up the cake and turned it over in their hands.",
+                "\"This is going to be the best day ever!\" they declared."
             ],
-            "illustrationHint": "Page 2: Setup: {{CHILD}} working with cake.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 2: Introduction — {{CHILD}} discovering the Birthday Party world. Unique scene 2 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "birthday-party-2"
         },
         {
             "id": "birthday-party-3",
             "text": [
-                "{{CHILD}} put on their special cake gear.",
-                "Everyone gathered around the gifts for a photo.",
-                "\"This Family Stories is full of surprises!\""
+                "{{MOTHER}} explained how the presents worked while {{CHILD}} listened carefully.",
+                "\"First, you need to understand the presents before you use it.\"",
+                "{{CHILD}} nodded seriously, determined to learn everything."
             ],
-            "illustrationHint": "Page 3: Setup: {{CHILD}} working with candles.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 3: Introduction — {{CHILD}} discovering the Birthday Party world. Unique scene 3 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "birthday-party-3"
         },
         {
             "id": "birthday-party-4",
             "text": [
-                "\"Don't forget the candles!\" called out {{MOTHER}}.",
-                "The house was filled with the scent of candles.",
-                "\"This Family Stories is full of surprises!\""
+                "The first step was decorating — and {{CHILD}} gave it their best try.",
+                "It wasn't perfect, but it was a wonderful beginning.",
+                "\"Everyone starts exactly where you are right now,\" {{MOTHER}} encouraged."
             ],
-            "illustrationHint": "Page 4: Setup: {{CHILD}} working with friends.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 4: Introduction — {{CHILD}} discovering the Birthday Party world. Unique scene 4 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "birthday-party-4"
         },
         {
             "id": "birthday-party-5",
             "text": [
-                "Everything felt so friends and new today.",
-                "They sang a song while holding the balloons.",
-                "\"This Family Stories is full of surprises!\""
+                "{{CHILD}} noticed how the party hat connected to the candles.",
+                "\"Oh! I see how they work together!\" they exclaimed.",
+                "Understanding one thing opened a door to understanding another."
             ],
-            "illustrationHint": "Page 5: Setup: {{CHILD}} working with singing.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 5: Introduction — {{CHILD}} discovering the Birthday Party world. Unique scene 5 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "birthday-party-5"
         },
         {
             "id": "birthday-party-6",
             "text": [
-                "{{CHILD}} noticed a small singing near the entrance.",
-                "\"Let's put the gifts here,\" suggested {{FATHER}}.",
-                "\"This Family Stories is full of surprises!\""
+                "A moment of focus: {{CHILD}} concentrated on celebrating with careful hands.",
+                "The streamers responded beautifully to their gentle touch.",
+                "\"You have a natural talent for this,\" {{MOTHER}} said warmly."
             ],
-            "illustrationHint": "Page 6: Setup: {{CHILD}} working with balloons.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 6: Introduction — {{CHILD}} discovering the Birthday Party world. Unique scene 6 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "birthday-party-6"
         },
         {
             "id": "birthday-party-7",
             "text": [
-                "Step 7 of the plan was to look for the balloons.",
-                "{{CHILD}} and {{MOTHER}} shared a warm smile.",
-                "\"This Family Stories is full of surprises!\""
+                "\"Can I try wishing next?\" {{CHILD}} asked eagerly.",
+                "{{MOTHER}} showed them the technique step by step.",
+                "Slow at first, then smoother, then almost graceful."
             ],
-            "illustrationHint": "Page 7: Setup: {{CHILD}} working with gifts.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 7: Introduction — {{CHILD}} discovering the Birthday Party world. Unique scene 7 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "birthday-party-7"
         },
         {
             "id": "birthday-party-8",
             "text": [
-                "\"I can't wait to see the gifts!\" {{CHILD}} cheered.",
-                "It was a perfect day for a family cake.",
-                "\"This Family Stories is full of surprises!\""
+                "The confetti was trickier than expected.",
+                "{{CHILD}} bit their lower lip in concentration.",
+                "\"Take your time — there's no rush,\" reminded {{MOTHER}}."
             ],
-            "illustrationHint": "Page 8: Setup: {{CHILD}} working with cake.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 8: Introduction — {{CHILD}} discovering the Birthday Party world. Unique scene 8 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "birthday-party-8"
         },
         {
             "id": "birthday-party-9",
             "text": [
-                "The air was filled with the scent of cake.",
-                "They sat down to look at the friends together.",
-                "\"This Family Stories is full of surprises!\""
+                "Something unexpected happened — the games did something surprising!",
+                "\"Whoa! Did you see that?\" {{CHILD}} jumped with excitement.",
+                "Even {{MOTHER}} looked impressed by the unexpected discovery."
             ],
-            "illustrationHint": "Page 9: Setup: {{CHILD}} working with candles.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 9: Introduction — {{CHILD}} discovering the Birthday Party world. Unique scene 9 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "birthday-party-9"
         },
         {
             "id": "birthday-party-10",
             "text": [
-                "They found a map that showed the way to the candles.",
-                "They worked together to organize the balloons.",
-                "\"This Family Stories is full of surprises!\""
+                "By the end of the first session, {{CHILD}} had learned so much.",
+                "The decorated house felt like a second home already.",
+                "\"Can we come back tomorrow?\" {{CHILD}} asked hopefully."
             ],
-            "illustrationHint": "Page 10: Setup: {{CHILD}} working with friends.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 10: Introduction — {{CHILD}} discovering the Birthday Party world. Unique scene 10 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "birthday-party-10"
         },
         {
             "id": "birthday-party-11",
             "text": [
-                "Look at that balloons! It's bigger than I thought!",
-                "The world of birthday party was opening up.",
-                "\"I love my family so much,\" thought {{CHILD}}."
+                "The second session started with a review of what {{CHILD}} already knew.",
+                "Decorating came more naturally now.",
+                "\"Your muscle memory is building,\" {{MOTHER}} observed."
             ],
-            "illustrationHint": "Page 11: Discovery: {{CHILD}} finding singing.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 11: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 11 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "birthday-party-11"
         },
         {
             "id": "birthday-party-12",
             "text": [
-                "{{CHILD}} discovered a hidden path made of friends.",
-                "The world of birthday party was opening up.",
-                "They felt safe and loved on this balloons day."
+                "{{CHILD}} wanted to explore the cake in a new way.",
+                "\"What happens if I try unwrapping instead?\" they wondered aloud.",
+                "The result was surprising and delightful!"
             ],
-            "illustrationHint": "Page 12: Discovery: {{CHILD}} finding balloons.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 12: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 12 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "birthday-party-12"
         },
         {
             "id": "birthday-party-13",
             "text": [
-                "Wait, is that a singing peeking through the gifts?",
-                "The world of birthday party was opening up.",
-                "Being together makes every candles special."
+                "A challenge appeared: combining celebrating with sharing at the same time.",
+                "{{CHILD}}'s brain had to think about two things at once.",
+                "\"It's like patting your head and rubbing your tummy!\" they laughed."
             ],
-            "illustrationHint": "Page 13: Discovery: {{CHILD}} finding gifts.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 13: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 13 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "birthday-party-13"
         },
         {
             "id": "birthday-party-14",
             "text": [
-                "They found a mysterious cake sitting on a stone.",
-                "The world of birthday party was opening up.",
-                "\"Thank you for helping with the friends,\" said {{MOTHER}}."
+                "{{CHILD}} discovered a secret about the balloons.",
+                "When they tried dancing more gently, the balloons responded much better.",
+                "\"Everything works better with a gentle touch,\" {{CHILD}} realized."
             ],
-            "illustrationHint": "Page 14: Discovery: {{CHILD}} finding cake.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 14: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 14 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "birthday-party-14"
         },
         {
             "id": "birthday-party-15",
             "text": [
-                "\"Look at how the candles shines!\" {{CHILD}} exclaimed.",
-                "The world of birthday party was opening up.",
-                "\"This singing is the best part of home.\""
+                "The presents and the party hat were used together for the first time.",
+                "{{CHILD}} created something they'd never seen before.",
+                "\"I made this! All by myself!\" they beamed with pride."
             ],
-            "illustrationHint": "Page 15: Discovery: {{CHILD}} finding candles.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 15: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 15 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "birthday-party-15"
         },
         {
             "id": "birthday-party-16",
             "text": [
-                "Each step revealed more about the magic of balloons.",
-                "The world of birthday party was opening up.",
-                "\"I love my family so much,\" thought {{CHILD}}."
+                "\"Let me show {{FATHER}} what I learned!\" {{CHILD}} said at dinner.",
+                "A mini demonstration right there at the table.",
+                "{{FATHER}} clapped and said, \"That's incredibly impressive!\"\""
             ],
-            "illustrationHint": "Page 16: Discovery: {{CHILD}} finding friends.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 16: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 16 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "birthday-party-16"
         },
         {
             "id": "birthday-party-17",
             "text": [
-                "{{CHILD}} used a magnifying glass to see the gifts.",
-                "The world of birthday party was opening up.",
-                "They felt safe and loved on this balloons day."
+                "Practice at home became part of {{CHILD}}'s daily routine.",
+                "Ten minutes every day — sometimes fifteen when it was extra fun.",
+                "Consistency turned hesitation into confidence."
             ],
-            "illustrationHint": "Page 17: Discovery: {{CHILD}} finding singing.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 17: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 17 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "birthday-party-17"
         },
         {
             "id": "birthday-party-18",
             "text": [
-                "\"The friends here is so colorful!\" they said.",
-                "The world of birthday party was opening up.",
-                "Being together makes every candles special."
+                "A book from the library showed experts doing the same thing.",
+                "{{CHILD}} studied the pictures and tried to copy the techniques.",
+                "\"Even pros started as beginners,\" they said to themselves."
             ],
-            "illustrationHint": "Page 18: Discovery: {{CHILD}} finding balloons.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 18: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 18 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "birthday-party-18"
         },
         {
             "id": "birthday-party-19",
             "text": [
-                "They followed a trail of singing into the deep cake.",
-                "The world of birthday party was opening up.",
-                "\"Thank you for helping with the friends,\" said {{MOTHER}}."
+                "Something clicked today — a skill that was hard became easy.",
+                "{{CHILD}} repeated it four times just to make sure it wasn't a fluke.",
+                "Not a fluke. A breakthrough. The feeling was incredible."
             ],
-            "illustrationHint": "Page 19: Discovery: {{CHILD}} finding gifts.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 19: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 19 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "birthday-party-19"
         },
         {
             "id": "birthday-party-20",
             "text": [
-                "A friendly bird chirped from the top of the candles.",
-                "The world of birthday party was opening up.",
-                "\"This singing is the best part of home.\""
+                "\"I think I'm ready for something bigger,\" {{CHILD}} told {{MOTHER}}.",
+                "The sparkle in their eyes showed they meant it.",
+                "\"Then let's make it happen,\" {{MOTHER}} agreed with a smile."
             ],
-            "illustrationHint": "Page 20: Discovery: {{CHILD}} finding cake.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 20: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 20 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "birthday-party-20"
         },
         {
             "id": "birthday-party-21",
             "text": [
-                "Oh no! The path to the balloons was blocked!",
-                "\"Remember,\" said {{FATHER}}, \"Gratitude is the key.\"",
-                "{{CHILD}} gave the singing a big, happy hug."
+                "The advanced challenge was right in front of {{CHILD}}.",
+                "A bigger project that required everything they'd learned.",
+                "\"This looks harder than anything I've tried before,\" they admitted."
             ],
-            "illustrationHint": "Page 21: Challenge: {{CHILD}} overcoming an obstacle involving candles.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 21: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 21 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "birthday-party-21"
         },
         {
             "id": "birthday-party-22",
             "text": [
-                "How will we ever move this heavy gifts?",
-                "\"Remember,\" said {{FATHER}}, \"Gratitude is the key.\"",
-                "They found an old cake that brought back memories."
+                "Step one went smoothly — confidence from practice shone through.",
+                "But step two was different. The candles didn't cooperate.",
+                "\"Come on, work with me,\" {{CHILD}} muttered, trying again."
             ],
-            "illustrationHint": "Page 22: Challenge: {{CHILD}} overcoming an obstacle involving friends.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 22: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 22 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "birthday-party-22"
         },
         {
             "id": "birthday-party-23",
             "text": [
-                "The cake started to spin faster and faster!",
-                "\"Remember,\" said {{FATHER}}, \"Gratitude is the key.\"",
-                "Everyone gathered around the gifts for a photo."
+                "Frustration crept in like an unwelcome visitor.",
+                "Three attempts, three mistakes, three sighs.",
+                "{{CHILD}} put down the streamers and stared at the ceiling."
             ],
-            "illustrationHint": "Page 23: Challenge: {{CHILD}} overcoming an obstacle involving singing.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 23: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 23 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "birthday-party-23"
         },
         {
             "id": "birthday-party-24",
             "text": [
-                "{{CHILD}} had to hold onto the candles very tightly.",
-                "\"Remember,\" said {{FATHER}}, \"Gratitude is the key.\"",
-                "The house was filled with the scent of candles."
+                "\"Remember,\" said {{FATHER}}, \"Generosity is what gets you through.\"",
+                "{{CHILD}} took three deep breaths, finding calm.",
+                "\"Okay. Let me think about this differently.\""
             ],
-            "illustrationHint": "Page 24: Challenge: {{CHILD}} overcoming an obstacle involving balloons.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 24: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 24 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "birthday-party-24"
         },
         {
             "id": "birthday-party-25",
             "text": [
-                "\"We need to solve this friends puzzle,\" said {{FATHER}}.",
-                "\"Remember,\" said {{FATHER}}, \"Gratitude is the key.\"",
-                "They sang a song while holding the balloons."
+                "A new approach! Instead of forcing it, {{CHILD}} went slowly.",
+                "Breaking the problem into tiny, manageable pieces.",
+                "The first small piece worked perfectly."
             ],
-            "illustrationHint": "Page 25: Challenge: {{CHILD}} overcoming an obstacle involving gifts.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 25: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 25 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "birthday-party-25"
         },
         {
             "id": "birthday-party-26",
             "text": [
-                "It was time to use all their Gratitude skills.",
-                "\"Remember,\" said {{FATHER}}, \"Gratitude is the key.\"",
-                "\"Let's put the gifts here,\" suggested {{FATHER}}."
+                "\"One piece at a time. One small step at a time,\" {{CHILD}} repeated.",
+                "The second piece fell into place. Then the third.",
+                "Momentum built like a gentle snowball rolling downhill."
             ],
-            "illustrationHint": "Page 26: Challenge: {{CHILD}} overcoming an obstacle involving cake.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 26: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 26 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "birthday-party-26"
         },
         {
             "id": "birthday-party-27",
             "text": [
-                "The singing was being a bit stubborn today.",
-                "\"Remember,\" said {{FATHER}}, \"Gratitude is the key.\"",
-                "{{CHILD}} and {{MOTHER}} shared a warm smile."
+                "A wobble on step seven threatened to undo everything.",
+                "But {{CHILD}} caught it in time — quick thinking saved the project!",
+                "\"That was close!\" they exhaled with relief."
             ],
-            "illustrationHint": "Page 27: Challenge: {{CHILD}} overcoming an obstacle involving candles.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 27: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 27 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "birthday-party-27"
         },
         {
             "id": "birthday-party-28",
             "text": [
-                "{{CHILD}} tried to balance the balloons on their head.",
-                "\"Remember,\" said {{FATHER}}, \"Gratitude is the key.\"",
-                "It was a perfect day for a family cake."
+                "\"You didn't panic,\" {{MOTHER}} observed from the doorway.",
+                "\"That's the sign of someone who truly understands generosity.\"",
+                "{{CHILD}} continued, more determined than ever."
             ],
-            "illustrationHint": "Page 28: Challenge: {{CHILD}} overcoming an obstacle involving friends.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 28: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 28 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "birthday-party-28"
         },
         {
             "id": "birthday-party-29",
             "text": [
-                "\"Whew, that gifts is tricky!\" they laughed.",
-                "\"Remember,\" said {{FATHER}}, \"Gratitude is the key.\"",
-                "They sat down to look at the friends together."
+                "The hardest part was here — the moment that tested everything.",
+                "Hands steady, breath held, focus sharp as a laser.",
+                "{{CHILD}} gave it every ounce of effort they had."
             ],
-            "illustrationHint": "Page 29: Challenge: {{CHILD}} overcoming an obstacle involving singing.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 29: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 29 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "birthday-party-29"
         },
         {
             "id": "birthday-party-30",
             "text": [
-                "The cake was higher than they expected.",
-                "\"Remember,\" said {{FATHER}}, \"Gratitude is the key.\"",
-                "They worked together to organize the balloons."
+                "And then... success! The challenge was CONQUERED!",
+                "\"I DID IT! I actually DID IT!\" {{CHILD}} leaped up and cheered.",
+                "{{MOTHER}} and {{FATHER}} wrapped them in the biggest hug."
             ],
-            "illustrationHint": "Page 30: Challenge: {{CHILD}} overcoming an obstacle involving balloons.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 30: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 30 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "birthday-party-30"
         },
         {
             "id": "birthday-party-31",
             "text": [
-                "Oh no! The path to the balloons was blocked!",
-                "\"Remember,\" said {{FATHER}}, \"Gratitude is the key.\"",
-                "{{CHILD}} gave the singing a big, happy hug."
+                "The finished project sat before {{CHILD}} — real and beautiful.",
+                "Every challenge, every frustration had led to this moment.",
+                "\"It's even better than I imagined,\" they whispered."
             ],
-            "illustrationHint": "Page 31: Challenge: {{CHILD}} overcoming an obstacle involving gifts.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 31: Triumph — {{CHILD}} celebrating success and growth. Unique scene 31 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "birthday-party-31"
         },
         {
             "id": "birthday-party-32",
             "text": [
-                "How will we ever move this heavy gifts?",
-                "\"Remember,\" said {{FATHER}}, \"Gratitude is the key.\"",
-                "They found an old cake that brought back memories."
+                "{{CHILD}} wanted to share their achievement with everyone.",
+                "Friends, family, even the neighbors were invited to see.",
+                "\"Look what generosity helped me create!\""
             ],
-            "illustrationHint": "Page 32: Challenge: {{CHILD}} overcoming an obstacle involving cake.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 32: Triumph — {{CHILD}} celebrating success and growth. Unique scene 32 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "birthday-party-32"
         },
         {
             "id": "birthday-party-33",
             "text": [
-                "The cake started to spin faster and faster!",
-                "\"Remember,\" said {{FATHER}}, \"Gratitude is the key.\"",
-                "Everyone gathered around the gifts for a photo."
+                "\"You should be incredibly proud,\" {{FATHER}} said at dinner.",
+                "\"Not just of the result, but of how you got there.\"",
+                "{{CHILD}} thought about the journey — every up and every down."
             ],
-            "illustrationHint": "Page 33: Challenge: {{CHILD}} overcoming an obstacle involving candles.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 33: Triumph — {{CHILD}} celebrating success and growth. Unique scene 33 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "birthday-party-33"
         },
         {
             "id": "birthday-party-34",
             "text": [
-                "{{CHILD}} had to hold onto the candles very tightly.",
-                "\"Remember,\" said {{FATHER}}, \"Gratitude is the key.\"",
-                "The house was filled with the scent of candles."
+                "A special presentation was arranged for the family.",
+                "{{CHILD}} explained each step, each challenge, each victory.",
+                "The audience of loved ones listened with shining eyes."
             ],
-            "illustrationHint": "Page 34: Challenge: {{CHILD}} overcoming an obstacle involving friends.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 34: Triumph — {{CHILD}} celebrating success and growth. Unique scene 34 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "birthday-party-34"
         },
         {
             "id": "birthday-party-35",
             "text": [
-                "\"We need to solve this friends puzzle,\" said {{FATHER}}.",
-                "\"Remember,\" said {{FATHER}}, \"Gratitude is the key.\"",
-                "They sang a song while holding the balloons."
+                "\"What was the hardest moment?\" asked {{FATHER}}.",
+                "\"When I wanted to quit but didn't,\" {{CHILD}} answered quietly.",
+                "That answer earned nods of deep respect from everyone."
             ],
-            "illustrationHint": "Page 35: Challenge: {{CHILD}} overcoming an obstacle involving singing.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 35: Triumph — {{CHILD}} celebrating success and growth. Unique scene 35 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "birthday-party-35"
         },
         {
             "id": "birthday-party-36",
             "text": [
-                "Success! The balloons is finally working!",
-                "The birthday party adventure was a huge success.",
-                "\"I love my family so much,\" thought {{CHILD}}."
+                "{{CHILD}} decided to help someone else learn too.",
+                "Teaching felt different — it deepened their own understanding.",
+                "\"The best way to grow is to help others grow,\" they realized."
             ],
-            "illustrationHint": "Page 36: Success: {{CHILD}} celebrating Gratitude with balloons.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 36: Triumph — {{CHILD}} celebrating success and growth. Unique scene 36 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "birthday-party-36"
         },
         {
             "id": "birthday-party-37",
             "text": [
-                "{{CHILD}} mastered the use of the gifts!",
-                "The birthday party adventure was a huge success.",
-                "They felt safe and loved on this balloons day."
+                "A moment of reflection: looking at where they started vs. now.",
+                "The difference was remarkable — night and day.",
+                "\"I didn't know I could do all this,\" {{CHILD}} said in wonder."
             ],
-            "illustrationHint": "Page 37: Success: {{CHILD}} celebrating Gratitude with gifts.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 37: Triumph — {{CHILD}} celebrating success and growth. Unique scene 37 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "birthday-party-37"
         },
         {
             "id": "birthday-party-38",
             "text": [
-                "A magical glow came from the cake.",
-                "The birthday party adventure was a huge success.",
-                "Being together makes every candles special."
+                "The 🎂 became {{CHILD}}'s special symbol.",
+                "It represented their journey, their challenge, their triumph.",
+                "\"Whenever I see 🎂, I'll remember what I can do.\""
             ],
-            "illustrationHint": "Page 38: Success: {{CHILD}} celebrating Gratitude with cake.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 38: Triumph — {{CHILD}} celebrating success and growth. Unique scene 38 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "birthday-party-38"
         },
         {
             "id": "birthday-party-39",
             "text": [
-                "The candles turned into a shower of stars!",
-                "The birthday party adventure was a huge success.",
-                "\"Thank you for helping with the friends,\" said {{MOTHER}}."
+                "Celebrating wasn't about bragging — it was about gratitude.",
+                "\"Thank you for believing in me,\" {{CHILD}} told {{MOTHER}} and {{FATHER}}.",
+                "\"We always believed. You just needed to believe in yourself.\""
             ],
-            "illustrationHint": "Page 39: Success: {{CHILD}} celebrating Gratitude with candles.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 39: Triumph — {{CHILD}} celebrating success and growth. Unique scene 39 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "birthday-party-39"
         },
         {
             "id": "birthday-party-40",
             "text": [
-                "Everyone was proud of the friends work.",
-                "The birthday party adventure was a huge success.",
-                "\"This singing is the best part of home.\""
+                "The evening ended with quiet pride and a full heart.",
+                "Not everything in life would be this manageable — but generosity?",
+                "That would carry {{CHILD}} through anything."
             ],
-            "illustrationHint": "Page 40: Success: {{CHILD}} celebrating Gratitude with friends.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 40: Triumph — {{CHILD}} celebrating success and growth. Unique scene 40 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "birthday-party-40"
         },
         {
             "id": "birthday-party-41",
             "text": [
-                "\"You showed so much Gratitude,\" said {{MOTHER}}.",
-                "The birthday party adventure was a huge success.",
-                "\"I love my family so much,\" thought {{CHILD}}."
+                "Bath time was extra peaceful tonight.",
+                "{{CHILD}} thought about everything they'd learned.",
+                "Water swirled around them like the flow of the whole day."
             ],
-            "illustrationHint": "Page 41: Success: {{CHILD}} celebrating Gratitude with singing.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 41: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 41 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "birthday-party-41"
         },
         {
             "id": "birthday-party-42",
             "text": [
-                "The singing looked beautiful in the end.",
-                "The birthday party adventure was a huge success.",
-                "They felt safe and loved on this balloons day."
+                "In clean pajamas, {{CHILD}} sat on the bed thoughtfully.",
+                "The decorated house experience had changed something inside them.",
+                "They felt bigger, not in size, but in spirit."
             ],
-            "illustrationHint": "Page 42: Success: {{CHILD}} celebrating Gratitude with balloons.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 42: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 42 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "birthday-party-42"
         },
         {
             "id": "birthday-party-43",
             "text": [
-                "They shared a giant 🎂 celebration.",
-                "The birthday party adventure was a huge success.",
-                "Being together makes every candles special."
+                "\"What did birthday party teach you?\" {{MOTHER}} asked at tuck-in.",
+                "{{CHILD}} thought carefully before answering.",
+                "\"That generosity isn't just a word — it's a superpower.\""
             ],
-            "illustrationHint": "Page 43: Success: {{CHILD}} celebrating Gratitude with gifts.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 43: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 43 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "birthday-party-43"
         },
         {
             "id": "birthday-party-44",
             "text": [
-                "Success! The balloons is finally working!",
-                "The birthday party adventure was a huge success.",
-                "\"Thank you for helping with the friends,\" said {{MOTHER}}."
+                "{{MOTHER}} kissed {{CHILD}}'s forehead with all the love in the world.",
+                "\"Your superpower was inside you all along.\"",
+                "{{CHILD}} pulled the blanket up and smiled."
             ],
-            "illustrationHint": "Page 44: Success: {{CHILD}} celebrating Gratitude with cake.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 44: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 44 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "birthday-party-44"
         },
         {
             "id": "birthday-party-45",
             "text": [
-                "{{CHILD}} mastered the use of the gifts!",
-                "The birthday party adventure was a huge success.",
-                "\"This singing is the best part of home.\""
+                "The moonlight painted silver patterns on the bedroom wall.",
+                "Somewhere in the house, evidence of today's adventure waited.",
+                "Ready for tomorrow's next chapter."
             ],
-            "illustrationHint": "Page 45: Success: {{CHILD}} celebrating Gratitude with candles.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 45: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 45 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "birthday-party-45"
         },
         {
             "id": "birthday-party-46",
             "text": [
-                "As the stars came out, they talked about the balloons.",
-                "\"Let's put the gifts here,\" suggested {{FATHER}}.",
-                "{{CHILD}} gave a happy yawn after the birthday party day."
+                "Stars appeared one by one in the darkening sky.",
+                "Each one twinkled like a tiny cheerleader.",
+                "\"Even the stars are proud of you tonight,\" {{MOTHER}} whispered."
             ],
-            "illustrationHint": "Page 46: Sleepy: {{CHILD}} reflecting on the birthday party journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 46: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 46 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "birthday-party-46"
         },
         {
             "id": "birthday-party-47",
             "text": [
-                "{{CHILD}} realized that Gratitude is very important.",
-                "{{CHILD}} and {{MOTHER}} shared a warm smile.",
-                "{{CHILD}} gave a happy yawn after the birthday party day."
+                "Dreams arrived like gentle waves on a warm shore.",
+                "In the dream, {{CHILD}} was surrounded by everything they loved.",
+                "The decorated house, the cake, the balloons — all glowing with magic."
             ],
-            "illustrationHint": "Page 47: Sleepy: {{CHILD}} reflecting on the birthday party journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 47: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 47 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "birthday-party-47"
         },
         {
             "id": "birthday-party-48",
             "text": [
-                "They tucked the gifts into its special box.",
-                "It was a perfect day for a family cake.",
-                "{{CHILD}} gave a happy yawn after the birthday party day."
+                "Dream-{{CHILD}} was a master — confident, skilled, and kind.",
+                "Every challenge in the dream was met with generosity.",
+                "And every challenge was overcome, one by one."
             ],
-            "illustrationHint": "Page 48: Sleepy: {{CHILD}} reflecting on the birthday party journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 48: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 48 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "birthday-party-48"
         },
         {
             "id": "birthday-party-49",
             "text": [
-                "\"I loved the cake today,\" said {{CHILD}}.",
-                "They sat down to look at the friends together.",
-                "{{CHILD}} gave a happy yawn after the birthday party day."
+                "The dream world slowly darkened into the deepest, most restful sleep.",
+                "Outside, the night was peaceful and full of possibility.",
+                "Tomorrow would bring new adventures, new lessons, new growth."
             ],
-            "illustrationHint": "Page 49: Sleepy: {{CHILD}} reflecting on the birthday party journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 49: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 49 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "birthday-party-49"
         },
         {
             "id": "birthday-party-50",
             "text": [
-                "The candles was now a happy memory.",
-                "They worked together to organize the balloons.",
-                "Goodnight, brave adventurer. See you in tomorrow's story!"
+                "The 🎂 glowed softly in {{CHILD}}'s imagination as they slept.",
+                "A symbol of what they'd learned, what they'd done, who they were becoming.",
+                "Goodnight, wonderful {{CHILD}}. You made today absolutely magical."
             ],
-            "illustrationHint": "Page 50: Sleepy: {{CHILD}} reflecting on the birthday party journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 50: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 50 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "birthday-party-50"
         }
     ]

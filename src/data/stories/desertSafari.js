@@ -1,511 +1,511 @@
-// Refined story - {{CHILD}}'s Camel Ride
+// {{CHILD}}'s Desert Safari — Unique story with 50 distinct pages
 const story = {
     "id": "desert-safari",
-    "title": "{{CHILD}}'s Camel Ride",
+    "title": "{{CHILD}}'s Desert Safari",
     "emoji": "🐪",
     "theme": "Outdoor Stories",
     "lesson": "Resilience",
-    "description": "Explore the wonders of desert safari and learn about Resilience!",
+    "description": "The desert is full of surprises as {{CHILD}} learns that life thrives even in tough conditions!",
     "coverColor": "#F1C40F",
     "pages": [
         {
             "id": "desert-safari-1",
             "text": [
-                "Today was the start of something amazing for {{CHILD}}.",
-                "They were going to explore the world of desert safari!",
-                "\"Are you ready for the desert-safari journey?\" asked {{MOTHER}}."
+                "The desert landscape was filled with exciting possibilities.",
+                "{{CHILD}} looked around with wide, sparkling eyes.",
+                "\"Are you ready for the desert safari adventure?\" asked {{MOTHER}}."
             ],
-            "illustrationHint": "Page 1: Opening scene: {{CHILD}} and family standing by a sign for \"desert safari\".. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 1: Introduction — {{CHILD}} discovering the Desert Safari world. Unique scene 1 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "desert-safari-1"
         },
         {
             "id": "desert-safari-2",
             "text": [
-                "Then, they checked the sand to make sure it was ready.",
-                "They collected some oasis to show the family.",
-                "\"This Outdoor Stories is full of surprises!\""
+                "Everything was set up and waiting — the camel, the cactus, and more.",
+                "{{CHILD}} picked up the camel and turned it over in their hands.",
+                "\"This is going to be the best day ever!\" they declared."
             ],
-            "illustrationHint": "Page 2: Setup: {{CHILD}} working with oasis.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 2: Introduction — {{CHILD}} discovering the Desert Safari world. Unique scene 2 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "desert-safari-2"
         },
         {
             "id": "desert-safari-3",
             "text": [
-                "{{CHILD}} put on their special oasis gear.",
-                "{{CHILD}} felt the fresh air blowing through the hump.",
-                "\"This Outdoor Stories is full of surprises!\""
+                "{{MOTHER}} explained how the sand dunes worked while {{CHILD}} listened carefully.",
+                "\"First, you need to understand the sand dunes before you use it.\"",
+                "{{CHILD}} nodded seriously, determined to learn everything."
             ],
-            "illustrationHint": "Page 3: Setup: {{CHILD}} working with heat.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 3: Introduction — {{CHILD}} discovering the Desert Safari world. Unique scene 3 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "desert-safari-3"
         },
         {
             "id": "desert-safari-4",
             "text": [
-                "\"Don't forget the heat!\" called out {{MOTHER}}.",
-                "They followed a trail of heat deep into the woods.",
-                "\"This Outdoor Stories is full of surprises!\""
+                "The first step was riding — and {{CHILD}} gave it their best try.",
+                "It wasn't perfect, but it was a wonderful beginning.",
+                "\"Everyone starts exactly where you are right now,\" {{MOTHER}} encouraged."
             ],
-            "illustrationHint": "Page 4: Setup: {{CHILD}} working with hump.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 4: Introduction — {{CHILD}} discovering the Desert Safari world. Unique scene 4 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "desert-safari-4"
         },
         {
             "id": "desert-safari-5",
             "text": [
-                "Everything felt so hump and new today.",
-                "The ground was covered in soft oasis.",
-                "\"This Outdoor Stories is full of surprises!\""
+                "{{CHILD}} noticed how the lizard connected to the oasis.",
+                "\"Oh! I see how they work together!\" they exclaimed.",
+                "Understanding one thing opened a door to understanding another."
             ],
-            "illustrationHint": "Page 5: Setup: {{CHILD}} working with travel.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 5: Introduction — {{CHILD}} discovering the Desert Safari world. Unique scene 5 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "desert-safari-5"
         },
         {
             "id": "desert-safari-6",
             "text": [
-                "{{CHILD}} noticed a small travel near the entrance.",
-                "The sun glinted off the surface of the dunes.",
-                "\"This Outdoor Stories is full of surprises!\""
+                "A moment of focus: {{CHILD}} concentrated on walking with careful hands.",
+                "The sunset responded beautifully to their gentle touch.",
+                "\"You have a natural talent for this,\" {{MOTHER}} said warmly."
             ],
-            "illustrationHint": "Page 6: Setup: {{CHILD}} working with dunes.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 6: Introduction — {{CHILD}} discovering the Desert Safari world. Unique scene 6 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "desert-safari-6"
         },
         {
             "id": "desert-safari-7",
             "text": [
-                "Step 7 of the plan was to look for the dunes.",
-                "\"Look at those sand in the distance!\"",
-                "\"This Outdoor Stories is full of surprises!\""
+                "\"Can I try spotting next?\" {{CHILD}} asked eagerly.",
+                "{{MOTHER}} showed them the technique step by step.",
+                "Slow at first, then smoother, then almost graceful."
             ],
-            "illustrationHint": "Page 7: Setup: {{CHILD}} working with sand.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 7: Introduction — {{CHILD}} discovering the Desert Safari world. Unique scene 7 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "desert-safari-7"
         },
         {
             "id": "desert-safari-8",
             "text": [
-                "\"I can't wait to see the sand!\" {{CHILD}} cheered.",
-                "They climbed over a large dunes on the trail.",
-                "\"This Outdoor Stories is full of surprises!\""
+                "The stars was trickier than expected.",
+                "{{CHILD}} bit their lower lip in concentration.",
+                "\"Take your time — there's no rush,\" reminded {{MOTHER}}."
             ],
-            "illustrationHint": "Page 8: Setup: {{CHILD}} working with oasis.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 8: Introduction — {{CHILD}} discovering the Desert Safari world. Unique scene 8 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "desert-safari-8"
         },
         {
             "id": "desert-safari-9",
             "text": [
-                "The air was filled with the scent of oasis.",
-                "The path led them to a beautiful heat clearing.",
-                "\"This Outdoor Stories is full of surprises!\""
+                "Something unexpected happened — the compass did something surprising!",
+                "\"Whoa! Did you see that?\" {{CHILD}} jumped with excitement.",
+                "Even {{MOTHER}} looked impressed by the unexpected discovery."
             ],
-            "illustrationHint": "Page 9: Setup: {{CHILD}} working with heat.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 9: Introduction — {{CHILD}} discovering the Desert Safari world. Unique scene 9 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "desert-safari-9"
         },
         {
             "id": "desert-safari-10",
             "text": [
-                "They found a map that showed the way to the heat.",
-                "They stopped to watch a sand move slowly.",
-                "\"This Outdoor Stories is full of surprises!\""
+                "By the end of the first session, {{CHILD}} had learned so much.",
+                "The desert landscape felt like a second home already.",
+                "\"Can we come back tomorrow?\" {{CHILD}} asked hopefully."
             ],
-            "illustrationHint": "Page 10: Setup: {{CHILD}} working with hump.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 10: Introduction — {{CHILD}} discovering the Desert Safari world. Unique scene 10 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "desert-safari-10"
         },
         {
             "id": "desert-safari-11",
             "text": [
-                "Look at that dunes! It's bigger than I thought!",
-                "The world of desert safari was opening up.",
-                "\"I feel so brave and strong out here!\""
+                "The second session started with a review of what {{CHILD}} already knew.",
+                "Riding came more naturally now.",
+                "\"Your muscle memory is building,\" {{MOTHER}} observed."
             ],
-            "illustrationHint": "Page 11: Discovery: {{CHILD}} finding travel.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 11: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 11 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "desert-safari-11"
         },
         {
             "id": "desert-safari-12",
             "text": [
-                "{{CHILD}} discovered a hidden path made of hump.",
-                "The world of desert safari was opening up.",
-                "They breathed in the scent of fresh dunes."
+                "{{CHILD}} wanted to explore the camel in a new way.",
+                "\"What happens if I try photographing instead?\" they wondered aloud.",
+                "The result was surprising and delightful!"
             ],
-            "illustrationHint": "Page 12: Discovery: {{CHILD}} finding dunes.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 12: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 12 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "desert-safari-12"
         },
         {
             "id": "desert-safari-13",
             "text": [
-                "Wait, is that a travel peeking through the sand?",
-                "The world of desert safari was opening up.",
-                "\"Nature is the biggest playground!\""
+                "A challenge appeared: combining walking with resting at the same time.",
+                "{{CHILD}}'s brain had to think about two things at once.",
+                "\"It's like patting your head and rubbing your tummy!\" they laughed."
             ],
-            "illustrationHint": "Page 13: Discovery: {{CHILD}} finding sand.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 13: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 13 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "desert-safari-13"
         },
         {
             "id": "desert-safari-14",
             "text": [
-                "They found a mysterious oasis sitting on a stone.",
-                "The world of desert safari was opening up.",
-                "Walking through the hump felt so peaceful."
+                "{{CHILD}} discovered a secret about the cactus.",
+                "When they tried marveling more gently, the cactus responded much better.",
+                "\"Everything works better with a gentle touch,\" {{CHILD}} realized."
             ],
-            "illustrationHint": "Page 14: Discovery: {{CHILD}} finding oasis.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 14: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 14 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "desert-safari-14"
         },
         {
             "id": "desert-safari-15",
             "text": [
-                "\"Look at how the heat shines!\" {{CHILD}} exclaimed.",
-                "The world of desert safari was opening up.",
-                "\"What's over that travel hill?\" wondered {{CHILD}}."
+                "The sand dunes and the lizard were used together for the first time.",
+                "{{CHILD}} created something they'd never seen before.",
+                "\"I made this! All by myself!\" they beamed with pride."
             ],
-            "illustrationHint": "Page 15: Discovery: {{CHILD}} finding heat.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 15: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 15 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "desert-safari-15"
         },
         {
             "id": "desert-safari-16",
             "text": [
-                "Each step revealed more about the magic of dunes.",
-                "The world of desert safari was opening up.",
-                "\"I feel so brave and strong out here!\""
+                "\"Let me show {{FATHER}} what I learned!\" {{CHILD}} said at dinner.",
+                "A mini demonstration right there at the table.",
+                "{{FATHER}} clapped and said, \"That's incredibly impressive!\"\""
             ],
-            "illustrationHint": "Page 16: Discovery: {{CHILD}} finding hump.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 16: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 16 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "desert-safari-16"
         },
         {
             "id": "desert-safari-17",
             "text": [
-                "{{CHILD}} used a magnifying glass to see the sand.",
-                "The world of desert safari was opening up.",
-                "They breathed in the scent of fresh dunes."
+                "Practice at home became part of {{CHILD}}'s daily routine.",
+                "Ten minutes every day — sometimes fifteen when it was extra fun.",
+                "Consistency turned hesitation into confidence."
             ],
-            "illustrationHint": "Page 17: Discovery: {{CHILD}} finding travel.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 17: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 17 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "desert-safari-17"
         },
         {
             "id": "desert-safari-18",
             "text": [
-                "\"The hump here is so colorful!\" they said.",
-                "The world of desert safari was opening up.",
-                "\"Nature is the biggest playground!\""
+                "A book from the library showed experts doing the same thing.",
+                "{{CHILD}} studied the pictures and tried to copy the techniques.",
+                "\"Even pros started as beginners,\" they said to themselves."
             ],
-            "illustrationHint": "Page 18: Discovery: {{CHILD}} finding dunes.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 18: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 18 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "desert-safari-18"
         },
         {
             "id": "desert-safari-19",
             "text": [
-                "They followed a trail of travel into the deep oasis.",
-                "The world of desert safari was opening up.",
-                "Walking through the hump felt so peaceful."
+                "Something clicked today — a skill that was hard became easy.",
+                "{{CHILD}} repeated it four times just to make sure it wasn't a fluke.",
+                "Not a fluke. A breakthrough. The feeling was incredible."
             ],
-            "illustrationHint": "Page 19: Discovery: {{CHILD}} finding sand.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 19: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 19 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "desert-safari-19"
         },
         {
             "id": "desert-safari-20",
             "text": [
-                "A friendly bird chirped from the top of the heat.",
-                "The world of desert safari was opening up.",
-                "\"What's over that travel hill?\" wondered {{CHILD}}."
+                "\"I think I'm ready for something bigger,\" {{CHILD}} told {{MOTHER}}.",
+                "The sparkle in their eyes showed they meant it.",
+                "\"Then let's make it happen,\" {{MOTHER}} agreed with a smile."
             ],
-            "illustrationHint": "Page 20: Discovery: {{CHILD}} finding oasis.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 20: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 20 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "desert-safari-20"
         },
         {
             "id": "desert-safari-21",
             "text": [
-                "Oh no! The path to the dunes was blocked!",
-                "\"Remember,\" said {{FATHER}}, \"Resilience is the key.\"",
-                "They found a hidden travel behind the rocks."
+                "The advanced challenge was right in front of {{CHILD}}.",
+                "A bigger project that required everything they'd learned.",
+                "\"This looks harder than anything I've tried before,\" they admitted."
             ],
-            "illustrationHint": "Page 21: Challenge: {{CHILD}} overcoming an obstacle involving heat.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 21: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 21 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "desert-safari-21"
         },
         {
             "id": "desert-safari-22",
             "text": [
-                "How will we ever move this heavy sand?",
-                "\"Remember,\" said {{FATHER}}, \"Resilience is the key.\"",
-                "They collected some oasis to show the family."
+                "Step one went smoothly — confidence from practice shone through.",
+                "But step two was different. The oasis didn't cooperate.",
+                "\"Come on, work with me,\" {{CHILD}} muttered, trying again."
             ],
-            "illustrationHint": "Page 22: Challenge: {{CHILD}} overcoming an obstacle involving hump.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 22: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 22 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "desert-safari-22"
         },
         {
             "id": "desert-safari-23",
             "text": [
-                "The oasis started to spin faster and faster!",
-                "\"Remember,\" said {{FATHER}}, \"Resilience is the key.\"",
-                "{{CHILD}} felt the fresh air blowing through the hump."
+                "Frustration crept in like an unwelcome visitor.",
+                "Three attempts, three mistakes, three sighs.",
+                "{{CHILD}} put down the sunset and stared at the ceiling."
             ],
-            "illustrationHint": "Page 23: Challenge: {{CHILD}} overcoming an obstacle involving travel.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 23: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 23 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "desert-safari-23"
         },
         {
             "id": "desert-safari-24",
             "text": [
-                "{{CHILD}} had to hold onto the heat very tightly.",
-                "\"Remember,\" said {{FATHER}}, \"Resilience is the key.\"",
-                "They followed a trail of heat deep into the woods."
+                "\"Remember,\" said {{FATHER}}, \"Resilience is what gets you through.\"",
+                "{{CHILD}} took three deep breaths, finding calm.",
+                "\"Okay. Let me think about this differently.\""
             ],
-            "illustrationHint": "Page 24: Challenge: {{CHILD}} overcoming an obstacle involving dunes.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 24: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 24 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "desert-safari-24"
         },
         {
             "id": "desert-safari-25",
             "text": [
-                "\"We need to solve this hump puzzle,\" said {{FATHER}}.",
-                "\"Remember,\" said {{FATHER}}, \"Resilience is the key.\"",
-                "The ground was covered in soft oasis."
+                "A new approach! Instead of forcing it, {{CHILD}} went slowly.",
+                "Breaking the problem into tiny, manageable pieces.",
+                "The first small piece worked perfectly."
             ],
-            "illustrationHint": "Page 25: Challenge: {{CHILD}} overcoming an obstacle involving sand.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 25: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 25 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "desert-safari-25"
         },
         {
             "id": "desert-safari-26",
             "text": [
-                "It was time to use all their Resilience skills.",
-                "\"Remember,\" said {{FATHER}}, \"Resilience is the key.\"",
-                "The sun glinted off the surface of the dunes."
+                "\"One piece at a time. One small step at a time,\" {{CHILD}} repeated.",
+                "The second piece fell into place. Then the third.",
+                "Momentum built like a gentle snowball rolling downhill."
             ],
-            "illustrationHint": "Page 26: Challenge: {{CHILD}} overcoming an obstacle involving oasis.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 26: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 26 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "desert-safari-26"
         },
         {
             "id": "desert-safari-27",
             "text": [
-                "The travel was being a bit stubborn today.",
-                "\"Remember,\" said {{FATHER}}, \"Resilience is the key.\"",
-                "\"Look at those sand in the distance!\""
+                "A wobble on step seven threatened to undo everything.",
+                "But {{CHILD}} caught it in time — quick thinking saved the project!",
+                "\"That was close!\" they exhaled with relief."
             ],
-            "illustrationHint": "Page 27: Challenge: {{CHILD}} overcoming an obstacle involving heat.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 27: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 27 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "desert-safari-27"
         },
         {
             "id": "desert-safari-28",
             "text": [
-                "{{CHILD}} tried to balance the dunes on their head.",
-                "\"Remember,\" said {{FATHER}}, \"Resilience is the key.\"",
-                "They climbed over a large dunes on the trail."
+                "\"You didn't panic,\" {{MOTHER}} observed from the doorway.",
+                "\"That's the sign of someone who truly understands resilience.\"",
+                "{{CHILD}} continued, more determined than ever."
             ],
-            "illustrationHint": "Page 28: Challenge: {{CHILD}} overcoming an obstacle involving hump.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 28: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 28 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "desert-safari-28"
         },
         {
             "id": "desert-safari-29",
             "text": [
-                "\"Whew, that sand is tricky!\" they laughed.",
-                "\"Remember,\" said {{FATHER}}, \"Resilience is the key.\"",
-                "The path led them to a beautiful heat clearing."
+                "The hardest part was here — the moment that tested everything.",
+                "Hands steady, breath held, focus sharp as a laser.",
+                "{{CHILD}} gave it every ounce of effort they had."
             ],
-            "illustrationHint": "Page 29: Challenge: {{CHILD}} overcoming an obstacle involving travel.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 29: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 29 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "desert-safari-29"
         },
         {
             "id": "desert-safari-30",
             "text": [
-                "The oasis was higher than they expected.",
-                "\"Remember,\" said {{FATHER}}, \"Resilience is the key.\"",
-                "They stopped to watch a sand move slowly."
+                "And then... success! The challenge was CONQUERED!",
+                "\"I DID IT! I actually DID IT!\" {{CHILD}} leaped up and cheered.",
+                "{{MOTHER}} and {{FATHER}} wrapped them in the biggest hug."
             ],
-            "illustrationHint": "Page 30: Challenge: {{CHILD}} overcoming an obstacle involving dunes.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 30: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 30 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "desert-safari-30"
         },
         {
             "id": "desert-safari-31",
             "text": [
-                "Oh no! The path to the dunes was blocked!",
-                "\"Remember,\" said {{FATHER}}, \"Resilience is the key.\"",
-                "They found a hidden travel behind the rocks."
+                "The finished project sat before {{CHILD}} — real and beautiful.",
+                "Every challenge, every frustration had led to this moment.",
+                "\"It's even better than I imagined,\" they whispered."
             ],
-            "illustrationHint": "Page 31: Challenge: {{CHILD}} overcoming an obstacle involving sand.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 31: Triumph — {{CHILD}} celebrating success and growth. Unique scene 31 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "desert-safari-31"
         },
         {
             "id": "desert-safari-32",
             "text": [
-                "How will we ever move this heavy sand?",
-                "\"Remember,\" said {{FATHER}}, \"Resilience is the key.\"",
-                "They collected some oasis to show the family."
+                "{{CHILD}} wanted to share their achievement with everyone.",
+                "Friends, family, even the neighbors were invited to see.",
+                "\"Look what resilience helped me create!\""
             ],
-            "illustrationHint": "Page 32: Challenge: {{CHILD}} overcoming an obstacle involving oasis.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 32: Triumph — {{CHILD}} celebrating success and growth. Unique scene 32 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "desert-safari-32"
         },
         {
             "id": "desert-safari-33",
             "text": [
-                "The oasis started to spin faster and faster!",
-                "\"Remember,\" said {{FATHER}}, \"Resilience is the key.\"",
-                "{{CHILD}} felt the fresh air blowing through the hump."
+                "\"You should be incredibly proud,\" {{FATHER}} said at dinner.",
+                "\"Not just of the result, but of how you got there.\"",
+                "{{CHILD}} thought about the journey — every up and every down."
             ],
-            "illustrationHint": "Page 33: Challenge: {{CHILD}} overcoming an obstacle involving heat.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 33: Triumph — {{CHILD}} celebrating success and growth. Unique scene 33 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "desert-safari-33"
         },
         {
             "id": "desert-safari-34",
             "text": [
-                "{{CHILD}} had to hold onto the heat very tightly.",
-                "\"Remember,\" said {{FATHER}}, \"Resilience is the key.\"",
-                "They followed a trail of heat deep into the woods."
+                "A special presentation was arranged for the family.",
+                "{{CHILD}} explained each step, each challenge, each victory.",
+                "The audience of loved ones listened with shining eyes."
             ],
-            "illustrationHint": "Page 34: Challenge: {{CHILD}} overcoming an obstacle involving hump.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 34: Triumph — {{CHILD}} celebrating success and growth. Unique scene 34 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "desert-safari-34"
         },
         {
             "id": "desert-safari-35",
             "text": [
-                "\"We need to solve this hump puzzle,\" said {{FATHER}}.",
-                "\"Remember,\" said {{FATHER}}, \"Resilience is the key.\"",
-                "The ground was covered in soft oasis."
+                "\"What was the hardest moment?\" asked {{FATHER}}.",
+                "\"When I wanted to quit but didn't,\" {{CHILD}} answered quietly.",
+                "That answer earned nods of deep respect from everyone."
             ],
-            "illustrationHint": "Page 35: Challenge: {{CHILD}} overcoming an obstacle involving travel.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 35: Triumph — {{CHILD}} celebrating success and growth. Unique scene 35 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "desert-safari-35"
         },
         {
             "id": "desert-safari-36",
             "text": [
-                "Success! The dunes is finally working!",
-                "The desert safari adventure was a huge success.",
-                "\"I feel so brave and strong out here!\""
+                "{{CHILD}} decided to help someone else learn too.",
+                "Teaching felt different — it deepened their own understanding.",
+                "\"The best way to grow is to help others grow,\" they realized."
             ],
-            "illustrationHint": "Page 36: Success: {{CHILD}} celebrating Resilience with dunes.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 36: Triumph — {{CHILD}} celebrating success and growth. Unique scene 36 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "desert-safari-36"
         },
         {
             "id": "desert-safari-37",
             "text": [
-                "{{CHILD}} mastered the use of the sand!",
-                "The desert safari adventure was a huge success.",
-                "They breathed in the scent of fresh dunes."
+                "A moment of reflection: looking at where they started vs. now.",
+                "The difference was remarkable — night and day.",
+                "\"I didn't know I could do all this,\" {{CHILD}} said in wonder."
             ],
-            "illustrationHint": "Page 37: Success: {{CHILD}} celebrating Resilience with sand.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 37: Triumph — {{CHILD}} celebrating success and growth. Unique scene 37 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "desert-safari-37"
         },
         {
             "id": "desert-safari-38",
             "text": [
-                "A magical glow came from the oasis.",
-                "The desert safari adventure was a huge success.",
-                "\"Nature is the biggest playground!\""
+                "The 🐪 became {{CHILD}}'s special symbol.",
+                "It represented their journey, their challenge, their triumph.",
+                "\"Whenever I see 🐪, I'll remember what I can do.\""
             ],
-            "illustrationHint": "Page 38: Success: {{CHILD}} celebrating Resilience with oasis.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 38: Triumph — {{CHILD}} celebrating success and growth. Unique scene 38 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "desert-safari-38"
         },
         {
             "id": "desert-safari-39",
             "text": [
-                "The heat turned into a shower of stars!",
-                "The desert safari adventure was a huge success.",
-                "Walking through the hump felt so peaceful."
+                "Celebrating wasn't about bragging — it was about gratitude.",
+                "\"Thank you for believing in me,\" {{CHILD}} told {{MOTHER}} and {{FATHER}}.",
+                "\"We always believed. You just needed to believe in yourself.\""
             ],
-            "illustrationHint": "Page 39: Success: {{CHILD}} celebrating Resilience with heat.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 39: Triumph — {{CHILD}} celebrating success and growth. Unique scene 39 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "desert-safari-39"
         },
         {
             "id": "desert-safari-40",
             "text": [
-                "Everyone was proud of the hump work.",
-                "The desert safari adventure was a huge success.",
-                "\"What's over that travel hill?\" wondered {{CHILD}}."
+                "The evening ended with quiet pride and a full heart.",
+                "Not everything in life would be this manageable — but resilience?",
+                "That would carry {{CHILD}} through anything."
             ],
-            "illustrationHint": "Page 40: Success: {{CHILD}} celebrating Resilience with hump.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 40: Triumph — {{CHILD}} celebrating success and growth. Unique scene 40 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "desert-safari-40"
         },
         {
             "id": "desert-safari-41",
             "text": [
-                "\"You showed so much Resilience,\" said {{MOTHER}}.",
-                "The desert safari adventure was a huge success.",
-                "\"I feel so brave and strong out here!\""
+                "Bath time was extra peaceful tonight.",
+                "{{CHILD}} thought about everything they'd learned.",
+                "Water swirled around them like the flow of the whole day."
             ],
-            "illustrationHint": "Page 41: Success: {{CHILD}} celebrating Resilience with travel.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 41: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 41 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "desert-safari-41"
         },
         {
             "id": "desert-safari-42",
             "text": [
-                "The travel looked beautiful in the end.",
-                "The desert safari adventure was a huge success.",
-                "They breathed in the scent of fresh dunes."
+                "In clean pajamas, {{CHILD}} sat on the bed thoughtfully.",
+                "The desert landscape experience had changed something inside them.",
+                "They felt bigger, not in size, but in spirit."
             ],
-            "illustrationHint": "Page 42: Success: {{CHILD}} celebrating Resilience with dunes.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 42: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 42 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "desert-safari-42"
         },
         {
             "id": "desert-safari-43",
             "text": [
-                "They shared a giant 🐪 celebration.",
-                "The desert safari adventure was a huge success.",
-                "\"Nature is the biggest playground!\""
+                "\"What did desert safari teach you?\" {{MOTHER}} asked at tuck-in.",
+                "{{CHILD}} thought carefully before answering.",
+                "\"That resilience isn't just a word — it's a superpower.\""
             ],
-            "illustrationHint": "Page 43: Success: {{CHILD}} celebrating Resilience with sand.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 43: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 43 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "desert-safari-43"
         },
         {
             "id": "desert-safari-44",
             "text": [
-                "Success! The dunes is finally working!",
-                "The desert safari adventure was a huge success.",
-                "Walking through the hump felt so peaceful."
+                "{{MOTHER}} kissed {{CHILD}}'s forehead with all the love in the world.",
+                "\"Your superpower was inside you all along.\"",
+                "{{CHILD}} pulled the blanket up and smiled."
             ],
-            "illustrationHint": "Page 44: Success: {{CHILD}} celebrating Resilience with oasis.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 44: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 44 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "desert-safari-44"
         },
         {
             "id": "desert-safari-45",
             "text": [
-                "{{CHILD}} mastered the use of the sand!",
-                "The desert safari adventure was a huge success.",
-                "\"What's over that travel hill?\" wondered {{CHILD}}."
+                "The moonlight painted silver patterns on the bedroom wall.",
+                "Somewhere in the house, evidence of today's adventure waited.",
+                "Ready for tomorrow's next chapter."
             ],
-            "illustrationHint": "Page 45: Success: {{CHILD}} celebrating Resilience with heat.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 45: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 45 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "desert-safari-45"
         },
         {
             "id": "desert-safari-46",
             "text": [
-                "As the stars came out, they talked about the dunes.",
-                "The sun glinted off the surface of the dunes.",
-                "{{CHILD}} gave a happy yawn after the desert safari day."
+                "Stars appeared one by one in the darkening sky.",
+                "Each one twinkled like a tiny cheerleader.",
+                "\"Even the stars are proud of you tonight,\" {{MOTHER}} whispered."
             ],
-            "illustrationHint": "Page 46: Sleepy: {{CHILD}} reflecting on the desert safari journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 46: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 46 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "desert-safari-46"
         },
         {
             "id": "desert-safari-47",
             "text": [
-                "{{CHILD}} realized that Resilience is very important.",
-                "\"Look at those sand in the distance!\"",
-                "{{CHILD}} gave a happy yawn after the desert safari day."
+                "Dreams arrived like gentle waves on a warm shore.",
+                "In the dream, {{CHILD}} was surrounded by everything they loved.",
+                "The desert landscape, the camel, the cactus — all glowing with magic."
             ],
-            "illustrationHint": "Page 47: Sleepy: {{CHILD}} reflecting on the desert safari journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 47: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 47 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "desert-safari-47"
         },
         {
             "id": "desert-safari-48",
             "text": [
-                "They tucked the sand into its special box.",
-                "They climbed over a large dunes on the trail.",
-                "{{CHILD}} gave a happy yawn after the desert safari day."
+                "Dream-{{CHILD}} was a master — confident, skilled, and kind.",
+                "Every challenge in the dream was met with resilience.",
+                "And every challenge was overcome, one by one."
             ],
-            "illustrationHint": "Page 48: Sleepy: {{CHILD}} reflecting on the desert safari journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 48: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 48 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "desert-safari-48"
         },
         {
             "id": "desert-safari-49",
             "text": [
-                "\"I loved the oasis today,\" said {{CHILD}}.",
-                "The path led them to a beautiful heat clearing.",
-                "{{CHILD}} gave a happy yawn after the desert safari day."
+                "The dream world slowly darkened into the deepest, most restful sleep.",
+                "Outside, the night was peaceful and full of possibility.",
+                "Tomorrow would bring new adventures, new lessons, new growth."
             ],
-            "illustrationHint": "Page 49: Sleepy: {{CHILD}} reflecting on the desert safari journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 49: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 49 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "desert-safari-49"
         },
         {
             "id": "desert-safari-50",
             "text": [
-                "The heat was now a happy memory.",
-                "They stopped to watch a sand move slowly.",
-                "Goodnight, brave adventurer. See you in tomorrow's story!"
+                "The 🐪 glowed softly in {{CHILD}}'s imagination as they slept.",
+                "A symbol of what they'd learned, what they'd done, who they were becoming.",
+                "Goodnight, wonderful {{CHILD}}. You made today absolutely magical."
             ],
-            "illustrationHint": "Page 50: Sleepy: {{CHILD}} reflecting on the desert safari journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 50: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 50 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "desert-safari-50"
         }
     ]

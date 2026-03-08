@@ -261,10 +261,33 @@
     }
 
     .themes-grid {
-        grid-template-columns: repeat(2, 1fr);
+        grid-template-columns: 1fr;
     }
 
     .step-actions {
         flex-direction: column;
+    }
+
+    .create-header {
+        padding: var(--space-md);
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+
+    .step-indicator {
+        width: 100%;
+        justify-content: center;
+        margin-top: var(--space-md);
+        order: 3;
+    }
+
+    .create-step {
+        margin: var(--space-lg) auto;
+        padding: 0 var(--space-md);
+    }
+
+    .photo-preview {
+        width: 100px;
+        height: 100px;
     }
 }

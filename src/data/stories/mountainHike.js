@@ -1,511 +1,511 @@
-// Refined story - {{CHILD}} Reaches the Top
+// {{CHILD}}'s Mountain Hike — Unique story with 50 distinct pages
 const story = {
     "id": "mountain-hike",
-    "title": "{{CHILD}} Reaches the Top",
+    "title": "{{CHILD}}'s Mountain Hike",
     "emoji": "⛰️",
     "theme": "Outdoor Stories",
-    "lesson": "Hard Work",
-    "description": "Explore the wonders of mountain hike and learn about Hard Work!",
+    "lesson": "Determination",
+    "description": "Every step upward teaches {{CHILD}} that determination can move mountains!",
     "coverColor": "#95A5A6",
     "pages": [
         {
             "id": "mountain-hike-1",
             "text": [
-                "Today was the start of something amazing for {{CHILD}}.",
-                "They were going to explore the world of mountain hike!",
-                "\"Are you ready for the mountain-hike journey?\" asked {{MOTHER}}."
+                "The mountain trail was filled with exciting possibilities.",
+                "{{CHILD}} looked around with wide, sparkling eyes.",
+                "\"Are you ready for the mountain hike adventure?\" asked {{MOTHER}}."
             ],
-            "illustrationHint": "Page 1: Opening scene: {{CHILD}} and family standing by a sign for \"mountain hike\".. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 1: Introduction — {{CHILD}} discovering the Mountain Hike world. Unique scene 1 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "mountain-hike-1"
         },
         {
             "id": "mountain-hike-2",
             "text": [
-                "Then, they checked the boots to make sure it was ready.",
-                "They collected some view to show the family.",
-                "\"This Outdoor Stories is full of surprises!\""
+                "Everything was set up and waiting — the backpack, the water bottle, and more.",
+                "{{CHILD}} picked up the backpack and turned it over in their hands.",
+                "\"This is going to be the best day ever!\" they declared."
             ],
-            "illustrationHint": "Page 2: Setup: {{CHILD}} working with view.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 2: Introduction — {{CHILD}} discovering the Mountain Hike world. Unique scene 2 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "mountain-hike-2"
         },
         {
             "id": "mountain-hike-3",
             "text": [
-                "{{CHILD}} put on their special view gear.",
-                "The sun glinted off the surface of the climbing.",
-                "\"This Outdoor Stories is full of surprises!\""
+                "{{MOTHER}} explained how the trail markers worked while {{CHILD}} listened carefully.",
+                "\"First, you need to understand the trail markers before you use it.\"",
+                "{{CHILD}} nodded seriously, determined to learn everything."
             ],
-            "illustrationHint": "Page 3: Setup: {{CHILD}} working with uphill.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 3: Introduction — {{CHILD}} discovering the Mountain Hike world. Unique scene 3 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "mountain-hike-3"
         },
         {
             "id": "mountain-hike-4",
             "text": [
-                "\"Don't forget the uphill!\" called out {{MOTHER}}.",
-                "They found a hidden peak behind the rocks.",
-                "\"This Outdoor Stories is full of surprises!\""
+                "The first step was climbing — and {{CHILD}} gave it their best try.",
+                "It wasn't perfect, but it was a wonderful beginning.",
+                "\"Everyone starts exactly where you are right now,\" {{MOTHER}} encouraged."
             ],
-            "illustrationHint": "Page 4: Setup: {{CHILD}} working with stamina.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 4: Introduction — {{CHILD}} discovering the Mountain Hike world. Unique scene 4 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "mountain-hike-4"
         },
         {
             "id": "mountain-hike-5",
             "text": [
-                "Everything felt so stamina and new today.",
-                "\"Look at those boots in the distance!\"",
-                "\"This Outdoor Stories is full of surprises!\""
+                "{{CHILD}} noticed how the rocks connected to the wildflowers.",
+                "\"Oh! I see how they work together!\" they exclaimed.",
+                "Understanding one thing opened a door to understanding another."
             ],
-            "illustrationHint": "Page 5: Setup: {{CHILD}} working with peak.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 5: Introduction — {{CHILD}} discovering the Mountain Hike world. Unique scene 5 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "mountain-hike-5"
         },
         {
             "id": "mountain-hike-6",
             "text": [
-                "{{CHILD}} noticed a small peak near the entrance.",
-                "{{CHILD}} felt the fresh air blowing through the stamina.",
-                "\"This Outdoor Stories is full of surprises!\""
+                "A moment of focus: {{CHILD}} concentrated on resting with careful hands.",
+                "The binoculars responded beautifully to their gentle touch.",
+                "\"You have a natural talent for this,\" {{MOTHER}} said warmly."
             ],
-            "illustrationHint": "Page 6: Setup: {{CHILD}} working with climbing.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 6: Introduction — {{CHILD}} discovering the Mountain Hike world. Unique scene 6 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "mountain-hike-6"
         },
         {
             "id": "mountain-hike-7",
             "text": [
-                "Step 7 of the plan was to look for the climbing.",
-                "They stopped to watch a boots move slowly.",
-                "\"This Outdoor Stories is full of surprises!\""
+                "\"Can I try sipping next?\" {{CHILD}} asked eagerly.",
+                "{{MOTHER}} showed them the technique step by step.",
+                "Slow at first, then smoother, then almost graceful."
             ],
-            "illustrationHint": "Page 7: Setup: {{CHILD}} working with boots.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 7: Introduction — {{CHILD}} discovering the Mountain Hike world. Unique scene 7 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "mountain-hike-7"
         },
         {
             "id": "mountain-hike-8",
             "text": [
-                "\"I can't wait to see the boots!\" {{CHILD}} cheered.",
-                "The path led them to a beautiful uphill clearing.",
-                "\"This Outdoor Stories is full of surprises!\""
+                "The snacks was trickier than expected.",
+                "{{CHILD}} bit their lower lip in concentration.",
+                "\"Take your time — there's no rush,\" reminded {{MOTHER}}."
             ],
-            "illustrationHint": "Page 8: Setup: {{CHILD}} working with view.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 8: Introduction — {{CHILD}} discovering the Mountain Hike world. Unique scene 8 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "mountain-hike-8"
         },
         {
             "id": "mountain-hike-9",
             "text": [
-                "The air was filled with the scent of view.",
-                "They climbed over a large climbing on the trail.",
-                "\"This Outdoor Stories is full of surprises!\""
+                "Something unexpected happened — the hiking boots did something surprising!",
+                "\"Whoa! Did you see that?\" {{CHILD}} jumped with excitement.",
+                "Even {{MOTHER}} looked impressed by the unexpected discovery."
             ],
-            "illustrationHint": "Page 9: Setup: {{CHILD}} working with uphill.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 9: Introduction — {{CHILD}} discovering the Mountain Hike world. Unique scene 9 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "mountain-hike-9"
         },
         {
             "id": "mountain-hike-10",
             "text": [
-                "They found a map that showed the way to the uphill.",
-                "The ground was covered in soft view.",
-                "\"This Outdoor Stories is full of surprises!\""
+                "By the end of the first session, {{CHILD}} had learned so much.",
+                "The mountain trail felt like a second home already.",
+                "\"Can we come back tomorrow?\" {{CHILD}} asked hopefully."
             ],
-            "illustrationHint": "Page 10: Setup: {{CHILD}} working with stamina.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 10: Introduction — {{CHILD}} discovering the Mountain Hike world. Unique scene 10 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "mountain-hike-10"
         },
         {
             "id": "mountain-hike-11",
             "text": [
-                "Look at that climbing! It's bigger than I thought!",
-                "The world of mountain hike was opening up.",
-                "\"Nature is the biggest playground!\""
+                "The second session started with a review of what {{CHILD}} already knew.",
+                "Climbing came more naturally now.",
+                "\"Your muscle memory is building,\" {{MOTHER}} observed."
             ],
-            "illustrationHint": "Page 11: Discovery: {{CHILD}} finding peak.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 11: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 11 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "mountain-hike-11"
         },
         {
             "id": "mountain-hike-12",
             "text": [
-                "{{CHILD}} discovered a hidden path made of stamina.",
-                "The world of mountain hike was opening up.",
-                "They breathed in the scent of fresh climbing."
+                "{{CHILD}} wanted to explore the backpack in a new way.",
+                "\"What happens if I try pointing instead?\" they wondered aloud.",
+                "The result was surprising and delightful!"
             ],
-            "illustrationHint": "Page 12: Discovery: {{CHILD}} finding climbing.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 12: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 12 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "mountain-hike-12"
         },
         {
             "id": "mountain-hike-13",
             "text": [
-                "Wait, is that a peak peeking through the boots?",
-                "The world of mountain hike was opening up.",
-                "\"What's over that peak hill?\" wondered {{CHILD}}."
+                "A challenge appeared: combining resting with cheering at the same time.",
+                "{{CHILD}}'s brain had to think about two things at once.",
+                "\"It's like patting your head and rubbing your tummy!\" they laughed."
             ],
-            "illustrationHint": "Page 13: Discovery: {{CHILD}} finding boots.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 13: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 13 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "mountain-hike-13"
         },
         {
             "id": "mountain-hike-14",
             "text": [
-                "They found a mysterious view sitting on a stone.",
-                "The world of mountain hike was opening up.",
-                "\"I feel so brave and strong out here!\""
+                "{{CHILD}} discovered a secret about the water bottle.",
+                "When they tried stepping more gently, the water bottle responded much better.",
+                "\"Everything works better with a gentle touch,\" {{CHILD}} realized."
             ],
-            "illustrationHint": "Page 14: Discovery: {{CHILD}} finding view.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 14: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 14 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "mountain-hike-14"
         },
         {
             "id": "mountain-hike-15",
             "text": [
-                "\"Look at how the uphill shines!\" {{CHILD}} exclaimed.",
-                "The world of mountain hike was opening up.",
-                "Walking through the stamina felt so peaceful."
+                "The trail markers and the rocks were used together for the first time.",
+                "{{CHILD}} created something they'd never seen before.",
+                "\"I made this! All by myself!\" they beamed with pride."
             ],
-            "illustrationHint": "Page 15: Discovery: {{CHILD}} finding uphill.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 15: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 15 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "mountain-hike-15"
         },
         {
             "id": "mountain-hike-16",
             "text": [
-                "Each step revealed more about the magic of climbing.",
-                "The world of mountain hike was opening up.",
-                "\"Nature is the biggest playground!\""
+                "\"Let me show {{FATHER}} what I learned!\" {{CHILD}} said at dinner.",
+                "A mini demonstration right there at the table.",
+                "{{FATHER}} clapped and said, \"That's incredibly impressive!\"\""
             ],
-            "illustrationHint": "Page 16: Discovery: {{CHILD}} finding stamina.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 16: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 16 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "mountain-hike-16"
         },
         {
             "id": "mountain-hike-17",
             "text": [
-                "{{CHILD}} used a magnifying glass to see the boots.",
-                "The world of mountain hike was opening up.",
-                "They breathed in the scent of fresh climbing."
+                "Practice at home became part of {{CHILD}}'s daily routine.",
+                "Ten minutes every day — sometimes fifteen when it was extra fun.",
+                "Consistency turned hesitation into confidence."
             ],
-            "illustrationHint": "Page 17: Discovery: {{CHILD}} finding peak.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 17: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 17 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "mountain-hike-17"
         },
         {
             "id": "mountain-hike-18",
             "text": [
-                "\"The stamina here is so colorful!\" they said.",
-                "The world of mountain hike was opening up.",
-                "\"What's over that peak hill?\" wondered {{CHILD}}."
+                "A book from the library showed experts doing the same thing.",
+                "{{CHILD}} studied the pictures and tried to copy the techniques.",
+                "\"Even pros started as beginners,\" they said to themselves."
             ],
-            "illustrationHint": "Page 18: Discovery: {{CHILD}} finding climbing.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 18: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 18 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "mountain-hike-18"
         },
         {
             "id": "mountain-hike-19",
             "text": [
-                "They followed a trail of peak into the deep view.",
-                "The world of mountain hike was opening up.",
-                "\"I feel so brave and strong out here!\""
+                "Something clicked today — a skill that was hard became easy.",
+                "{{CHILD}} repeated it four times just to make sure it wasn't a fluke.",
+                "Not a fluke. A breakthrough. The feeling was incredible."
             ],
-            "illustrationHint": "Page 19: Discovery: {{CHILD}} finding boots.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 19: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 19 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "mountain-hike-19"
         },
         {
             "id": "mountain-hike-20",
             "text": [
-                "A friendly bird chirped from the top of the uphill.",
-                "The world of mountain hike was opening up.",
-                "Walking through the stamina felt so peaceful."
+                "\"I think I'm ready for something bigger,\" {{CHILD}} told {{MOTHER}}.",
+                "The sparkle in their eyes showed they meant it.",
+                "\"Then let's make it happen,\" {{MOTHER}} agreed with a smile."
             ],
-            "illustrationHint": "Page 20: Discovery: {{CHILD}} finding view.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 20: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 20 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "mountain-hike-20"
         },
         {
             "id": "mountain-hike-21",
             "text": [
-                "Oh no! The path to the climbing was blocked!",
-                "\"Remember,\" said {{FATHER}}, \"Hard Work is the key.\"",
-                "They followed a trail of uphill deep into the woods."
+                "The advanced challenge was right in front of {{CHILD}}.",
+                "A bigger project that required everything they'd learned.",
+                "\"This looks harder than anything I've tried before,\" they admitted."
             ],
-            "illustrationHint": "Page 21: Challenge: {{CHILD}} overcoming an obstacle involving uphill.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 21: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 21 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "mountain-hike-21"
         },
         {
             "id": "mountain-hike-22",
             "text": [
-                "How will we ever move this heavy boots?",
-                "\"Remember,\" said {{FATHER}}, \"Hard Work is the key.\"",
-                "They collected some view to show the family."
+                "Step one went smoothly — confidence from practice shone through.",
+                "But step two was different. The wildflowers didn't cooperate.",
+                "\"Come on, work with me,\" {{CHILD}} muttered, trying again."
             ],
-            "illustrationHint": "Page 22: Challenge: {{CHILD}} overcoming an obstacle involving stamina.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 22: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 22 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "mountain-hike-22"
         },
         {
             "id": "mountain-hike-23",
             "text": [
-                "The view started to spin faster and faster!",
-                "\"Remember,\" said {{FATHER}}, \"Hard Work is the key.\"",
-                "The sun glinted off the surface of the climbing."
+                "Frustration crept in like an unwelcome visitor.",
+                "Three attempts, three mistakes, three sighs.",
+                "{{CHILD}} put down the binoculars and stared at the ceiling."
             ],
-            "illustrationHint": "Page 23: Challenge: {{CHILD}} overcoming an obstacle involving peak.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 23: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 23 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "mountain-hike-23"
         },
         {
             "id": "mountain-hike-24",
             "text": [
-                "{{CHILD}} had to hold onto the uphill very tightly.",
-                "\"Remember,\" said {{FATHER}}, \"Hard Work is the key.\"",
-                "They found a hidden peak behind the rocks."
+                "\"Remember,\" said {{FATHER}}, \"Determination is what gets you through.\"",
+                "{{CHILD}} took three deep breaths, finding calm.",
+                "\"Okay. Let me think about this differently.\""
             ],
-            "illustrationHint": "Page 24: Challenge: {{CHILD}} overcoming an obstacle involving climbing.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 24: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 24 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "mountain-hike-24"
         },
         {
             "id": "mountain-hike-25",
             "text": [
-                "\"We need to solve this stamina puzzle,\" said {{FATHER}}.",
-                "\"Remember,\" said {{FATHER}}, \"Hard Work is the key.\"",
-                "\"Look at those boots in the distance!\""
+                "A new approach! Instead of forcing it, {{CHILD}} went slowly.",
+                "Breaking the problem into tiny, manageable pieces.",
+                "The first small piece worked perfectly."
             ],
-            "illustrationHint": "Page 25: Challenge: {{CHILD}} overcoming an obstacle involving boots.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 25: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 25 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "mountain-hike-25"
         },
         {
             "id": "mountain-hike-26",
             "text": [
-                "It was time to use all their Hard Work skills.",
-                "\"Remember,\" said {{FATHER}}, \"Hard Work is the key.\"",
-                "{{CHILD}} felt the fresh air blowing through the stamina."
+                "\"One piece at a time. One small step at a time,\" {{CHILD}} repeated.",
+                "The second piece fell into place. Then the third.",
+                "Momentum built like a gentle snowball rolling downhill."
             ],
-            "illustrationHint": "Page 26: Challenge: {{CHILD}} overcoming an obstacle involving view.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 26: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 26 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "mountain-hike-26"
         },
         {
             "id": "mountain-hike-27",
             "text": [
-                "The peak was being a bit stubborn today.",
-                "\"Remember,\" said {{FATHER}}, \"Hard Work is the key.\"",
-                "They stopped to watch a boots move slowly."
+                "A wobble on step seven threatened to undo everything.",
+                "But {{CHILD}} caught it in time — quick thinking saved the project!",
+                "\"That was close!\" they exhaled with relief."
             ],
-            "illustrationHint": "Page 27: Challenge: {{CHILD}} overcoming an obstacle involving uphill.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 27: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 27 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "mountain-hike-27"
         },
         {
             "id": "mountain-hike-28",
             "text": [
-                "{{CHILD}} tried to balance the climbing on their head.",
-                "\"Remember,\" said {{FATHER}}, \"Hard Work is the key.\"",
-                "The path led them to a beautiful uphill clearing."
+                "\"You didn't panic,\" {{MOTHER}} observed from the doorway.",
+                "\"That's the sign of someone who truly understands determination.\"",
+                "{{CHILD}} continued, more determined than ever."
             ],
-            "illustrationHint": "Page 28: Challenge: {{CHILD}} overcoming an obstacle involving stamina.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 28: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 28 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "mountain-hike-28"
         },
         {
             "id": "mountain-hike-29",
             "text": [
-                "\"Whew, that boots is tricky!\" they laughed.",
-                "\"Remember,\" said {{FATHER}}, \"Hard Work is the key.\"",
-                "They climbed over a large climbing on the trail."
+                "The hardest part was here — the moment that tested everything.",
+                "Hands steady, breath held, focus sharp as a laser.",
+                "{{CHILD}} gave it every ounce of effort they had."
             ],
-            "illustrationHint": "Page 29: Challenge: {{CHILD}} overcoming an obstacle involving peak.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 29: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 29 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "mountain-hike-29"
         },
         {
             "id": "mountain-hike-30",
             "text": [
-                "The view was higher than they expected.",
-                "\"Remember,\" said {{FATHER}}, \"Hard Work is the key.\"",
-                "The ground was covered in soft view."
+                "And then... success! The challenge was CONQUERED!",
+                "\"I DID IT! I actually DID IT!\" {{CHILD}} leaped up and cheered.",
+                "{{MOTHER}} and {{FATHER}} wrapped them in the biggest hug."
             ],
-            "illustrationHint": "Page 30: Challenge: {{CHILD}} overcoming an obstacle involving climbing.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 30: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 30 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "mountain-hike-30"
         },
         {
             "id": "mountain-hike-31",
             "text": [
-                "Oh no! The path to the climbing was blocked!",
-                "\"Remember,\" said {{FATHER}}, \"Hard Work is the key.\"",
-                "They followed a trail of uphill deep into the woods."
+                "The finished project sat before {{CHILD}} — real and beautiful.",
+                "Every challenge, every frustration had led to this moment.",
+                "\"It's even better than I imagined,\" they whispered."
             ],
-            "illustrationHint": "Page 31: Challenge: {{CHILD}} overcoming an obstacle involving boots.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 31: Triumph — {{CHILD}} celebrating success and growth. Unique scene 31 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "mountain-hike-31"
         },
         {
             "id": "mountain-hike-32",
             "text": [
-                "How will we ever move this heavy boots?",
-                "\"Remember,\" said {{FATHER}}, \"Hard Work is the key.\"",
-                "They collected some view to show the family."
+                "{{CHILD}} wanted to share their achievement with everyone.",
+                "Friends, family, even the neighbors were invited to see.",
+                "\"Look what determination helped me create!\""
             ],
-            "illustrationHint": "Page 32: Challenge: {{CHILD}} overcoming an obstacle involving view.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 32: Triumph — {{CHILD}} celebrating success and growth. Unique scene 32 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "mountain-hike-32"
         },
         {
             "id": "mountain-hike-33",
             "text": [
-                "The view started to spin faster and faster!",
-                "\"Remember,\" said {{FATHER}}, \"Hard Work is the key.\"",
-                "The sun glinted off the surface of the climbing."
+                "\"You should be incredibly proud,\" {{FATHER}} said at dinner.",
+                "\"Not just of the result, but of how you got there.\"",
+                "{{CHILD}} thought about the journey — every up and every down."
             ],
-            "illustrationHint": "Page 33: Challenge: {{CHILD}} overcoming an obstacle involving uphill.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 33: Triumph — {{CHILD}} celebrating success and growth. Unique scene 33 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "mountain-hike-33"
         },
         {
             "id": "mountain-hike-34",
             "text": [
-                "{{CHILD}} had to hold onto the uphill very tightly.",
-                "\"Remember,\" said {{FATHER}}, \"Hard Work is the key.\"",
-                "They found a hidden peak behind the rocks."
+                "A special presentation was arranged for the family.",
+                "{{CHILD}} explained each step, each challenge, each victory.",
+                "The audience of loved ones listened with shining eyes."
             ],
-            "illustrationHint": "Page 34: Challenge: {{CHILD}} overcoming an obstacle involving stamina.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 34: Triumph — {{CHILD}} celebrating success and growth. Unique scene 34 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "mountain-hike-34"
         },
         {
             "id": "mountain-hike-35",
             "text": [
-                "\"We need to solve this stamina puzzle,\" said {{FATHER}}.",
-                "\"Remember,\" said {{FATHER}}, \"Hard Work is the key.\"",
-                "\"Look at those boots in the distance!\""
+                "\"What was the hardest moment?\" asked {{FATHER}}.",
+                "\"When I wanted to quit but didn't,\" {{CHILD}} answered quietly.",
+                "That answer earned nods of deep respect from everyone."
             ],
-            "illustrationHint": "Page 35: Challenge: {{CHILD}} overcoming an obstacle involving peak.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 35: Triumph — {{CHILD}} celebrating success and growth. Unique scene 35 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "mountain-hike-35"
         },
         {
             "id": "mountain-hike-36",
             "text": [
-                "Success! The climbing is finally working!",
-                "The mountain hike adventure was a huge success.",
-                "\"Nature is the biggest playground!\""
+                "{{CHILD}} decided to help someone else learn too.",
+                "Teaching felt different — it deepened their own understanding.",
+                "\"The best way to grow is to help others grow,\" they realized."
             ],
-            "illustrationHint": "Page 36: Success: {{CHILD}} celebrating Hard Work with climbing.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 36: Triumph — {{CHILD}} celebrating success and growth. Unique scene 36 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "mountain-hike-36"
         },
         {
             "id": "mountain-hike-37",
             "text": [
-                "{{CHILD}} mastered the use of the boots!",
-                "The mountain hike adventure was a huge success.",
-                "They breathed in the scent of fresh climbing."
+                "A moment of reflection: looking at where they started vs. now.",
+                "The difference was remarkable — night and day.",
+                "\"I didn't know I could do all this,\" {{CHILD}} said in wonder."
             ],
-            "illustrationHint": "Page 37: Success: {{CHILD}} celebrating Hard Work with boots.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 37: Triumph — {{CHILD}} celebrating success and growth. Unique scene 37 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "mountain-hike-37"
         },
         {
             "id": "mountain-hike-38",
             "text": [
-                "A magical glow came from the view.",
-                "The mountain hike adventure was a huge success.",
-                "\"What's over that peak hill?\" wondered {{CHILD}}."
+                "The ⛰️ became {{CHILD}}'s special symbol.",
+                "It represented their journey, their challenge, their triumph.",
+                "\"Whenever I see ⛰️, I'll remember what I can do.\""
             ],
-            "illustrationHint": "Page 38: Success: {{CHILD}} celebrating Hard Work with view.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 38: Triumph — {{CHILD}} celebrating success and growth. Unique scene 38 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "mountain-hike-38"
         },
         {
             "id": "mountain-hike-39",
             "text": [
-                "The uphill turned into a shower of stars!",
-                "The mountain hike adventure was a huge success.",
-                "\"I feel so brave and strong out here!\""
+                "Celebrating wasn't about bragging — it was about gratitude.",
+                "\"Thank you for believing in me,\" {{CHILD}} told {{MOTHER}} and {{FATHER}}.",
+                "\"We always believed. You just needed to believe in yourself.\""
             ],
-            "illustrationHint": "Page 39: Success: {{CHILD}} celebrating Hard Work with uphill.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 39: Triumph — {{CHILD}} celebrating success and growth. Unique scene 39 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "mountain-hike-39"
         },
         {
             "id": "mountain-hike-40",
             "text": [
-                "Everyone was proud of the stamina work.",
-                "The mountain hike adventure was a huge success.",
-                "Walking through the stamina felt so peaceful."
+                "The evening ended with quiet pride and a full heart.",
+                "Not everything in life would be this manageable — but determination?",
+                "That would carry {{CHILD}} through anything."
             ],
-            "illustrationHint": "Page 40: Success: {{CHILD}} celebrating Hard Work with stamina.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 40: Triumph — {{CHILD}} celebrating success and growth. Unique scene 40 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "mountain-hike-40"
         },
         {
             "id": "mountain-hike-41",
             "text": [
-                "\"You showed so much Hard Work,\" said {{MOTHER}}.",
-                "The mountain hike adventure was a huge success.",
-                "\"Nature is the biggest playground!\""
+                "Bath time was extra peaceful tonight.",
+                "{{CHILD}} thought about everything they'd learned.",
+                "Water swirled around them like the flow of the whole day."
             ],
-            "illustrationHint": "Page 41: Success: {{CHILD}} celebrating Hard Work with peak.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 41: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 41 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "mountain-hike-41"
         },
         {
             "id": "mountain-hike-42",
             "text": [
-                "The peak looked beautiful in the end.",
-                "The mountain hike adventure was a huge success.",
-                "They breathed in the scent of fresh climbing."
+                "In clean pajamas, {{CHILD}} sat on the bed thoughtfully.",
+                "The mountain trail experience had changed something inside them.",
+                "They felt bigger, not in size, but in spirit."
             ],
-            "illustrationHint": "Page 42: Success: {{CHILD}} celebrating Hard Work with climbing.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 42: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 42 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "mountain-hike-42"
         },
         {
             "id": "mountain-hike-43",
             "text": [
-                "They shared a giant ⛰️ celebration.",
-                "The mountain hike adventure was a huge success.",
-                "\"What's over that peak hill?\" wondered {{CHILD}}."
+                "\"What did mountain hike teach you?\" {{MOTHER}} asked at tuck-in.",
+                "{{CHILD}} thought carefully before answering.",
+                "\"That determination isn't just a word — it's a superpower.\""
             ],
-            "illustrationHint": "Page 43: Success: {{CHILD}} celebrating Hard Work with boots.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 43: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 43 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "mountain-hike-43"
         },
         {
             "id": "mountain-hike-44",
             "text": [
-                "Success! The climbing is finally working!",
-                "The mountain hike adventure was a huge success.",
-                "\"I feel so brave and strong out here!\""
+                "{{MOTHER}} kissed {{CHILD}}'s forehead with all the love in the world.",
+                "\"Your superpower was inside you all along.\"",
+                "{{CHILD}} pulled the blanket up and smiled."
             ],
-            "illustrationHint": "Page 44: Success: {{CHILD}} celebrating Hard Work with view.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 44: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 44 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "mountain-hike-44"
         },
         {
             "id": "mountain-hike-45",
             "text": [
-                "{{CHILD}} mastered the use of the boots!",
-                "The mountain hike adventure was a huge success.",
-                "Walking through the stamina felt so peaceful."
+                "The moonlight painted silver patterns on the bedroom wall.",
+                "Somewhere in the house, evidence of today's adventure waited.",
+                "Ready for tomorrow's next chapter."
             ],
-            "illustrationHint": "Page 45: Success: {{CHILD}} celebrating Hard Work with uphill.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 45: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 45 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "mountain-hike-45"
         },
         {
             "id": "mountain-hike-46",
             "text": [
-                "As the stars came out, they talked about the climbing.",
-                "{{CHILD}} felt the fresh air blowing through the stamina.",
-                "{{CHILD}} gave a happy yawn after the mountain hike day."
+                "Stars appeared one by one in the darkening sky.",
+                "Each one twinkled like a tiny cheerleader.",
+                "\"Even the stars are proud of you tonight,\" {{MOTHER}} whispered."
             ],
-            "illustrationHint": "Page 46: Sleepy: {{CHILD}} reflecting on the mountain hike journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 46: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 46 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "mountain-hike-46"
         },
         {
             "id": "mountain-hike-47",
             "text": [
-                "{{CHILD}} realized that Hard Work is very important.",
-                "They stopped to watch a boots move slowly.",
-                "{{CHILD}} gave a happy yawn after the mountain hike day."
+                "Dreams arrived like gentle waves on a warm shore.",
+                "In the dream, {{CHILD}} was surrounded by everything they loved.",
+                "The mountain trail, the backpack, the water bottle — all glowing with magic."
             ],
-            "illustrationHint": "Page 47: Sleepy: {{CHILD}} reflecting on the mountain hike journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 47: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 47 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "mountain-hike-47"
         },
         {
             "id": "mountain-hike-48",
             "text": [
-                "They tucked the boots into its special box.",
-                "The path led them to a beautiful uphill clearing.",
-                "{{CHILD}} gave a happy yawn after the mountain hike day."
+                "Dream-{{CHILD}} was a master — confident, skilled, and kind.",
+                "Every challenge in the dream was met with determination.",
+                "And every challenge was overcome, one by one."
             ],
-            "illustrationHint": "Page 48: Sleepy: {{CHILD}} reflecting on the mountain hike journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 48: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 48 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "mountain-hike-48"
         },
         {
             "id": "mountain-hike-49",
             "text": [
-                "\"I loved the view today,\" said {{CHILD}}.",
-                "They climbed over a large climbing on the trail.",
-                "{{CHILD}} gave a happy yawn after the mountain hike day."
+                "The dream world slowly darkened into the deepest, most restful sleep.",
+                "Outside, the night was peaceful and full of possibility.",
+                "Tomorrow would bring new adventures, new lessons, new growth."
             ],
-            "illustrationHint": "Page 49: Sleepy: {{CHILD}} reflecting on the mountain hike journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 49: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 49 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "mountain-hike-49"
         },
         {
             "id": "mountain-hike-50",
             "text": [
-                "The uphill was now a happy memory.",
-                "The ground was covered in soft view.",
-                "Goodnight, brave adventurer. See you in tomorrow's story!"
+                "The ⛰️ glowed softly in {{CHILD}}'s imagination as they slept.",
+                "A symbol of what they'd learned, what they'd done, who they were becoming.",
+                "Goodnight, wonderful {{CHILD}}. You made today absolutely magical."
             ],
-            "illustrationHint": "Page 50: Sleepy: {{CHILD}} reflecting on the mountain hike journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 50: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 50 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "mountain-hike-50"
         }
     ]

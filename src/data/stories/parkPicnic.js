@@ -1,511 +1,511 @@
-// Refined story - {{CHILD}}'s First Slice
+// {{CHILD}}'s Park Day — Unique story with 50 distinct pages
 const story = {
     "id": "park-picnic",
-    "title": "{{CHILD}}'s First Slice",
+    "title": "{{CHILD}}'s Park Day",
     "emoji": "🛝",
     "theme": "Outdoor Stories",
-    "lesson": "Bravery",
-    "description": "Explore the wonders of park picnic and learn about Bravery!",
+    "lesson": "Friendship",
+    "description": "{{CHILD}} makes new friends and discovers the playground is the best place for connections!",
     "coverColor": "#7C5CFC",
     "pages": [
         {
             "id": "park-picnic-1",
             "text": [
-                "Today was the start of something amazing for {{CHILD}}.",
-                "They were going to explore the world of park picnic!",
-                "\"Are you ready for the park-picnic journey?\" asked {{MOTHER}}."
+                "The neighborhood park was filled with exciting possibilities.",
+                "{{CHILD}} looked around with wide, sparkling eyes.",
+                "\"Are you ready for the park day adventure?\" asked {{MOTHER}}."
             ],
-            "illustrationHint": "Page 1: Opening scene: {{CHILD}} and family standing by a sign for \"park picnic\".. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 1: Introduction — {{CHILD}} discovering the Park Day world. Unique scene 1 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "park-picnic-1"
         },
         {
             "id": "park-picnic-2",
             "text": [
-                "Then, they checked the sandpit to make sure it was ready.",
-                "They found a hidden laughing behind the rocks.",
-                "\"This Outdoor Stories is full of surprises!\""
+                "Everything was set up and waiting — the swing, the slide, and more.",
+                "{{CHILD}} picked up the swing and turned it over in their hands.",
+                "\"This is going to be the best day ever!\" they declared."
             ],
-            "illustrationHint": "Page 2: Setup: {{CHILD}} working with running.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 2: Introduction — {{CHILD}} discovering the Park Day world. Unique scene 2 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "park-picnic-2"
         },
         {
             "id": "park-picnic-3",
             "text": [
-                "{{CHILD}} put on their special running gear.",
-                "The sun glinted off the surface of the swings.",
-                "\"This Outdoor Stories is full of surprises!\""
+                "{{MOTHER}} explained how the sandbox worked while {{CHILD}} listened carefully.",
+                "\"First, you need to understand the sandbox before you use it.\"",
+                "{{CHILD}} nodded seriously, determined to learn everything."
             ],
-            "illustrationHint": "Page 3: Setup: {{CHILD}} working with friends.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 3: Introduction — {{CHILD}} discovering the Park Day world. Unique scene 3 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "park-picnic-3"
         },
         {
             "id": "park-picnic-4",
             "text": [
-                "\"Don't forget the friends!\" called out {{MOTHER}}.",
-                "They collected some running to show the family.",
-                "\"This Outdoor Stories is full of surprises!\""
+                "The first step was swinging — and {{CHILD}} gave it their best try.",
+                "It wasn't perfect, but it was a wonderful beginning.",
+                "\"Everyone starts exactly where you are right now,\" {{MOTHER}} encouraged."
             ],
-            "illustrationHint": "Page 4: Setup: {{CHILD}} working with climbing.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 4: Introduction — {{CHILD}} discovering the Park Day world. Unique scene 4 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "park-picnic-4"
         },
         {
             "id": "park-picnic-5",
             "text": [
-                "Everything felt so climbing and new today.",
-                "They stopped to watch a sandpit move slowly.",
-                "\"This Outdoor Stories is full of surprises!\""
+                "{{CHILD}} noticed how the seesaw connected to the ball.",
+                "\"Oh! I see how they work together!\" they exclaimed.",
+                "Understanding one thing opened a door to understanding another."
             ],
-            "illustrationHint": "Page 5: Setup: {{CHILD}} working with laughing.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 5: Introduction — {{CHILD}} discovering the Park Day world. Unique scene 5 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "park-picnic-5"
         },
         {
             "id": "park-picnic-6",
             "text": [
-                "{{CHILD}} noticed a small laughing near the entrance.",
-                "They climbed over a large swings on the trail.",
-                "\"This Outdoor Stories is full of surprises!\""
+                "A moment of focus: {{CHILD}} concentrated on sliding with careful hands.",
+                "The jump rope responded beautifully to their gentle touch.",
+                "\"You have a natural talent for this,\" {{MOTHER}} said warmly."
             ],
-            "illustrationHint": "Page 6: Setup: {{CHILD}} working with swings.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 6: Introduction — {{CHILD}} discovering the Park Day world. Unique scene 6 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "park-picnic-6"
         },
         {
             "id": "park-picnic-7",
             "text": [
-                "Step 7 of the plan was to look for the swings.",
-                "They followed a trail of friends deep into the woods.",
-                "\"This Outdoor Stories is full of surprises!\""
+                "\"Can I try climbing next?\" {{CHILD}} asked eagerly.",
+                "{{MOTHER}} showed them the technique step by step.",
+                "Slow at first, then smoother, then almost graceful."
             ],
-            "illustrationHint": "Page 7: Setup: {{CHILD}} working with sandpit.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 7: Introduction — {{CHILD}} discovering the Park Day world. Unique scene 7 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "park-picnic-7"
         },
         {
             "id": "park-picnic-8",
             "text": [
-                "\"I can't wait to see the sandpit!\" {{CHILD}} cheered.",
-                "{{CHILD}} felt the fresh air blowing through the climbing.",
-                "\"This Outdoor Stories is full of surprises!\""
+                "The monkey bars was trickier than expected.",
+                "{{CHILD}} bit their lower lip in concentration.",
+                "\"Take your time — there's no rush,\" reminded {{MOTHER}}."
             ],
-            "illustrationHint": "Page 8: Setup: {{CHILD}} working with running.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 8: Introduction — {{CHILD}} discovering the Park Day world. Unique scene 8 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "park-picnic-8"
         },
         {
             "id": "park-picnic-9",
             "text": [
-                "The air was filled with the scent of running.",
-                "The ground was covered in soft running.",
-                "\"This Outdoor Stories is full of surprises!\""
+                "Something unexpected happened — the merry-go-round did something surprising!",
+                "\"Whoa! Did you see that?\" {{CHILD}} jumped with excitement.",
+                "Even {{MOTHER}} looked impressed by the unexpected discovery."
             ],
-            "illustrationHint": "Page 9: Setup: {{CHILD}} working with friends.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 9: Introduction — {{CHILD}} discovering the Park Day world. Unique scene 9 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "park-picnic-9"
         },
         {
             "id": "park-picnic-10",
             "text": [
-                "They found a map that showed the way to the friends.",
-                "The path led them to a beautiful friends clearing.",
-                "\"This Outdoor Stories is full of surprises!\""
+                "By the end of the first session, {{CHILD}} had learned so much.",
+                "The neighborhood park felt like a second home already.",
+                "\"Can we come back tomorrow?\" {{CHILD}} asked hopefully."
             ],
-            "illustrationHint": "Page 10: Setup: {{CHILD}} working with climbing.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 10: Introduction — {{CHILD}} discovering the Park Day world. Unique scene 10 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "park-picnic-10"
         },
         {
             "id": "park-picnic-11",
             "text": [
-                "Look at that swings! It's bigger than I thought!",
-                "The world of park picnic was opening up.",
-                "\"What's over that laughing hill?\" wondered {{CHILD}}."
+                "The second session started with a review of what {{CHILD}} already knew.",
+                "Swinging came more naturally now.",
+                "\"Your muscle memory is building,\" {{MOTHER}} observed."
             ],
-            "illustrationHint": "Page 11: Discovery: {{CHILD}} finding laughing.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 11: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 11 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "park-picnic-11"
         },
         {
             "id": "park-picnic-12",
             "text": [
-                "{{CHILD}} discovered a hidden path made of climbing.",
-                "The world of park picnic was opening up.",
-                "They breathed in the scent of fresh swings."
+                "{{CHILD}} wanted to explore the swing in a new way.",
+                "\"What happens if I try jumping instead?\" they wondered aloud.",
+                "The result was surprising and delightful!"
             ],
-            "illustrationHint": "Page 12: Discovery: {{CHILD}} finding swings.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 12: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 12 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "park-picnic-12"
         },
         {
             "id": "park-picnic-13",
             "text": [
-                "Wait, is that a laughing peeking through the sandpit?",
-                "The world of park picnic was opening up.",
-                "\"Nature is the biggest playground!\""
+                "A challenge appeared: combining sliding with sharing at the same time.",
+                "{{CHILD}}'s brain had to think about two things at once.",
+                "\"It's like patting your head and rubbing your tummy!\" they laughed."
             ],
-            "illustrationHint": "Page 13: Discovery: {{CHILD}} finding sandpit.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 13: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 13 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "park-picnic-13"
         },
         {
             "id": "park-picnic-14",
             "text": [
-                "They found a mysterious running sitting on a stone.",
-                "The world of park picnic was opening up.",
-                "Walking through the climbing felt so peaceful."
+                "{{CHILD}} discovered a secret about the slide.",
+                "When they tried running more gently, the slide responded much better.",
+                "\"Everything works better with a gentle touch,\" {{CHILD}} realized."
             ],
-            "illustrationHint": "Page 14: Discovery: {{CHILD}} finding running.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 14: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 14 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "park-picnic-14"
         },
         {
             "id": "park-picnic-15",
             "text": [
-                "\"Look at how the friends shines!\" {{CHILD}} exclaimed.",
-                "The world of park picnic was opening up.",
-                "\"I feel so brave and strong out here!\""
+                "The sandbox and the seesaw were used together for the first time.",
+                "{{CHILD}} created something they'd never seen before.",
+                "\"I made this! All by myself!\" they beamed with pride."
             ],
-            "illustrationHint": "Page 15: Discovery: {{CHILD}} finding friends.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 15: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 15 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "park-picnic-15"
         },
         {
             "id": "park-picnic-16",
             "text": [
-                "Each step revealed more about the magic of swings.",
-                "The world of park picnic was opening up.",
-                "\"What's over that laughing hill?\" wondered {{CHILD}}."
+                "\"Let me show {{FATHER}} what I learned!\" {{CHILD}} said at dinner.",
+                "A mini demonstration right there at the table.",
+                "{{FATHER}} clapped and said, \"That's incredibly impressive!\"\""
             ],
-            "illustrationHint": "Page 16: Discovery: {{CHILD}} finding climbing.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 16: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 16 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "park-picnic-16"
         },
         {
             "id": "park-picnic-17",
             "text": [
-                "{{CHILD}} used a magnifying glass to see the sandpit.",
-                "The world of park picnic was opening up.",
-                "They breathed in the scent of fresh swings."
+                "Practice at home became part of {{CHILD}}'s daily routine.",
+                "Ten minutes every day — sometimes fifteen when it was extra fun.",
+                "Consistency turned hesitation into confidence."
             ],
-            "illustrationHint": "Page 17: Discovery: {{CHILD}} finding laughing.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 17: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 17 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "park-picnic-17"
         },
         {
             "id": "park-picnic-18",
             "text": [
-                "\"The climbing here is so colorful!\" they said.",
-                "The world of park picnic was opening up.",
-                "\"Nature is the biggest playground!\""
+                "A book from the library showed experts doing the same thing.",
+                "{{CHILD}} studied the pictures and tried to copy the techniques.",
+                "\"Even pros started as beginners,\" they said to themselves."
             ],
-            "illustrationHint": "Page 18: Discovery: {{CHILD}} finding swings.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 18: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 18 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "park-picnic-18"
         },
         {
             "id": "park-picnic-19",
             "text": [
-                "They followed a trail of laughing into the deep running.",
-                "The world of park picnic was opening up.",
-                "Walking through the climbing felt so peaceful."
+                "Something clicked today — a skill that was hard became easy.",
+                "{{CHILD}} repeated it four times just to make sure it wasn't a fluke.",
+                "Not a fluke. A breakthrough. The feeling was incredible."
             ],
-            "illustrationHint": "Page 19: Discovery: {{CHILD}} finding sandpit.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 19: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 19 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "park-picnic-19"
         },
         {
             "id": "park-picnic-20",
             "text": [
-                "A friendly bird chirped from the top of the friends.",
-                "The world of park picnic was opening up.",
-                "\"I feel so brave and strong out here!\""
+                "\"I think I'm ready for something bigger,\" {{CHILD}} told {{MOTHER}}.",
+                "The sparkle in their eyes showed they meant it.",
+                "\"Then let's make it happen,\" {{MOTHER}} agreed with a smile."
             ],
-            "illustrationHint": "Page 20: Discovery: {{CHILD}} finding running.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 20: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 20 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "park-picnic-20"
         },
         {
             "id": "park-picnic-21",
             "text": [
-                "Oh no! The path to the swings was blocked!",
-                "\"Remember,\" said {{FATHER}}, \"Bravery is the key.\"",
-                "\"Look at those sandpit in the distance!\""
+                "The advanced challenge was right in front of {{CHILD}}.",
+                "A bigger project that required everything they'd learned.",
+                "\"This looks harder than anything I've tried before,\" they admitted."
             ],
-            "illustrationHint": "Page 21: Challenge: {{CHILD}} overcoming an obstacle involving friends.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 21: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 21 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "park-picnic-21"
         },
         {
             "id": "park-picnic-22",
             "text": [
-                "How will we ever move this heavy sandpit?",
-                "\"Remember,\" said {{FATHER}}, \"Bravery is the key.\"",
-                "They found a hidden laughing behind the rocks."
+                "Step one went smoothly — confidence from practice shone through.",
+                "But step two was different. The ball didn't cooperate.",
+                "\"Come on, work with me,\" {{CHILD}} muttered, trying again."
             ],
-            "illustrationHint": "Page 22: Challenge: {{CHILD}} overcoming an obstacle involving climbing.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 22: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 22 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "park-picnic-22"
         },
         {
             "id": "park-picnic-23",
             "text": [
-                "The running started to spin faster and faster!",
-                "\"Remember,\" said {{FATHER}}, \"Bravery is the key.\"",
-                "The sun glinted off the surface of the swings."
+                "Frustration crept in like an unwelcome visitor.",
+                "Three attempts, three mistakes, three sighs.",
+                "{{CHILD}} put down the jump rope and stared at the ceiling."
             ],
-            "illustrationHint": "Page 23: Challenge: {{CHILD}} overcoming an obstacle involving laughing.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 23: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 23 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "park-picnic-23"
         },
         {
             "id": "park-picnic-24",
             "text": [
-                "{{CHILD}} had to hold onto the friends very tightly.",
-                "\"Remember,\" said {{FATHER}}, \"Bravery is the key.\"",
-                "They collected some running to show the family."
+                "\"Remember,\" said {{FATHER}}, \"Friendship is what gets you through.\"",
+                "{{CHILD}} took three deep breaths, finding calm.",
+                "\"Okay. Let me think about this differently.\""
             ],
-            "illustrationHint": "Page 24: Challenge: {{CHILD}} overcoming an obstacle involving swings.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 24: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 24 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "park-picnic-24"
         },
         {
             "id": "park-picnic-25",
             "text": [
-                "\"We need to solve this climbing puzzle,\" said {{FATHER}}.",
-                "\"Remember,\" said {{FATHER}}, \"Bravery is the key.\"",
-                "They stopped to watch a sandpit move slowly."
+                "A new approach! Instead of forcing it, {{CHILD}} went slowly.",
+                "Breaking the problem into tiny, manageable pieces.",
+                "The first small piece worked perfectly."
             ],
-            "illustrationHint": "Page 25: Challenge: {{CHILD}} overcoming an obstacle involving sandpit.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 25: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 25 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "park-picnic-25"
         },
         {
             "id": "park-picnic-26",
             "text": [
-                "It was time to use all their Bravery skills.",
-                "\"Remember,\" said {{FATHER}}, \"Bravery is the key.\"",
-                "They climbed over a large swings on the trail."
+                "\"One piece at a time. One small step at a time,\" {{CHILD}} repeated.",
+                "The second piece fell into place. Then the third.",
+                "Momentum built like a gentle snowball rolling downhill."
             ],
-            "illustrationHint": "Page 26: Challenge: {{CHILD}} overcoming an obstacle involving running.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 26: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 26 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "park-picnic-26"
         },
         {
             "id": "park-picnic-27",
             "text": [
-                "The laughing was being a bit stubborn today.",
-                "\"Remember,\" said {{FATHER}}, \"Bravery is the key.\"",
-                "They followed a trail of friends deep into the woods."
+                "A wobble on step seven threatened to undo everything.",
+                "But {{CHILD}} caught it in time — quick thinking saved the project!",
+                "\"That was close!\" they exhaled with relief."
             ],
-            "illustrationHint": "Page 27: Challenge: {{CHILD}} overcoming an obstacle involving friends.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 27: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 27 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "park-picnic-27"
         },
         {
             "id": "park-picnic-28",
             "text": [
-                "{{CHILD}} tried to balance the swings on their head.",
-                "\"Remember,\" said {{FATHER}}, \"Bravery is the key.\"",
-                "{{CHILD}} felt the fresh air blowing through the climbing."
+                "\"You didn't panic,\" {{MOTHER}} observed from the doorway.",
+                "\"That's the sign of someone who truly understands friendship.\"",
+                "{{CHILD}} continued, more determined than ever."
             ],
-            "illustrationHint": "Page 28: Challenge: {{CHILD}} overcoming an obstacle involving climbing.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 28: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 28 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "park-picnic-28"
         },
         {
             "id": "park-picnic-29",
             "text": [
-                "\"Whew, that sandpit is tricky!\" they laughed.",
-                "\"Remember,\" said {{FATHER}}, \"Bravery is the key.\"",
-                "The ground was covered in soft running."
+                "The hardest part was here — the moment that tested everything.",
+                "Hands steady, breath held, focus sharp as a laser.",
+                "{{CHILD}} gave it every ounce of effort they had."
             ],
-            "illustrationHint": "Page 29: Challenge: {{CHILD}} overcoming an obstacle involving laughing.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 29: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 29 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "park-picnic-29"
         },
         {
             "id": "park-picnic-30",
             "text": [
-                "The running was higher than they expected.",
-                "\"Remember,\" said {{FATHER}}, \"Bravery is the key.\"",
-                "The path led them to a beautiful friends clearing."
+                "And then... success! The challenge was CONQUERED!",
+                "\"I DID IT! I actually DID IT!\" {{CHILD}} leaped up and cheered.",
+                "{{MOTHER}} and {{FATHER}} wrapped them in the biggest hug."
             ],
-            "illustrationHint": "Page 30: Challenge: {{CHILD}} overcoming an obstacle involving swings.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 30: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 30 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "park-picnic-30"
         },
         {
             "id": "park-picnic-31",
             "text": [
-                "Oh no! The path to the swings was blocked!",
-                "\"Remember,\" said {{FATHER}}, \"Bravery is the key.\"",
-                "\"Look at those sandpit in the distance!\""
+                "The finished project sat before {{CHILD}} — real and beautiful.",
+                "Every challenge, every frustration had led to this moment.",
+                "\"It's even better than I imagined,\" they whispered."
             ],
-            "illustrationHint": "Page 31: Challenge: {{CHILD}} overcoming an obstacle involving sandpit.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 31: Triumph — {{CHILD}} celebrating success and growth. Unique scene 31 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "park-picnic-31"
         },
         {
             "id": "park-picnic-32",
             "text": [
-                "How will we ever move this heavy sandpit?",
-                "\"Remember,\" said {{FATHER}}, \"Bravery is the key.\"",
-                "They found a hidden laughing behind the rocks."
+                "{{CHILD}} wanted to share their achievement with everyone.",
+                "Friends, family, even the neighbors were invited to see.",
+                "\"Look what friendship helped me create!\""
             ],
-            "illustrationHint": "Page 32: Challenge: {{CHILD}} overcoming an obstacle involving running.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 32: Triumph — {{CHILD}} celebrating success and growth. Unique scene 32 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "park-picnic-32"
         },
         {
             "id": "park-picnic-33",
             "text": [
-                "The running started to spin faster and faster!",
-                "\"Remember,\" said {{FATHER}}, \"Bravery is the key.\"",
-                "The sun glinted off the surface of the swings."
+                "\"You should be incredibly proud,\" {{FATHER}} said at dinner.",
+                "\"Not just of the result, but of how you got there.\"",
+                "{{CHILD}} thought about the journey — every up and every down."
             ],
-            "illustrationHint": "Page 33: Challenge: {{CHILD}} overcoming an obstacle involving friends.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 33: Triumph — {{CHILD}} celebrating success and growth. Unique scene 33 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "park-picnic-33"
         },
         {
             "id": "park-picnic-34",
             "text": [
-                "{{CHILD}} had to hold onto the friends very tightly.",
-                "\"Remember,\" said {{FATHER}}, \"Bravery is the key.\"",
-                "They collected some running to show the family."
+                "A special presentation was arranged for the family.",
+                "{{CHILD}} explained each step, each challenge, each victory.",
+                "The audience of loved ones listened with shining eyes."
             ],
-            "illustrationHint": "Page 34: Challenge: {{CHILD}} overcoming an obstacle involving climbing.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 34: Triumph — {{CHILD}} celebrating success and growth. Unique scene 34 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "park-picnic-34"
         },
         {
             "id": "park-picnic-35",
             "text": [
-                "\"We need to solve this climbing puzzle,\" said {{FATHER}}.",
-                "\"Remember,\" said {{FATHER}}, \"Bravery is the key.\"",
-                "They stopped to watch a sandpit move slowly."
+                "\"What was the hardest moment?\" asked {{FATHER}}.",
+                "\"When I wanted to quit but didn't,\" {{CHILD}} answered quietly.",
+                "That answer earned nods of deep respect from everyone."
             ],
-            "illustrationHint": "Page 35: Challenge: {{CHILD}} overcoming an obstacle involving laughing.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 35: Triumph — {{CHILD}} celebrating success and growth. Unique scene 35 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "park-picnic-35"
         },
         {
             "id": "park-picnic-36",
             "text": [
-                "Success! The swings is finally working!",
-                "The park picnic adventure was a huge success.",
-                "\"What's over that laughing hill?\" wondered {{CHILD}}."
+                "{{CHILD}} decided to help someone else learn too.",
+                "Teaching felt different — it deepened their own understanding.",
+                "\"The best way to grow is to help others grow,\" they realized."
             ],
-            "illustrationHint": "Page 36: Success: {{CHILD}} celebrating Bravery with swings.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 36: Triumph — {{CHILD}} celebrating success and growth. Unique scene 36 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "park-picnic-36"
         },
         {
             "id": "park-picnic-37",
             "text": [
-                "{{CHILD}} mastered the use of the sandpit!",
-                "The park picnic adventure was a huge success.",
-                "They breathed in the scent of fresh swings."
+                "A moment of reflection: looking at where they started vs. now.",
+                "The difference was remarkable — night and day.",
+                "\"I didn't know I could do all this,\" {{CHILD}} said in wonder."
             ],
-            "illustrationHint": "Page 37: Success: {{CHILD}} celebrating Bravery with sandpit.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 37: Triumph — {{CHILD}} celebrating success and growth. Unique scene 37 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "park-picnic-37"
         },
         {
             "id": "park-picnic-38",
             "text": [
-                "A magical glow came from the running.",
-                "The park picnic adventure was a huge success.",
-                "\"Nature is the biggest playground!\""
+                "The 🛝 became {{CHILD}}'s special symbol.",
+                "It represented their journey, their challenge, their triumph.",
+                "\"Whenever I see 🛝, I'll remember what I can do.\""
             ],
-            "illustrationHint": "Page 38: Success: {{CHILD}} celebrating Bravery with running.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 38: Triumph — {{CHILD}} celebrating success and growth. Unique scene 38 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "park-picnic-38"
         },
         {
             "id": "park-picnic-39",
             "text": [
-                "The friends turned into a shower of stars!",
-                "The park picnic adventure was a huge success.",
-                "Walking through the climbing felt so peaceful."
+                "Celebrating wasn't about bragging — it was about gratitude.",
+                "\"Thank you for believing in me,\" {{CHILD}} told {{MOTHER}} and {{FATHER}}.",
+                "\"We always believed. You just needed to believe in yourself.\""
             ],
-            "illustrationHint": "Page 39: Success: {{CHILD}} celebrating Bravery with friends.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 39: Triumph — {{CHILD}} celebrating success and growth. Unique scene 39 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "park-picnic-39"
         },
         {
             "id": "park-picnic-40",
             "text": [
-                "Everyone was proud of the climbing work.",
-                "The park picnic adventure was a huge success.",
-                "\"I feel so brave and strong out here!\""
+                "The evening ended with quiet pride and a full heart.",
+                "Not everything in life would be this manageable — but friendship?",
+                "That would carry {{CHILD}} through anything."
             ],
-            "illustrationHint": "Page 40: Success: {{CHILD}} celebrating Bravery with climbing.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 40: Triumph — {{CHILD}} celebrating success and growth. Unique scene 40 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "park-picnic-40"
         },
         {
             "id": "park-picnic-41",
             "text": [
-                "\"You showed so much Bravery,\" said {{MOTHER}}.",
-                "The park picnic adventure was a huge success.",
-                "\"What's over that laughing hill?\" wondered {{CHILD}}."
+                "Bath time was extra peaceful tonight.",
+                "{{CHILD}} thought about everything they'd learned.",
+                "Water swirled around them like the flow of the whole day."
             ],
-            "illustrationHint": "Page 41: Success: {{CHILD}} celebrating Bravery with laughing.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 41: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 41 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "park-picnic-41"
         },
         {
             "id": "park-picnic-42",
             "text": [
-                "The laughing looked beautiful in the end.",
-                "The park picnic adventure was a huge success.",
-                "They breathed in the scent of fresh swings."
+                "In clean pajamas, {{CHILD}} sat on the bed thoughtfully.",
+                "The neighborhood park experience had changed something inside them.",
+                "They felt bigger, not in size, but in spirit."
             ],
-            "illustrationHint": "Page 42: Success: {{CHILD}} celebrating Bravery with swings.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 42: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 42 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "park-picnic-42"
         },
         {
             "id": "park-picnic-43",
             "text": [
-                "They shared a giant 🛝 celebration.",
-                "The park picnic adventure was a huge success.",
-                "\"Nature is the biggest playground!\""
+                "\"What did park day teach you?\" {{MOTHER}} asked at tuck-in.",
+                "{{CHILD}} thought carefully before answering.",
+                "\"That friendship isn't just a word — it's a superpower.\""
             ],
-            "illustrationHint": "Page 43: Success: {{CHILD}} celebrating Bravery with sandpit.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 43: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 43 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "park-picnic-43"
         },
         {
             "id": "park-picnic-44",
             "text": [
-                "Success! The swings is finally working!",
-                "The park picnic adventure was a huge success.",
-                "Walking through the climbing felt so peaceful."
+                "{{MOTHER}} kissed {{CHILD}}'s forehead with all the love in the world.",
+                "\"Your superpower was inside you all along.\"",
+                "{{CHILD}} pulled the blanket up and smiled."
             ],
-            "illustrationHint": "Page 44: Success: {{CHILD}} celebrating Bravery with running.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 44: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 44 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "park-picnic-44"
         },
         {
             "id": "park-picnic-45",
             "text": [
-                "{{CHILD}} mastered the use of the sandpit!",
-                "The park picnic adventure was a huge success.",
-                "\"I feel so brave and strong out here!\""
+                "The moonlight painted silver patterns on the bedroom wall.",
+                "Somewhere in the house, evidence of today's adventure waited.",
+                "Ready for tomorrow's next chapter."
             ],
-            "illustrationHint": "Page 45: Success: {{CHILD}} celebrating Bravery with friends.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 45: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 45 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "park-picnic-45"
         },
         {
             "id": "park-picnic-46",
             "text": [
-                "As the stars came out, they talked about the swings.",
-                "They climbed over a large swings on the trail.",
-                "{{CHILD}} gave a happy yawn after the park picnic day."
+                "Stars appeared one by one in the darkening sky.",
+                "Each one twinkled like a tiny cheerleader.",
+                "\"Even the stars are proud of you tonight,\" {{MOTHER}} whispered."
             ],
-            "illustrationHint": "Page 46: Sleepy: {{CHILD}} reflecting on the park picnic journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 46: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 46 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "park-picnic-46"
         },
         {
             "id": "park-picnic-47",
             "text": [
-                "{{CHILD}} realized that Bravery is very important.",
-                "They followed a trail of friends deep into the woods.",
-                "{{CHILD}} gave a happy yawn after the park picnic day."
+                "Dreams arrived like gentle waves on a warm shore.",
+                "In the dream, {{CHILD}} was surrounded by everything they loved.",
+                "The neighborhood park, the swing, the slide — all glowing with magic."
             ],
-            "illustrationHint": "Page 47: Sleepy: {{CHILD}} reflecting on the park picnic journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 47: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 47 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "park-picnic-47"
         },
         {
             "id": "park-picnic-48",
             "text": [
-                "They tucked the sandpit into its special box.",
-                "{{CHILD}} felt the fresh air blowing through the climbing.",
-                "{{CHILD}} gave a happy yawn after the park picnic day."
+                "Dream-{{CHILD}} was a master — confident, skilled, and kind.",
+                "Every challenge in the dream was met with friendship.",
+                "And every challenge was overcome, one by one."
             ],
-            "illustrationHint": "Page 48: Sleepy: {{CHILD}} reflecting on the park picnic journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 48: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 48 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "park-picnic-48"
         },
         {
             "id": "park-picnic-49",
             "text": [
-                "\"I loved the running today,\" said {{CHILD}}.",
-                "The ground was covered in soft running.",
-                "{{CHILD}} gave a happy yawn after the park picnic day."
+                "The dream world slowly darkened into the deepest, most restful sleep.",
+                "Outside, the night was peaceful and full of possibility.",
+                "Tomorrow would bring new adventures, new lessons, new growth."
             ],
-            "illustrationHint": "Page 49: Sleepy: {{CHILD}} reflecting on the park picnic journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 49: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 49 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "park-picnic-49"
         },
         {
             "id": "park-picnic-50",
             "text": [
-                "The friends was now a happy memory.",
-                "The path led them to a beautiful friends clearing.",
-                "Goodnight, brave adventurer. See you in tomorrow's story!"
+                "The 🛝 glowed softly in {{CHILD}}'s imagination as they slept.",
+                "A symbol of what they'd learned, what they'd done, who they were becoming.",
+                "Goodnight, wonderful {{CHILD}}. You made today absolutely magical."
             ],
-            "illustrationHint": "Page 50: Sleepy: {{CHILD}} reflecting on the park picnic journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 50: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 50 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "park-picnic-50"
         }
     ]

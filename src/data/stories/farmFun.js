@@ -1,511 +1,511 @@
-// Refined story - {{CHILD}} Milks a Cow
+// {{CHILD}}'s Farm Fun — Unique story with 50 distinct pages
 const story = {
     "id": "farm-fun",
-    "title": "{{CHILD}} Milks a Cow",
+    "title": "{{CHILD}}'s Farm Fun",
     "emoji": "🐄",
     "theme": "Outdoor Stories",
-    "lesson": "Work ethic",
-    "description": "Explore the wonders of farm fun and learn about Work ethic!",
+    "lesson": "Hard Work",
+    "description": "From dawn chores to sunset — {{CHILD}} discovers that hard work on the farm brings great rewards!",
     "coverColor": "#BDC3C7",
     "pages": [
         {
             "id": "farm-fun-1",
             "text": [
-                "Today was the start of something amazing for {{CHILD}}.",
-                "They were going to explore the world of farm fun!",
-                "\"Are you ready for the farm-fun journey?\" asked {{MOTHER}}."
+                "The family farm was filled with exciting possibilities.",
+                "{{CHILD}} looked around with wide, sparkling eyes.",
+                "\"Are you ready for the farm fun adventure?\" asked {{MOTHER}}."
             ],
-            "illustrationHint": "Page 1: Opening scene: {{CHILD}} and family standing by a sign for \"farm fun\".. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 1: Introduction — {{CHILD}} discovering the Farm Fun world. Unique scene 1 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "farm-fun-1"
         },
         {
             "id": "farm-fun-2",
             "text": [
-                "Then, they checked the hay to make sure it was ready.",
-                "They climbed over a large tractor on the trail.",
-                "\"This Outdoor Stories is full of surprises!\""
+                "Everything was set up and waiting — the hay bale, the chickens, and more.",
+                "{{CHILD}} picked up the hay bale and turned it over in their hands.",
+                "\"This is going to be the best day ever!\" they declared."
             ],
-            "illustrationHint": "Page 2: Setup: {{CHILD}} working with barn.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 2: Introduction — {{CHILD}} discovering the Farm Fun world. Unique scene 2 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "farm-fun-2"
         },
         {
             "id": "farm-fun-3",
             "text": [
-                "{{CHILD}} put on their special barn gear.",
-                "They found a hidden fields behind the rocks.",
-                "\"This Outdoor Stories is full of surprises!\""
+                "{{MOTHER}} explained how the tractor worked while {{CHILD}} listened carefully.",
+                "\"First, you need to understand the tractor before you use it.\"",
+                "{{CHILD}} nodded seriously, determined to learn everything."
             ],
-            "illustrationHint": "Page 3: Setup: {{CHILD}} working with animals.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 3: Introduction — {{CHILD}} discovering the Farm Fun world. Unique scene 3 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "farm-fun-3"
         },
         {
             "id": "farm-fun-4",
             "text": [
-                "\"Don't forget the animals!\" called out {{MOTHER}}.",
-                "The sun glinted off the surface of the tractor.",
-                "\"This Outdoor Stories is full of surprises!\""
+                "The first step was feeding — and {{CHILD}} gave it their best try.",
+                "It wasn't perfect, but it was a wonderful beginning.",
+                "\"Everyone starts exactly where you are right now,\" {{MOTHER}} encouraged."
             ],
-            "illustrationHint": "Page 4: Setup: {{CHILD}} working with harvest.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 4: Introduction — {{CHILD}} discovering the Farm Fun world. Unique scene 4 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "farm-fun-4"
         },
         {
             "id": "farm-fun-5",
             "text": [
-                "Everything felt so harvest and new today.",
-                "{{CHILD}} felt the fresh air blowing through the harvest.",
-                "\"This Outdoor Stories is full of surprises!\""
+                "{{CHILD}} noticed how the milk pail connected to the eggs.",
+                "\"Oh! I see how they work together!\" they exclaimed.",
+                "Understanding one thing opened a door to understanding another."
             ],
-            "illustrationHint": "Page 5: Setup: {{CHILD}} working with fields.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 5: Introduction — {{CHILD}} discovering the Farm Fun world. Unique scene 5 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "farm-fun-5"
         },
         {
             "id": "farm-fun-6",
             "text": [
-                "{{CHILD}} noticed a small fields near the entrance.",
-                "They stopped to watch a hay move slowly.",
-                "\"This Outdoor Stories is full of surprises!\""
+                "A moment of focus: {{CHILD}} concentrated on collecting with careful hands.",
+                "The fence responded beautifully to their gentle touch.",
+                "\"You have a natural talent for this,\" {{MOTHER}} said warmly."
             ],
-            "illustrationHint": "Page 6: Setup: {{CHILD}} working with tractor.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 6: Introduction — {{CHILD}} discovering the Farm Fun world. Unique scene 6 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "farm-fun-6"
         },
         {
             "id": "farm-fun-7",
             "text": [
-                "Step 7 of the plan was to look for the tractor.",
-                "\"Look at those hay in the distance!\"",
-                "\"This Outdoor Stories is full of surprises!\""
+                "\"Can I try riding next?\" {{CHILD}} asked eagerly.",
+                "{{MOTHER}} showed them the technique step by step.",
+                "Slow at first, then smoother, then almost graceful."
             ],
-            "illustrationHint": "Page 7: Setup: {{CHILD}} working with hay.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 7: Introduction — {{CHILD}} discovering the Farm Fun world. Unique scene 7 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "farm-fun-7"
         },
         {
             "id": "farm-fun-8",
             "text": [
-                "\"I can't wait to see the hay!\" {{CHILD}} cheered.",
-                "They followed a trail of animals deep into the woods.",
-                "\"This Outdoor Stories is full of surprises!\""
+                "The barn was trickier than expected.",
+                "{{CHILD}} bit their lower lip in concentration.",
+                "\"Take your time — there's no rush,\" reminded {{MOTHER}}."
             ],
-            "illustrationHint": "Page 8: Setup: {{CHILD}} working with barn.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 8: Introduction — {{CHILD}} discovering the Farm Fun world. Unique scene 8 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "farm-fun-8"
         },
         {
             "id": "farm-fun-9",
             "text": [
-                "The air was filled with the scent of barn.",
-                "They collected some barn to show the family.",
-                "\"This Outdoor Stories is full of surprises!\""
+                "Something unexpected happened — the corn field did something surprising!",
+                "\"Whoa! Did you see that?\" {{CHILD}} jumped with excitement.",
+                "Even {{MOTHER}} looked impressed by the unexpected discovery."
             ],
-            "illustrationHint": "Page 9: Setup: {{CHILD}} working with animals.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 9: Introduction — {{CHILD}} discovering the Farm Fun world. Unique scene 9 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "farm-fun-9"
         },
         {
             "id": "farm-fun-10",
             "text": [
-                "They found a map that showed the way to the animals.",
-                "The ground was covered in soft barn.",
-                "\"This Outdoor Stories is full of surprises!\""
+                "By the end of the first session, {{CHILD}} had learned so much.",
+                "The family farm felt like a second home already.",
+                "\"Can we come back tomorrow?\" {{CHILD}} asked hopefully."
             ],
-            "illustrationHint": "Page 10: Setup: {{CHILD}} working with harvest.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 10: Introduction — {{CHILD}} discovering the Farm Fun world. Unique scene 10 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "farm-fun-10"
         },
         {
             "id": "farm-fun-11",
             "text": [
-                "Look at that tractor! It's bigger than I thought!",
-                "The world of farm fun was opening up.",
-                "\"What's over that fields hill?\" wondered {{CHILD}}."
+                "The second session started with a review of what {{CHILD}} already knew.",
+                "Feeding came more naturally now.",
+                "\"Your muscle memory is building,\" {{MOTHER}} observed."
             ],
-            "illustrationHint": "Page 11: Discovery: {{CHILD}} finding fields.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 11: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 11 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "farm-fun-11"
         },
         {
             "id": "farm-fun-12",
             "text": [
-                "{{CHILD}} discovered a hidden path made of harvest.",
-                "The world of farm fun was opening up.",
-                "Walking through the harvest felt so peaceful."
+                "{{CHILD}} wanted to explore the hay bale in a new way.",
+                "\"What happens if I try milking instead?\" they wondered aloud.",
+                "The result was surprising and delightful!"
             ],
-            "illustrationHint": "Page 12: Discovery: {{CHILD}} finding tractor.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 12: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 12 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "farm-fun-12"
         },
         {
             "id": "farm-fun-13",
             "text": [
-                "Wait, is that a fields peeking through the hay?",
-                "The world of farm fun was opening up.",
-                "They breathed in the scent of fresh tractor."
+                "A challenge appeared: combining collecting with planting at the same time.",
+                "{{CHILD}}'s brain had to think about two things at once.",
+                "\"It's like patting your head and rubbing your tummy!\" they laughed."
             ],
-            "illustrationHint": "Page 13: Discovery: {{CHILD}} finding hay.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 13: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 13 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "farm-fun-13"
         },
         {
             "id": "farm-fun-14",
             "text": [
-                "They found a mysterious barn sitting on a stone.",
-                "The world of farm fun was opening up.",
-                "\"I feel so brave and strong out here!\""
+                "{{CHILD}} discovered a secret about the chickens.",
+                "When they tried mending more gently, the chickens responded much better.",
+                "\"Everything works better with a gentle touch,\" {{CHILD}} realized."
             ],
-            "illustrationHint": "Page 14: Discovery: {{CHILD}} finding barn.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 14: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 14 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "farm-fun-14"
         },
         {
             "id": "farm-fun-15",
             "text": [
-                "\"Look at how the animals shines!\" {{CHILD}} exclaimed.",
-                "The world of farm fun was opening up.",
-                "\"Nature is the biggest playground!\""
+                "The tractor and the milk pail were used together for the first time.",
+                "{{CHILD}} created something they'd never seen before.",
+                "\"I made this! All by myself!\" they beamed with pride."
             ],
-            "illustrationHint": "Page 15: Discovery: {{CHILD}} finding animals.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 15: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 15 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "farm-fun-15"
         },
         {
             "id": "farm-fun-16",
             "text": [
-                "Each step revealed more about the magic of tractor.",
-                "The world of farm fun was opening up.",
-                "\"What's over that fields hill?\" wondered {{CHILD}}."
+                "\"Let me show {{FATHER}} what I learned!\" {{CHILD}} said at dinner.",
+                "A mini demonstration right there at the table.",
+                "{{FATHER}} clapped and said, \"That's incredibly impressive!\"\""
             ],
-            "illustrationHint": "Page 16: Discovery: {{CHILD}} finding harvest.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 16: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 16 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "farm-fun-16"
         },
         {
             "id": "farm-fun-17",
             "text": [
-                "{{CHILD}} used a magnifying glass to see the hay.",
-                "The world of farm fun was opening up.",
-                "Walking through the harvest felt so peaceful."
+                "Practice at home became part of {{CHILD}}'s daily routine.",
+                "Ten minutes every day — sometimes fifteen when it was extra fun.",
+                "Consistency turned hesitation into confidence."
             ],
-            "illustrationHint": "Page 17: Discovery: {{CHILD}} finding fields.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 17: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 17 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "farm-fun-17"
         },
         {
             "id": "farm-fun-18",
             "text": [
-                "\"The harvest here is so colorful!\" they said.",
-                "The world of farm fun was opening up.",
-                "They breathed in the scent of fresh tractor."
+                "A book from the library showed experts doing the same thing.",
+                "{{CHILD}} studied the pictures and tried to copy the techniques.",
+                "\"Even pros started as beginners,\" they said to themselves."
             ],
-            "illustrationHint": "Page 18: Discovery: {{CHILD}} finding tractor.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 18: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 18 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "farm-fun-18"
         },
         {
             "id": "farm-fun-19",
             "text": [
-                "They followed a trail of fields into the deep barn.",
-                "The world of farm fun was opening up.",
-                "\"I feel so brave and strong out here!\""
+                "Something clicked today — a skill that was hard became easy.",
+                "{{CHILD}} repeated it four times just to make sure it wasn't a fluke.",
+                "Not a fluke. A breakthrough. The feeling was incredible."
             ],
-            "illustrationHint": "Page 19: Discovery: {{CHILD}} finding hay.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 19: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 19 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "farm-fun-19"
         },
         {
             "id": "farm-fun-20",
             "text": [
-                "A friendly bird chirped from the top of the animals.",
-                "The world of farm fun was opening up.",
-                "\"Nature is the biggest playground!\""
+                "\"I think I'm ready for something bigger,\" {{CHILD}} told {{MOTHER}}.",
+                "The sparkle in their eyes showed they meant it.",
+                "\"Then let's make it happen,\" {{MOTHER}} agreed with a smile."
             ],
-            "illustrationHint": "Page 20: Discovery: {{CHILD}} finding barn.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 20: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 20 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "farm-fun-20"
         },
         {
             "id": "farm-fun-21",
             "text": [
-                "Oh no! The path to the tractor was blocked!",
-                "\"Remember,\" said {{FATHER}}, \"Work ethic is the key.\"",
-                "The path led them to a beautiful animals clearing."
+                "The advanced challenge was right in front of {{CHILD}}.",
+                "A bigger project that required everything they'd learned.",
+                "\"This looks harder than anything I've tried before,\" they admitted."
             ],
-            "illustrationHint": "Page 21: Challenge: {{CHILD}} overcoming an obstacle involving animals.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 21: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 21 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "farm-fun-21"
         },
         {
             "id": "farm-fun-22",
             "text": [
-                "How will we ever move this heavy hay?",
-                "\"Remember,\" said {{FATHER}}, \"Work ethic is the key.\"",
-                "They climbed over a large tractor on the trail."
+                "Step one went smoothly — confidence from practice shone through.",
+                "But step two was different. The eggs didn't cooperate.",
+                "\"Come on, work with me,\" {{CHILD}} muttered, trying again."
             ],
-            "illustrationHint": "Page 22: Challenge: {{CHILD}} overcoming an obstacle involving harvest.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 22: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 22 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "farm-fun-22"
         },
         {
             "id": "farm-fun-23",
             "text": [
-                "The barn started to spin faster and faster!",
-                "\"Remember,\" said {{FATHER}}, \"Work ethic is the key.\"",
-                "They found a hidden fields behind the rocks."
+                "Frustration crept in like an unwelcome visitor.",
+                "Three attempts, three mistakes, three sighs.",
+                "{{CHILD}} put down the fence and stared at the ceiling."
             ],
-            "illustrationHint": "Page 23: Challenge: {{CHILD}} overcoming an obstacle involving fields.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 23: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 23 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "farm-fun-23"
         },
         {
             "id": "farm-fun-24",
             "text": [
-                "{{CHILD}} had to hold onto the animals very tightly.",
-                "\"Remember,\" said {{FATHER}}, \"Work ethic is the key.\"",
-                "The sun glinted off the surface of the tractor."
+                "\"Remember,\" said {{FATHER}}, \"Hard Work is what gets you through.\"",
+                "{{CHILD}} took three deep breaths, finding calm.",
+                "\"Okay. Let me think about this differently.\""
             ],
-            "illustrationHint": "Page 24: Challenge: {{CHILD}} overcoming an obstacle involving tractor.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 24: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 24 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "farm-fun-24"
         },
         {
             "id": "farm-fun-25",
             "text": [
-                "\"We need to solve this harvest puzzle,\" said {{FATHER}}.",
-                "\"Remember,\" said {{FATHER}}, \"Work ethic is the key.\"",
-                "{{CHILD}} felt the fresh air blowing through the harvest."
+                "A new approach! Instead of forcing it, {{CHILD}} went slowly.",
+                "Breaking the problem into tiny, manageable pieces.",
+                "The first small piece worked perfectly."
             ],
-            "illustrationHint": "Page 25: Challenge: {{CHILD}} overcoming an obstacle involving hay.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 25: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 25 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "farm-fun-25"
         },
         {
             "id": "farm-fun-26",
             "text": [
-                "It was time to use all their Work ethic skills.",
-                "\"Remember,\" said {{FATHER}}, \"Work ethic is the key.\"",
-                "They stopped to watch a hay move slowly."
+                "\"One piece at a time. One small step at a time,\" {{CHILD}} repeated.",
+                "The second piece fell into place. Then the third.",
+                "Momentum built like a gentle snowball rolling downhill."
             ],
-            "illustrationHint": "Page 26: Challenge: {{CHILD}} overcoming an obstacle involving barn.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 26: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 26 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "farm-fun-26"
         },
         {
             "id": "farm-fun-27",
             "text": [
-                "The fields was being a bit stubborn today.",
-                "\"Remember,\" said {{FATHER}}, \"Work ethic is the key.\"",
-                "\"Look at those hay in the distance!\""
+                "A wobble on step seven threatened to undo everything.",
+                "But {{CHILD}} caught it in time — quick thinking saved the project!",
+                "\"That was close!\" they exhaled with relief."
             ],
-            "illustrationHint": "Page 27: Challenge: {{CHILD}} overcoming an obstacle involving animals.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 27: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 27 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "farm-fun-27"
         },
         {
             "id": "farm-fun-28",
             "text": [
-                "{{CHILD}} tried to balance the tractor on their head.",
-                "\"Remember,\" said {{FATHER}}, \"Work ethic is the key.\"",
-                "They followed a trail of animals deep into the woods."
+                "\"You didn't panic,\" {{MOTHER}} observed from the doorway.",
+                "\"That's the sign of someone who truly understands hard work.\"",
+                "{{CHILD}} continued, more determined than ever."
             ],
-            "illustrationHint": "Page 28: Challenge: {{CHILD}} overcoming an obstacle involving harvest.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 28: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 28 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "farm-fun-28"
         },
         {
             "id": "farm-fun-29",
             "text": [
-                "\"Whew, that hay is tricky!\" they laughed.",
-                "\"Remember,\" said {{FATHER}}, \"Work ethic is the key.\"",
-                "They collected some barn to show the family."
+                "The hardest part was here — the moment that tested everything.",
+                "Hands steady, breath held, focus sharp as a laser.",
+                "{{CHILD}} gave it every ounce of effort they had."
             ],
-            "illustrationHint": "Page 29: Challenge: {{CHILD}} overcoming an obstacle involving fields.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 29: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 29 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "farm-fun-29"
         },
         {
             "id": "farm-fun-30",
             "text": [
-                "The barn was higher than they expected.",
-                "\"Remember,\" said {{FATHER}}, \"Work ethic is the key.\"",
-                "The ground was covered in soft barn."
+                "And then... success! The challenge was CONQUERED!",
+                "\"I DID IT! I actually DID IT!\" {{CHILD}} leaped up and cheered.",
+                "{{MOTHER}} and {{FATHER}} wrapped them in the biggest hug."
             ],
-            "illustrationHint": "Page 30: Challenge: {{CHILD}} overcoming an obstacle involving tractor.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 30: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 30 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "farm-fun-30"
         },
         {
             "id": "farm-fun-31",
             "text": [
-                "Oh no! The path to the tractor was blocked!",
-                "\"Remember,\" said {{FATHER}}, \"Work ethic is the key.\"",
-                "The path led them to a beautiful animals clearing."
+                "The finished project sat before {{CHILD}} — real and beautiful.",
+                "Every challenge, every frustration had led to this moment.",
+                "\"It's even better than I imagined,\" they whispered."
             ],
-            "illustrationHint": "Page 31: Challenge: {{CHILD}} overcoming an obstacle involving hay.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 31: Triumph — {{CHILD}} celebrating success and growth. Unique scene 31 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "farm-fun-31"
         },
         {
             "id": "farm-fun-32",
             "text": [
-                "How will we ever move this heavy hay?",
-                "\"Remember,\" said {{FATHER}}, \"Work ethic is the key.\"",
-                "They climbed over a large tractor on the trail."
+                "{{CHILD}} wanted to share their achievement with everyone.",
+                "Friends, family, even the neighbors were invited to see.",
+                "\"Look what hard work helped me create!\""
             ],
-            "illustrationHint": "Page 32: Challenge: {{CHILD}} overcoming an obstacle involving barn.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 32: Triumph — {{CHILD}} celebrating success and growth. Unique scene 32 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "farm-fun-32"
         },
         {
             "id": "farm-fun-33",
             "text": [
-                "The barn started to spin faster and faster!",
-                "\"Remember,\" said {{FATHER}}, \"Work ethic is the key.\"",
-                "They found a hidden fields behind the rocks."
+                "\"You should be incredibly proud,\" {{FATHER}} said at dinner.",
+                "\"Not just of the result, but of how you got there.\"",
+                "{{CHILD}} thought about the journey — every up and every down."
             ],
-            "illustrationHint": "Page 33: Challenge: {{CHILD}} overcoming an obstacle involving animals.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 33: Triumph — {{CHILD}} celebrating success and growth. Unique scene 33 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "farm-fun-33"
         },
         {
             "id": "farm-fun-34",
             "text": [
-                "{{CHILD}} had to hold onto the animals very tightly.",
-                "\"Remember,\" said {{FATHER}}, \"Work ethic is the key.\"",
-                "The sun glinted off the surface of the tractor."
+                "A special presentation was arranged for the family.",
+                "{{CHILD}} explained each step, each challenge, each victory.",
+                "The audience of loved ones listened with shining eyes."
             ],
-            "illustrationHint": "Page 34: Challenge: {{CHILD}} overcoming an obstacle involving harvest.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 34: Triumph — {{CHILD}} celebrating success and growth. Unique scene 34 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "farm-fun-34"
         },
         {
             "id": "farm-fun-35",
             "text": [
-                "\"We need to solve this harvest puzzle,\" said {{FATHER}}.",
-                "\"Remember,\" said {{FATHER}}, \"Work ethic is the key.\"",
-                "{{CHILD}} felt the fresh air blowing through the harvest."
+                "\"What was the hardest moment?\" asked {{FATHER}}.",
+                "\"When I wanted to quit but didn't,\" {{CHILD}} answered quietly.",
+                "That answer earned nods of deep respect from everyone."
             ],
-            "illustrationHint": "Page 35: Challenge: {{CHILD}} overcoming an obstacle involving fields.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 35: Triumph — {{CHILD}} celebrating success and growth. Unique scene 35 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "farm-fun-35"
         },
         {
             "id": "farm-fun-36",
             "text": [
-                "Success! The tractor is finally working!",
-                "The farm fun adventure was a huge success.",
-                "\"What's over that fields hill?\" wondered {{CHILD}}."
+                "{{CHILD}} decided to help someone else learn too.",
+                "Teaching felt different — it deepened their own understanding.",
+                "\"The best way to grow is to help others grow,\" they realized."
             ],
-            "illustrationHint": "Page 36: Success: {{CHILD}} celebrating Work ethic with tractor.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 36: Triumph — {{CHILD}} celebrating success and growth. Unique scene 36 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "farm-fun-36"
         },
         {
             "id": "farm-fun-37",
             "text": [
-                "{{CHILD}} mastered the use of the hay!",
-                "The farm fun adventure was a huge success.",
-                "Walking through the harvest felt so peaceful."
+                "A moment of reflection: looking at where they started vs. now.",
+                "The difference was remarkable — night and day.",
+                "\"I didn't know I could do all this,\" {{CHILD}} said in wonder."
             ],
-            "illustrationHint": "Page 37: Success: {{CHILD}} celebrating Work ethic with hay.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 37: Triumph — {{CHILD}} celebrating success and growth. Unique scene 37 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "farm-fun-37"
         },
         {
             "id": "farm-fun-38",
             "text": [
-                "A magical glow came from the barn.",
-                "The farm fun adventure was a huge success.",
-                "They breathed in the scent of fresh tractor."
+                "The 🐄 became {{CHILD}}'s special symbol.",
+                "It represented their journey, their challenge, their triumph.",
+                "\"Whenever I see 🐄, I'll remember what I can do.\""
             ],
-            "illustrationHint": "Page 38: Success: {{CHILD}} celebrating Work ethic with barn.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 38: Triumph — {{CHILD}} celebrating success and growth. Unique scene 38 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "farm-fun-38"
         },
         {
             "id": "farm-fun-39",
             "text": [
-                "The animals turned into a shower of stars!",
-                "The farm fun adventure was a huge success.",
-                "\"I feel so brave and strong out here!\""
+                "Celebrating wasn't about bragging — it was about gratitude.",
+                "\"Thank you for believing in me,\" {{CHILD}} told {{MOTHER}} and {{FATHER}}.",
+                "\"We always believed. You just needed to believe in yourself.\""
             ],
-            "illustrationHint": "Page 39: Success: {{CHILD}} celebrating Work ethic with animals.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 39: Triumph — {{CHILD}} celebrating success and growth. Unique scene 39 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "farm-fun-39"
         },
         {
             "id": "farm-fun-40",
             "text": [
-                "Everyone was proud of the harvest work.",
-                "The farm fun adventure was a huge success.",
-                "\"Nature is the biggest playground!\""
+                "The evening ended with quiet pride and a full heart.",
+                "Not everything in life would be this manageable — but hard work?",
+                "That would carry {{CHILD}} through anything."
             ],
-            "illustrationHint": "Page 40: Success: {{CHILD}} celebrating Work ethic with harvest.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 40: Triumph — {{CHILD}} celebrating success and growth. Unique scene 40 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "farm-fun-40"
         },
         {
             "id": "farm-fun-41",
             "text": [
-                "\"You showed so much Work ethic,\" said {{MOTHER}}.",
-                "The farm fun adventure was a huge success.",
-                "\"What's over that fields hill?\" wondered {{CHILD}}."
+                "Bath time was extra peaceful tonight.",
+                "{{CHILD}} thought about everything they'd learned.",
+                "Water swirled around them like the flow of the whole day."
             ],
-            "illustrationHint": "Page 41: Success: {{CHILD}} celebrating Work ethic with fields.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 41: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 41 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "farm-fun-41"
         },
         {
             "id": "farm-fun-42",
             "text": [
-                "The fields looked beautiful in the end.",
-                "The farm fun adventure was a huge success.",
-                "Walking through the harvest felt so peaceful."
+                "In clean pajamas, {{CHILD}} sat on the bed thoughtfully.",
+                "The family farm experience had changed something inside them.",
+                "They felt bigger, not in size, but in spirit."
             ],
-            "illustrationHint": "Page 42: Success: {{CHILD}} celebrating Work ethic with tractor.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 42: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 42 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "farm-fun-42"
         },
         {
             "id": "farm-fun-43",
             "text": [
-                "They shared a giant 🐄 celebration.",
-                "The farm fun adventure was a huge success.",
-                "They breathed in the scent of fresh tractor."
+                "\"What did farm fun teach you?\" {{MOTHER}} asked at tuck-in.",
+                "{{CHILD}} thought carefully before answering.",
+                "\"That hard work isn't just a word — it's a superpower.\""
             ],
-            "illustrationHint": "Page 43: Success: {{CHILD}} celebrating Work ethic with hay.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 43: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 43 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "farm-fun-43"
         },
         {
             "id": "farm-fun-44",
             "text": [
-                "Success! The tractor is finally working!",
-                "The farm fun adventure was a huge success.",
-                "\"I feel so brave and strong out here!\""
+                "{{MOTHER}} kissed {{CHILD}}'s forehead with all the love in the world.",
+                "\"Your superpower was inside you all along.\"",
+                "{{CHILD}} pulled the blanket up and smiled."
             ],
-            "illustrationHint": "Page 44: Success: {{CHILD}} celebrating Work ethic with barn.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 44: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 44 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "farm-fun-44"
         },
         {
             "id": "farm-fun-45",
             "text": [
-                "{{CHILD}} mastered the use of the hay!",
-                "The farm fun adventure was a huge success.",
-                "\"Nature is the biggest playground!\""
+                "The moonlight painted silver patterns on the bedroom wall.",
+                "Somewhere in the house, evidence of today's adventure waited.",
+                "Ready for tomorrow's next chapter."
             ],
-            "illustrationHint": "Page 45: Success: {{CHILD}} celebrating Work ethic with animals.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 45: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 45 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "farm-fun-45"
         },
         {
             "id": "farm-fun-46",
             "text": [
-                "As the stars came out, they talked about the tractor.",
-                "They stopped to watch a hay move slowly.",
-                "{{CHILD}} gave a happy yawn after the farm fun day."
+                "Stars appeared one by one in the darkening sky.",
+                "Each one twinkled like a tiny cheerleader.",
+                "\"Even the stars are proud of you tonight,\" {{MOTHER}} whispered."
             ],
-            "illustrationHint": "Page 46: Sleepy: {{CHILD}} reflecting on the farm fun journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 46: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 46 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "farm-fun-46"
         },
         {
             "id": "farm-fun-47",
             "text": [
-                "{{CHILD}} realized that Work ethic is very important.",
-                "\"Look at those hay in the distance!\"",
-                "{{CHILD}} gave a happy yawn after the farm fun day."
+                "Dreams arrived like gentle waves on a warm shore.",
+                "In the dream, {{CHILD}} was surrounded by everything they loved.",
+                "The family farm, the hay bale, the chickens — all glowing with magic."
             ],
-            "illustrationHint": "Page 47: Sleepy: {{CHILD}} reflecting on the farm fun journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 47: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 47 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "farm-fun-47"
         },
         {
             "id": "farm-fun-48",
             "text": [
-                "They tucked the hay into its special box.",
-                "They followed a trail of animals deep into the woods.",
-                "{{CHILD}} gave a happy yawn after the farm fun day."
+                "Dream-{{CHILD}} was a master — confident, skilled, and kind.",
+                "Every challenge in the dream was met with hard work.",
+                "And every challenge was overcome, one by one."
             ],
-            "illustrationHint": "Page 48: Sleepy: {{CHILD}} reflecting on the farm fun journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 48: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 48 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "farm-fun-48"
         },
         {
             "id": "farm-fun-49",
             "text": [
-                "\"I loved the barn today,\" said {{CHILD}}.",
-                "They collected some barn to show the family.",
-                "{{CHILD}} gave a happy yawn after the farm fun day."
+                "The dream world slowly darkened into the deepest, most restful sleep.",
+                "Outside, the night was peaceful and full of possibility.",
+                "Tomorrow would bring new adventures, new lessons, new growth."
             ],
-            "illustrationHint": "Page 49: Sleepy: {{CHILD}} reflecting on the farm fun journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 49: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 49 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "farm-fun-49"
         },
         {
             "id": "farm-fun-50",
             "text": [
-                "The animals was now a happy memory.",
-                "The ground was covered in soft barn.",
-                "Goodnight, brave adventurer. See you in tomorrow's story!"
+                "The 🐄 glowed softly in {{CHILD}}'s imagination as they slept.",
+                "A symbol of what they'd learned, what they'd done, who they were becoming.",
+                "Goodnight, wonderful {{CHILD}}. You made today absolutely magical."
             ],
-            "illustrationHint": "Page 50: Sleepy: {{CHILD}} reflecting on the farm fun journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 50: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 50 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "farm-fun-50"
         }
     ]

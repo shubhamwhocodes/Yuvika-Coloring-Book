@@ -1,511 +1,511 @@
-// Refined story - {{CHILD}}'s New Puppy
+// {{CHILD}}'s New Puppy — Unique story with 50 distinct pages
 const story = {
     "id": "puppy-story",
     "title": "{{CHILD}}'s New Puppy",
     "emoji": "🐶",
     "theme": "Family Stories",
     "lesson": "Kindness",
-    "description": "Explore the wonders of puppy story and learn about Kindness!",
+    "description": "{{CHILD}} learns about kindness when a fluffy new puppy joins the family!",
     "coverColor": "#6BCB77",
     "pages": [
         {
             "id": "puppy-story-1",
             "text": [
-                "Today was the start of something amazing for {{CHILD}}.",
-                "They were going to explore the world of puppy story!",
-                "\"Are you ready for the puppy-story journey?\" asked {{MOTHER}}."
+                "The home with backyard was filled with exciting possibilities.",
+                "{{CHILD}} looked around with wide, sparkling eyes.",
+                "\"Are you ready for the new puppy adventure?\" asked {{MOTHER}}."
             ],
-            "illustrationHint": "Page 1: Opening scene: {{CHILD}} and family standing by a sign for \"puppy story\".. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 1: Introduction — {{CHILD}} discovering the New Puppy world. Unique scene 1 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "puppy-story-1"
         },
         {
             "id": "puppy-story-2",
             "text": [
-                "Then, they checked the leash to make sure it was ready.",
-                "They sang a song while holding the wagging tail.",
-                "\"This Family Stories is full of surprises!\""
+                "Everything was set up and waiting — the puppy, the leash, and more.",
+                "{{CHILD}} picked up the puppy and turned it over in their hands.",
+                "\"This is going to be the best day ever!\" they declared."
             ],
-            "illustrationHint": "Page 2: Setup: {{CHILD}} working with barking.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 2: Introduction — {{CHILD}} discovering the New Puppy world. Unique scene 2 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "puppy-story-2"
         },
         {
             "id": "puppy-story-3",
             "text": [
-                "{{CHILD}} put on their special barking gear.",
-                "They worked together to organize the wagging tail.",
-                "\"This Family Stories is full of surprises!\""
+                "{{MOTHER}} explained how the dog bowl worked while {{CHILD}} listened carefully.",
+                "\"First, you need to understand the dog bowl before you use it.\"",
+                "{{CHILD}} nodded seriously, determined to learn everything."
             ],
-            "illustrationHint": "Page 3: Setup: {{CHILD}} working with kisses.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 3: Introduction — {{CHILD}} discovering the New Puppy world. Unique scene 3 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "puppy-story-3"
         },
         {
             "id": "puppy-story-4",
             "text": [
-                "\"Don't forget the kisses!\" called out {{MOTHER}}.",
-                "They sat down to look at the fuzzy together.",
-                "\"This Family Stories is full of surprises!\""
+                "The first step was patting — and {{CHILD}} gave it their best try.",
+                "It wasn't perfect, but it was a wonderful beginning.",
+                "\"Everyone starts exactly where you are right now,\" {{MOTHER}} encouraged."
             ],
-            "illustrationHint": "Page 4: Setup: {{CHILD}} working with fuzzy.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 4: Introduction — {{CHILD}} discovering the New Puppy world. Unique scene 4 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "puppy-story-4"
         },
         {
             "id": "puppy-story-5",
             "text": [
-                "Everything felt so fuzzy and new today.",
-                "\"Let's put the leash here,\" suggested {{FATHER}}.",
-                "\"This Family Stories is full of surprises!\""
+                "{{CHILD}} noticed how the ball connected to the treats.",
+                "\"Oh! I see how they work together!\" they exclaimed.",
+                "Understanding one thing opened a door to understanding another."
             ],
-            "illustrationHint": "Page 5: Setup: {{CHILD}} working with park.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 5: Introduction — {{CHILD}} discovering the New Puppy world. Unique scene 5 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "puppy-story-5"
         },
         {
             "id": "puppy-story-6",
             "text": [
-                "{{CHILD}} noticed a small park near the entrance.",
-                "They found an old barking that brought back memories.",
-                "\"This Family Stories is full of surprises!\""
+                "A moment of focus: {{CHILD}} concentrated on walking with careful hands.",
+                "The collar responded beautifully to their gentle touch.",
+                "\"You have a natural talent for this,\" {{MOTHER}} said warmly."
             ],
-            "illustrationHint": "Page 6: Setup: {{CHILD}} working with wagging tail.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 6: Introduction — {{CHILD}} discovering the New Puppy world. Unique scene 6 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "puppy-story-6"
         },
         {
             "id": "puppy-story-7",
             "text": [
-                "Step 7 of the plan was to look for the wagging tail.",
-                "Everyone gathered around the leash for a photo.",
-                "\"This Family Stories is full of surprises!\""
+                "\"Can I try feeding next?\" {{CHILD}} asked eagerly.",
+                "{{MOTHER}} showed them the technique step by step.",
+                "Slow at first, then smoother, then almost graceful."
             ],
-            "illustrationHint": "Page 7: Setup: {{CHILD}} working with leash.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 7: Introduction — {{CHILD}} discovering the New Puppy world. Unique scene 7 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "puppy-story-7"
         },
         {
             "id": "puppy-story-8",
             "text": [
-                "\"I can't wait to see the leash!\" {{CHILD}} cheered.",
-                "{{CHILD}} gave the park a big, happy hug.",
-                "\"This Family Stories is full of surprises!\""
+                "The paw prints was trickier than expected.",
+                "{{CHILD}} bit their lower lip in concentration.",
+                "\"Take your time — there's no rush,\" reminded {{MOTHER}}."
             ],
-            "illustrationHint": "Page 8: Setup: {{CHILD}} working with barking.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 8: Introduction — {{CHILD}} discovering the New Puppy world. Unique scene 8 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "puppy-story-8"
         },
         {
             "id": "puppy-story-9",
             "text": [
-                "The air was filled with the scent of barking.",
-                "It was a perfect day for a family barking.",
-                "\"This Family Stories is full of surprises!\""
+                "Something unexpected happened — the dog bed did something surprising!",
+                "\"Whoa! Did you see that?\" {{CHILD}} jumped with excitement.",
+                "Even {{MOTHER}} looked impressed by the unexpected discovery."
             ],
-            "illustrationHint": "Page 9: Setup: {{CHILD}} working with kisses.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 9: Introduction — {{CHILD}} discovering the New Puppy world. Unique scene 9 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "puppy-story-9"
         },
         {
             "id": "puppy-story-10",
             "text": [
-                "They found a map that showed the way to the kisses.",
-                "The house was filled with the scent of kisses.",
-                "\"This Family Stories is full of surprises!\""
+                "By the end of the first session, {{CHILD}} had learned so much.",
+                "The home with backyard felt like a second home already.",
+                "\"Can we come back tomorrow?\" {{CHILD}} asked hopefully."
             ],
-            "illustrationHint": "Page 10: Setup: {{CHILD}} working with fuzzy.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 10: Introduction — {{CHILD}} discovering the New Puppy world. Unique scene 10 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "puppy-story-10"
         },
         {
             "id": "puppy-story-11",
             "text": [
-                "Look at that wagging tail! It's bigger than I thought!",
-                "The world of puppy story was opening up.",
-                "\"Thank you for helping with the fuzzy,\" said {{MOTHER}}."
+                "The second session started with a review of what {{CHILD}} already knew.",
+                "Patting came more naturally now.",
+                "\"Your muscle memory is building,\" {{MOTHER}} observed."
             ],
-            "illustrationHint": "Page 11: Discovery: {{CHILD}} finding park.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 11: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 11 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "puppy-story-11"
         },
         {
             "id": "puppy-story-12",
             "text": [
-                "{{CHILD}} discovered a hidden path made of fuzzy.",
-                "The world of puppy story was opening up.",
-                "Being together makes every kisses special."
+                "{{CHILD}} wanted to explore the puppy in a new way.",
+                "\"What happens if I try training instead?\" they wondered aloud.",
+                "The result was surprising and delightful!"
             ],
-            "illustrationHint": "Page 12: Discovery: {{CHILD}} finding wagging tail.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 12: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 12 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "puppy-story-12"
         },
         {
             "id": "puppy-story-13",
             "text": [
-                "Wait, is that a park peeking through the leash?",
-                "The world of puppy story was opening up.",
-                "They felt safe and loved on this wagging tail day."
+                "A challenge appeared: combining walking with playing at the same time.",
+                "{{CHILD}}'s brain had to think about two things at once.",
+                "\"It's like patting your head and rubbing your tummy!\" they laughed."
             ],
-            "illustrationHint": "Page 13: Discovery: {{CHILD}} finding leash.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 13: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 13 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "puppy-story-13"
         },
         {
             "id": "puppy-story-14",
             "text": [
-                "They found a mysterious barking sitting on a stone.",
-                "The world of puppy story was opening up.",
-                "\"I love my family so much,\" thought {{CHILD}}."
+                "{{CHILD}} discovered a secret about the leash.",
+                "When they tried brushing more gently, the leash responded much better.",
+                "\"Everything works better with a gentle touch,\" {{CHILD}} realized."
             ],
-            "illustrationHint": "Page 14: Discovery: {{CHILD}} finding barking.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 14: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 14 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "puppy-story-14"
         },
         {
             "id": "puppy-story-15",
             "text": [
-                "\"Look at how the kisses shines!\" {{CHILD}} exclaimed.",
-                "The world of puppy story was opening up.",
-                "\"This park is the best part of home.\""
+                "The dog bowl and the ball were used together for the first time.",
+                "{{CHILD}} created something they'd never seen before.",
+                "\"I made this! All by myself!\" they beamed with pride."
             ],
-            "illustrationHint": "Page 15: Discovery: {{CHILD}} finding kisses.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 15: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 15 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "puppy-story-15"
         },
         {
             "id": "puppy-story-16",
             "text": [
-                "Each step revealed more about the magic of wagging tail.",
-                "The world of puppy story was opening up.",
-                "\"Thank you for helping with the fuzzy,\" said {{MOTHER}}."
+                "\"Let me show {{FATHER}} what I learned!\" {{CHILD}} said at dinner.",
+                "A mini demonstration right there at the table.",
+                "{{FATHER}} clapped and said, \"That's incredibly impressive!\"\""
             ],
-            "illustrationHint": "Page 16: Discovery: {{CHILD}} finding fuzzy.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 16: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 16 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "puppy-story-16"
         },
         {
             "id": "puppy-story-17",
             "text": [
-                "{{CHILD}} used a magnifying glass to see the leash.",
-                "The world of puppy story was opening up.",
-                "Being together makes every kisses special."
+                "Practice at home became part of {{CHILD}}'s daily routine.",
+                "Ten minutes every day — sometimes fifteen when it was extra fun.",
+                "Consistency turned hesitation into confidence."
             ],
-            "illustrationHint": "Page 17: Discovery: {{CHILD}} finding park.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 17: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 17 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "puppy-story-17"
         },
         {
             "id": "puppy-story-18",
             "text": [
-                "\"The fuzzy here is so colorful!\" they said.",
-                "The world of puppy story was opening up.",
-                "They felt safe and loved on this wagging tail day."
+                "A book from the library showed experts doing the same thing.",
+                "{{CHILD}} studied the pictures and tried to copy the techniques.",
+                "\"Even pros started as beginners,\" they said to themselves."
             ],
-            "illustrationHint": "Page 18: Discovery: {{CHILD}} finding wagging tail.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 18: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 18 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "puppy-story-18"
         },
         {
             "id": "puppy-story-19",
             "text": [
-                "They followed a trail of park into the deep barking.",
-                "The world of puppy story was opening up.",
-                "\"I love my family so much,\" thought {{CHILD}}."
+                "Something clicked today — a skill that was hard became easy.",
+                "{{CHILD}} repeated it four times just to make sure it wasn't a fluke.",
+                "Not a fluke. A breakthrough. The feeling was incredible."
             ],
-            "illustrationHint": "Page 19: Discovery: {{CHILD}} finding leash.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 19: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 19 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "puppy-story-19"
         },
         {
             "id": "puppy-story-20",
             "text": [
-                "A friendly bird chirped from the top of the kisses.",
-                "The world of puppy story was opening up.",
-                "\"This park is the best part of home.\""
+                "\"I think I'm ready for something bigger,\" {{CHILD}} told {{MOTHER}}.",
+                "The sparkle in their eyes showed they meant it.",
+                "\"Then let's make it happen,\" {{MOTHER}} agreed with a smile."
             ],
-            "illustrationHint": "Page 20: Discovery: {{CHILD}} finding barking.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 20: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 20 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "puppy-story-20"
         },
         {
             "id": "puppy-story-21",
             "text": [
-                "Oh no! The path to the wagging tail was blocked!",
-                "\"Remember,\" said {{FATHER}}, \"Kindness is the key.\"",
-                "{{CHILD}} and {{MOTHER}} shared a warm smile."
+                "The advanced challenge was right in front of {{CHILD}}.",
+                "A bigger project that required everything they'd learned.",
+                "\"This looks harder than anything I've tried before,\" they admitted."
             ],
-            "illustrationHint": "Page 21: Challenge: {{CHILD}} overcoming an obstacle involving kisses.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 21: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 21 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "puppy-story-21"
         },
         {
             "id": "puppy-story-22",
             "text": [
-                "How will we ever move this heavy leash?",
-                "\"Remember,\" said {{FATHER}}, \"Kindness is the key.\"",
-                "They sang a song while holding the wagging tail."
+                "Step one went smoothly — confidence from practice shone through.",
+                "But step two was different. The treats didn't cooperate.",
+                "\"Come on, work with me,\" {{CHILD}} muttered, trying again."
             ],
-            "illustrationHint": "Page 22: Challenge: {{CHILD}} overcoming an obstacle involving fuzzy.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 22: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 22 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "puppy-story-22"
         },
         {
             "id": "puppy-story-23",
             "text": [
-                "The barking started to spin faster and faster!",
-                "\"Remember,\" said {{FATHER}}, \"Kindness is the key.\"",
-                "They worked together to organize the wagging tail."
+                "Frustration crept in like an unwelcome visitor.",
+                "Three attempts, three mistakes, three sighs.",
+                "{{CHILD}} put down the collar and stared at the ceiling."
             ],
-            "illustrationHint": "Page 23: Challenge: {{CHILD}} overcoming an obstacle involving park.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 23: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 23 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "puppy-story-23"
         },
         {
             "id": "puppy-story-24",
             "text": [
-                "{{CHILD}} had to hold onto the kisses very tightly.",
-                "\"Remember,\" said {{FATHER}}, \"Kindness is the key.\"",
-                "They sat down to look at the fuzzy together."
+                "\"Remember,\" said {{FATHER}}, \"Kindness is what gets you through.\"",
+                "{{CHILD}} took three deep breaths, finding calm.",
+                "\"Okay. Let me think about this differently.\""
             ],
-            "illustrationHint": "Page 24: Challenge: {{CHILD}} overcoming an obstacle involving wagging tail.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 24: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 24 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "puppy-story-24"
         },
         {
             "id": "puppy-story-25",
             "text": [
-                "\"We need to solve this fuzzy puzzle,\" said {{FATHER}}.",
-                "\"Remember,\" said {{FATHER}}, \"Kindness is the key.\"",
-                "\"Let's put the leash here,\" suggested {{FATHER}}."
+                "A new approach! Instead of forcing it, {{CHILD}} went slowly.",
+                "Breaking the problem into tiny, manageable pieces.",
+                "The first small piece worked perfectly."
             ],
-            "illustrationHint": "Page 25: Challenge: {{CHILD}} overcoming an obstacle involving leash.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 25: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 25 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "puppy-story-25"
         },
         {
             "id": "puppy-story-26",
             "text": [
-                "It was time to use all their Kindness skills.",
-                "\"Remember,\" said {{FATHER}}, \"Kindness is the key.\"",
-                "They found an old barking that brought back memories."
+                "\"One piece at a time. One small step at a time,\" {{CHILD}} repeated.",
+                "The second piece fell into place. Then the third.",
+                "Momentum built like a gentle snowball rolling downhill."
             ],
-            "illustrationHint": "Page 26: Challenge: {{CHILD}} overcoming an obstacle involving barking.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 26: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 26 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "puppy-story-26"
         },
         {
             "id": "puppy-story-27",
             "text": [
-                "The park was being a bit stubborn today.",
-                "\"Remember,\" said {{FATHER}}, \"Kindness is the key.\"",
-                "Everyone gathered around the leash for a photo."
+                "A wobble on step seven threatened to undo everything.",
+                "But {{CHILD}} caught it in time — quick thinking saved the project!",
+                "\"That was close!\" they exhaled with relief."
             ],
-            "illustrationHint": "Page 27: Challenge: {{CHILD}} overcoming an obstacle involving kisses.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 27: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 27 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "puppy-story-27"
         },
         {
             "id": "puppy-story-28",
             "text": [
-                "{{CHILD}} tried to balance the wagging tail on their head.",
-                "\"Remember,\" said {{FATHER}}, \"Kindness is the key.\"",
-                "{{CHILD}} gave the park a big, happy hug."
+                "\"You didn't panic,\" {{MOTHER}} observed from the doorway.",
+                "\"That's the sign of someone who truly understands kindness.\"",
+                "{{CHILD}} continued, more determined than ever."
             ],
-            "illustrationHint": "Page 28: Challenge: {{CHILD}} overcoming an obstacle involving fuzzy.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 28: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 28 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "puppy-story-28"
         },
         {
             "id": "puppy-story-29",
             "text": [
-                "\"Whew, that leash is tricky!\" they laughed.",
-                "\"Remember,\" said {{FATHER}}, \"Kindness is the key.\"",
-                "It was a perfect day for a family barking."
+                "The hardest part was here — the moment that tested everything.",
+                "Hands steady, breath held, focus sharp as a laser.",
+                "{{CHILD}} gave it every ounce of effort they had."
             ],
-            "illustrationHint": "Page 29: Challenge: {{CHILD}} overcoming an obstacle involving park.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 29: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 29 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "puppy-story-29"
         },
         {
             "id": "puppy-story-30",
             "text": [
-                "The barking was higher than they expected.",
-                "\"Remember,\" said {{FATHER}}, \"Kindness is the key.\"",
-                "The house was filled with the scent of kisses."
+                "And then... success! The challenge was CONQUERED!",
+                "\"I DID IT! I actually DID IT!\" {{CHILD}} leaped up and cheered.",
+                "{{MOTHER}} and {{FATHER}} wrapped them in the biggest hug."
             ],
-            "illustrationHint": "Page 30: Challenge: {{CHILD}} overcoming an obstacle involving wagging tail.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 30: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 30 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "puppy-story-30"
         },
         {
             "id": "puppy-story-31",
             "text": [
-                "Oh no! The path to the wagging tail was blocked!",
-                "\"Remember,\" said {{FATHER}}, \"Kindness is the key.\"",
-                "{{CHILD}} and {{MOTHER}} shared a warm smile."
+                "The finished project sat before {{CHILD}} — real and beautiful.",
+                "Every challenge, every frustration had led to this moment.",
+                "\"It's even better than I imagined,\" they whispered."
             ],
-            "illustrationHint": "Page 31: Challenge: {{CHILD}} overcoming an obstacle involving leash.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 31: Triumph — {{CHILD}} celebrating success and growth. Unique scene 31 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "puppy-story-31"
         },
         {
             "id": "puppy-story-32",
             "text": [
-                "How will we ever move this heavy leash?",
-                "\"Remember,\" said {{FATHER}}, \"Kindness is the key.\"",
-                "They sang a song while holding the wagging tail."
+                "{{CHILD}} wanted to share their achievement with everyone.",
+                "Friends, family, even the neighbors were invited to see.",
+                "\"Look what kindness helped me create!\""
             ],
-            "illustrationHint": "Page 32: Challenge: {{CHILD}} overcoming an obstacle involving barking.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 32: Triumph — {{CHILD}} celebrating success and growth. Unique scene 32 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "puppy-story-32"
         },
         {
             "id": "puppy-story-33",
             "text": [
-                "The barking started to spin faster and faster!",
-                "\"Remember,\" said {{FATHER}}, \"Kindness is the key.\"",
-                "They worked together to organize the wagging tail."
+                "\"You should be incredibly proud,\" {{FATHER}} said at dinner.",
+                "\"Not just of the result, but of how you got there.\"",
+                "{{CHILD}} thought about the journey — every up and every down."
             ],
-            "illustrationHint": "Page 33: Challenge: {{CHILD}} overcoming an obstacle involving kisses.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 33: Triumph — {{CHILD}} celebrating success and growth. Unique scene 33 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "puppy-story-33"
         },
         {
             "id": "puppy-story-34",
             "text": [
-                "{{CHILD}} had to hold onto the kisses very tightly.",
-                "\"Remember,\" said {{FATHER}}, \"Kindness is the key.\"",
-                "They sat down to look at the fuzzy together."
+                "A special presentation was arranged for the family.",
+                "{{CHILD}} explained each step, each challenge, each victory.",
+                "The audience of loved ones listened with shining eyes."
             ],
-            "illustrationHint": "Page 34: Challenge: {{CHILD}} overcoming an obstacle involving fuzzy.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 34: Triumph — {{CHILD}} celebrating success and growth. Unique scene 34 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "puppy-story-34"
         },
         {
             "id": "puppy-story-35",
             "text": [
-                "\"We need to solve this fuzzy puzzle,\" said {{FATHER}}.",
-                "\"Remember,\" said {{FATHER}}, \"Kindness is the key.\"",
-                "\"Let's put the leash here,\" suggested {{FATHER}}."
+                "\"What was the hardest moment?\" asked {{FATHER}}.",
+                "\"When I wanted to quit but didn't,\" {{CHILD}} answered quietly.",
+                "That answer earned nods of deep respect from everyone."
             ],
-            "illustrationHint": "Page 35: Challenge: {{CHILD}} overcoming an obstacle involving park.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 35: Triumph — {{CHILD}} celebrating success and growth. Unique scene 35 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "puppy-story-35"
         },
         {
             "id": "puppy-story-36",
             "text": [
-                "Success! The wagging tail is finally working!",
-                "The puppy story adventure was a huge success.",
-                "\"Thank you for helping with the fuzzy,\" said {{MOTHER}}."
+                "{{CHILD}} decided to help someone else learn too.",
+                "Teaching felt different — it deepened their own understanding.",
+                "\"The best way to grow is to help others grow,\" they realized."
             ],
-            "illustrationHint": "Page 36: Success: {{CHILD}} celebrating Kindness with wagging tail.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 36: Triumph — {{CHILD}} celebrating success and growth. Unique scene 36 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "puppy-story-36"
         },
         {
             "id": "puppy-story-37",
             "text": [
-                "{{CHILD}} mastered the use of the leash!",
-                "The puppy story adventure was a huge success.",
-                "Being together makes every kisses special."
+                "A moment of reflection: looking at where they started vs. now.",
+                "The difference was remarkable — night and day.",
+                "\"I didn't know I could do all this,\" {{CHILD}} said in wonder."
             ],
-            "illustrationHint": "Page 37: Success: {{CHILD}} celebrating Kindness with leash.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 37: Triumph — {{CHILD}} celebrating success and growth. Unique scene 37 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "puppy-story-37"
         },
         {
             "id": "puppy-story-38",
             "text": [
-                "A magical glow came from the barking.",
-                "The puppy story adventure was a huge success.",
-                "They felt safe and loved on this wagging tail day."
+                "The 🐶 became {{CHILD}}'s special symbol.",
+                "It represented their journey, their challenge, their triumph.",
+                "\"Whenever I see 🐶, I'll remember what I can do.\""
             ],
-            "illustrationHint": "Page 38: Success: {{CHILD}} celebrating Kindness with barking.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 38: Triumph — {{CHILD}} celebrating success and growth. Unique scene 38 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "puppy-story-38"
         },
         {
             "id": "puppy-story-39",
             "text": [
-                "The kisses turned into a shower of stars!",
-                "The puppy story adventure was a huge success.",
-                "\"I love my family so much,\" thought {{CHILD}}."
+                "Celebrating wasn't about bragging — it was about gratitude.",
+                "\"Thank you for believing in me,\" {{CHILD}} told {{MOTHER}} and {{FATHER}}.",
+                "\"We always believed. You just needed to believe in yourself.\""
             ],
-            "illustrationHint": "Page 39: Success: {{CHILD}} celebrating Kindness with kisses.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 39: Triumph — {{CHILD}} celebrating success and growth. Unique scene 39 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "puppy-story-39"
         },
         {
             "id": "puppy-story-40",
             "text": [
-                "Everyone was proud of the fuzzy work.",
-                "The puppy story adventure was a huge success.",
-                "\"This park is the best part of home.\""
+                "The evening ended with quiet pride and a full heart.",
+                "Not everything in life would be this manageable — but kindness?",
+                "That would carry {{CHILD}} through anything."
             ],
-            "illustrationHint": "Page 40: Success: {{CHILD}} celebrating Kindness with fuzzy.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 40: Triumph — {{CHILD}} celebrating success and growth. Unique scene 40 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "puppy-story-40"
         },
         {
             "id": "puppy-story-41",
             "text": [
-                "\"You showed so much Kindness,\" said {{MOTHER}}.",
-                "The puppy story adventure was a huge success.",
-                "\"Thank you for helping with the fuzzy,\" said {{MOTHER}}."
+                "Bath time was extra peaceful tonight.",
+                "{{CHILD}} thought about everything they'd learned.",
+                "Water swirled around them like the flow of the whole day."
             ],
-            "illustrationHint": "Page 41: Success: {{CHILD}} celebrating Kindness with park.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 41: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 41 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "puppy-story-41"
         },
         {
             "id": "puppy-story-42",
             "text": [
-                "The park looked beautiful in the end.",
-                "The puppy story adventure was a huge success.",
-                "Being together makes every kisses special."
+                "In clean pajamas, {{CHILD}} sat on the bed thoughtfully.",
+                "The home with backyard experience had changed something inside them.",
+                "They felt bigger, not in size, but in spirit."
             ],
-            "illustrationHint": "Page 42: Success: {{CHILD}} celebrating Kindness with wagging tail.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 42: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 42 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "puppy-story-42"
         },
         {
             "id": "puppy-story-43",
             "text": [
-                "They shared a giant 🐶 celebration.",
-                "The puppy story adventure was a huge success.",
-                "They felt safe and loved on this wagging tail day."
+                "\"What did new puppy teach you?\" {{MOTHER}} asked at tuck-in.",
+                "{{CHILD}} thought carefully before answering.",
+                "\"That kindness isn't just a word — it's a superpower.\""
             ],
-            "illustrationHint": "Page 43: Success: {{CHILD}} celebrating Kindness with leash.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 43: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 43 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "puppy-story-43"
         },
         {
             "id": "puppy-story-44",
             "text": [
-                "Success! The wagging tail is finally working!",
-                "The puppy story adventure was a huge success.",
-                "\"I love my family so much,\" thought {{CHILD}}."
+                "{{MOTHER}} kissed {{CHILD}}'s forehead with all the love in the world.",
+                "\"Your superpower was inside you all along.\"",
+                "{{CHILD}} pulled the blanket up and smiled."
             ],
-            "illustrationHint": "Page 44: Success: {{CHILD}} celebrating Kindness with barking.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 44: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 44 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "puppy-story-44"
         },
         {
             "id": "puppy-story-45",
             "text": [
-                "{{CHILD}} mastered the use of the leash!",
-                "The puppy story adventure was a huge success.",
-                "\"This park is the best part of home.\""
+                "The moonlight painted silver patterns on the bedroom wall.",
+                "Somewhere in the house, evidence of today's adventure waited.",
+                "Ready for tomorrow's next chapter."
             ],
-            "illustrationHint": "Page 45: Success: {{CHILD}} celebrating Kindness with kisses.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 45: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 45 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "puppy-story-45"
         },
         {
             "id": "puppy-story-46",
             "text": [
-                "As the stars came out, they talked about the wagging tail.",
-                "They found an old barking that brought back memories.",
-                "{{CHILD}} gave a happy yawn after the puppy story day."
+                "Stars appeared one by one in the darkening sky.",
+                "Each one twinkled like a tiny cheerleader.",
+                "\"Even the stars are proud of you tonight,\" {{MOTHER}} whispered."
             ],
-            "illustrationHint": "Page 46: Sleepy: {{CHILD}} reflecting on the puppy story journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 46: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 46 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "puppy-story-46"
         },
         {
             "id": "puppy-story-47",
             "text": [
-                "{{CHILD}} realized that Kindness is very important.",
-                "Everyone gathered around the leash for a photo.",
-                "{{CHILD}} gave a happy yawn after the puppy story day."
+                "Dreams arrived like gentle waves on a warm shore.",
+                "In the dream, {{CHILD}} was surrounded by everything they loved.",
+                "The home with backyard, the puppy, the leash — all glowing with magic."
             ],
-            "illustrationHint": "Page 47: Sleepy: {{CHILD}} reflecting on the puppy story journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 47: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 47 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "puppy-story-47"
         },
         {
             "id": "puppy-story-48",
             "text": [
-                "They tucked the leash into its special box.",
-                "{{CHILD}} gave the park a big, happy hug.",
-                "{{CHILD}} gave a happy yawn after the puppy story day."
+                "Dream-{{CHILD}} was a master — confident, skilled, and kind.",
+                "Every challenge in the dream was met with kindness.",
+                "And every challenge was overcome, one by one."
             ],
-            "illustrationHint": "Page 48: Sleepy: {{CHILD}} reflecting on the puppy story journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 48: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 48 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "puppy-story-48"
         },
         {
             "id": "puppy-story-49",
             "text": [
-                "\"I loved the barking today,\" said {{CHILD}}.",
-                "It was a perfect day for a family barking.",
-                "{{CHILD}} gave a happy yawn after the puppy story day."
+                "The dream world slowly darkened into the deepest, most restful sleep.",
+                "Outside, the night was peaceful and full of possibility.",
+                "Tomorrow would bring new adventures, new lessons, new growth."
             ],
-            "illustrationHint": "Page 49: Sleepy: {{CHILD}} reflecting on the puppy story journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 49: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 49 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "puppy-story-49"
         },
         {
             "id": "puppy-story-50",
             "text": [
-                "The kisses was now a happy memory.",
-                "The house was filled with the scent of kisses.",
-                "Goodnight, brave adventurer. See you in tomorrow's story!"
+                "The 🐶 glowed softly in {{CHILD}}'s imagination as they slept.",
+                "A symbol of what they'd learned, what they'd done, who they were becoming.",
+                "Goodnight, wonderful {{CHILD}}. You made today absolutely magical."
             ],
-            "illustrationHint": "Page 50: Sleepy: {{CHILD}} reflecting on the puppy story journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 50: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 50 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "puppy-story-50"
         }
     ]

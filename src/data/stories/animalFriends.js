@@ -1,511 +1,511 @@
-// Refined story - {{CHILD}} Loves Animals
+// {{CHILD}}'s Animal Friends — Unique story with 50 distinct pages
 const story = {
     "id": "animal-friends",
-    "title": "{{CHILD}} Loves Animals",
+    "title": "{{CHILD}}'s Animal Friends",
     "emoji": "🐱",
     "theme": "Learning Stories",
     "lesson": "Empathy",
-    "description": "Explore the wonders of animal friends and learn about Empathy!",
+    "description": "Meet fascinating animals with {{CHILD}} and learn what it means to understand different creatures!",
     "coverColor": "#F39C12",
     "pages": [
         {
             "id": "animal-friends-1",
             "text": [
-                "Today was the start of something amazing for {{CHILD}}.",
-                "They were going to explore the world of animal friends!",
-                "\"Are you ready for the animal-friends journey?\" asked {{MOTHER}}."
+                "The nature reserve was filled with exciting possibilities.",
+                "{{CHILD}} looked around with wide, sparkling eyes.",
+                "\"Are you ready for the animal friends adventure?\" asked {{MOTHER}}."
             ],
-            "illustrationHint": "Page 1: Opening scene: {{CHILD}} and family standing by a sign for \"animal friends\".. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 1: Introduction — {{CHILD}} discovering the Animal Friends world. Unique scene 1 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "animal-friends-1"
         },
         {
             "id": "animal-friends-2",
             "text": [
-                "Then, they checked the fur to make sure it was ready.",
-                "{{CHILD}} pointed at the bright claws.",
-                "\"This Learning Stories is full of surprises!\""
+                "Everything was set up and waiting — the binoculars, the field guide, and more.",
+                "{{CHILD}} picked up the binoculars and turned it over in their hands.",
+                "\"This is going to be the best day ever!\" they declared."
             ],
-            "illustrationHint": "Page 2: Setup: {{CHILD}} working with feathers.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 2: Introduction — {{CHILD}} discovering the Animal Friends world. Unique scene 2 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "animal-friends-2"
         },
         {
             "id": "animal-friends-3",
             "text": [
-                "{{CHILD}} put on their special feathers gear.",
-                "Look at how the tracks changes in the light!",
-                "\"This Learning Stories is full of surprises!\""
+                "{{MOTHER}} explained how the bird feeder worked while {{CHILD}} listened carefully.",
+                "\"First, you need to understand the bird feeder before you use it.\"",
+                "{{CHILD}} nodded seriously, determined to learn everything."
             ],
-            "illustrationHint": "Page 3: Setup: {{CHILD}} working with tracks.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 3: Introduction — {{CHILD}} discovering the Animal Friends world. Unique scene 3 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "animal-friends-3"
         },
         {
             "id": "animal-friends-4",
             "text": [
-                "\"Don't forget the tracks!\" called out {{MOTHER}}.",
-                "They compared the size of the habitats and the sounds.",
-                "\"This Learning Stories is full of surprises!\""
+                "The first step was watching — and {{CHILD}} gave it their best try.",
+                "It wasn't perfect, but it was a wonderful beginning.",
+                "\"Everyone starts exactly where you are right now,\" {{MOTHER}} encouraged."
             ],
-            "illustrationHint": "Page 4: Setup: {{CHILD}} working with habitats.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 4: Introduction — {{CHILD}} discovering the Animal Friends world. Unique scene 4 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "animal-friends-4"
         },
         {
             "id": "animal-friends-5",
             "text": [
-                "Everything felt so habitats and new today.",
-                "They sorted the fur into different groups.",
-                "\"This Learning Stories is full of surprises!\""
+                "{{CHILD}} noticed how the nest connected to the tracks.",
+                "\"Oh! I see how they work together!\" they exclaimed.",
+                "Understanding one thing opened a door to understanding another."
             ],
-            "illustrationHint": "Page 5: Setup: {{CHILD}} working with sounds.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 5: Introduction — {{CHILD}} discovering the Animal Friends world. Unique scene 5 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "animal-friends-5"
         },
         {
             "id": "animal-friends-6",
             "text": [
-                "{{CHILD}} noticed a small sounds near the entrance.",
-                "The path was marked by tiny feathers prints.",
-                "\"This Learning Stories is full of surprises!\""
+                "A moment of focus: {{CHILD}} concentrated on feeding with careful hands.",
+                "The pond responded beautifully to their gentle touch.",
+                "\"You have a natural talent for this,\" {{MOTHER}} said warmly."
             ],
-            "illustrationHint": "Page 6: Setup: {{CHILD}} working with claws.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 6: Introduction — {{CHILD}} discovering the Animal Friends world. Unique scene 6 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "animal-friends-6"
         },
         {
             "id": "animal-friends-7",
             "text": [
-                "Step 7 of the plan was to look for the claws.",
-                "\"How many fur can you see?\" asked {{MOTHER}}.",
-                "\"This Learning Stories is full of surprises!\""
+                "\"Can I try listening next?\" {{CHILD}} asked eagerly.",
+                "{{MOTHER}} showed them the technique step by step.",
+                "Slow at first, then smoother, then almost graceful."
             ],
-            "illustrationHint": "Page 7: Setup: {{CHILD}} working with fur.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 7: Introduction — {{CHILD}} discovering the Animal Friends world. Unique scene 7 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "animal-friends-7"
         },
         {
             "id": "animal-friends-8",
             "text": [
-                "\"I can't wait to see the fur!\" {{CHILD}} cheered.",
-                "A diagram showed the cycle of the habitats.",
-                "\"This Learning Stories is full of surprises!\""
+                "The burrow was trickier than expected.",
+                "{{CHILD}} bit their lower lip in concentration.",
+                "\"Take your time — there's no rush,\" reminded {{MOTHER}}."
             ],
-            "illustrationHint": "Page 8: Setup: {{CHILD}} working with feathers.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 8: Introduction — {{CHILD}} discovering the Animal Friends world. Unique scene 8 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "animal-friends-8"
         },
         {
             "id": "animal-friends-9",
             "text": [
-                "The air was filled with the scent of feathers.",
-                "They listened to the sound of the tracks.",
-                "\"This Learning Stories is full of surprises!\""
+                "Something unexpected happened — the feather did something surprising!",
+                "\"Whoa! Did you see that?\" {{CHILD}} jumped with excitement.",
+                "Even {{MOTHER}} looked impressed by the unexpected discovery."
             ],
-            "illustrationHint": "Page 9: Setup: {{CHILD}} working with tracks.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 9: Introduction — {{CHILD}} discovering the Animal Friends world. Unique scene 9 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "animal-friends-9"
         },
         {
             "id": "animal-friends-10",
             "text": [
-                "They found a map that showed the way to the tracks.",
-                "They followed the pattern of the feathers.",
-                "\"This Learning Stories is full of surprises!\""
+                "By the end of the first session, {{CHILD}} had learned so much.",
+                "The nature reserve felt like a second home already.",
+                "\"Can we come back tomorrow?\" {{CHILD}} asked hopefully."
             ],
-            "illustrationHint": "Page 10: Setup: {{CHILD}} working with habitats.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 10: Introduction — {{CHILD}} discovering the Animal Friends world. Unique scene 10 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "animal-friends-10"
         },
         {
             "id": "animal-friends-11",
             "text": [
-                "Look at that claws! It's bigger than I thought!",
-                "The world of animal friends was opening up.",
-                "\"I want to find more fur tomorrow!\""
+                "The second session started with a review of what {{CHILD}} already knew.",
+                "Watching came more naturally now.",
+                "\"Your muscle memory is building,\" {{MOTHER}} observed."
             ],
-            "illustrationHint": "Page 11: Discovery: {{CHILD}} finding sounds.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 11: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 11 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "animal-friends-11"
         },
         {
             "id": "animal-friends-12",
             "text": [
-                "{{CHILD}} discovered a hidden path made of habitats.",
-                "The world of animal friends was opening up.",
-                "They felt smarter after seeing the feathers."
+                "{{CHILD}} wanted to explore the binoculars in a new way.",
+                "\"What happens if I try tracking instead?\" they wondered aloud.",
+                "The result was surprising and delightful!"
             ],
-            "illustrationHint": "Page 12: Discovery: {{CHILD}} finding claws.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 12: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 12 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "animal-friends-12"
         },
         {
             "id": "animal-friends-13",
             "text": [
-                "Wait, is that a sounds peeking through the fur?",
-                "The world of animal friends was opening up.",
-                "Learning about claws is like solving a mystery."
+                "A challenge appeared: combining feeding with sketching at the same time.",
+                "{{CHILD}}'s brain had to think about two things at once.",
+                "\"It's like patting your head and rubbing your tummy!\" they laughed."
             ],
-            "illustrationHint": "Page 13: Discovery: {{CHILD}} finding fur.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 13: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 13 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "animal-friends-13"
         },
         {
             "id": "animal-friends-14",
             "text": [
-                "They found a mysterious feathers sitting on a stone.",
-                "The world of animal friends was opening up.",
-                "\"The world is full of amazing sounds!\""
+                "{{CHILD}} discovered a secret about the field guide.",
+                "When they tried identifying more gently, the field guide responded much better.",
+                "\"Everything works better with a gentle touch,\" {{CHILD}} realized."
             ],
-            "illustrationHint": "Page 14: Discovery: {{CHILD}} finding feathers.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 14: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 14 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "animal-friends-14"
         },
         {
             "id": "animal-friends-15",
             "text": [
-                "\"Look at how the tracks shines!\" {{CHILD}} exclaimed.",
-                "The world of animal friends was opening up.",
-                "\"Science and nature are so cool,\" said {{CHILD}}."
+                "The bird feeder and the nest were used together for the first time.",
+                "{{CHILD}} created something they'd never seen before.",
+                "\"I made this! All by myself!\" they beamed with pride."
             ],
-            "illustrationHint": "Page 15: Discovery: {{CHILD}} finding tracks.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 15: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 15 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "animal-friends-15"
         },
         {
             "id": "animal-friends-16",
             "text": [
-                "Each step revealed more about the magic of claws.",
-                "The world of animal friends was opening up.",
-                "\"I want to find more fur tomorrow!\""
+                "\"Let me show {{FATHER}} what I learned!\" {{CHILD}} said at dinner.",
+                "A mini demonstration right there at the table.",
+                "{{FATHER}} clapped and said, \"That's incredibly impressive!\"\""
             ],
-            "illustrationHint": "Page 16: Discovery: {{CHILD}} finding habitats.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 16: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 16 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "animal-friends-16"
         },
         {
             "id": "animal-friends-17",
             "text": [
-                "{{CHILD}} used a magnifying glass to see the fur.",
-                "The world of animal friends was opening up.",
-                "They felt smarter after seeing the feathers."
+                "Practice at home became part of {{CHILD}}'s daily routine.",
+                "Ten minutes every day — sometimes fifteen when it was extra fun.",
+                "Consistency turned hesitation into confidence."
             ],
-            "illustrationHint": "Page 17: Discovery: {{CHILD}} finding sounds.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 17: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 17 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "animal-friends-17"
         },
         {
             "id": "animal-friends-18",
             "text": [
-                "\"The habitats here is so colorful!\" they said.",
-                "The world of animal friends was opening up.",
-                "Learning about claws is like solving a mystery."
+                "A book from the library showed experts doing the same thing.",
+                "{{CHILD}} studied the pictures and tried to copy the techniques.",
+                "\"Even pros started as beginners,\" they said to themselves."
             ],
-            "illustrationHint": "Page 18: Discovery: {{CHILD}} finding claws.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 18: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 18 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "animal-friends-18"
         },
         {
             "id": "animal-friends-19",
             "text": [
-                "They followed a trail of sounds into the deep feathers.",
-                "The world of animal friends was opening up.",
-                "\"The world is full of amazing sounds!\""
+                "Something clicked today — a skill that was hard became easy.",
+                "{{CHILD}} repeated it four times just to make sure it wasn't a fluke.",
+                "Not a fluke. A breakthrough. The feeling was incredible."
             ],
-            "illustrationHint": "Page 19: Discovery: {{CHILD}} finding fur.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 19: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 19 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "animal-friends-19"
         },
         {
             "id": "animal-friends-20",
             "text": [
-                "A friendly bird chirped from the top of the tracks.",
-                "The world of animal friends was opening up.",
-                "\"Science and nature are so cool,\" said {{CHILD}}."
+                "\"I think I'm ready for something bigger,\" {{CHILD}} told {{MOTHER}}.",
+                "The sparkle in their eyes showed they meant it.",
+                "\"Then let's make it happen,\" {{MOTHER}} agreed with a smile."
             ],
-            "illustrationHint": "Page 20: Discovery: {{CHILD}} finding feathers.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 20: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 20 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "animal-friends-20"
         },
         {
             "id": "animal-friends-21",
             "text": [
-                "Oh no! The path to the claws was blocked!",
-                "\"Remember,\" said {{FATHER}}, \"Empathy is the key.\"",
-                "{{CHILD}} traced the outline of the claws."
+                "The advanced challenge was right in front of {{CHILD}}.",
+                "A bigger project that required everything they'd learned.",
+                "\"This looks harder than anything I've tried before,\" they admitted."
             ],
-            "illustrationHint": "Page 21: Challenge: {{CHILD}} overcoming an obstacle involving tracks.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 21: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 21 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "animal-friends-21"
         },
         {
             "id": "animal-friends-22",
             "text": [
-                "How will we ever move this heavy fur?",
-                "\"Remember,\" said {{FATHER}}, \"Empathy is the key.\"",
-                "{{CHILD}} pointed at the bright claws."
+                "Step one went smoothly — confidence from practice shone through.",
+                "But step two was different. The tracks didn't cooperate.",
+                "\"Come on, work with me,\" {{CHILD}} muttered, trying again."
             ],
-            "illustrationHint": "Page 22: Challenge: {{CHILD}} overcoming an obstacle involving habitats.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 22: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 22 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "animal-friends-22"
         },
         {
             "id": "animal-friends-23",
             "text": [
-                "The feathers started to spin faster and faster!",
-                "\"Remember,\" said {{FATHER}}, \"Empathy is the key.\"",
-                "Look at how the tracks changes in the light!"
+                "Frustration crept in like an unwelcome visitor.",
+                "Three attempts, three mistakes, three sighs.",
+                "{{CHILD}} put down the pond and stared at the ceiling."
             ],
-            "illustrationHint": "Page 23: Challenge: {{CHILD}} overcoming an obstacle involving sounds.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 23: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 23 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "animal-friends-23"
         },
         {
             "id": "animal-friends-24",
             "text": [
-                "{{CHILD}} had to hold onto the tracks very tightly.",
-                "\"Remember,\" said {{FATHER}}, \"Empathy is the key.\"",
-                "They compared the size of the habitats and the sounds."
+                "\"Remember,\" said {{FATHER}}, \"Empathy is what gets you through.\"",
+                "{{CHILD}} took three deep breaths, finding calm.",
+                "\"Okay. Let me think about this differently.\""
             ],
-            "illustrationHint": "Page 24: Challenge: {{CHILD}} overcoming an obstacle involving claws.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 24: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 24 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "animal-friends-24"
         },
         {
             "id": "animal-friends-25",
             "text": [
-                "\"We need to solve this habitats puzzle,\" said {{FATHER}}.",
-                "\"Remember,\" said {{FATHER}}, \"Empathy is the key.\"",
-                "They sorted the fur into different groups."
+                "A new approach! Instead of forcing it, {{CHILD}} went slowly.",
+                "Breaking the problem into tiny, manageable pieces.",
+                "The first small piece worked perfectly."
             ],
-            "illustrationHint": "Page 25: Challenge: {{CHILD}} overcoming an obstacle involving fur.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 25: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 25 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "animal-friends-25"
         },
         {
             "id": "animal-friends-26",
             "text": [
-                "It was time to use all their Empathy skills.",
-                "\"Remember,\" said {{FATHER}}, \"Empathy is the key.\"",
-                "The path was marked by tiny feathers prints."
+                "\"One piece at a time. One small step at a time,\" {{CHILD}} repeated.",
+                "The second piece fell into place. Then the third.",
+                "Momentum built like a gentle snowball rolling downhill."
             ],
-            "illustrationHint": "Page 26: Challenge: {{CHILD}} overcoming an obstacle involving feathers.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 26: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 26 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "animal-friends-26"
         },
         {
             "id": "animal-friends-27",
             "text": [
-                "The sounds was being a bit stubborn today.",
-                "\"Remember,\" said {{FATHER}}, \"Empathy is the key.\"",
-                "\"How many fur can you see?\" asked {{MOTHER}}."
+                "A wobble on step seven threatened to undo everything.",
+                "But {{CHILD}} caught it in time — quick thinking saved the project!",
+                "\"That was close!\" they exhaled with relief."
             ],
-            "illustrationHint": "Page 27: Challenge: {{CHILD}} overcoming an obstacle involving tracks.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 27: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 27 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "animal-friends-27"
         },
         {
             "id": "animal-friends-28",
             "text": [
-                "{{CHILD}} tried to balance the claws on their head.",
-                "\"Remember,\" said {{FATHER}}, \"Empathy is the key.\"",
-                "A diagram showed the cycle of the habitats."
+                "\"You didn't panic,\" {{MOTHER}} observed from the doorway.",
+                "\"That's the sign of someone who truly understands empathy.\"",
+                "{{CHILD}} continued, more determined than ever."
             ],
-            "illustrationHint": "Page 28: Challenge: {{CHILD}} overcoming an obstacle involving habitats.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 28: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 28 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "animal-friends-28"
         },
         {
             "id": "animal-friends-29",
             "text": [
-                "\"Whew, that fur is tricky!\" they laughed.",
-                "\"Remember,\" said {{FATHER}}, \"Empathy is the key.\"",
-                "They listened to the sound of the tracks."
+                "The hardest part was here — the moment that tested everything.",
+                "Hands steady, breath held, focus sharp as a laser.",
+                "{{CHILD}} gave it every ounce of effort they had."
             ],
-            "illustrationHint": "Page 29: Challenge: {{CHILD}} overcoming an obstacle involving sounds.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 29: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 29 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "animal-friends-29"
         },
         {
             "id": "animal-friends-30",
             "text": [
-                "The feathers was higher than they expected.",
-                "\"Remember,\" said {{FATHER}}, \"Empathy is the key.\"",
-                "They followed the pattern of the feathers."
+                "And then... success! The challenge was CONQUERED!",
+                "\"I DID IT! I actually DID IT!\" {{CHILD}} leaped up and cheered.",
+                "{{MOTHER}} and {{FATHER}} wrapped them in the biggest hug."
             ],
-            "illustrationHint": "Page 30: Challenge: {{CHILD}} overcoming an obstacle involving claws.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 30: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 30 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "animal-friends-30"
         },
         {
             "id": "animal-friends-31",
             "text": [
-                "Oh no! The path to the claws was blocked!",
-                "\"Remember,\" said {{FATHER}}, \"Empathy is the key.\"",
-                "{{CHILD}} traced the outline of the claws."
+                "The finished project sat before {{CHILD}} — real and beautiful.",
+                "Every challenge, every frustration had led to this moment.",
+                "\"It's even better than I imagined,\" they whispered."
             ],
-            "illustrationHint": "Page 31: Challenge: {{CHILD}} overcoming an obstacle involving fur.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 31: Triumph — {{CHILD}} celebrating success and growth. Unique scene 31 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "animal-friends-31"
         },
         {
             "id": "animal-friends-32",
             "text": [
-                "How will we ever move this heavy fur?",
-                "\"Remember,\" said {{FATHER}}, \"Empathy is the key.\"",
-                "{{CHILD}} pointed at the bright claws."
+                "{{CHILD}} wanted to share their achievement with everyone.",
+                "Friends, family, even the neighbors were invited to see.",
+                "\"Look what empathy helped me create!\""
             ],
-            "illustrationHint": "Page 32: Challenge: {{CHILD}} overcoming an obstacle involving feathers.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 32: Triumph — {{CHILD}} celebrating success and growth. Unique scene 32 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "animal-friends-32"
         },
         {
             "id": "animal-friends-33",
             "text": [
-                "The feathers started to spin faster and faster!",
-                "\"Remember,\" said {{FATHER}}, \"Empathy is the key.\"",
-                "Look at how the tracks changes in the light!"
+                "\"You should be incredibly proud,\" {{FATHER}} said at dinner.",
+                "\"Not just of the result, but of how you got there.\"",
+                "{{CHILD}} thought about the journey — every up and every down."
             ],
-            "illustrationHint": "Page 33: Challenge: {{CHILD}} overcoming an obstacle involving tracks.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 33: Triumph — {{CHILD}} celebrating success and growth. Unique scene 33 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "animal-friends-33"
         },
         {
             "id": "animal-friends-34",
             "text": [
-                "{{CHILD}} had to hold onto the tracks very tightly.",
-                "\"Remember,\" said {{FATHER}}, \"Empathy is the key.\"",
-                "They compared the size of the habitats and the sounds."
+                "A special presentation was arranged for the family.",
+                "{{CHILD}} explained each step, each challenge, each victory.",
+                "The audience of loved ones listened with shining eyes."
             ],
-            "illustrationHint": "Page 34: Challenge: {{CHILD}} overcoming an obstacle involving habitats.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 34: Triumph — {{CHILD}} celebrating success and growth. Unique scene 34 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "animal-friends-34"
         },
         {
             "id": "animal-friends-35",
             "text": [
-                "\"We need to solve this habitats puzzle,\" said {{FATHER}}.",
-                "\"Remember,\" said {{FATHER}}, \"Empathy is the key.\"",
-                "They sorted the fur into different groups."
+                "\"What was the hardest moment?\" asked {{FATHER}}.",
+                "\"When I wanted to quit but didn't,\" {{CHILD}} answered quietly.",
+                "That answer earned nods of deep respect from everyone."
             ],
-            "illustrationHint": "Page 35: Challenge: {{CHILD}} overcoming an obstacle involving sounds.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 35: Triumph — {{CHILD}} celebrating success and growth. Unique scene 35 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "animal-friends-35"
         },
         {
             "id": "animal-friends-36",
             "text": [
-                "Success! The claws is finally working!",
-                "The animal friends adventure was a huge success.",
-                "\"I want to find more fur tomorrow!\""
+                "{{CHILD}} decided to help someone else learn too.",
+                "Teaching felt different — it deepened their own understanding.",
+                "\"The best way to grow is to help others grow,\" they realized."
             ],
-            "illustrationHint": "Page 36: Success: {{CHILD}} celebrating Empathy with claws.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 36: Triumph — {{CHILD}} celebrating success and growth. Unique scene 36 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "animal-friends-36"
         },
         {
             "id": "animal-friends-37",
             "text": [
-                "{{CHILD}} mastered the use of the fur!",
-                "The animal friends adventure was a huge success.",
-                "They felt smarter after seeing the feathers."
+                "A moment of reflection: looking at where they started vs. now.",
+                "The difference was remarkable — night and day.",
+                "\"I didn't know I could do all this,\" {{CHILD}} said in wonder."
             ],
-            "illustrationHint": "Page 37: Success: {{CHILD}} celebrating Empathy with fur.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 37: Triumph — {{CHILD}} celebrating success and growth. Unique scene 37 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "animal-friends-37"
         },
         {
             "id": "animal-friends-38",
             "text": [
-                "A magical glow came from the feathers.",
-                "The animal friends adventure was a huge success.",
-                "Learning about claws is like solving a mystery."
+                "The 🐱 became {{CHILD}}'s special symbol.",
+                "It represented their journey, their challenge, their triumph.",
+                "\"Whenever I see 🐱, I'll remember what I can do.\""
             ],
-            "illustrationHint": "Page 38: Success: {{CHILD}} celebrating Empathy with feathers.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 38: Triumph — {{CHILD}} celebrating success and growth. Unique scene 38 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "animal-friends-38"
         },
         {
             "id": "animal-friends-39",
             "text": [
-                "The tracks turned into a shower of stars!",
-                "The animal friends adventure was a huge success.",
-                "\"The world is full of amazing sounds!\""
+                "Celebrating wasn't about bragging — it was about gratitude.",
+                "\"Thank you for believing in me,\" {{CHILD}} told {{MOTHER}} and {{FATHER}}.",
+                "\"We always believed. You just needed to believe in yourself.\""
             ],
-            "illustrationHint": "Page 39: Success: {{CHILD}} celebrating Empathy with tracks.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 39: Triumph — {{CHILD}} celebrating success and growth. Unique scene 39 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "animal-friends-39"
         },
         {
             "id": "animal-friends-40",
             "text": [
-                "Everyone was proud of the habitats work.",
-                "The animal friends adventure was a huge success.",
-                "\"Science and nature are so cool,\" said {{CHILD}}."
+                "The evening ended with quiet pride and a full heart.",
+                "Not everything in life would be this manageable — but empathy?",
+                "That would carry {{CHILD}} through anything."
             ],
-            "illustrationHint": "Page 40: Success: {{CHILD}} celebrating Empathy with habitats.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 40: Triumph — {{CHILD}} celebrating success and growth. Unique scene 40 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "animal-friends-40"
         },
         {
             "id": "animal-friends-41",
             "text": [
-                "\"You showed so much Empathy,\" said {{MOTHER}}.",
-                "The animal friends adventure was a huge success.",
-                "\"I want to find more fur tomorrow!\""
+                "Bath time was extra peaceful tonight.",
+                "{{CHILD}} thought about everything they'd learned.",
+                "Water swirled around them like the flow of the whole day."
             ],
-            "illustrationHint": "Page 41: Success: {{CHILD}} celebrating Empathy with sounds.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 41: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 41 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "animal-friends-41"
         },
         {
             "id": "animal-friends-42",
             "text": [
-                "The sounds looked beautiful in the end.",
-                "The animal friends adventure was a huge success.",
-                "They felt smarter after seeing the feathers."
+                "In clean pajamas, {{CHILD}} sat on the bed thoughtfully.",
+                "The nature reserve experience had changed something inside them.",
+                "They felt bigger, not in size, but in spirit."
             ],
-            "illustrationHint": "Page 42: Success: {{CHILD}} celebrating Empathy with claws.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 42: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 42 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "animal-friends-42"
         },
         {
             "id": "animal-friends-43",
             "text": [
-                "They shared a giant 🐱 celebration.",
-                "The animal friends adventure was a huge success.",
-                "Learning about claws is like solving a mystery."
+                "\"What did animal friends teach you?\" {{MOTHER}} asked at tuck-in.",
+                "{{CHILD}} thought carefully before answering.",
+                "\"That empathy isn't just a word — it's a superpower.\""
             ],
-            "illustrationHint": "Page 43: Success: {{CHILD}} celebrating Empathy with fur.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 43: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 43 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "animal-friends-43"
         },
         {
             "id": "animal-friends-44",
             "text": [
-                "Success! The claws is finally working!",
-                "The animal friends adventure was a huge success.",
-                "\"The world is full of amazing sounds!\""
+                "{{MOTHER}} kissed {{CHILD}}'s forehead with all the love in the world.",
+                "\"Your superpower was inside you all along.\"",
+                "{{CHILD}} pulled the blanket up and smiled."
             ],
-            "illustrationHint": "Page 44: Success: {{CHILD}} celebrating Empathy with feathers.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 44: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 44 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "animal-friends-44"
         },
         {
             "id": "animal-friends-45",
             "text": [
-                "{{CHILD}} mastered the use of the fur!",
-                "The animal friends adventure was a huge success.",
-                "\"Science and nature are so cool,\" said {{CHILD}}."
+                "The moonlight painted silver patterns on the bedroom wall.",
+                "Somewhere in the house, evidence of today's adventure waited.",
+                "Ready for tomorrow's next chapter."
             ],
-            "illustrationHint": "Page 45: Success: {{CHILD}} celebrating Empathy with tracks.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 45: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 45 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "animal-friends-45"
         },
         {
             "id": "animal-friends-46",
             "text": [
-                "As the stars came out, they talked about the claws.",
-                "The path was marked by tiny feathers prints.",
-                "{{CHILD}} gave a happy yawn after the animal friends day."
+                "Stars appeared one by one in the darkening sky.",
+                "Each one twinkled like a tiny cheerleader.",
+                "\"Even the stars are proud of you tonight,\" {{MOTHER}} whispered."
             ],
-            "illustrationHint": "Page 46: Sleepy: {{CHILD}} reflecting on the animal friends journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 46: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 46 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "animal-friends-46"
         },
         {
             "id": "animal-friends-47",
             "text": [
-                "{{CHILD}} realized that Empathy is very important.",
-                "\"How many fur can you see?\" asked {{MOTHER}}.",
-                "{{CHILD}} gave a happy yawn after the animal friends day."
+                "Dreams arrived like gentle waves on a warm shore.",
+                "In the dream, {{CHILD}} was surrounded by everything they loved.",
+                "The nature reserve, the binoculars, the field guide — all glowing with magic."
             ],
-            "illustrationHint": "Page 47: Sleepy: {{CHILD}} reflecting on the animal friends journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 47: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 47 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "animal-friends-47"
         },
         {
             "id": "animal-friends-48",
             "text": [
-                "They tucked the fur into its special box.",
-                "A diagram showed the cycle of the habitats.",
-                "{{CHILD}} gave a happy yawn after the animal friends day."
+                "Dream-{{CHILD}} was a master — confident, skilled, and kind.",
+                "Every challenge in the dream was met with empathy.",
+                "And every challenge was overcome, one by one."
             ],
-            "illustrationHint": "Page 48: Sleepy: {{CHILD}} reflecting on the animal friends journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 48: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 48 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "animal-friends-48"
         },
         {
             "id": "animal-friends-49",
             "text": [
-                "\"I loved the feathers today,\" said {{CHILD}}.",
-                "They listened to the sound of the tracks.",
-                "{{CHILD}} gave a happy yawn after the animal friends day."
+                "The dream world slowly darkened into the deepest, most restful sleep.",
+                "Outside, the night was peaceful and full of possibility.",
+                "Tomorrow would bring new adventures, new lessons, new growth."
             ],
-            "illustrationHint": "Page 49: Sleepy: {{CHILD}} reflecting on the animal friends journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 49: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 49 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "animal-friends-49"
         },
         {
             "id": "animal-friends-50",
             "text": [
-                "The tracks was now a happy memory.",
-                "They followed the pattern of the feathers.",
-                "Goodnight, brave adventurer. See you in tomorrow's story!"
+                "The 🐱 glowed softly in {{CHILD}}'s imagination as they slept.",
+                "A symbol of what they'd learned, what they'd done, who they were becoming.",
+                "Goodnight, wonderful {{CHILD}}. You made today absolutely magical."
             ],
-            "illustrationHint": "Page 50: Sleepy: {{CHILD}} reflecting on the animal friends journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 50: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 50 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "animal-friends-50"
         }
     ]

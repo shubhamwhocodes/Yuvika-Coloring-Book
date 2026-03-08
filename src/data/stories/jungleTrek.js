@@ -1,511 +1,511 @@
-// Refined story - {{CHILD}} Finds a Monkey
+// {{CHILD}}'s Jungle Trek — Unique story with 50 distinct pages
 const story = {
     "id": "jungle-trek",
-    "title": "{{CHILD}} Finds a Monkey",
+    "title": "{{CHILD}}'s Jungle Trek",
     "emoji": "🐒",
     "theme": "Outdoor Stories",
-    "lesson": "Curiosity",
-    "description": "Explore the wonders of jungle trek and learn about Curiosity!",
+    "lesson": "Bravery",
+    "description": "Every rustle and roar is an adventure as {{CHILD}} treks through the jungle with bravery!",
     "coverColor": "#10AC84",
     "pages": [
         {
             "id": "jungle-trek-1",
             "text": [
-                "Today was the start of something amazing for {{CHILD}}.",
-                "They were going to explore the world of jungle trek!",
-                "\"Are you ready for the jungle-trek journey?\" asked {{MOTHER}}."
+                "The tropical jungle was filled with exciting possibilities.",
+                "{{CHILD}} looked around with wide, sparkling eyes.",
+                "\"Are you ready for the jungle trek adventure?\" asked {{MOTHER}}."
             ],
-            "illustrationHint": "Page 1: Opening scene: {{CHILD}} and family standing by a sign for \"jungle trek\".. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 1: Introduction — {{CHILD}} discovering the Jungle Trek world. Unique scene 1 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "jungle-trek-1"
         },
         {
             "id": "jungle-trek-2",
             "text": [
-                "Then, they checked the canopy to make sure it was ready.",
-                "They found a hidden leaves behind the rocks.",
-                "\"This Outdoor Stories is full of surprises!\""
+                "Everything was set up and waiting — the vines, the monkeys, and more.",
+                "{{CHILD}} picked up the vines and turned it over in their hands.",
+                "\"This is going to be the best day ever!\" they declared."
             ],
-            "illustrationHint": "Page 2: Setup: {{CHILD}} working with wildlife.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 2: Introduction — {{CHILD}} discovering the Jungle Trek world. Unique scene 2 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "jungle-trek-2"
         },
         {
             "id": "jungle-trek-3",
             "text": [
-                "{{CHILD}} put on their special wildlife gear.",
-                "The path led them to a beautiful humidity clearing.",
-                "\"This Outdoor Stories is full of surprises!\""
+                "{{MOTHER}} explained how the parrots worked while {{CHILD}} listened carefully.",
+                "\"First, you need to understand the parrots before you use it.\"",
+                "{{CHILD}} nodded seriously, determined to learn everything."
             ],
-            "illustrationHint": "Page 3: Setup: {{CHILD}} working with humidity.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 3: Introduction — {{CHILD}} discovering the Jungle Trek world. Unique scene 3 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "jungle-trek-3"
         },
         {
             "id": "jungle-trek-4",
             "text": [
-                "\"Don't forget the humidity!\" called out {{MOTHER}}.",
-                "{{CHILD}} felt the fresh air blowing through the expedition.",
-                "\"This Outdoor Stories is full of surprises!\""
+                "The first step was trekking — and {{CHILD}} gave it their best try.",
+                "It wasn't perfect, but it was a wonderful beginning.",
+                "\"Everyone starts exactly where you are right now,\" {{MOTHER}} encouraged."
             ],
-            "illustrationHint": "Page 4: Setup: {{CHILD}} working with expedition.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 4: Introduction — {{CHILD}} discovering the Jungle Trek world. Unique scene 4 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "jungle-trek-4"
         },
         {
             "id": "jungle-trek-5",
             "text": [
-                "Everything felt so expedition and new today.",
-                "\"Look at those canopy in the distance!\"",
-                "\"This Outdoor Stories is full of surprises!\""
+                "{{CHILD}} noticed how the waterfall connected to the bridge.",
+                "\"Oh! I see how they work together!\" they exclaimed.",
+                "Understanding one thing opened a door to understanding another."
             ],
-            "illustrationHint": "Page 5: Setup: {{CHILD}} working with leaves.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 5: Introduction — {{CHILD}} discovering the Jungle Trek world. Unique scene 5 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "jungle-trek-5"
         },
         {
             "id": "jungle-trek-6",
             "text": [
-                "{{CHILD}} noticed a small leaves near the entrance.",
-                "They climbed over a large vines on the trail.",
-                "\"This Outdoor Stories is full of surprises!\""
+                "A moment of focus: {{CHILD}} concentrated on swinging with careful hands.",
+                "The ancient tree responded beautifully to their gentle touch.",
+                "\"You have a natural talent for this,\" {{MOTHER}} said warmly."
             ],
-            "illustrationHint": "Page 6: Setup: {{CHILD}} working with vines.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 6: Introduction — {{CHILD}} discovering the Jungle Trek world. Unique scene 6 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "jungle-trek-6"
         },
         {
             "id": "jungle-trek-7",
             "text": [
-                "Step 7 of the plan was to look for the vines.",
-                "The sun glinted off the surface of the vines.",
-                "\"This Outdoor Stories is full of surprises!\""
+                "\"Can I try crossing next?\" {{CHILD}} asked eagerly.",
+                "{{MOTHER}} showed them the technique step by step.",
+                "Slow at first, then smoother, then almost graceful."
             ],
-            "illustrationHint": "Page 7: Setup: {{CHILD}} working with canopy.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 7: Introduction — {{CHILD}} discovering the Jungle Trek world. Unique scene 7 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "jungle-trek-7"
         },
         {
             "id": "jungle-trek-8",
             "text": [
-                "\"I can't wait to see the canopy!\" {{CHILD}} cheered.",
-                "They stopped to watch a canopy move slowly.",
-                "\"This Outdoor Stories is full of surprises!\""
+                "The butterfly was trickier than expected.",
+                "{{CHILD}} bit their lower lip in concentration.",
+                "\"Take your time — there's no rush,\" reminded {{MOTHER}}."
             ],
-            "illustrationHint": "Page 8: Setup: {{CHILD}} working with wildlife.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 8: Introduction — {{CHILD}} discovering the Jungle Trek world. Unique scene 8 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "jungle-trek-8"
         },
         {
             "id": "jungle-trek-9",
             "text": [
-                "The air was filled with the scent of wildlife.",
-                "They collected some wildlife to show the family.",
-                "\"This Outdoor Stories is full of surprises!\""
+                "Something unexpected happened — the river did something surprising!",
+                "\"Whoa! Did you see that?\" {{CHILD}} jumped with excitement.",
+                "Even {{MOTHER}} looked impressed by the unexpected discovery."
             ],
-            "illustrationHint": "Page 9: Setup: {{CHILD}} working with humidity.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 9: Introduction — {{CHILD}} discovering the Jungle Trek world. Unique scene 9 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "jungle-trek-9"
         },
         {
             "id": "jungle-trek-10",
             "text": [
-                "They found a map that showed the way to the humidity.",
-                "They followed a trail of humidity deep into the woods.",
-                "\"This Outdoor Stories is full of surprises!\""
+                "By the end of the first session, {{CHILD}} had learned so much.",
+                "The tropical jungle felt like a second home already.",
+                "\"Can we come back tomorrow?\" {{CHILD}} asked hopefully."
             ],
-            "illustrationHint": "Page 10: Setup: {{CHILD}} working with expedition.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 10: Introduction — {{CHILD}} discovering the Jungle Trek world. Unique scene 10 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "jungle-trek-10"
         },
         {
             "id": "jungle-trek-11",
             "text": [
-                "Look at that vines! It's bigger than I thought!",
-                "The world of jungle trek was opening up.",
-                "\"What's over that leaves hill?\" wondered {{CHILD}}."
+                "The second session started with a review of what {{CHILD}} already knew.",
+                "Trekking came more naturally now.",
+                "\"Your muscle memory is building,\" {{MOTHER}} observed."
             ],
-            "illustrationHint": "Page 11: Discovery: {{CHILD}} finding leaves.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 11: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 11 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "jungle-trek-11"
         },
         {
             "id": "jungle-trek-12",
             "text": [
-                "{{CHILD}} discovered a hidden path made of expedition.",
-                "The world of jungle trek was opening up.",
-                "They breathed in the scent of fresh vines."
+                "{{CHILD}} wanted to explore the vines in a new way.",
+                "\"What happens if I try spotting instead?\" they wondered aloud.",
+                "The result was surprising and delightful!"
             ],
-            "illustrationHint": "Page 12: Discovery: {{CHILD}} finding vines.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 12: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 12 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "jungle-trek-12"
         },
         {
             "id": "jungle-trek-13",
             "text": [
-                "Wait, is that a leaves peeking through the canopy?",
-                "The world of jungle trek was opening up.",
-                "Walking through the expedition felt so peaceful."
+                "A challenge appeared: combining swinging with listening at the same time.",
+                "{{CHILD}}'s brain had to think about two things at once.",
+                "\"It's like patting your head and rubbing your tummy!\" they laughed."
             ],
-            "illustrationHint": "Page 13: Discovery: {{CHILD}} finding canopy.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 13: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 13 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "jungle-trek-13"
         },
         {
             "id": "jungle-trek-14",
             "text": [
-                "They found a mysterious wildlife sitting on a stone.",
-                "The world of jungle trek was opening up.",
-                "\"Nature is the biggest playground!\""
+                "{{CHILD}} discovered a secret about the monkeys.",
+                "When they tried climbing more gently, the monkeys responded much better.",
+                "\"Everything works better with a gentle touch,\" {{CHILD}} realized."
             ],
-            "illustrationHint": "Page 14: Discovery: {{CHILD}} finding wildlife.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 14: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 14 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "jungle-trek-14"
         },
         {
             "id": "jungle-trek-15",
             "text": [
-                "\"Look at how the humidity shines!\" {{CHILD}} exclaimed.",
-                "The world of jungle trek was opening up.",
-                "\"I feel so brave and strong out here!\""
+                "The parrots and the waterfall were used together for the first time.",
+                "{{CHILD}} created something they'd never seen before.",
+                "\"I made this! All by myself!\" they beamed with pride."
             ],
-            "illustrationHint": "Page 15: Discovery: {{CHILD}} finding humidity.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 15: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 15 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "jungle-trek-15"
         },
         {
             "id": "jungle-trek-16",
             "text": [
-                "Each step revealed more about the magic of vines.",
-                "The world of jungle trek was opening up.",
-                "\"What's over that leaves hill?\" wondered {{CHILD}}."
+                "\"Let me show {{FATHER}} what I learned!\" {{CHILD}} said at dinner.",
+                "A mini demonstration right there at the table.",
+                "{{FATHER}} clapped and said, \"That's incredibly impressive!\"\""
             ],
-            "illustrationHint": "Page 16: Discovery: {{CHILD}} finding expedition.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 16: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 16 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "jungle-trek-16"
         },
         {
             "id": "jungle-trek-17",
             "text": [
-                "{{CHILD}} used a magnifying glass to see the canopy.",
-                "The world of jungle trek was opening up.",
-                "They breathed in the scent of fresh vines."
+                "Practice at home became part of {{CHILD}}'s daily routine.",
+                "Ten minutes every day — sometimes fifteen when it was extra fun.",
+                "Consistency turned hesitation into confidence."
             ],
-            "illustrationHint": "Page 17: Discovery: {{CHILD}} finding leaves.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 17: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 17 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "jungle-trek-17"
         },
         {
             "id": "jungle-trek-18",
             "text": [
-                "\"The expedition here is so colorful!\" they said.",
-                "The world of jungle trek was opening up.",
-                "Walking through the expedition felt so peaceful."
+                "A book from the library showed experts doing the same thing.",
+                "{{CHILD}} studied the pictures and tried to copy the techniques.",
+                "\"Even pros started as beginners,\" they said to themselves."
             ],
-            "illustrationHint": "Page 18: Discovery: {{CHILD}} finding vines.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 18: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 18 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "jungle-trek-18"
         },
         {
             "id": "jungle-trek-19",
             "text": [
-                "They followed a trail of leaves into the deep wildlife.",
-                "The world of jungle trek was opening up.",
-                "\"Nature is the biggest playground!\""
+                "Something clicked today — a skill that was hard became easy.",
+                "{{CHILD}} repeated it four times just to make sure it wasn't a fluke.",
+                "Not a fluke. A breakthrough. The feeling was incredible."
             ],
-            "illustrationHint": "Page 19: Discovery: {{CHILD}} finding canopy.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 19: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 19 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "jungle-trek-19"
         },
         {
             "id": "jungle-trek-20",
             "text": [
-                "A friendly bird chirped from the top of the humidity.",
-                "The world of jungle trek was opening up.",
-                "\"I feel so brave and strong out here!\""
+                "\"I think I'm ready for something bigger,\" {{CHILD}} told {{MOTHER}}.",
+                "The sparkle in their eyes showed they meant it.",
+                "\"Then let's make it happen,\" {{MOTHER}} agreed with a smile."
             ],
-            "illustrationHint": "Page 20: Discovery: {{CHILD}} finding wildlife.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 20: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 20 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "jungle-trek-20"
         },
         {
             "id": "jungle-trek-21",
             "text": [
-                "Oh no! The path to the vines was blocked!",
-                "\"Remember,\" said {{FATHER}}, \"Curiosity is the key.\"",
-                "The ground was covered in soft wildlife."
+                "The advanced challenge was right in front of {{CHILD}}.",
+                "A bigger project that required everything they'd learned.",
+                "\"This looks harder than anything I've tried before,\" they admitted."
             ],
-            "illustrationHint": "Page 21: Challenge: {{CHILD}} overcoming an obstacle involving humidity.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 21: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 21 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "jungle-trek-21"
         },
         {
             "id": "jungle-trek-22",
             "text": [
-                "How will we ever move this heavy canopy?",
-                "\"Remember,\" said {{FATHER}}, \"Curiosity is the key.\"",
-                "They found a hidden leaves behind the rocks."
+                "Step one went smoothly — confidence from practice shone through.",
+                "But step two was different. The bridge didn't cooperate.",
+                "\"Come on, work with me,\" {{CHILD}} muttered, trying again."
             ],
-            "illustrationHint": "Page 22: Challenge: {{CHILD}} overcoming an obstacle involving expedition.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 22: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 22 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "jungle-trek-22"
         },
         {
             "id": "jungle-trek-23",
             "text": [
-                "The wildlife started to spin faster and faster!",
-                "\"Remember,\" said {{FATHER}}, \"Curiosity is the key.\"",
-                "The path led them to a beautiful humidity clearing."
+                "Frustration crept in like an unwelcome visitor.",
+                "Three attempts, three mistakes, three sighs.",
+                "{{CHILD}} put down the ancient tree and stared at the ceiling."
             ],
-            "illustrationHint": "Page 23: Challenge: {{CHILD}} overcoming an obstacle involving leaves.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 23: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 23 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "jungle-trek-23"
         },
         {
             "id": "jungle-trek-24",
             "text": [
-                "{{CHILD}} had to hold onto the humidity very tightly.",
-                "\"Remember,\" said {{FATHER}}, \"Curiosity is the key.\"",
-                "{{CHILD}} felt the fresh air blowing through the expedition."
+                "\"Remember,\" said {{FATHER}}, \"Bravery is what gets you through.\"",
+                "{{CHILD}} took three deep breaths, finding calm.",
+                "\"Okay. Let me think about this differently.\""
             ],
-            "illustrationHint": "Page 24: Challenge: {{CHILD}} overcoming an obstacle involving vines.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 24: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 24 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "jungle-trek-24"
         },
         {
             "id": "jungle-trek-25",
             "text": [
-                "\"We need to solve this expedition puzzle,\" said {{FATHER}}.",
-                "\"Remember,\" said {{FATHER}}, \"Curiosity is the key.\"",
-                "\"Look at those canopy in the distance!\""
+                "A new approach! Instead of forcing it, {{CHILD}} went slowly.",
+                "Breaking the problem into tiny, manageable pieces.",
+                "The first small piece worked perfectly."
             ],
-            "illustrationHint": "Page 25: Challenge: {{CHILD}} overcoming an obstacle involving canopy.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 25: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 25 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "jungle-trek-25"
         },
         {
             "id": "jungle-trek-26",
             "text": [
-                "It was time to use all their Curiosity skills.",
-                "\"Remember,\" said {{FATHER}}, \"Curiosity is the key.\"",
-                "They climbed over a large vines on the trail."
+                "\"One piece at a time. One small step at a time,\" {{CHILD}} repeated.",
+                "The second piece fell into place. Then the third.",
+                "Momentum built like a gentle snowball rolling downhill."
             ],
-            "illustrationHint": "Page 26: Challenge: {{CHILD}} overcoming an obstacle involving wildlife.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 26: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 26 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "jungle-trek-26"
         },
         {
             "id": "jungle-trek-27",
             "text": [
-                "The leaves was being a bit stubborn today.",
-                "\"Remember,\" said {{FATHER}}, \"Curiosity is the key.\"",
-                "The sun glinted off the surface of the vines."
+                "A wobble on step seven threatened to undo everything.",
+                "But {{CHILD}} caught it in time — quick thinking saved the project!",
+                "\"That was close!\" they exhaled with relief."
             ],
-            "illustrationHint": "Page 27: Challenge: {{CHILD}} overcoming an obstacle involving humidity.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 27: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 27 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "jungle-trek-27"
         },
         {
             "id": "jungle-trek-28",
             "text": [
-                "{{CHILD}} tried to balance the vines on their head.",
-                "\"Remember,\" said {{FATHER}}, \"Curiosity is the key.\"",
-                "They stopped to watch a canopy move slowly."
+                "\"You didn't panic,\" {{MOTHER}} observed from the doorway.",
+                "\"That's the sign of someone who truly understands bravery.\"",
+                "{{CHILD}} continued, more determined than ever."
             ],
-            "illustrationHint": "Page 28: Challenge: {{CHILD}} overcoming an obstacle involving expedition.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 28: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 28 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "jungle-trek-28"
         },
         {
             "id": "jungle-trek-29",
             "text": [
-                "\"Whew, that canopy is tricky!\" they laughed.",
-                "\"Remember,\" said {{FATHER}}, \"Curiosity is the key.\"",
-                "They collected some wildlife to show the family."
+                "The hardest part was here — the moment that tested everything.",
+                "Hands steady, breath held, focus sharp as a laser.",
+                "{{CHILD}} gave it every ounce of effort they had."
             ],
-            "illustrationHint": "Page 29: Challenge: {{CHILD}} overcoming an obstacle involving leaves.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 29: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 29 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "jungle-trek-29"
         },
         {
             "id": "jungle-trek-30",
             "text": [
-                "The wildlife was higher than they expected.",
-                "\"Remember,\" said {{FATHER}}, \"Curiosity is the key.\"",
-                "They followed a trail of humidity deep into the woods."
+                "And then... success! The challenge was CONQUERED!",
+                "\"I DID IT! I actually DID IT!\" {{CHILD}} leaped up and cheered.",
+                "{{MOTHER}} and {{FATHER}} wrapped them in the biggest hug."
             ],
-            "illustrationHint": "Page 30: Challenge: {{CHILD}} overcoming an obstacle involving vines.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 30: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 30 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "jungle-trek-30"
         },
         {
             "id": "jungle-trek-31",
             "text": [
-                "Oh no! The path to the vines was blocked!",
-                "\"Remember,\" said {{FATHER}}, \"Curiosity is the key.\"",
-                "The ground was covered in soft wildlife."
+                "The finished project sat before {{CHILD}} — real and beautiful.",
+                "Every challenge, every frustration had led to this moment.",
+                "\"It's even better than I imagined,\" they whispered."
             ],
-            "illustrationHint": "Page 31: Challenge: {{CHILD}} overcoming an obstacle involving canopy.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 31: Triumph — {{CHILD}} celebrating success and growth. Unique scene 31 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "jungle-trek-31"
         },
         {
             "id": "jungle-trek-32",
             "text": [
-                "How will we ever move this heavy canopy?",
-                "\"Remember,\" said {{FATHER}}, \"Curiosity is the key.\"",
-                "They found a hidden leaves behind the rocks."
+                "{{CHILD}} wanted to share their achievement with everyone.",
+                "Friends, family, even the neighbors were invited to see.",
+                "\"Look what bravery helped me create!\""
             ],
-            "illustrationHint": "Page 32: Challenge: {{CHILD}} overcoming an obstacle involving wildlife.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 32: Triumph — {{CHILD}} celebrating success and growth. Unique scene 32 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "jungle-trek-32"
         },
         {
             "id": "jungle-trek-33",
             "text": [
-                "The wildlife started to spin faster and faster!",
-                "\"Remember,\" said {{FATHER}}, \"Curiosity is the key.\"",
-                "The path led them to a beautiful humidity clearing."
+                "\"You should be incredibly proud,\" {{FATHER}} said at dinner.",
+                "\"Not just of the result, but of how you got there.\"",
+                "{{CHILD}} thought about the journey — every up and every down."
             ],
-            "illustrationHint": "Page 33: Challenge: {{CHILD}} overcoming an obstacle involving humidity.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 33: Triumph — {{CHILD}} celebrating success and growth. Unique scene 33 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "jungle-trek-33"
         },
         {
             "id": "jungle-trek-34",
             "text": [
-                "{{CHILD}} had to hold onto the humidity very tightly.",
-                "\"Remember,\" said {{FATHER}}, \"Curiosity is the key.\"",
-                "{{CHILD}} felt the fresh air blowing through the expedition."
+                "A special presentation was arranged for the family.",
+                "{{CHILD}} explained each step, each challenge, each victory.",
+                "The audience of loved ones listened with shining eyes."
             ],
-            "illustrationHint": "Page 34: Challenge: {{CHILD}} overcoming an obstacle involving expedition.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 34: Triumph — {{CHILD}} celebrating success and growth. Unique scene 34 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "jungle-trek-34"
         },
         {
             "id": "jungle-trek-35",
             "text": [
-                "\"We need to solve this expedition puzzle,\" said {{FATHER}}.",
-                "\"Remember,\" said {{FATHER}}, \"Curiosity is the key.\"",
-                "\"Look at those canopy in the distance!\""
+                "\"What was the hardest moment?\" asked {{FATHER}}.",
+                "\"When I wanted to quit but didn't,\" {{CHILD}} answered quietly.",
+                "That answer earned nods of deep respect from everyone."
             ],
-            "illustrationHint": "Page 35: Challenge: {{CHILD}} overcoming an obstacle involving leaves.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 35: Triumph — {{CHILD}} celebrating success and growth. Unique scene 35 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "jungle-trek-35"
         },
         {
             "id": "jungle-trek-36",
             "text": [
-                "Success! The vines is finally working!",
-                "The jungle trek adventure was a huge success.",
-                "\"What's over that leaves hill?\" wondered {{CHILD}}."
+                "{{CHILD}} decided to help someone else learn too.",
+                "Teaching felt different — it deepened their own understanding.",
+                "\"The best way to grow is to help others grow,\" they realized."
             ],
-            "illustrationHint": "Page 36: Success: {{CHILD}} celebrating Curiosity with vines.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 36: Triumph — {{CHILD}} celebrating success and growth. Unique scene 36 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "jungle-trek-36"
         },
         {
             "id": "jungle-trek-37",
             "text": [
-                "{{CHILD}} mastered the use of the canopy!",
-                "The jungle trek adventure was a huge success.",
-                "They breathed in the scent of fresh vines."
+                "A moment of reflection: looking at where they started vs. now.",
+                "The difference was remarkable — night and day.",
+                "\"I didn't know I could do all this,\" {{CHILD}} said in wonder."
             ],
-            "illustrationHint": "Page 37: Success: {{CHILD}} celebrating Curiosity with canopy.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 37: Triumph — {{CHILD}} celebrating success and growth. Unique scene 37 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "jungle-trek-37"
         },
         {
             "id": "jungle-trek-38",
             "text": [
-                "A magical glow came from the wildlife.",
-                "The jungle trek adventure was a huge success.",
-                "Walking through the expedition felt so peaceful."
+                "The 🐒 became {{CHILD}}'s special symbol.",
+                "It represented their journey, their challenge, their triumph.",
+                "\"Whenever I see 🐒, I'll remember what I can do.\""
             ],
-            "illustrationHint": "Page 38: Success: {{CHILD}} celebrating Curiosity with wildlife.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 38: Triumph — {{CHILD}} celebrating success and growth. Unique scene 38 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "jungle-trek-38"
         },
         {
             "id": "jungle-trek-39",
             "text": [
-                "The humidity turned into a shower of stars!",
-                "The jungle trek adventure was a huge success.",
-                "\"Nature is the biggest playground!\""
+                "Celebrating wasn't about bragging — it was about gratitude.",
+                "\"Thank you for believing in me,\" {{CHILD}} told {{MOTHER}} and {{FATHER}}.",
+                "\"We always believed. You just needed to believe in yourself.\""
             ],
-            "illustrationHint": "Page 39: Success: {{CHILD}} celebrating Curiosity with humidity.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 39: Triumph — {{CHILD}} celebrating success and growth. Unique scene 39 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "jungle-trek-39"
         },
         {
             "id": "jungle-trek-40",
             "text": [
-                "Everyone was proud of the expedition work.",
-                "The jungle trek adventure was a huge success.",
-                "\"I feel so brave and strong out here!\""
+                "The evening ended with quiet pride and a full heart.",
+                "Not everything in life would be this manageable — but bravery?",
+                "That would carry {{CHILD}} through anything."
             ],
-            "illustrationHint": "Page 40: Success: {{CHILD}} celebrating Curiosity with expedition.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 40: Triumph — {{CHILD}} celebrating success and growth. Unique scene 40 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "jungle-trek-40"
         },
         {
             "id": "jungle-trek-41",
             "text": [
-                "\"You showed so much Curiosity,\" said {{MOTHER}}.",
-                "The jungle trek adventure was a huge success.",
-                "\"What's over that leaves hill?\" wondered {{CHILD}}."
+                "Bath time was extra peaceful tonight.",
+                "{{CHILD}} thought about everything they'd learned.",
+                "Water swirled around them like the flow of the whole day."
             ],
-            "illustrationHint": "Page 41: Success: {{CHILD}} celebrating Curiosity with leaves.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 41: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 41 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "jungle-trek-41"
         },
         {
             "id": "jungle-trek-42",
             "text": [
-                "The leaves looked beautiful in the end.",
-                "The jungle trek adventure was a huge success.",
-                "They breathed in the scent of fresh vines."
+                "In clean pajamas, {{CHILD}} sat on the bed thoughtfully.",
+                "The tropical jungle experience had changed something inside them.",
+                "They felt bigger, not in size, but in spirit."
             ],
-            "illustrationHint": "Page 42: Success: {{CHILD}} celebrating Curiosity with vines.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 42: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 42 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "jungle-trek-42"
         },
         {
             "id": "jungle-trek-43",
             "text": [
-                "They shared a giant 🐒 celebration.",
-                "The jungle trek adventure was a huge success.",
-                "Walking through the expedition felt so peaceful."
+                "\"What did jungle trek teach you?\" {{MOTHER}} asked at tuck-in.",
+                "{{CHILD}} thought carefully before answering.",
+                "\"That bravery isn't just a word — it's a superpower.\""
             ],
-            "illustrationHint": "Page 43: Success: {{CHILD}} celebrating Curiosity with canopy.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 43: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 43 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "jungle-trek-43"
         },
         {
             "id": "jungle-trek-44",
             "text": [
-                "Success! The vines is finally working!",
-                "The jungle trek adventure was a huge success.",
-                "\"Nature is the biggest playground!\""
+                "{{MOTHER}} kissed {{CHILD}}'s forehead with all the love in the world.",
+                "\"Your superpower was inside you all along.\"",
+                "{{CHILD}} pulled the blanket up and smiled."
             ],
-            "illustrationHint": "Page 44: Success: {{CHILD}} celebrating Curiosity with wildlife.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 44: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 44 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "jungle-trek-44"
         },
         {
             "id": "jungle-trek-45",
             "text": [
-                "{{CHILD}} mastered the use of the canopy!",
-                "The jungle trek adventure was a huge success.",
-                "\"I feel so brave and strong out here!\""
+                "The moonlight painted silver patterns on the bedroom wall.",
+                "Somewhere in the house, evidence of today's adventure waited.",
+                "Ready for tomorrow's next chapter."
             ],
-            "illustrationHint": "Page 45: Success: {{CHILD}} celebrating Curiosity with humidity.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 45: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 45 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "jungle-trek-45"
         },
         {
             "id": "jungle-trek-46",
             "text": [
-                "As the stars came out, they talked about the vines.",
-                "They climbed over a large vines on the trail.",
-                "{{CHILD}} gave a happy yawn after the jungle trek day."
+                "Stars appeared one by one in the darkening sky.",
+                "Each one twinkled like a tiny cheerleader.",
+                "\"Even the stars are proud of you tonight,\" {{MOTHER}} whispered."
             ],
-            "illustrationHint": "Page 46: Sleepy: {{CHILD}} reflecting on the jungle trek journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 46: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 46 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "jungle-trek-46"
         },
         {
             "id": "jungle-trek-47",
             "text": [
-                "{{CHILD}} realized that Curiosity is very important.",
-                "The sun glinted off the surface of the vines.",
-                "{{CHILD}} gave a happy yawn after the jungle trek day."
+                "Dreams arrived like gentle waves on a warm shore.",
+                "In the dream, {{CHILD}} was surrounded by everything they loved.",
+                "The tropical jungle, the vines, the monkeys — all glowing with magic."
             ],
-            "illustrationHint": "Page 47: Sleepy: {{CHILD}} reflecting on the jungle trek journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 47: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 47 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "jungle-trek-47"
         },
         {
             "id": "jungle-trek-48",
             "text": [
-                "They tucked the canopy into its special box.",
-                "They stopped to watch a canopy move slowly.",
-                "{{CHILD}} gave a happy yawn after the jungle trek day."
+                "Dream-{{CHILD}} was a master — confident, skilled, and kind.",
+                "Every challenge in the dream was met with bravery.",
+                "And every challenge was overcome, one by one."
             ],
-            "illustrationHint": "Page 48: Sleepy: {{CHILD}} reflecting on the jungle trek journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 48: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 48 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "jungle-trek-48"
         },
         {
             "id": "jungle-trek-49",
             "text": [
-                "\"I loved the wildlife today,\" said {{CHILD}}.",
-                "They collected some wildlife to show the family.",
-                "{{CHILD}} gave a happy yawn after the jungle trek day."
+                "The dream world slowly darkened into the deepest, most restful sleep.",
+                "Outside, the night was peaceful and full of possibility.",
+                "Tomorrow would bring new adventures, new lessons, new growth."
             ],
-            "illustrationHint": "Page 49: Sleepy: {{CHILD}} reflecting on the jungle trek journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 49: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 49 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "jungle-trek-49"
         },
         {
             "id": "jungle-trek-50",
             "text": [
-                "The humidity was now a happy memory.",
-                "They followed a trail of humidity deep into the woods.",
-                "Goodnight, brave adventurer. See you in tomorrow's story!"
+                "The 🐒 glowed softly in {{CHILD}}'s imagination as they slept.",
+                "A symbol of what they'd learned, what they'd done, who they were becoming.",
+                "Goodnight, wonderful {{CHILD}}. You made today absolutely magical."
             ],
-            "illustrationHint": "Page 50: Sleepy: {{CHILD}} reflecting on the jungle trek journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 50: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 50 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "jungle-trek-50"
         }
     ]

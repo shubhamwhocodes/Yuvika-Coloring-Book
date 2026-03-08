@@ -1,511 +1,511 @@
-// Refined story - {{CHILD}}'s Baking Day
+// {{CHILD}}'s Baking Day — Unique story with 50 distinct pages
 const story = {
     "id": "baking-day",
     "title": "{{CHILD}}'s Baking Day",
     "emoji": "🧁",
     "theme": "Skill Stories",
     "lesson": "Teamwork",
-    "description": "Explore the wonders of baking day and learn about Teamwork!",
+    "description": "Join {{CHILD}} in the kitchen for a delicious baking adventure about working together!",
     "coverColor": "#FF6B9D",
     "pages": [
         {
             "id": "baking-day-1",
             "text": [
-                "Today was the start of something amazing for {{CHILD}}.",
-                "They were going to explore the world of baking day!",
-                "\"Are you ready for the baking-day journey?\" asked {{MOTHER}}."
+                "The kitchen was filled with exciting possibilities.",
+                "{{CHILD}} looked around with wide, sparkling eyes.",
+                "\"Are you ready for the baking day adventure?\" asked {{MOTHER}}."
             ],
-            "illustrationHint": "Page 1: Opening scene: {{CHILD}} and family standing by a sign for \"baking day\".. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 1: Introduction — {{CHILD}} discovering the Baking Day world. Unique scene 1 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "baking-day-1"
         },
         {
             "id": "baking-day-2",
             "text": [
-                "Then, they checked the oven to make sure it was ready.",
-                "They set up the oven very carefully.",
-                "\"This Skill Stories is full of surprises!\""
+                "Everything was set up and waiting — the flour, the sugar, and more.",
+                "{{CHILD}} picked up the flour and turned it over in their hands.",
+                "\"This is going to be the best day ever!\" they declared."
             ],
-            "illustrationHint": "Page 2: Setup: {{CHILD}} working with mixing.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 2: Introduction — {{CHILD}} discovering the Baking Day world. Unique scene 2 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "baking-day-2"
         },
         {
             "id": "baking-day-3",
             "text": [
-                "{{CHILD}} put on their special mixing gear.",
-                "{{CHILD}} focused hard on the mixing.",
-                "\"This Skill Stories is full of surprises!\""
+                "{{MOTHER}} explained how the eggs worked while {{CHILD}} listened carefully.",
+                "\"First, you need to understand the eggs before you use it.\"",
+                "{{CHILD}} nodded seriously, determined to learn everything."
             ],
-            "illustrationHint": "Page 3: Setup: {{CHILD}} working with sprinkles.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 3: Introduction — {{CHILD}} discovering the Baking Day world. Unique scene 3 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "baking-day-3"
         },
         {
             "id": "baking-day-4",
             "text": [
-                "\"Don't forget the sprinkles!\" called out {{MOTHER}}.",
-                "{{MOTHER}} gave an encouraging nod from the corner.",
-                "\"This Skill Stories is full of surprises!\""
+                "The first step was mixing — and {{CHILD}} gave it their best try.",
+                "It wasn't perfect, but it was a wonderful beginning.",
+                "\"Everyone starts exactly where you are right now,\" {{MOTHER}} encouraged."
             ],
-            "illustrationHint": "Page 4: Setup: {{CHILD}} working with sugar.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 4: Introduction — {{CHILD}} discovering the Baking Day world. Unique scene 4 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "baking-day-4"
         },
         {
             "id": "baking-day-5",
             "text": [
-                "Everything felt so sugar and new today.",
-                "It was time to practice the flour kỹ thuật.",
-                "\"This Skill Stories is full of surprises!\""
+                "{{CHILD}} noticed how the butter connected to the frosting.",
+                "\"Oh! I see how they work together!\" they exclaimed.",
+                "Understanding one thing opened a door to understanding another."
             ],
-            "illustrationHint": "Page 5: Setup: {{CHILD}} working with dough.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 5: Introduction — {{CHILD}} discovering the Baking Day world. Unique scene 5 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "baking-day-5"
         },
         {
             "id": "baking-day-6",
             "text": [
-                "{{CHILD}} noticed a small dough near the entrance.",
-                "\"Watch how I handle the sprinkles,\" said the teacher.",
-                "\"This Skill Stories is full of surprises!\""
+                "A moment of focus: {{CHILD}} concentrated on stirring with careful hands.",
+                "The sprinkles responded beautifully to their gentle touch.",
+                "\"You have a natural talent for this,\" {{MOTHER}} said warmly."
             ],
-            "illustrationHint": "Page 6: Setup: {{CHILD}} working with flour.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 6: Introduction — {{CHILD}} discovering the Baking Day world. Unique scene 6 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "baking-day-6"
         },
         {
             "id": "baking-day-7",
             "text": [
-                "Step 7 of the plan was to look for the flour.",
-                "They cleared the dough to make more room.",
-                "\"This Skill Stories is full of surprises!\""
+                "\"Can I try pouring next?\" {{CHILD}} asked eagerly.",
+                "{{MOTHER}} showed them the technique step by step.",
+                "Slow at first, then smoother, then almost graceful."
             ],
-            "illustrationHint": "Page 7: Setup: {{CHILD}} working with oven.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 7: Introduction — {{CHILD}} discovering the Baking Day world. Unique scene 7 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "baking-day-7"
         },
         {
             "id": "baking-day-8",
             "text": [
-                "\"I can't wait to see the oven!\" {{CHILD}} cheered.",
-                "They double-checked the oven for any mistakes.",
-                "\"This Skill Stories is full of surprises!\""
+                "The cupcakes was trickier than expected.",
+                "{{CHILD}} bit their lower lip in concentration.",
+                "\"Take your time — there's no rush,\" reminded {{MOTHER}}."
             ],
-            "illustrationHint": "Page 8: Setup: {{CHILD}} working with mixing.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 8: Introduction — {{CHILD}} discovering the Baking Day world. Unique scene 8 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "baking-day-8"
         },
         {
             "id": "baking-day-9",
             "text": [
-                "The air was filled with the scent of mixing.",
-                "Each movement with the flour felt more natural.",
-                "\"This Skill Stories is full of surprises!\""
+                "Something unexpected happened — the oven did something surprising!",
+                "\"Whoa! Did you see that?\" {{CHILD}} jumped with excitement.",
+                "Even {{MOTHER}} looked impressed by the unexpected discovery."
             ],
-            "illustrationHint": "Page 9: Setup: {{CHILD}} working with sprinkles.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 9: Introduction — {{CHILD}} discovering the Baking Day world. Unique scene 9 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "baking-day-9"
         },
         {
             "id": "baking-day-10",
             "text": [
-                "They found a map that showed the way to the sprinkles.",
-                "The sugar was starting to take shape.",
-                "\"This Skill Stories is full of surprises!\""
+                "By the end of the first session, {{CHILD}} had learned so much.",
+                "The kitchen felt like a second home already.",
+                "\"Can we come back tomorrow?\" {{CHILD}} asked hopefully."
             ],
-            "illustrationHint": "Page 10: Setup: {{CHILD}} working with sugar.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 10: Introduction — {{CHILD}} discovering the Baking Day world. Unique scene 10 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "baking-day-10"
         },
         {
             "id": "baking-day-11",
             "text": [
-                "Look at that flour! It's bigger than I thought!",
-                "The world of baking day was opening up.",
-                "Learning a new skill is such a fun sugar adventure."
+                "The second session started with a review of what {{CHILD}} already knew.",
+                "Mixing came more naturally now.",
+                "\"Your muscle memory is building,\" {{MOTHER}} observed."
             ],
-            "illustrationHint": "Page 11: Discovery: {{CHILD}} finding dough.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 11: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 11 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "baking-day-11"
         },
         {
             "id": "baking-day-12",
             "text": [
-                "{{CHILD}} discovered a hidden path made of sugar.",
-                "The world of baking day was opening up.",
-                "\"Focus and patience are key,\" they remembered."
+                "{{CHILD}} wanted to explore the flour in a new way.",
+                "\"What happens if I try measuring instead?\" they wondered aloud.",
+                "The result was surprising and delightful!"
             ],
-            "illustrationHint": "Page 12: Discovery: {{CHILD}} finding flour.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 12: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 12 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "baking-day-12"
         },
         {
             "id": "baking-day-13",
             "text": [
-                "Wait, is that a dough peeking through the oven?",
-                "The world of baking day was opening up.",
-                "\"Can we try using the dough next?\" asked {{CHILD}}."
+                "A challenge appeared: combining stirring with decorating at the same time.",
+                "{{CHILD}}'s brain had to think about two things at once.",
+                "\"It's like patting your head and rubbing your tummy!\" they laughed."
             ],
-            "illustrationHint": "Page 13: Discovery: {{CHILD}} finding oven.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 13: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 13 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "baking-day-13"
         },
         {
             "id": "baking-day-14",
             "text": [
-                "They found a mysterious mixing sitting on a stone.",
-                "The world of baking day was opening up.",
-                "The flour looked professional and beautiful."
+                "{{CHILD}} discovered a secret about the sugar.",
+                "When they tried scooping more gently, the sugar responded much better.",
+                "\"Everything works better with a gentle touch,\" {{CHILD}} realized."
             ],
-            "illustrationHint": "Page 14: Discovery: {{CHILD}} finding mixing.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 14: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 14 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "baking-day-14"
         },
         {
             "id": "baking-day-15",
             "text": [
-                "\"Look at how the sprinkles shines!\" {{CHILD}} exclaimed.",
-                "The world of baking day was opening up.",
-                "\"I'm getting better at this sprinkles!\""
+                "The eggs and the butter were used together for the first time.",
+                "{{CHILD}} created something they'd never seen before.",
+                "\"I made this! All by myself!\" they beamed with pride."
             ],
-            "illustrationHint": "Page 15: Discovery: {{CHILD}} finding sprinkles.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 15: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 15 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "baking-day-15"
         },
         {
             "id": "baking-day-16",
             "text": [
-                "Each step revealed more about the magic of flour.",
-                "The world of baking day was opening up.",
-                "Learning a new skill is such a fun sugar adventure."
+                "\"Let me show {{FATHER}} what I learned!\" {{CHILD}} said at dinner.",
+                "A mini demonstration right there at the table.",
+                "{{FATHER}} clapped and said, \"That's incredibly impressive!\"\""
             ],
-            "illustrationHint": "Page 16: Discovery: {{CHILD}} finding sugar.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 16: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 16 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "baking-day-16"
         },
         {
             "id": "baking-day-17",
             "text": [
-                "{{CHILD}} used a magnifying glass to see the oven.",
-                "The world of baking day was opening up.",
-                "\"Focus and patience are key,\" they remembered."
+                "Practice at home became part of {{CHILD}}'s daily routine.",
+                "Ten minutes every day — sometimes fifteen when it was extra fun.",
+                "Consistency turned hesitation into confidence."
             ],
-            "illustrationHint": "Page 17: Discovery: {{CHILD}} finding dough.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 17: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 17 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "baking-day-17"
         },
         {
             "id": "baking-day-18",
             "text": [
-                "\"The sugar here is so colorful!\" they said.",
-                "The world of baking day was opening up.",
-                "\"Can we try using the dough next?\" asked {{CHILD}}."
+                "A book from the library showed experts doing the same thing.",
+                "{{CHILD}} studied the pictures and tried to copy the techniques.",
+                "\"Even pros started as beginners,\" they said to themselves."
             ],
-            "illustrationHint": "Page 18: Discovery: {{CHILD}} finding flour.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 18: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 18 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "baking-day-18"
         },
         {
             "id": "baking-day-19",
             "text": [
-                "They followed a trail of dough into the deep mixing.",
-                "The world of baking day was opening up.",
-                "The flour looked professional and beautiful."
+                "Something clicked today — a skill that was hard became easy.",
+                "{{CHILD}} repeated it four times just to make sure it wasn't a fluke.",
+                "Not a fluke. A breakthrough. The feeling was incredible."
             ],
-            "illustrationHint": "Page 19: Discovery: {{CHILD}} finding oven.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 19: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 19 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "baking-day-19"
         },
         {
             "id": "baking-day-20",
             "text": [
-                "A friendly bird chirped from the top of the sprinkles.",
-                "The world of baking day was opening up.",
-                "\"I'm getting better at this sprinkles!\""
+                "\"I think I'm ready for something bigger,\" {{CHILD}} told {{MOTHER}}.",
+                "The sparkle in their eyes showed they meant it.",
+                "\"Then let's make it happen,\" {{MOTHER}} agreed with a smile."
             ],
-            "illustrationHint": "Page 20: Discovery: {{CHILD}} finding mixing.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 20: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 20 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "baking-day-20"
         },
         {
             "id": "baking-day-21",
             "text": [
-                "Oh no! The path to the flour was blocked!",
-                "\"Remember,\" said {{FATHER}}, \"Teamwork is the key.\"",
-                "The workspace was filled with the sound of mixing."
+                "The advanced challenge was right in front of {{CHILD}}.",
+                "A bigger project that required everything they'd learned.",
+                "\"This looks harder than anything I've tried before,\" they admitted."
             ],
-            "illustrationHint": "Page 21: Challenge: {{CHILD}} overcoming an obstacle involving sprinkles.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 21: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 21 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "baking-day-21"
         },
         {
             "id": "baking-day-22",
             "text": [
-                "How will we ever move this heavy oven?",
-                "\"Remember,\" said {{FATHER}}, \"Teamwork is the key.\"",
-                "They set up the oven very carefully."
+                "Step one went smoothly — confidence from practice shone through.",
+                "But step two was different. The frosting didn't cooperate.",
+                "\"Come on, work with me,\" {{CHILD}} muttered, trying again."
             ],
-            "illustrationHint": "Page 22: Challenge: {{CHILD}} overcoming an obstacle involving sugar.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 22: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 22 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "baking-day-22"
         },
         {
             "id": "baking-day-23",
             "text": [
-                "The mixing started to spin faster and faster!",
-                "\"Remember,\" said {{FATHER}}, \"Teamwork is the key.\"",
-                "{{CHILD}} focused hard on the mixing."
+                "Frustration crept in like an unwelcome visitor.",
+                "Three attempts, three mistakes, three sighs.",
+                "{{CHILD}} put down the sprinkles and stared at the ceiling."
             ],
-            "illustrationHint": "Page 23: Challenge: {{CHILD}} overcoming an obstacle involving dough.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 23: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 23 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "baking-day-23"
         },
         {
             "id": "baking-day-24",
             "text": [
-                "{{CHILD}} had to hold onto the sprinkles very tightly.",
-                "\"Remember,\" said {{FATHER}}, \"Teamwork is the key.\"",
-                "{{MOTHER}} gave an encouraging nod from the corner."
+                "\"Remember,\" said {{FATHER}}, \"Teamwork is what gets you through.\"",
+                "{{CHILD}} took three deep breaths, finding calm.",
+                "\"Okay. Let me think about this differently.\""
             ],
-            "illustrationHint": "Page 24: Challenge: {{CHILD}} overcoming an obstacle involving flour.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 24: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 24 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "baking-day-24"
         },
         {
             "id": "baking-day-25",
             "text": [
-                "\"We need to solve this sugar puzzle,\" said {{FATHER}}.",
-                "\"Remember,\" said {{FATHER}}, \"Teamwork is the key.\"",
-                "It was time to practice the flour kỹ thuật."
+                "A new approach! Instead of forcing it, {{CHILD}} went slowly.",
+                "Breaking the problem into tiny, manageable pieces.",
+                "The first small piece worked perfectly."
             ],
-            "illustrationHint": "Page 25: Challenge: {{CHILD}} overcoming an obstacle involving oven.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 25: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 25 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "baking-day-25"
         },
         {
             "id": "baking-day-26",
             "text": [
-                "It was time to use all their Teamwork skills.",
-                "\"Remember,\" said {{FATHER}}, \"Teamwork is the key.\"",
-                "\"Watch how I handle the sprinkles,\" said the teacher."
+                "\"One piece at a time. One small step at a time,\" {{CHILD}} repeated.",
+                "The second piece fell into place. Then the third.",
+                "Momentum built like a gentle snowball rolling downhill."
             ],
-            "illustrationHint": "Page 26: Challenge: {{CHILD}} overcoming an obstacle involving mixing.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 26: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 26 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "baking-day-26"
         },
         {
             "id": "baking-day-27",
             "text": [
-                "The dough was being a bit stubborn today.",
-                "\"Remember,\" said {{FATHER}}, \"Teamwork is the key.\"",
-                "They cleared the dough to make more room."
+                "A wobble on step seven threatened to undo everything.",
+                "But {{CHILD}} caught it in time — quick thinking saved the project!",
+                "\"That was close!\" they exhaled with relief."
             ],
-            "illustrationHint": "Page 27: Challenge: {{CHILD}} overcoming an obstacle involving sprinkles.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 27: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 27 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "baking-day-27"
         },
         {
             "id": "baking-day-28",
             "text": [
-                "{{CHILD}} tried to balance the flour on their head.",
-                "\"Remember,\" said {{FATHER}}, \"Teamwork is the key.\"",
-                "They double-checked the oven for any mistakes."
+                "\"You didn't panic,\" {{MOTHER}} observed from the doorway.",
+                "\"That's the sign of someone who truly understands teamwork.\"",
+                "{{CHILD}} continued, more determined than ever."
             ],
-            "illustrationHint": "Page 28: Challenge: {{CHILD}} overcoming an obstacle involving sugar.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 28: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 28 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "baking-day-28"
         },
         {
             "id": "baking-day-29",
             "text": [
-                "\"Whew, that oven is tricky!\" they laughed.",
-                "\"Remember,\" said {{FATHER}}, \"Teamwork is the key.\"",
-                "Each movement with the flour felt more natural."
+                "The hardest part was here — the moment that tested everything.",
+                "Hands steady, breath held, focus sharp as a laser.",
+                "{{CHILD}} gave it every ounce of effort they had."
             ],
-            "illustrationHint": "Page 29: Challenge: {{CHILD}} overcoming an obstacle involving dough.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 29: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 29 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "baking-day-29"
         },
         {
             "id": "baking-day-30",
             "text": [
-                "The mixing was higher than they expected.",
-                "\"Remember,\" said {{FATHER}}, \"Teamwork is the key.\"",
-                "The sugar was starting to take shape."
+                "And then... success! The challenge was CONQUERED!",
+                "\"I DID IT! I actually DID IT!\" {{CHILD}} leaped up and cheered.",
+                "{{MOTHER}} and {{FATHER}} wrapped them in the biggest hug."
             ],
-            "illustrationHint": "Page 30: Challenge: {{CHILD}} overcoming an obstacle involving flour.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 30: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 30 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "baking-day-30"
         },
         {
             "id": "baking-day-31",
             "text": [
-                "Oh no! The path to the flour was blocked!",
-                "\"Remember,\" said {{FATHER}}, \"Teamwork is the key.\"",
-                "The workspace was filled with the sound of mixing."
+                "The finished project sat before {{CHILD}} — real and beautiful.",
+                "Every challenge, every frustration had led to this moment.",
+                "\"It's even better than I imagined,\" they whispered."
             ],
-            "illustrationHint": "Page 31: Challenge: {{CHILD}} overcoming an obstacle involving oven.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 31: Triumph — {{CHILD}} celebrating success and growth. Unique scene 31 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "baking-day-31"
         },
         {
             "id": "baking-day-32",
             "text": [
-                "How will we ever move this heavy oven?",
-                "\"Remember,\" said {{FATHER}}, \"Teamwork is the key.\"",
-                "They set up the oven very carefully."
+                "{{CHILD}} wanted to share their achievement with everyone.",
+                "Friends, family, even the neighbors were invited to see.",
+                "\"Look what teamwork helped me create!\""
             ],
-            "illustrationHint": "Page 32: Challenge: {{CHILD}} overcoming an obstacle involving mixing.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 32: Triumph — {{CHILD}} celebrating success and growth. Unique scene 32 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "baking-day-32"
         },
         {
             "id": "baking-day-33",
             "text": [
-                "The mixing started to spin faster and faster!",
-                "\"Remember,\" said {{FATHER}}, \"Teamwork is the key.\"",
-                "{{CHILD}} focused hard on the mixing."
+                "\"You should be incredibly proud,\" {{FATHER}} said at dinner.",
+                "\"Not just of the result, but of how you got there.\"",
+                "{{CHILD}} thought about the journey — every up and every down."
             ],
-            "illustrationHint": "Page 33: Challenge: {{CHILD}} overcoming an obstacle involving sprinkles.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 33: Triumph — {{CHILD}} celebrating success and growth. Unique scene 33 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "baking-day-33"
         },
         {
             "id": "baking-day-34",
             "text": [
-                "{{CHILD}} had to hold onto the sprinkles very tightly.",
-                "\"Remember,\" said {{FATHER}}, \"Teamwork is the key.\"",
-                "{{MOTHER}} gave an encouraging nod from the corner."
+                "A special presentation was arranged for the family.",
+                "{{CHILD}} explained each step, each challenge, each victory.",
+                "The audience of loved ones listened with shining eyes."
             ],
-            "illustrationHint": "Page 34: Challenge: {{CHILD}} overcoming an obstacle involving sugar.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 34: Triumph — {{CHILD}} celebrating success and growth. Unique scene 34 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "baking-day-34"
         },
         {
             "id": "baking-day-35",
             "text": [
-                "\"We need to solve this sugar puzzle,\" said {{FATHER}}.",
-                "\"Remember,\" said {{FATHER}}, \"Teamwork is the key.\"",
-                "It was time to practice the flour kỹ thuật."
+                "\"What was the hardest moment?\" asked {{FATHER}}.",
+                "\"When I wanted to quit but didn't,\" {{CHILD}} answered quietly.",
+                "That answer earned nods of deep respect from everyone."
             ],
-            "illustrationHint": "Page 35: Challenge: {{CHILD}} overcoming an obstacle involving dough.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 35: Triumph — {{CHILD}} celebrating success and growth. Unique scene 35 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "baking-day-35"
         },
         {
             "id": "baking-day-36",
             "text": [
-                "Success! The flour is finally working!",
-                "The baking day adventure was a huge success.",
-                "Learning a new skill is such a fun sugar adventure."
+                "{{CHILD}} decided to help someone else learn too.",
+                "Teaching felt different — it deepened their own understanding.",
+                "\"The best way to grow is to help others grow,\" they realized."
             ],
-            "illustrationHint": "Page 36: Success: {{CHILD}} celebrating Teamwork with flour.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 36: Triumph — {{CHILD}} celebrating success and growth. Unique scene 36 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "baking-day-36"
         },
         {
             "id": "baking-day-37",
             "text": [
-                "{{CHILD}} mastered the use of the oven!",
-                "The baking day adventure was a huge success.",
-                "\"Focus and patience are key,\" they remembered."
+                "A moment of reflection: looking at where they started vs. now.",
+                "The difference was remarkable — night and day.",
+                "\"I didn't know I could do all this,\" {{CHILD}} said in wonder."
             ],
-            "illustrationHint": "Page 37: Success: {{CHILD}} celebrating Teamwork with oven.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 37: Triumph — {{CHILD}} celebrating success and growth. Unique scene 37 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "baking-day-37"
         },
         {
             "id": "baking-day-38",
             "text": [
-                "A magical glow came from the mixing.",
-                "The baking day adventure was a huge success.",
-                "\"Can we try using the dough next?\" asked {{CHILD}}."
+                "The 🧁 became {{CHILD}}'s special symbol.",
+                "It represented their journey, their challenge, their triumph.",
+                "\"Whenever I see 🧁, I'll remember what I can do.\""
             ],
-            "illustrationHint": "Page 38: Success: {{CHILD}} celebrating Teamwork with mixing.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 38: Triumph — {{CHILD}} celebrating success and growth. Unique scene 38 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "baking-day-38"
         },
         {
             "id": "baking-day-39",
             "text": [
-                "The sprinkles turned into a shower of stars!",
-                "The baking day adventure was a huge success.",
-                "The flour looked professional and beautiful."
+                "Celebrating wasn't about bragging — it was about gratitude.",
+                "\"Thank you for believing in me,\" {{CHILD}} told {{MOTHER}} and {{FATHER}}.",
+                "\"We always believed. You just needed to believe in yourself.\""
             ],
-            "illustrationHint": "Page 39: Success: {{CHILD}} celebrating Teamwork with sprinkles.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 39: Triumph — {{CHILD}} celebrating success and growth. Unique scene 39 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "baking-day-39"
         },
         {
             "id": "baking-day-40",
             "text": [
-                "Everyone was proud of the sugar work.",
-                "The baking day adventure was a huge success.",
-                "\"I'm getting better at this sprinkles!\""
+                "The evening ended with quiet pride and a full heart.",
+                "Not everything in life would be this manageable — but teamwork?",
+                "That would carry {{CHILD}} through anything."
             ],
-            "illustrationHint": "Page 40: Success: {{CHILD}} celebrating Teamwork with sugar.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 40: Triumph — {{CHILD}} celebrating success and growth. Unique scene 40 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "baking-day-40"
         },
         {
             "id": "baking-day-41",
             "text": [
-                "\"You showed so much Teamwork,\" said {{MOTHER}}.",
-                "The baking day adventure was a huge success.",
-                "Learning a new skill is such a fun sugar adventure."
+                "Bath time was extra peaceful tonight.",
+                "{{CHILD}} thought about everything they'd learned.",
+                "Water swirled around them like the flow of the whole day."
             ],
-            "illustrationHint": "Page 41: Success: {{CHILD}} celebrating Teamwork with dough.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 41: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 41 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "baking-day-41"
         },
         {
             "id": "baking-day-42",
             "text": [
-                "The dough looked beautiful in the end.",
-                "The baking day adventure was a huge success.",
-                "\"Focus and patience are key,\" they remembered."
+                "In clean pajamas, {{CHILD}} sat on the bed thoughtfully.",
+                "The kitchen experience had changed something inside them.",
+                "They felt bigger, not in size, but in spirit."
             ],
-            "illustrationHint": "Page 42: Success: {{CHILD}} celebrating Teamwork with flour.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 42: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 42 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "baking-day-42"
         },
         {
             "id": "baking-day-43",
             "text": [
-                "They shared a giant 🧁 celebration.",
-                "The baking day adventure was a huge success.",
-                "\"Can we try using the dough next?\" asked {{CHILD}}."
+                "\"What did baking day teach you?\" {{MOTHER}} asked at tuck-in.",
+                "{{CHILD}} thought carefully before answering.",
+                "\"That teamwork isn't just a word — it's a superpower.\""
             ],
-            "illustrationHint": "Page 43: Success: {{CHILD}} celebrating Teamwork with oven.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 43: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 43 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "baking-day-43"
         },
         {
             "id": "baking-day-44",
             "text": [
-                "Success! The flour is finally working!",
-                "The baking day adventure was a huge success.",
-                "The flour looked professional and beautiful."
+                "{{MOTHER}} kissed {{CHILD}}'s forehead with all the love in the world.",
+                "\"Your superpower was inside you all along.\"",
+                "{{CHILD}} pulled the blanket up and smiled."
             ],
-            "illustrationHint": "Page 44: Success: {{CHILD}} celebrating Teamwork with mixing.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 44: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 44 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "baking-day-44"
         },
         {
             "id": "baking-day-45",
             "text": [
-                "{{CHILD}} mastered the use of the oven!",
-                "The baking day adventure was a huge success.",
-                "\"I'm getting better at this sprinkles!\""
+                "The moonlight painted silver patterns on the bedroom wall.",
+                "Somewhere in the house, evidence of today's adventure waited.",
+                "Ready for tomorrow's next chapter."
             ],
-            "illustrationHint": "Page 45: Success: {{CHILD}} celebrating Teamwork with sprinkles.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 45: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 45 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "baking-day-45"
         },
         {
             "id": "baking-day-46",
             "text": [
-                "As the stars came out, they talked about the flour.",
-                "\"Watch how I handle the sprinkles,\" said the teacher.",
-                "{{CHILD}} gave a happy yawn after the baking day day."
+                "Stars appeared one by one in the darkening sky.",
+                "Each one twinkled like a tiny cheerleader.",
+                "\"Even the stars are proud of you tonight,\" {{MOTHER}} whispered."
             ],
-            "illustrationHint": "Page 46: Sleepy: {{CHILD}} reflecting on the baking day journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 46: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 46 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "baking-day-46"
         },
         {
             "id": "baking-day-47",
             "text": [
-                "{{CHILD}} realized that Teamwork is very important.",
-                "They cleared the dough to make more room.",
-                "{{CHILD}} gave a happy yawn after the baking day day."
+                "Dreams arrived like gentle waves on a warm shore.",
+                "In the dream, {{CHILD}} was surrounded by everything they loved.",
+                "The kitchen, the flour, the sugar — all glowing with magic."
             ],
-            "illustrationHint": "Page 47: Sleepy: {{CHILD}} reflecting on the baking day journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 47: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 47 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "baking-day-47"
         },
         {
             "id": "baking-day-48",
             "text": [
-                "They tucked the oven into its special box.",
-                "They double-checked the oven for any mistakes.",
-                "{{CHILD}} gave a happy yawn after the baking day day."
+                "Dream-{{CHILD}} was a master — confident, skilled, and kind.",
+                "Every challenge in the dream was met with teamwork.",
+                "And every challenge was overcome, one by one."
             ],
-            "illustrationHint": "Page 48: Sleepy: {{CHILD}} reflecting on the baking day journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 48: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 48 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "baking-day-48"
         },
         {
             "id": "baking-day-49",
             "text": [
-                "\"I loved the mixing today,\" said {{CHILD}}.",
-                "Each movement with the flour felt more natural.",
-                "{{CHILD}} gave a happy yawn after the baking day day."
+                "The dream world slowly darkened into the deepest, most restful sleep.",
+                "Outside, the night was peaceful and full of possibility.",
+                "Tomorrow would bring new adventures, new lessons, new growth."
             ],
-            "illustrationHint": "Page 49: Sleepy: {{CHILD}} reflecting on the baking day journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 49: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 49 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "baking-day-49"
         },
         {
             "id": "baking-day-50",
             "text": [
-                "The sprinkles was now a happy memory.",
-                "The sugar was starting to take shape.",
-                "Goodnight, brave adventurer. See you in tomorrow's story!"
+                "The 🧁 glowed softly in {{CHILD}}'s imagination as they slept.",
+                "A symbol of what they'd learned, what they'd done, who they were becoming.",
+                "Goodnight, wonderful {{CHILD}}. You made today absolutely magical."
             ],
-            "illustrationHint": "Page 50: Sleepy: {{CHILD}} reflecting on the baking day journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 50: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 50 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "baking-day-50"
         }
     ]

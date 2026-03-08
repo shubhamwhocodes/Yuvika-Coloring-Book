@@ -1,511 +1,511 @@
-// Refined story - {{CHILD}}'s Rainy Day Fun
+// {{CHILD}}'s Rainy Day Fun — Unique story with 50 distinct pages
 const story = {
     "id": "rainy-day",
     "title": "{{CHILD}}'s Rainy Day Fun",
     "emoji": "🌧️",
     "theme": "Family Stories",
-    "lesson": "Creativity",
-    "description": "Explore the wonders of rainy day and learn about Creativity!",
+    "lesson": "Imagination",
+    "description": "When rain cancels outdoor plans, {{CHILD}} discovers that imagination turns any day into an adventure!",
     "coverColor": "#5B86E5",
     "pages": [
         {
             "id": "rainy-day-1",
             "text": [
-                "Today was the start of something amazing for {{CHILD}}.",
-                "They were going to explore the world of rainy day!",
-                "\"Are you ready for the rainy-day journey?\" asked {{MOTHER}}."
+                "The home on a rainy day was filled with exciting possibilities.",
+                "{{CHILD}} looked around with wide, sparkling eyes.",
+                "\"Are you ready for the rainy day fun adventure?\" asked {{MOTHER}}."
             ],
-            "illustrationHint": "Page 1: Opening scene: {{CHILD}} and family standing by a sign for \"rainy day\".. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 1: Introduction — {{CHILD}} discovering the Rainy Day Fun world. Unique scene 1 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "rainy-day-1"
         },
         {
             "id": "rainy-day-2",
             "text": [
-                "Then, they checked the boots to make sure it was ready.",
-                "The house was filled with the scent of inside.",
-                "\"This Family Stories is full of surprises!\""
+                "Everything was set up and waiting — the umbrella, the puddles, and more.",
+                "{{CHILD}} picked up the umbrella and turned it over in their hands.",
+                "\"This is going to be the best day ever!\" they declared."
             ],
-            "illustrationHint": "Page 2: Setup: {{CHILD}} working with umbrella.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 2: Introduction — {{CHILD}} discovering the Rainy Day Fun world. Unique scene 2 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "rainy-day-2"
         },
         {
             "id": "rainy-day-3",
             "text": [
-                "{{CHILD}} put on their special umbrella gear.",
-                "{{CHILD}} gave the clouds a big, happy hug.",
-                "\"This Family Stories is full of surprises!\""
+                "{{MOTHER}} explained how the blanket fort worked while {{CHILD}} listened carefully.",
+                "\"First, you need to understand the blanket fort before you use it.\"",
+                "{{CHILD}} nodded seriously, determined to learn everything."
             ],
-            "illustrationHint": "Page 3: Setup: {{CHILD}} working with inside.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 3: Introduction — {{CHILD}} discovering the Rainy Day Fun world. Unique scene 3 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "rainy-day-3"
         },
         {
             "id": "rainy-day-4",
             "text": [
-                "\"Don't forget the inside!\" called out {{MOTHER}}.",
-                "They worked together to organize the puddles.",
-                "\"This Family Stories is full of surprises!\""
+                "The first step was imagining — and {{CHILD}} gave it their best try.",
+                "It wasn't perfect, but it was a wonderful beginning.",
+                "\"Everyone starts exactly where you are right now,\" {{MOTHER}} encouraged."
             ],
-            "illustrationHint": "Page 4: Setup: {{CHILD}} working with games.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 4: Introduction — {{CHILD}} discovering the Rainy Day Fun world. Unique scene 4 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "rainy-day-4"
         },
         {
             "id": "rainy-day-5",
             "text": [
-                "Everything felt so games and new today.",
-                "They found an old umbrella that brought back memories.",
-                "\"This Family Stories is full of surprises!\""
+                "{{CHILD}} noticed how the board games connected to the crayons.",
+                "\"Oh! I see how they work together!\" they exclaimed.",
+                "Understanding one thing opened a door to understanding another."
             ],
-            "illustrationHint": "Page 5: Setup: {{CHILD}} working with clouds.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 5: Introduction — {{CHILD}} discovering the Rainy Day Fun world. Unique scene 5 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "rainy-day-5"
         },
         {
             "id": "rainy-day-6",
             "text": [
-                "{{CHILD}} noticed a small clouds near the entrance.",
-                "\"Let's put the boots here,\" suggested {{FATHER}}.",
-                "\"This Family Stories is full of surprises!\""
+                "A moment of focus: {{CHILD}} concentrated on building with careful hands.",
+                "The pillow ship responded beautifully to their gentle touch.",
+                "\"You have a natural talent for this,\" {{MOTHER}} said warmly."
             ],
-            "illustrationHint": "Page 6: Setup: {{CHILD}} working with puddles.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 6: Introduction — {{CHILD}} discovering the Rainy Day Fun world. Unique scene 6 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "rainy-day-6"
         },
         {
             "id": "rainy-day-7",
             "text": [
-                "Step 7 of the plan was to look for the puddles.",
-                "They sat down to look at the games together.",
-                "\"This Family Stories is full of surprises!\""
+                "\"Can I try drawing next?\" {{CHILD}} asked eagerly.",
+                "{{MOTHER}} showed them the technique step by step.",
+                "Slow at first, then smoother, then almost graceful."
             ],
-            "illustrationHint": "Page 7: Setup: {{CHILD}} working with boots.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 7: Introduction — {{CHILD}} discovering the Rainy Day Fun world. Unique scene 7 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "rainy-day-7"
         },
         {
             "id": "rainy-day-8",
             "text": [
-                "\"I can't wait to see the boots!\" {{CHILD}} cheered.",
-                "It was a perfect day for a family umbrella.",
-                "\"This Family Stories is full of surprises!\""
+                "The flashlight was trickier than expected.",
+                "{{CHILD}} bit their lower lip in concentration.",
+                "\"Take your time — there's no rush,\" reminded {{MOTHER}}."
             ],
-            "illustrationHint": "Page 8: Setup: {{CHILD}} working with umbrella.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 8: Introduction — {{CHILD}} discovering the Rainy Day Fun world. Unique scene 8 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "rainy-day-8"
         },
         {
             "id": "rainy-day-9",
             "text": [
-                "The air was filled with the scent of umbrella.",
-                "Everyone gathered around the boots for a photo.",
-                "\"This Family Stories is full of surprises!\""
+                "Something unexpected happened — the window did something surprising!",
+                "\"Whoa! Did you see that?\" {{CHILD}} jumped with excitement.",
+                "Even {{MOTHER}} looked impressed by the unexpected discovery."
             ],
-            "illustrationHint": "Page 9: Setup: {{CHILD}} working with inside.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 9: Introduction — {{CHILD}} discovering the Rainy Day Fun world. Unique scene 9 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "rainy-day-9"
         },
         {
             "id": "rainy-day-10",
             "text": [
-                "They found a map that showed the way to the inside.",
-                "{{CHILD}} and {{MOTHER}} shared a warm smile.",
-                "\"This Family Stories is full of surprises!\""
+                "By the end of the first session, {{CHILD}} had learned so much.",
+                "The home on a rainy day felt like a second home already.",
+                "\"Can we come back tomorrow?\" {{CHILD}} asked hopefully."
             ],
-            "illustrationHint": "Page 10: Setup: {{CHILD}} working with games.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 10: Introduction — {{CHILD}} discovering the Rainy Day Fun world. Unique scene 10 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "rainy-day-10"
         },
         {
             "id": "rainy-day-11",
             "text": [
-                "Look at that puddles! It's bigger than I thought!",
-                "The world of rainy day was opening up.",
-                "\"This clouds is the best part of home.\""
+                "The second session started with a review of what {{CHILD}} already knew.",
+                "Imagining came more naturally now.",
+                "\"Your muscle memory is building,\" {{MOTHER}} observed."
             ],
-            "illustrationHint": "Page 11: Discovery: {{CHILD}} finding clouds.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 11: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 11 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "rainy-day-11"
         },
         {
             "id": "rainy-day-12",
             "text": [
-                "{{CHILD}} discovered a hidden path made of games.",
-                "The world of rainy day was opening up.",
-                "Being together makes every inside special."
+                "{{CHILD}} wanted to explore the umbrella in a new way.",
+                "\"What happens if I try playing instead?\" they wondered aloud.",
+                "The result was surprising and delightful!"
             ],
-            "illustrationHint": "Page 12: Discovery: {{CHILD}} finding puddles.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 12: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 12 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "rainy-day-12"
         },
         {
             "id": "rainy-day-13",
             "text": [
-                "Wait, is that a clouds peeking through the boots?",
-                "The world of rainy day was opening up.",
-                "They felt safe and loved on this puddles day."
+                "A challenge appeared: combining building with stacking at the same time.",
+                "{{CHILD}}'s brain had to think about two things at once.",
+                "\"It's like patting your head and rubbing your tummy!\" they laughed."
             ],
-            "illustrationHint": "Page 13: Discovery: {{CHILD}} finding boots.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 13: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 13 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "rainy-day-13"
         },
         {
             "id": "rainy-day-14",
             "text": [
-                "They found a mysterious umbrella sitting on a stone.",
-                "The world of rainy day was opening up.",
-                "\"Thank you for helping with the games,\" said {{MOTHER}}."
+                "{{CHILD}} discovered a secret about the puddles.",
+                "When they tried narrating more gently, the puddles responded much better.",
+                "\"Everything works better with a gentle touch,\" {{CHILD}} realized."
             ],
-            "illustrationHint": "Page 14: Discovery: {{CHILD}} finding umbrella.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 14: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 14 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "rainy-day-14"
         },
         {
             "id": "rainy-day-15",
             "text": [
-                "\"Look at how the inside shines!\" {{CHILD}} exclaimed.",
-                "The world of rainy day was opening up.",
-                "\"I love my family so much,\" thought {{CHILD}}."
+                "The blanket fort and the board games were used together for the first time.",
+                "{{CHILD}} created something they'd never seen before.",
+                "\"I made this! All by myself!\" they beamed with pride."
             ],
-            "illustrationHint": "Page 15: Discovery: {{CHILD}} finding inside.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 15: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 15 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "rainy-day-15"
         },
         {
             "id": "rainy-day-16",
             "text": [
-                "Each step revealed more about the magic of puddles.",
-                "The world of rainy day was opening up.",
-                "\"This clouds is the best part of home.\""
+                "\"Let me show {{FATHER}} what I learned!\" {{CHILD}} said at dinner.",
+                "A mini demonstration right there at the table.",
+                "{{FATHER}} clapped and said, \"That's incredibly impressive!\"\""
             ],
-            "illustrationHint": "Page 16: Discovery: {{CHILD}} finding games.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 16: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 16 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "rainy-day-16"
         },
         {
             "id": "rainy-day-17",
             "text": [
-                "{{CHILD}} used a magnifying glass to see the boots.",
-                "The world of rainy day was opening up.",
-                "Being together makes every inside special."
+                "Practice at home became part of {{CHILD}}'s daily routine.",
+                "Ten minutes every day — sometimes fifteen when it was extra fun.",
+                "Consistency turned hesitation into confidence."
             ],
-            "illustrationHint": "Page 17: Discovery: {{CHILD}} finding clouds.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 17: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 17 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "rainy-day-17"
         },
         {
             "id": "rainy-day-18",
             "text": [
-                "\"The games here is so colorful!\" they said.",
-                "The world of rainy day was opening up.",
-                "They felt safe and loved on this puddles day."
+                "A book from the library showed experts doing the same thing.",
+                "{{CHILD}} studied the pictures and tried to copy the techniques.",
+                "\"Even pros started as beginners,\" they said to themselves."
             ],
-            "illustrationHint": "Page 18: Discovery: {{CHILD}} finding puddles.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 18: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 18 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "rainy-day-18"
         },
         {
             "id": "rainy-day-19",
             "text": [
-                "They followed a trail of clouds into the deep umbrella.",
-                "The world of rainy day was opening up.",
-                "\"Thank you for helping with the games,\" said {{MOTHER}}."
+                "Something clicked today — a skill that was hard became easy.",
+                "{{CHILD}} repeated it four times just to make sure it wasn't a fluke.",
+                "Not a fluke. A breakthrough. The feeling was incredible."
             ],
-            "illustrationHint": "Page 19: Discovery: {{CHILD}} finding boots.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 19: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 19 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "rainy-day-19"
         },
         {
             "id": "rainy-day-20",
             "text": [
-                "A friendly bird chirped from the top of the inside.",
-                "The world of rainy day was opening up.",
-                "\"I love my family so much,\" thought {{CHILD}}."
+                "\"I think I'm ready for something bigger,\" {{CHILD}} told {{MOTHER}}.",
+                "The sparkle in their eyes showed they meant it.",
+                "\"Then let's make it happen,\" {{MOTHER}} agreed with a smile."
             ],
-            "illustrationHint": "Page 20: Discovery: {{CHILD}} finding umbrella.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 20: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 20 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "rainy-day-20"
         },
         {
             "id": "rainy-day-21",
             "text": [
-                "Oh no! The path to the puddles was blocked!",
-                "\"Remember,\" said {{FATHER}}, \"Creativity is the key.\"",
-                "They sang a song while holding the puddles."
+                "The advanced challenge was right in front of {{CHILD}}.",
+                "A bigger project that required everything they'd learned.",
+                "\"This looks harder than anything I've tried before,\" they admitted."
             ],
-            "illustrationHint": "Page 21: Challenge: {{CHILD}} overcoming an obstacle involving inside.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 21: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 21 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "rainy-day-21"
         },
         {
             "id": "rainy-day-22",
             "text": [
-                "How will we ever move this heavy boots?",
-                "\"Remember,\" said {{FATHER}}, \"Creativity is the key.\"",
-                "The house was filled with the scent of inside."
+                "Step one went smoothly — confidence from practice shone through.",
+                "But step two was different. The crayons didn't cooperate.",
+                "\"Come on, work with me,\" {{CHILD}} muttered, trying again."
             ],
-            "illustrationHint": "Page 22: Challenge: {{CHILD}} overcoming an obstacle involving games.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 22: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 22 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "rainy-day-22"
         },
         {
             "id": "rainy-day-23",
             "text": [
-                "The umbrella started to spin faster and faster!",
-                "\"Remember,\" said {{FATHER}}, \"Creativity is the key.\"",
-                "{{CHILD}} gave the clouds a big, happy hug."
+                "Frustration crept in like an unwelcome visitor.",
+                "Three attempts, three mistakes, three sighs.",
+                "{{CHILD}} put down the pillow ship and stared at the ceiling."
             ],
-            "illustrationHint": "Page 23: Challenge: {{CHILD}} overcoming an obstacle involving clouds.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 23: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 23 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "rainy-day-23"
         },
         {
             "id": "rainy-day-24",
             "text": [
-                "{{CHILD}} had to hold onto the inside very tightly.",
-                "\"Remember,\" said {{FATHER}}, \"Creativity is the key.\"",
-                "They worked together to organize the puddles."
+                "\"Remember,\" said {{FATHER}}, \"Imagination is what gets you through.\"",
+                "{{CHILD}} took three deep breaths, finding calm.",
+                "\"Okay. Let me think about this differently.\""
             ],
-            "illustrationHint": "Page 24: Challenge: {{CHILD}} overcoming an obstacle involving puddles.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 24: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 24 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "rainy-day-24"
         },
         {
             "id": "rainy-day-25",
             "text": [
-                "\"We need to solve this games puzzle,\" said {{FATHER}}.",
-                "\"Remember,\" said {{FATHER}}, \"Creativity is the key.\"",
-                "They found an old umbrella that brought back memories."
+                "A new approach! Instead of forcing it, {{CHILD}} went slowly.",
+                "Breaking the problem into tiny, manageable pieces.",
+                "The first small piece worked perfectly."
             ],
-            "illustrationHint": "Page 25: Challenge: {{CHILD}} overcoming an obstacle involving boots.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 25: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 25 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "rainy-day-25"
         },
         {
             "id": "rainy-day-26",
             "text": [
-                "It was time to use all their Creativity skills.",
-                "\"Remember,\" said {{FATHER}}, \"Creativity is the key.\"",
-                "\"Let's put the boots here,\" suggested {{FATHER}}."
+                "\"One piece at a time. One small step at a time,\" {{CHILD}} repeated.",
+                "The second piece fell into place. Then the third.",
+                "Momentum built like a gentle snowball rolling downhill."
             ],
-            "illustrationHint": "Page 26: Challenge: {{CHILD}} overcoming an obstacle involving umbrella.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 26: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 26 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "rainy-day-26"
         },
         {
             "id": "rainy-day-27",
             "text": [
-                "The clouds was being a bit stubborn today.",
-                "\"Remember,\" said {{FATHER}}, \"Creativity is the key.\"",
-                "They sat down to look at the games together."
+                "A wobble on step seven threatened to undo everything.",
+                "But {{CHILD}} caught it in time — quick thinking saved the project!",
+                "\"That was close!\" they exhaled with relief."
             ],
-            "illustrationHint": "Page 27: Challenge: {{CHILD}} overcoming an obstacle involving inside.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 27: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 27 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "rainy-day-27"
         },
         {
             "id": "rainy-day-28",
             "text": [
-                "{{CHILD}} tried to balance the puddles on their head.",
-                "\"Remember,\" said {{FATHER}}, \"Creativity is the key.\"",
-                "It was a perfect day for a family umbrella."
+                "\"You didn't panic,\" {{MOTHER}} observed from the doorway.",
+                "\"That's the sign of someone who truly understands imagination.\"",
+                "{{CHILD}} continued, more determined than ever."
             ],
-            "illustrationHint": "Page 28: Challenge: {{CHILD}} overcoming an obstacle involving games.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 28: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 28 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "rainy-day-28"
         },
         {
             "id": "rainy-day-29",
             "text": [
-                "\"Whew, that boots is tricky!\" they laughed.",
-                "\"Remember,\" said {{FATHER}}, \"Creativity is the key.\"",
-                "Everyone gathered around the boots for a photo."
+                "The hardest part was here — the moment that tested everything.",
+                "Hands steady, breath held, focus sharp as a laser.",
+                "{{CHILD}} gave it every ounce of effort they had."
             ],
-            "illustrationHint": "Page 29: Challenge: {{CHILD}} overcoming an obstacle involving clouds.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 29: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 29 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "rainy-day-29"
         },
         {
             "id": "rainy-day-30",
             "text": [
-                "The umbrella was higher than they expected.",
-                "\"Remember,\" said {{FATHER}}, \"Creativity is the key.\"",
-                "{{CHILD}} and {{MOTHER}} shared a warm smile."
+                "And then... success! The challenge was CONQUERED!",
+                "\"I DID IT! I actually DID IT!\" {{CHILD}} leaped up and cheered.",
+                "{{MOTHER}} and {{FATHER}} wrapped them in the biggest hug."
             ],
-            "illustrationHint": "Page 30: Challenge: {{CHILD}} overcoming an obstacle involving puddles.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 30: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 30 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "rainy-day-30"
         },
         {
             "id": "rainy-day-31",
             "text": [
-                "Oh no! The path to the puddles was blocked!",
-                "\"Remember,\" said {{FATHER}}, \"Creativity is the key.\"",
-                "They sang a song while holding the puddles."
+                "The finished project sat before {{CHILD}} — real and beautiful.",
+                "Every challenge, every frustration had led to this moment.",
+                "\"It's even better than I imagined,\" they whispered."
             ],
-            "illustrationHint": "Page 31: Challenge: {{CHILD}} overcoming an obstacle involving boots.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 31: Triumph — {{CHILD}} celebrating success and growth. Unique scene 31 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "rainy-day-31"
         },
         {
             "id": "rainy-day-32",
             "text": [
-                "How will we ever move this heavy boots?",
-                "\"Remember,\" said {{FATHER}}, \"Creativity is the key.\"",
-                "The house was filled with the scent of inside."
+                "{{CHILD}} wanted to share their achievement with everyone.",
+                "Friends, family, even the neighbors were invited to see.",
+                "\"Look what imagination helped me create!\""
             ],
-            "illustrationHint": "Page 32: Challenge: {{CHILD}} overcoming an obstacle involving umbrella.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 32: Triumph — {{CHILD}} celebrating success and growth. Unique scene 32 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "rainy-day-32"
         },
         {
             "id": "rainy-day-33",
             "text": [
-                "The umbrella started to spin faster and faster!",
-                "\"Remember,\" said {{FATHER}}, \"Creativity is the key.\"",
-                "{{CHILD}} gave the clouds a big, happy hug."
+                "\"You should be incredibly proud,\" {{FATHER}} said at dinner.",
+                "\"Not just of the result, but of how you got there.\"",
+                "{{CHILD}} thought about the journey — every up and every down."
             ],
-            "illustrationHint": "Page 33: Challenge: {{CHILD}} overcoming an obstacle involving inside.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 33: Triumph — {{CHILD}} celebrating success and growth. Unique scene 33 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "rainy-day-33"
         },
         {
             "id": "rainy-day-34",
             "text": [
-                "{{CHILD}} had to hold onto the inside very tightly.",
-                "\"Remember,\" said {{FATHER}}, \"Creativity is the key.\"",
-                "They worked together to organize the puddles."
+                "A special presentation was arranged for the family.",
+                "{{CHILD}} explained each step, each challenge, each victory.",
+                "The audience of loved ones listened with shining eyes."
             ],
-            "illustrationHint": "Page 34: Challenge: {{CHILD}} overcoming an obstacle involving games.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 34: Triumph — {{CHILD}} celebrating success and growth. Unique scene 34 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "rainy-day-34"
         },
         {
             "id": "rainy-day-35",
             "text": [
-                "\"We need to solve this games puzzle,\" said {{FATHER}}.",
-                "\"Remember,\" said {{FATHER}}, \"Creativity is the key.\"",
-                "They found an old umbrella that brought back memories."
+                "\"What was the hardest moment?\" asked {{FATHER}}.",
+                "\"When I wanted to quit but didn't,\" {{CHILD}} answered quietly.",
+                "That answer earned nods of deep respect from everyone."
             ],
-            "illustrationHint": "Page 35: Challenge: {{CHILD}} overcoming an obstacle involving clouds.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 35: Triumph — {{CHILD}} celebrating success and growth. Unique scene 35 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "rainy-day-35"
         },
         {
             "id": "rainy-day-36",
             "text": [
-                "Success! The puddles is finally working!",
-                "The rainy day adventure was a huge success.",
-                "\"This clouds is the best part of home.\""
+                "{{CHILD}} decided to help someone else learn too.",
+                "Teaching felt different — it deepened their own understanding.",
+                "\"The best way to grow is to help others grow,\" they realized."
             ],
-            "illustrationHint": "Page 36: Success: {{CHILD}} celebrating Creativity with puddles.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 36: Triumph — {{CHILD}} celebrating success and growth. Unique scene 36 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "rainy-day-36"
         },
         {
             "id": "rainy-day-37",
             "text": [
-                "{{CHILD}} mastered the use of the boots!",
-                "The rainy day adventure was a huge success.",
-                "Being together makes every inside special."
+                "A moment of reflection: looking at where they started vs. now.",
+                "The difference was remarkable — night and day.",
+                "\"I didn't know I could do all this,\" {{CHILD}} said in wonder."
             ],
-            "illustrationHint": "Page 37: Success: {{CHILD}} celebrating Creativity with boots.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 37: Triumph — {{CHILD}} celebrating success and growth. Unique scene 37 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "rainy-day-37"
         },
         {
             "id": "rainy-day-38",
             "text": [
-                "A magical glow came from the umbrella.",
-                "The rainy day adventure was a huge success.",
-                "They felt safe and loved on this puddles day."
+                "The 🌧️ became {{CHILD}}'s special symbol.",
+                "It represented their journey, their challenge, their triumph.",
+                "\"Whenever I see 🌧️, I'll remember what I can do.\""
             ],
-            "illustrationHint": "Page 38: Success: {{CHILD}} celebrating Creativity with umbrella.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 38: Triumph — {{CHILD}} celebrating success and growth. Unique scene 38 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "rainy-day-38"
         },
         {
             "id": "rainy-day-39",
             "text": [
-                "The inside turned into a shower of stars!",
-                "The rainy day adventure was a huge success.",
-                "\"Thank you for helping with the games,\" said {{MOTHER}}."
+                "Celebrating wasn't about bragging — it was about gratitude.",
+                "\"Thank you for believing in me,\" {{CHILD}} told {{MOTHER}} and {{FATHER}}.",
+                "\"We always believed. You just needed to believe in yourself.\""
             ],
-            "illustrationHint": "Page 39: Success: {{CHILD}} celebrating Creativity with inside.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 39: Triumph — {{CHILD}} celebrating success and growth. Unique scene 39 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "rainy-day-39"
         },
         {
             "id": "rainy-day-40",
             "text": [
-                "Everyone was proud of the games work.",
-                "The rainy day adventure was a huge success.",
-                "\"I love my family so much,\" thought {{CHILD}}."
+                "The evening ended with quiet pride and a full heart.",
+                "Not everything in life would be this manageable — but imagination?",
+                "That would carry {{CHILD}} through anything."
             ],
-            "illustrationHint": "Page 40: Success: {{CHILD}} celebrating Creativity with games.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 40: Triumph — {{CHILD}} celebrating success and growth. Unique scene 40 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "rainy-day-40"
         },
         {
             "id": "rainy-day-41",
             "text": [
-                "\"You showed so much Creativity,\" said {{MOTHER}}.",
-                "The rainy day adventure was a huge success.",
-                "\"This clouds is the best part of home.\""
+                "Bath time was extra peaceful tonight.",
+                "{{CHILD}} thought about everything they'd learned.",
+                "Water swirled around them like the flow of the whole day."
             ],
-            "illustrationHint": "Page 41: Success: {{CHILD}} celebrating Creativity with clouds.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 41: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 41 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "rainy-day-41"
         },
         {
             "id": "rainy-day-42",
             "text": [
-                "The clouds looked beautiful in the end.",
-                "The rainy day adventure was a huge success.",
-                "Being together makes every inside special."
+                "In clean pajamas, {{CHILD}} sat on the bed thoughtfully.",
+                "The home on a rainy day experience had changed something inside them.",
+                "They felt bigger, not in size, but in spirit."
             ],
-            "illustrationHint": "Page 42: Success: {{CHILD}} celebrating Creativity with puddles.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 42: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 42 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "rainy-day-42"
         },
         {
             "id": "rainy-day-43",
             "text": [
-                "They shared a giant 🌧️ celebration.",
-                "The rainy day adventure was a huge success.",
-                "They felt safe and loved on this puddles day."
+                "\"What did rainy day fun teach you?\" {{MOTHER}} asked at tuck-in.",
+                "{{CHILD}} thought carefully before answering.",
+                "\"That imagination isn't just a word — it's a superpower.\""
             ],
-            "illustrationHint": "Page 43: Success: {{CHILD}} celebrating Creativity with boots.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 43: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 43 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "rainy-day-43"
         },
         {
             "id": "rainy-day-44",
             "text": [
-                "Success! The puddles is finally working!",
-                "The rainy day adventure was a huge success.",
-                "\"Thank you for helping with the games,\" said {{MOTHER}}."
+                "{{MOTHER}} kissed {{CHILD}}'s forehead with all the love in the world.",
+                "\"Your superpower was inside you all along.\"",
+                "{{CHILD}} pulled the blanket up and smiled."
             ],
-            "illustrationHint": "Page 44: Success: {{CHILD}} celebrating Creativity with umbrella.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 44: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 44 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "rainy-day-44"
         },
         {
             "id": "rainy-day-45",
             "text": [
-                "{{CHILD}} mastered the use of the boots!",
-                "The rainy day adventure was a huge success.",
-                "\"I love my family so much,\" thought {{CHILD}}."
+                "The moonlight painted silver patterns on the bedroom wall.",
+                "Somewhere in the house, evidence of today's adventure waited.",
+                "Ready for tomorrow's next chapter."
             ],
-            "illustrationHint": "Page 45: Success: {{CHILD}} celebrating Creativity with inside.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 45: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 45 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "rainy-day-45"
         },
         {
             "id": "rainy-day-46",
             "text": [
-                "As the stars came out, they talked about the puddles.",
-                "\"Let's put the boots here,\" suggested {{FATHER}}.",
-                "{{CHILD}} gave a happy yawn after the rainy day day."
+                "Stars appeared one by one in the darkening sky.",
+                "Each one twinkled like a tiny cheerleader.",
+                "\"Even the stars are proud of you tonight,\" {{MOTHER}} whispered."
             ],
-            "illustrationHint": "Page 46: Sleepy: {{CHILD}} reflecting on the rainy day journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 46: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 46 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "rainy-day-46"
         },
         {
             "id": "rainy-day-47",
             "text": [
-                "{{CHILD}} realized that Creativity is very important.",
-                "They sat down to look at the games together.",
-                "{{CHILD}} gave a happy yawn after the rainy day day."
+                "Dreams arrived like gentle waves on a warm shore.",
+                "In the dream, {{CHILD}} was surrounded by everything they loved.",
+                "The home on a rainy day, the umbrella, the puddles — all glowing with magic."
             ],
-            "illustrationHint": "Page 47: Sleepy: {{CHILD}} reflecting on the rainy day journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 47: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 47 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "rainy-day-47"
         },
         {
             "id": "rainy-day-48",
             "text": [
-                "They tucked the boots into its special box.",
-                "It was a perfect day for a family umbrella.",
-                "{{CHILD}} gave a happy yawn after the rainy day day."
+                "Dream-{{CHILD}} was a master — confident, skilled, and kind.",
+                "Every challenge in the dream was met with imagination.",
+                "And every challenge was overcome, one by one."
             ],
-            "illustrationHint": "Page 48: Sleepy: {{CHILD}} reflecting on the rainy day journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 48: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 48 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "rainy-day-48"
         },
         {
             "id": "rainy-day-49",
             "text": [
-                "\"I loved the umbrella today,\" said {{CHILD}}.",
-                "Everyone gathered around the boots for a photo.",
-                "{{CHILD}} gave a happy yawn after the rainy day day."
+                "The dream world slowly darkened into the deepest, most restful sleep.",
+                "Outside, the night was peaceful and full of possibility.",
+                "Tomorrow would bring new adventures, new lessons, new growth."
             ],
-            "illustrationHint": "Page 49: Sleepy: {{CHILD}} reflecting on the rainy day journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 49: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 49 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "rainy-day-49"
         },
         {
             "id": "rainy-day-50",
             "text": [
-                "The inside was now a happy memory.",
-                "{{CHILD}} and {{MOTHER}} shared a warm smile.",
-                "Goodnight, brave adventurer. See you in tomorrow's story!"
+                "The 🌧️ glowed softly in {{CHILD}}'s imagination as they slept.",
+                "A symbol of what they'd learned, what they'd done, who they were becoming.",
+                "Goodnight, wonderful {{CHILD}}. You made today absolutely magical."
             ],
-            "illustrationHint": "Page 50: Sleepy: {{CHILD}} reflecting on the rainy day journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 50: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 50 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "rainy-day-50"
         }
     ]

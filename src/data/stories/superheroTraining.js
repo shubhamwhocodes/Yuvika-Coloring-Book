@@ -1,511 +1,511 @@
-// Refined story - {{CHILD}}'s Super Powers
+// {{CHILD}}'s Superhero Training — Unique story with 50 distinct pages
 const story = {
     "id": "superhero-training",
-    "title": "{{CHILD}}'s Super Powers",
+    "title": "{{CHILD}}'s Superhero Training",
     "emoji": "🦸",
     "theme": "Imagination Stories",
-    "lesson": "Responsibility",
-    "description": "Explore the wonders of superhero training and learn about Responsibility!",
+    "lesson": "Bravery",
+    "description": "Every hero starts somewhere! Join {{CHILD}} at superhero school for an epic training adventure!",
     "coverColor": "#E74C3C",
     "pages": [
         {
             "id": "superhero-training-1",
             "text": [
-                "Today was the start of something amazing for {{CHILD}}.",
-                "They were going to explore the world of superhero training!",
-                "\"Are you ready for the superhero-training journey?\" asked {{MOTHER}}."
+                "The superhero academy was filled with exciting possibilities.",
+                "{{CHILD}} looked around with wide, sparkling eyes.",
+                "\"Are you ready for the superhero training adventure?\" asked {{MOTHER}}."
             ],
-            "illustrationHint": "Page 1: Opening scene: {{CHILD}} and family standing by a sign for \"superhero training\".. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 1: Introduction — {{CHILD}} discovering the Superhero Training world. Unique scene 1 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "superhero-training-1"
         },
         {
             "id": "superhero-training-2",
             "text": [
-                "Then, they checked the mask to make sure it was ready.",
-                "They jumped onto a floating mask.",
-                "\"This Imagination Stories is full of surprises!\""
+                "Everything was set up and waiting — the cape, the mask, and more.",
+                "{{CHILD}} picked up the cape and turned it over in their hands.",
+                "\"This is going to be the best day ever!\" they declared."
             ],
-            "illustrationHint": "Page 2: Setup: {{CHILD}} working with flying.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 2: Introduction — {{CHILD}} discovering the Superhero Training world. Unique scene 2 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "superhero-training-2"
         },
         {
             "id": "superhero-training-3",
             "text": [
-                "{{CHILD}} put on their special flying gear.",
-                "A friendly strength led the way to the palace.",
-                "\"This Imagination Stories is full of surprises!\""
+                "{{MOTHER}} explained how the shield worked while {{CHILD}} listened carefully.",
+                "\"First, you need to understand the shield before you use it.\"",
+                "{{CHILD}} nodded seriously, determined to learn everything."
             ],
-            "illustrationHint": "Page 3: Setup: {{CHILD}} working with strength.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 3: Introduction — {{CHILD}} discovering the Superhero Training world. Unique scene 3 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "superhero-training-3"
         },
         {
             "id": "superhero-training-4",
             "text": [
-                "\"Don't forget the strength!\" called out {{MOTHER}}.",
-                "\"Hold onto the mask very tightly!\"",
-                "\"This Imagination Stories is full of surprises!\""
+                "The first step was jumping — and {{CHILD}} gave it their best try.",
+                "It wasn't perfect, but it was a wonderful beginning.",
+                "\"Everyone starts exactly where you are right now,\" {{MOTHER}} encouraged."
             ],
-            "illustrationHint": "Page 4: Setup: {{CHILD}} working with justice.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 4: Introduction — {{CHILD}} discovering the Superhero Training world. Unique scene 4 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "superhero-training-4"
         },
         {
             "id": "superhero-training-5",
             "text": [
-                "Everything felt so justice and new today.",
-                "They soared high above the flying clouds.",
-                "\"This Imagination Stories is full of surprises!\""
+                "{{CHILD}} noticed how the training course connected to the power ring.",
+                "\"Oh! I see how they work together!\" they exclaimed.",
+                "Understanding one thing opened a door to understanding another."
             ],
-            "illustrationHint": "Page 5: Setup: {{CHILD}} working with hero.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 5: Introduction — {{CHILD}} discovering the Superhero Training world. Unique scene 5 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "superhero-training-5"
         },
         {
             "id": "superhero-training-6",
             "text": [
-                "{{CHILD}} noticed a small hero near the entrance.",
-                "They put on their invisible justice and vanished.",
-                "\"This Imagination Stories is full of surprises!\""
+                "A moment of focus: {{CHILD}} concentrated on flying with careful hands.",
+                "The obstacle responded beautifully to their gentle touch.",
+                "\"You have a natural talent for this,\" {{MOTHER}} said warmly."
             ],
-            "illustrationHint": "Page 6: Setup: {{CHILD}} working with cape.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 6: Introduction — {{CHILD}} discovering the Superhero Training world. Unique scene 6 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "superhero-training-6"
         },
         {
             "id": "superhero-training-7",
             "text": [
-                "Step 7 of the plan was to look for the cape.",
-                "The sky turned into a swirl of hero colors.",
-                "\"This Imagination Stories is full of surprises!\""
+                "\"Can I try dodging next?\" {{CHILD}} asked eagerly.",
+                "{{MOTHER}} showed them the technique step by step.",
+                "Slow at first, then smoother, then almost graceful."
             ],
-            "illustrationHint": "Page 7: Setup: {{CHILD}} working with mask.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 7: Introduction — {{CHILD}} discovering the Superhero Training world. Unique scene 7 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "superhero-training-7"
         },
         {
             "id": "superhero-training-8",
             "text": [
-                "\"I can't wait to see the mask!\" {{CHILD}} cheered.",
-                "They had to solve the riddle of the cape.",
-                "\"This Imagination Stories is full of surprises!\""
+                "The grappling hook was trickier than expected.",
+                "{{CHILD}} bit their lower lip in concentration.",
+                "\"Take your time — there's no rush,\" reminded {{MOTHER}}."
             ],
-            "illustrationHint": "Page 8: Setup: {{CHILD}} working with flying.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 8: Introduction — {{CHILD}} discovering the Superhero Training world. Unique scene 8 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "superhero-training-8"
         },
         {
             "id": "superhero-training-9",
             "text": [
-                "The air was filled with the scent of flying.",
-                "A map pointed toward the hidden strength.",
-                "\"This Imagination Stories is full of surprises!\""
+                "Something unexpected happened — the signal did something surprising!",
+                "\"Whoa! Did you see that?\" {{CHILD}} jumped with excitement.",
+                "Even {{MOTHER}} looked impressed by the unexpected discovery."
             ],
-            "illustrationHint": "Page 9: Setup: {{CHILD}} working with strength.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 9: Introduction — {{CHILD}} discovering the Superhero Training world. Unique scene 9 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "superhero-training-9"
         },
         {
             "id": "superhero-training-10",
             "text": [
-                "They found a map that showed the way to the strength.",
-                "Suddenly, the cape began to glow with magic!",
-                "\"This Imagination Stories is full of surprises!\""
+                "By the end of the first session, {{CHILD}} had learned so much.",
+                "The superhero academy felt like a second home already.",
+                "\"Can we come back tomorrow?\" {{CHILD}} asked hopefully."
             ],
-            "illustrationHint": "Page 10: Setup: {{CHILD}} working with justice.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 10: Introduction — {{CHILD}} discovering the Superhero Training world. Unique scene 10 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "superhero-training-10"
         },
         {
             "id": "superhero-training-11",
             "text": [
-                "Look at that cape! It's bigger than I thought!",
-                "The world of superhero training was opening up.",
-                "The adventure was just beginning in the mask."
+                "The second session started with a review of what {{CHILD}} already knew.",
+                "Jumping came more naturally now.",
+                "\"Your muscle memory is building,\" {{MOTHER}} observed."
             ],
-            "illustrationHint": "Page 11: Discovery: {{CHILD}} finding hero.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 11: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 11 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "superhero-training-11"
         },
         {
             "id": "superhero-training-12",
             "text": [
-                "{{CHILD}} discovered a hidden path made of justice.",
-                "The world of superhero training was opening up.",
-                "\"Let's use our magic cape powers!\""
+                "{{CHILD}} wanted to explore the cape in a new way.",
+                "\"What happens if I try climbing instead?\" they wondered aloud.",
+                "The result was surprising and delightful!"
             ],
-            "illustrationHint": "Page 12: Discovery: {{CHILD}} finding cape.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 12: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 12 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "superhero-training-12"
         },
         {
             "id": "superhero-training-13",
             "text": [
-                "Wait, is that a hero peeking through the mask?",
-                "The world of superhero training was opening up.",
-                "\"I wish I could live in the justice forever!\""
+                "A challenge appeared: combining flying with lifting at the same time.",
+                "{{CHILD}}'s brain had to think about two things at once.",
+                "\"It's like patting your head and rubbing your tummy!\" they laughed."
             ],
-            "illustrationHint": "Page 13: Discovery: {{CHILD}} finding mask.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 13: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 13 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "superhero-training-13"
         },
         {
             "id": "superhero-training-14",
             "text": [
-                "They found a mysterious flying sitting on a stone.",
-                "The world of superhero training was opening up.",
-                "\"Anything is possible in ${theme.id}!\""
+                "{{CHILD}} discovered a secret about the mask.",
+                "When they tried running more gently, the mask responded much better.",
+                "\"Everything works better with a gentle touch,\" {{CHILD}} realized."
             ],
-            "illustrationHint": "Page 14: Discovery: {{CHILD}} finding flying.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 14: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 14 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "superhero-training-14"
         },
         {
             "id": "superhero-training-15",
             "text": [
-                "\"Look at how the strength shines!\" {{CHILD}} exclaimed.",
-                "The world of superhero training was opening up.",
-                "\"We are the heroes of this hero story!\""
+                "The shield and the training course were used together for the first time.",
+                "{{CHILD}} created something they'd never seen before.",
+                "\"I made this! All by myself!\" they beamed with pride."
             ],
-            "illustrationHint": "Page 15: Discovery: {{CHILD}} finding strength.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 15: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 15 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "superhero-training-15"
         },
         {
             "id": "superhero-training-16",
             "text": [
-                "Each step revealed more about the magic of cape.",
-                "The world of superhero training was opening up.",
-                "The adventure was just beginning in the mask."
+                "\"Let me show {{FATHER}} what I learned!\" {{CHILD}} said at dinner.",
+                "A mini demonstration right there at the table.",
+                "{{FATHER}} clapped and said, \"That's incredibly impressive!\"\""
             ],
-            "illustrationHint": "Page 16: Discovery: {{CHILD}} finding justice.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 16: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 16 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "superhero-training-16"
         },
         {
             "id": "superhero-training-17",
             "text": [
-                "{{CHILD}} used a magnifying glass to see the mask.",
-                "The world of superhero training was opening up.",
-                "\"Let's use our magic cape powers!\""
+                "Practice at home became part of {{CHILD}}'s daily routine.",
+                "Ten minutes every day — sometimes fifteen when it was extra fun.",
+                "Consistency turned hesitation into confidence."
             ],
-            "illustrationHint": "Page 17: Discovery: {{CHILD}} finding hero.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 17: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 17 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "superhero-training-17"
         },
         {
             "id": "superhero-training-18",
             "text": [
-                "\"The justice here is so colorful!\" they said.",
-                "The world of superhero training was opening up.",
-                "\"I wish I could live in the justice forever!\""
+                "A book from the library showed experts doing the same thing.",
+                "{{CHILD}} studied the pictures and tried to copy the techniques.",
+                "\"Even pros started as beginners,\" they said to themselves."
             ],
-            "illustrationHint": "Page 18: Discovery: {{CHILD}} finding cape.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 18: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 18 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "superhero-training-18"
         },
         {
             "id": "superhero-training-19",
             "text": [
-                "They followed a trail of hero into the deep flying.",
-                "The world of superhero training was opening up.",
-                "\"Anything is possible in ${theme.id}!\""
+                "Something clicked today — a skill that was hard became easy.",
+                "{{CHILD}} repeated it four times just to make sure it wasn't a fluke.",
+                "Not a fluke. A breakthrough. The feeling was incredible."
             ],
-            "illustrationHint": "Page 19: Discovery: {{CHILD}} finding mask.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 19: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 19 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "superhero-training-19"
         },
         {
             "id": "superhero-training-20",
             "text": [
-                "A friendly bird chirped from the top of the strength.",
-                "The world of superhero training was opening up.",
-                "\"We are the heroes of this hero story!\""
+                "\"I think I'm ready for something bigger,\" {{CHILD}} told {{MOTHER}}.",
+                "The sparkle in their eyes showed they meant it.",
+                "\"Then let's make it happen,\" {{MOTHER}} agreed with a smile."
             ],
-            "illustrationHint": "Page 20: Discovery: {{CHILD}} finding flying.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 20: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 20 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "superhero-training-20"
         },
         {
             "id": "superhero-training-21",
             "text": [
-                "Oh no! The path to the cape was blocked!",
-                "\"Remember,\" said {{FATHER}}, \"Responsibility is the key.\"",
-                "\"We must find the secret of the flying!\""
+                "The advanced challenge was right in front of {{CHILD}}.",
+                "A bigger project that required everything they'd learned.",
+                "\"This looks harder than anything I've tried before,\" they admitted."
             ],
-            "illustrationHint": "Page 21: Challenge: {{CHILD}} overcoming an obstacle involving strength.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 21: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 21 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "superhero-training-21"
         },
         {
             "id": "superhero-training-22",
             "text": [
-                "How will we ever move this heavy mask?",
-                "\"Remember,\" said {{FATHER}}, \"Responsibility is the key.\"",
-                "They jumped onto a floating mask."
+                "Step one went smoothly — confidence from practice shone through.",
+                "But step two was different. The power ring didn't cooperate.",
+                "\"Come on, work with me,\" {{CHILD}} muttered, trying again."
             ],
-            "illustrationHint": "Page 22: Challenge: {{CHILD}} overcoming an obstacle involving justice.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 22: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 22 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "superhero-training-22"
         },
         {
             "id": "superhero-training-23",
             "text": [
-                "The flying started to spin faster and faster!",
-                "\"Remember,\" said {{FATHER}}, \"Responsibility is the key.\"",
-                "A friendly strength led the way to the palace."
+                "Frustration crept in like an unwelcome visitor.",
+                "Three attempts, three mistakes, three sighs.",
+                "{{CHILD}} put down the obstacle and stared at the ceiling."
             ],
-            "illustrationHint": "Page 23: Challenge: {{CHILD}} overcoming an obstacle involving hero.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 23: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 23 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "superhero-training-23"
         },
         {
             "id": "superhero-training-24",
             "text": [
-                "{{CHILD}} had to hold onto the strength very tightly.",
-                "\"Remember,\" said {{FATHER}}, \"Responsibility is the key.\"",
-                "\"Hold onto the mask very tightly!\""
+                "\"Remember,\" said {{FATHER}}, \"Bravery is what gets you through.\"",
+                "{{CHILD}} took three deep breaths, finding calm.",
+                "\"Okay. Let me think about this differently.\""
             ],
-            "illustrationHint": "Page 24: Challenge: {{CHILD}} overcoming an obstacle involving cape.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 24: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 24 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "superhero-training-24"
         },
         {
             "id": "superhero-training-25",
             "text": [
-                "\"We need to solve this justice puzzle,\" said {{FATHER}}.",
-                "\"Remember,\" said {{FATHER}}, \"Responsibility is the key.\"",
-                "They soared high above the flying clouds."
+                "A new approach! Instead of forcing it, {{CHILD}} went slowly.",
+                "Breaking the problem into tiny, manageable pieces.",
+                "The first small piece worked perfectly."
             ],
-            "illustrationHint": "Page 25: Challenge: {{CHILD}} overcoming an obstacle involving mask.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 25: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 25 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "superhero-training-25"
         },
         {
             "id": "superhero-training-26",
             "text": [
-                "It was time to use all their Responsibility skills.",
-                "\"Remember,\" said {{FATHER}}, \"Responsibility is the key.\"",
-                "They put on their invisible justice and vanished."
+                "\"One piece at a time. One small step at a time,\" {{CHILD}} repeated.",
+                "The second piece fell into place. Then the third.",
+                "Momentum built like a gentle snowball rolling downhill."
             ],
-            "illustrationHint": "Page 26: Challenge: {{CHILD}} overcoming an obstacle involving flying.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 26: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 26 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "superhero-training-26"
         },
         {
             "id": "superhero-training-27",
             "text": [
-                "The hero was being a bit stubborn today.",
-                "\"Remember,\" said {{FATHER}}, \"Responsibility is the key.\"",
-                "The sky turned into a swirl of hero colors."
+                "A wobble on step seven threatened to undo everything.",
+                "But {{CHILD}} caught it in time — quick thinking saved the project!",
+                "\"That was close!\" they exhaled with relief."
             ],
-            "illustrationHint": "Page 27: Challenge: {{CHILD}} overcoming an obstacle involving strength.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 27: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 27 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "superhero-training-27"
         },
         {
             "id": "superhero-training-28",
             "text": [
-                "{{CHILD}} tried to balance the cape on their head.",
-                "\"Remember,\" said {{FATHER}}, \"Responsibility is the key.\"",
-                "They had to solve the riddle of the cape."
+                "\"You didn't panic,\" {{MOTHER}} observed from the doorway.",
+                "\"That's the sign of someone who truly understands bravery.\"",
+                "{{CHILD}} continued, more determined than ever."
             ],
-            "illustrationHint": "Page 28: Challenge: {{CHILD}} overcoming an obstacle involving justice.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 28: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 28 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "superhero-training-28"
         },
         {
             "id": "superhero-training-29",
             "text": [
-                "\"Whew, that mask is tricky!\" they laughed.",
-                "\"Remember,\" said {{FATHER}}, \"Responsibility is the key.\"",
-                "A map pointed toward the hidden strength."
+                "The hardest part was here — the moment that tested everything.",
+                "Hands steady, breath held, focus sharp as a laser.",
+                "{{CHILD}} gave it every ounce of effort they had."
             ],
-            "illustrationHint": "Page 29: Challenge: {{CHILD}} overcoming an obstacle involving hero.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 29: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 29 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "superhero-training-29"
         },
         {
             "id": "superhero-training-30",
             "text": [
-                "The flying was higher than they expected.",
-                "\"Remember,\" said {{FATHER}}, \"Responsibility is the key.\"",
-                "Suddenly, the cape began to glow with magic!"
+                "And then... success! The challenge was CONQUERED!",
+                "\"I DID IT! I actually DID IT!\" {{CHILD}} leaped up and cheered.",
+                "{{MOTHER}} and {{FATHER}} wrapped them in the biggest hug."
             ],
-            "illustrationHint": "Page 30: Challenge: {{CHILD}} overcoming an obstacle involving cape.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 30: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 30 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "superhero-training-30"
         },
         {
             "id": "superhero-training-31",
             "text": [
-                "Oh no! The path to the cape was blocked!",
-                "\"Remember,\" said {{FATHER}}, \"Responsibility is the key.\"",
-                "\"We must find the secret of the flying!\""
+                "The finished project sat before {{CHILD}} — real and beautiful.",
+                "Every challenge, every frustration had led to this moment.",
+                "\"It's even better than I imagined,\" they whispered."
             ],
-            "illustrationHint": "Page 31: Challenge: {{CHILD}} overcoming an obstacle involving mask.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 31: Triumph — {{CHILD}} celebrating success and growth. Unique scene 31 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "superhero-training-31"
         },
         {
             "id": "superhero-training-32",
             "text": [
-                "How will we ever move this heavy mask?",
-                "\"Remember,\" said {{FATHER}}, \"Responsibility is the key.\"",
-                "They jumped onto a floating mask."
+                "{{CHILD}} wanted to share their achievement with everyone.",
+                "Friends, family, even the neighbors were invited to see.",
+                "\"Look what bravery helped me create!\""
             ],
-            "illustrationHint": "Page 32: Challenge: {{CHILD}} overcoming an obstacle involving flying.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 32: Triumph — {{CHILD}} celebrating success and growth. Unique scene 32 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "superhero-training-32"
         },
         {
             "id": "superhero-training-33",
             "text": [
-                "The flying started to spin faster and faster!",
-                "\"Remember,\" said {{FATHER}}, \"Responsibility is the key.\"",
-                "A friendly strength led the way to the palace."
+                "\"You should be incredibly proud,\" {{FATHER}} said at dinner.",
+                "\"Not just of the result, but of how you got there.\"",
+                "{{CHILD}} thought about the journey — every up and every down."
             ],
-            "illustrationHint": "Page 33: Challenge: {{CHILD}} overcoming an obstacle involving strength.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 33: Triumph — {{CHILD}} celebrating success and growth. Unique scene 33 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "superhero-training-33"
         },
         {
             "id": "superhero-training-34",
             "text": [
-                "{{CHILD}} had to hold onto the strength very tightly.",
-                "\"Remember,\" said {{FATHER}}, \"Responsibility is the key.\"",
-                "\"Hold onto the mask very tightly!\""
+                "A special presentation was arranged for the family.",
+                "{{CHILD}} explained each step, each challenge, each victory.",
+                "The audience of loved ones listened with shining eyes."
             ],
-            "illustrationHint": "Page 34: Challenge: {{CHILD}} overcoming an obstacle involving justice.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 34: Triumph — {{CHILD}} celebrating success and growth. Unique scene 34 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "superhero-training-34"
         },
         {
             "id": "superhero-training-35",
             "text": [
-                "\"We need to solve this justice puzzle,\" said {{FATHER}}.",
-                "\"Remember,\" said {{FATHER}}, \"Responsibility is the key.\"",
-                "They soared high above the flying clouds."
+                "\"What was the hardest moment?\" asked {{FATHER}}.",
+                "\"When I wanted to quit but didn't,\" {{CHILD}} answered quietly.",
+                "That answer earned nods of deep respect from everyone."
             ],
-            "illustrationHint": "Page 35: Challenge: {{CHILD}} overcoming an obstacle involving hero.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 35: Triumph — {{CHILD}} celebrating success and growth. Unique scene 35 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "superhero-training-35"
         },
         {
             "id": "superhero-training-36",
             "text": [
-                "Success! The cape is finally working!",
-                "The superhero training adventure was a huge success.",
-                "The adventure was just beginning in the mask."
+                "{{CHILD}} decided to help someone else learn too.",
+                "Teaching felt different — it deepened their own understanding.",
+                "\"The best way to grow is to help others grow,\" they realized."
             ],
-            "illustrationHint": "Page 36: Success: {{CHILD}} celebrating Responsibility with cape.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 36: Triumph — {{CHILD}} celebrating success and growth. Unique scene 36 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "superhero-training-36"
         },
         {
             "id": "superhero-training-37",
             "text": [
-                "{{CHILD}} mastered the use of the mask!",
-                "The superhero training adventure was a huge success.",
-                "\"Let's use our magic cape powers!\""
+                "A moment of reflection: looking at where they started vs. now.",
+                "The difference was remarkable — night and day.",
+                "\"I didn't know I could do all this,\" {{CHILD}} said in wonder."
             ],
-            "illustrationHint": "Page 37: Success: {{CHILD}} celebrating Responsibility with mask.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 37: Triumph — {{CHILD}} celebrating success and growth. Unique scene 37 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "superhero-training-37"
         },
         {
             "id": "superhero-training-38",
             "text": [
-                "A magical glow came from the flying.",
-                "The superhero training adventure was a huge success.",
-                "\"I wish I could live in the justice forever!\""
+                "The 🦸 became {{CHILD}}'s special symbol.",
+                "It represented their journey, their challenge, their triumph.",
+                "\"Whenever I see 🦸, I'll remember what I can do.\""
             ],
-            "illustrationHint": "Page 38: Success: {{CHILD}} celebrating Responsibility with flying.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 38: Triumph — {{CHILD}} celebrating success and growth. Unique scene 38 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "superhero-training-38"
         },
         {
             "id": "superhero-training-39",
             "text": [
-                "The strength turned into a shower of stars!",
-                "The superhero training adventure was a huge success.",
-                "\"Anything is possible in ${theme.id}!\""
+                "Celebrating wasn't about bragging — it was about gratitude.",
+                "\"Thank you for believing in me,\" {{CHILD}} told {{MOTHER}} and {{FATHER}}.",
+                "\"We always believed. You just needed to believe in yourself.\""
             ],
-            "illustrationHint": "Page 39: Success: {{CHILD}} celebrating Responsibility with strength.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 39: Triumph — {{CHILD}} celebrating success and growth. Unique scene 39 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "superhero-training-39"
         },
         {
             "id": "superhero-training-40",
             "text": [
-                "Everyone was proud of the justice work.",
-                "The superhero training adventure was a huge success.",
-                "\"We are the heroes of this hero story!\""
+                "The evening ended with quiet pride and a full heart.",
+                "Not everything in life would be this manageable — but bravery?",
+                "That would carry {{CHILD}} through anything."
             ],
-            "illustrationHint": "Page 40: Success: {{CHILD}} celebrating Responsibility with justice.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 40: Triumph — {{CHILD}} celebrating success and growth. Unique scene 40 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "superhero-training-40"
         },
         {
             "id": "superhero-training-41",
             "text": [
-                "\"You showed so much Responsibility,\" said {{MOTHER}}.",
-                "The superhero training adventure was a huge success.",
-                "The adventure was just beginning in the mask."
+                "Bath time was extra peaceful tonight.",
+                "{{CHILD}} thought about everything they'd learned.",
+                "Water swirled around them like the flow of the whole day."
             ],
-            "illustrationHint": "Page 41: Success: {{CHILD}} celebrating Responsibility with hero.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 41: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 41 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "superhero-training-41"
         },
         {
             "id": "superhero-training-42",
             "text": [
-                "The hero looked beautiful in the end.",
-                "The superhero training adventure was a huge success.",
-                "\"Let's use our magic cape powers!\""
+                "In clean pajamas, {{CHILD}} sat on the bed thoughtfully.",
+                "The superhero academy experience had changed something inside them.",
+                "They felt bigger, not in size, but in spirit."
             ],
-            "illustrationHint": "Page 42: Success: {{CHILD}} celebrating Responsibility with cape.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 42: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 42 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "superhero-training-42"
         },
         {
             "id": "superhero-training-43",
             "text": [
-                "They shared a giant 🦸 celebration.",
-                "The superhero training adventure was a huge success.",
-                "\"I wish I could live in the justice forever!\""
+                "\"What did superhero training teach you?\" {{MOTHER}} asked at tuck-in.",
+                "{{CHILD}} thought carefully before answering.",
+                "\"That bravery isn't just a word — it's a superpower.\""
             ],
-            "illustrationHint": "Page 43: Success: {{CHILD}} celebrating Responsibility with mask.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 43: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 43 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "superhero-training-43"
         },
         {
             "id": "superhero-training-44",
             "text": [
-                "Success! The cape is finally working!",
-                "The superhero training adventure was a huge success.",
-                "\"Anything is possible in ${theme.id}!\""
+                "{{MOTHER}} kissed {{CHILD}}'s forehead with all the love in the world.",
+                "\"Your superpower was inside you all along.\"",
+                "{{CHILD}} pulled the blanket up and smiled."
             ],
-            "illustrationHint": "Page 44: Success: {{CHILD}} celebrating Responsibility with flying.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 44: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 44 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "superhero-training-44"
         },
         {
             "id": "superhero-training-45",
             "text": [
-                "{{CHILD}} mastered the use of the mask!",
-                "The superhero training adventure was a huge success.",
-                "\"We are the heroes of this hero story!\""
+                "The moonlight painted silver patterns on the bedroom wall.",
+                "Somewhere in the house, evidence of today's adventure waited.",
+                "Ready for tomorrow's next chapter."
             ],
-            "illustrationHint": "Page 45: Success: {{CHILD}} celebrating Responsibility with strength.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 45: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 45 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "superhero-training-45"
         },
         {
             "id": "superhero-training-46",
             "text": [
-                "As the stars came out, they talked about the cape.",
-                "They put on their invisible justice and vanished.",
-                "{{CHILD}} gave a happy yawn after the superhero training day."
+                "Stars appeared one by one in the darkening sky.",
+                "Each one twinkled like a tiny cheerleader.",
+                "\"Even the stars are proud of you tonight,\" {{MOTHER}} whispered."
             ],
-            "illustrationHint": "Page 46: Sleepy: {{CHILD}} reflecting on the superhero training journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 46: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 46 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "superhero-training-46"
         },
         {
             "id": "superhero-training-47",
             "text": [
-                "{{CHILD}} realized that Responsibility is very important.",
-                "The sky turned into a swirl of hero colors.",
-                "{{CHILD}} gave a happy yawn after the superhero training day."
+                "Dreams arrived like gentle waves on a warm shore.",
+                "In the dream, {{CHILD}} was surrounded by everything they loved.",
+                "The superhero academy, the cape, the mask — all glowing with magic."
             ],
-            "illustrationHint": "Page 47: Sleepy: {{CHILD}} reflecting on the superhero training journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 47: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 47 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "superhero-training-47"
         },
         {
             "id": "superhero-training-48",
             "text": [
-                "They tucked the mask into its special box.",
-                "They had to solve the riddle of the cape.",
-                "{{CHILD}} gave a happy yawn after the superhero training day."
+                "Dream-{{CHILD}} was a master — confident, skilled, and kind.",
+                "Every challenge in the dream was met with bravery.",
+                "And every challenge was overcome, one by one."
             ],
-            "illustrationHint": "Page 48: Sleepy: {{CHILD}} reflecting on the superhero training journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 48: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 48 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "superhero-training-48"
         },
         {
             "id": "superhero-training-49",
             "text": [
-                "\"I loved the flying today,\" said {{CHILD}}.",
-                "A map pointed toward the hidden strength.",
-                "{{CHILD}} gave a happy yawn after the superhero training day."
+                "The dream world slowly darkened into the deepest, most restful sleep.",
+                "Outside, the night was peaceful and full of possibility.",
+                "Tomorrow would bring new adventures, new lessons, new growth."
             ],
-            "illustrationHint": "Page 49: Sleepy: {{CHILD}} reflecting on the superhero training journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 49: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 49 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "superhero-training-49"
         },
         {
             "id": "superhero-training-50",
             "text": [
-                "The strength was now a happy memory.",
-                "Suddenly, the cape began to glow with magic!",
-                "Goodnight, brave adventurer. See you in tomorrow's story!"
+                "The 🦸 glowed softly in {{CHILD}}'s imagination as they slept.",
+                "A symbol of what they'd learned, what they'd done, who they were becoming.",
+                "Goodnight, wonderful {{CHILD}}. You made today absolutely magical."
             ],
-            "illustrationHint": "Page 50: Sleepy: {{CHILD}} reflecting on the superhero training journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 50: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 50 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "superhero-training-50"
         }
     ]

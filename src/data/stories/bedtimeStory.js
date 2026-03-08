@@ -1,511 +1,511 @@
-// Refined story - {{CHILD}}'s Dreamy Night
+// {{CHILD}}'s Bedtime Story — Unique story with 50 distinct pages
 const story = {
     "id": "bedtime-story",
-    "title": "{{CHILD}}'s Dreamy Night",
+    "title": "{{CHILD}}'s Bedtime Story",
     "emoji": "💤",
     "theme": "Family Stories",
-    "lesson": "Rest",
-    "description": "Explore the wonders of bedtime story and learn about Rest!",
+    "lesson": "Security",
+    "description": "Snuggle up with {{CHILD}} for a cozy bedtime routine full of love and security!",
     "coverColor": "#2D2B55",
     "pages": [
         {
             "id": "bedtime-story-1",
             "text": [
-                "Today was the start of something amazing for {{CHILD}}.",
-                "They were going to explore the world of bedtime story!",
-                "\"Are you ready for the bedtime-story journey?\" asked {{MOTHER}}."
+                "The bedroom at night was filled with exciting possibilities.",
+                "{{CHILD}} looked around with wide, sparkling eyes.",
+                "\"Are you ready for the bedtime story adventure?\" asked {{MOTHER}}."
             ],
-            "illustrationHint": "Page 1: Opening scene: {{CHILD}} and family standing by a sign for \"bedtime story\".. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 1: Introduction — {{CHILD}} discovering the Bedtime Story world. Unique scene 1 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "bedtime-story-1"
         },
         {
             "id": "bedtime-story-2",
             "text": [
-                "Then, they checked the stars to make sure it was ready.",
-                "It was a perfect day for a family pajamas.",
-                "\"This Family Stories is full of surprises!\""
+                "Everything was set up and waiting — the pillow, the blanket, and more.",
+                "{{CHILD}} picked up the pillow and turned it over in their hands.",
+                "\"This is going to be the best day ever!\" they declared."
             ],
-            "illustrationHint": "Page 2: Setup: {{CHILD}} working with pajamas.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 2: Introduction — {{CHILD}} discovering the Bedtime Story world. Unique scene 2 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "bedtime-story-2"
         },
         {
             "id": "bedtime-story-3",
             "text": [
-                "{{CHILD}} put on their special pajamas gear.",
-                "They worked together to organize the moon.",
-                "\"This Family Stories is full of surprises!\""
+                "{{MOTHER}} explained how the teddy bear worked while {{CHILD}} listened carefully.",
+                "\"First, you need to understand the teddy bear before you use it.\"",
+                "{{CHILD}} nodded seriously, determined to learn everything."
             ],
-            "illustrationHint": "Page 3: Setup: {{CHILD}} working with blanket.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 3: Introduction — {{CHILD}} discovering the Bedtime Story world. Unique scene 3 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "bedtime-story-3"
         },
         {
             "id": "bedtime-story-4",
             "text": [
-                "\"Don't forget the blanket!\" called out {{MOTHER}}.",
-                "They found an old pajamas that brought back memories.",
-                "\"This Family Stories is full of surprises!\""
+                "The first step was snuggling — and {{CHILD}} gave it their best try.",
+                "It wasn't perfect, but it was a wonderful beginning.",
+                "\"Everyone starts exactly where you are right now,\" {{MOTHER}} encouraged."
             ],
-            "illustrationHint": "Page 4: Setup: {{CHILD}} working with stuffed animal.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 4: Introduction — {{CHILD}} discovering the Bedtime Story world. Unique scene 4 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "bedtime-story-4"
         },
         {
             "id": "bedtime-story-5",
             "text": [
-                "Everything felt so stuffed animal and new today.",
-                "{{CHILD}} gave the yawn a big, happy hug.",
-                "\"This Family Stories is full of surprises!\""
+                "{{CHILD}} noticed how the nightlight connected to the storybook.",
+                "\"Oh! I see how they work together!\" they exclaimed.",
+                "Understanding one thing opened a door to understanding another."
             ],
-            "illustrationHint": "Page 5: Setup: {{CHILD}} working with yawn.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 5: Introduction — {{CHILD}} discovering the Bedtime Story world. Unique scene 5 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "bedtime-story-5"
         },
         {
             "id": "bedtime-story-6",
             "text": [
-                "{{CHILD}} noticed a small yawn near the entrance.",
-                "Everyone gathered around the stars for a photo.",
-                "\"This Family Stories is full of surprises!\""
+                "A moment of focus: {{CHILD}} concentrated on reading with careful hands.",
+                "The pajamas responded beautifully to their gentle touch.",
+                "\"You have a natural talent for this,\" {{MOTHER}} said warmly."
             ],
-            "illustrationHint": "Page 6: Setup: {{CHILD}} working with moon.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 6: Introduction — {{CHILD}} discovering the Bedtime Story world. Unique scene 6 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "bedtime-story-6"
         },
         {
             "id": "bedtime-story-7",
             "text": [
-                "Step 7 of the plan was to look for the moon.",
-                "The house was filled with the scent of blanket.",
-                "\"This Family Stories is full of surprises!\""
+                "\"Can I try yawning next?\" {{CHILD}} asked eagerly.",
+                "{{MOTHER}} showed them the technique step by step.",
+                "Slow at first, then smoother, then almost graceful."
             ],
-            "illustrationHint": "Page 7: Setup: {{CHILD}} working with stars.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 7: Introduction — {{CHILD}} discovering the Bedtime Story world. Unique scene 7 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "bedtime-story-7"
         },
         {
             "id": "bedtime-story-8",
             "text": [
-                "\"I can't wait to see the stars!\" {{CHILD}} cheered.",
-                "\"Let's put the stars here,\" suggested {{FATHER}}.",
-                "\"This Family Stories is full of surprises!\""
+                "The moon was trickier than expected.",
+                "{{CHILD}} bit their lower lip in concentration.",
+                "\"Take your time — there's no rush,\" reminded {{MOTHER}}."
             ],
-            "illustrationHint": "Page 8: Setup: {{CHILD}} working with pajamas.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 8: Introduction — {{CHILD}} discovering the Bedtime Story world. Unique scene 8 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "bedtime-story-8"
         },
         {
             "id": "bedtime-story-9",
             "text": [
-                "The air was filled with the scent of pajamas.",
-                "They sat down to look at the stuffed animal together.",
-                "\"This Family Stories is full of surprises!\""
+                "Something unexpected happened — the stars did something surprising!",
+                "\"Whoa! Did you see that?\" {{CHILD}} jumped with excitement.",
+                "Even {{MOTHER}} looked impressed by the unexpected discovery."
             ],
-            "illustrationHint": "Page 9: Setup: {{CHILD}} working with blanket.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 9: Introduction — {{CHILD}} discovering the Bedtime Story world. Unique scene 9 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "bedtime-story-9"
         },
         {
             "id": "bedtime-story-10",
             "text": [
-                "They found a map that showed the way to the blanket.",
-                "{{CHILD}} and {{MOTHER}} shared a warm smile.",
-                "\"This Family Stories is full of surprises!\""
+                "By the end of the first session, {{CHILD}} had learned so much.",
+                "The bedroom at night felt like a second home already.",
+                "\"Can we come back tomorrow?\" {{CHILD}} asked hopefully."
             ],
-            "illustrationHint": "Page 10: Setup: {{CHILD}} working with stuffed animal.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 10: Introduction — {{CHILD}} discovering the Bedtime Story world. Unique scene 10 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "bedtime-story-10"
         },
         {
             "id": "bedtime-story-11",
             "text": [
-                "Look at that moon! It's bigger than I thought!",
-                "The world of bedtime story was opening up.",
-                "\"This yawn is the best part of home.\""
+                "The second session started with a review of what {{CHILD}} already knew.",
+                "Snuggling came more naturally now.",
+                "\"Your muscle memory is building,\" {{MOTHER}} observed."
             ],
-            "illustrationHint": "Page 11: Discovery: {{CHILD}} finding yawn.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 11: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 11 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "bedtime-story-11"
         },
         {
             "id": "bedtime-story-12",
             "text": [
-                "{{CHILD}} discovered a hidden path made of stuffed animal.",
-                "The world of bedtime story was opening up.",
-                "Being together makes every blanket special."
+                "{{CHILD}} wanted to explore the pillow in a new way.",
+                "\"What happens if I try whispering instead?\" they wondered aloud.",
+                "The result was surprising and delightful!"
             ],
-            "illustrationHint": "Page 12: Discovery: {{CHILD}} finding moon.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 12: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 12 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "bedtime-story-12"
         },
         {
             "id": "bedtime-story-13",
             "text": [
-                "Wait, is that a yawn peeking through the stars?",
-                "The world of bedtime story was opening up.",
-                "\"Thank you for helping with the stuffed animal,\" said {{MOTHER}}."
+                "A challenge appeared: combining reading with dreaming at the same time.",
+                "{{CHILD}}'s brain had to think about two things at once.",
+                "\"It's like patting your head and rubbing your tummy!\" they laughed."
             ],
-            "illustrationHint": "Page 13: Discovery: {{CHILD}} finding stars.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 13: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 13 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "bedtime-story-13"
         },
         {
             "id": "bedtime-story-14",
             "text": [
-                "They found a mysterious pajamas sitting on a stone.",
-                "The world of bedtime story was opening up.",
-                "They felt safe and loved on this moon day."
+                "{{CHILD}} discovered a secret about the blanket.",
+                "When they tried listening more gently, the blanket responded much better.",
+                "\"Everything works better with a gentle touch,\" {{CHILD}} realized."
             ],
-            "illustrationHint": "Page 14: Discovery: {{CHILD}} finding pajamas.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 14: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 14 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "bedtime-story-14"
         },
         {
             "id": "bedtime-story-15",
             "text": [
-                "\"Look at how the blanket shines!\" {{CHILD}} exclaimed.",
-                "The world of bedtime story was opening up.",
-                "\"I love my family so much,\" thought {{CHILD}}."
+                "The teddy bear and the nightlight were used together for the first time.",
+                "{{CHILD}} created something they'd never seen before.",
+                "\"I made this! All by myself!\" they beamed with pride."
             ],
-            "illustrationHint": "Page 15: Discovery: {{CHILD}} finding blanket.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 15: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 15 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "bedtime-story-15"
         },
         {
             "id": "bedtime-story-16",
             "text": [
-                "Each step revealed more about the magic of moon.",
-                "The world of bedtime story was opening up.",
-                "\"This yawn is the best part of home.\""
+                "\"Let me show {{FATHER}} what I learned!\" {{CHILD}} said at dinner.",
+                "A mini demonstration right there at the table.",
+                "{{FATHER}} clapped and said, \"That's incredibly impressive!\"\""
             ],
-            "illustrationHint": "Page 16: Discovery: {{CHILD}} finding stuffed animal.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 16: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 16 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "bedtime-story-16"
         },
         {
             "id": "bedtime-story-17",
             "text": [
-                "{{CHILD}} used a magnifying glass to see the stars.",
-                "The world of bedtime story was opening up.",
-                "Being together makes every blanket special."
+                "Practice at home became part of {{CHILD}}'s daily routine.",
+                "Ten minutes every day — sometimes fifteen when it was extra fun.",
+                "Consistency turned hesitation into confidence."
             ],
-            "illustrationHint": "Page 17: Discovery: {{CHILD}} finding yawn.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 17: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 17 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "bedtime-story-17"
         },
         {
             "id": "bedtime-story-18",
             "text": [
-                "\"The stuffed animal here is so colorful!\" they said.",
-                "The world of bedtime story was opening up.",
-                "\"Thank you for helping with the stuffed animal,\" said {{MOTHER}}."
+                "A book from the library showed experts doing the same thing.",
+                "{{CHILD}} studied the pictures and tried to copy the techniques.",
+                "\"Even pros started as beginners,\" they said to themselves."
             ],
-            "illustrationHint": "Page 18: Discovery: {{CHILD}} finding moon.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 18: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 18 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "bedtime-story-18"
         },
         {
             "id": "bedtime-story-19",
             "text": [
-                "They followed a trail of yawn into the deep pajamas.",
-                "The world of bedtime story was opening up.",
-                "They felt safe and loved on this moon day."
+                "Something clicked today — a skill that was hard became easy.",
+                "{{CHILD}} repeated it four times just to make sure it wasn't a fluke.",
+                "Not a fluke. A breakthrough. The feeling was incredible."
             ],
-            "illustrationHint": "Page 19: Discovery: {{CHILD}} finding stars.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 19: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 19 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "bedtime-story-19"
         },
         {
             "id": "bedtime-story-20",
             "text": [
-                "A friendly bird chirped from the top of the blanket.",
-                "The world of bedtime story was opening up.",
-                "\"I love my family so much,\" thought {{CHILD}}."
+                "\"I think I'm ready for something bigger,\" {{CHILD}} told {{MOTHER}}.",
+                "The sparkle in their eyes showed they meant it.",
+                "\"Then let's make it happen,\" {{MOTHER}} agreed with a smile."
             ],
-            "illustrationHint": "Page 20: Discovery: {{CHILD}} finding pajamas.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 20: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 20 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "bedtime-story-20"
         },
         {
             "id": "bedtime-story-21",
             "text": [
-                "Oh no! The path to the moon was blocked!",
-                "\"Remember,\" said {{FATHER}}, \"Rest is the key.\"",
-                "They sang a song while holding the moon."
+                "The advanced challenge was right in front of {{CHILD}}.",
+                "A bigger project that required everything they'd learned.",
+                "\"This looks harder than anything I've tried before,\" they admitted."
             ],
-            "illustrationHint": "Page 21: Challenge: {{CHILD}} overcoming an obstacle involving blanket.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 21: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 21 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "bedtime-story-21"
         },
         {
             "id": "bedtime-story-22",
             "text": [
-                "How will we ever move this heavy stars?",
-                "\"Remember,\" said {{FATHER}}, \"Rest is the key.\"",
-                "It was a perfect day for a family pajamas."
+                "Step one went smoothly — confidence from practice shone through.",
+                "But step two was different. The storybook didn't cooperate.",
+                "\"Come on, work with me,\" {{CHILD}} muttered, trying again."
             ],
-            "illustrationHint": "Page 22: Challenge: {{CHILD}} overcoming an obstacle involving stuffed animal.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 22: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 22 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "bedtime-story-22"
         },
         {
             "id": "bedtime-story-23",
             "text": [
-                "The pajamas started to spin faster and faster!",
-                "\"Remember,\" said {{FATHER}}, \"Rest is the key.\"",
-                "They worked together to organize the moon."
+                "Frustration crept in like an unwelcome visitor.",
+                "Three attempts, three mistakes, three sighs.",
+                "{{CHILD}} put down the pajamas and stared at the ceiling."
             ],
-            "illustrationHint": "Page 23: Challenge: {{CHILD}} overcoming an obstacle involving yawn.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 23: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 23 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "bedtime-story-23"
         },
         {
             "id": "bedtime-story-24",
             "text": [
-                "{{CHILD}} had to hold onto the blanket very tightly.",
-                "\"Remember,\" said {{FATHER}}, \"Rest is the key.\"",
-                "They found an old pajamas that brought back memories."
+                "\"Remember,\" said {{FATHER}}, \"Security is what gets you through.\"",
+                "{{CHILD}} took three deep breaths, finding calm.",
+                "\"Okay. Let me think about this differently.\""
             ],
-            "illustrationHint": "Page 24: Challenge: {{CHILD}} overcoming an obstacle involving moon.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 24: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 24 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "bedtime-story-24"
         },
         {
             "id": "bedtime-story-25",
             "text": [
-                "\"We need to solve this stuffed animal puzzle,\" said {{FATHER}}.",
-                "\"Remember,\" said {{FATHER}}, \"Rest is the key.\"",
-                "{{CHILD}} gave the yawn a big, happy hug."
+                "A new approach! Instead of forcing it, {{CHILD}} went slowly.",
+                "Breaking the problem into tiny, manageable pieces.",
+                "The first small piece worked perfectly."
             ],
-            "illustrationHint": "Page 25: Challenge: {{CHILD}} overcoming an obstacle involving stars.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 25: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 25 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "bedtime-story-25"
         },
         {
             "id": "bedtime-story-26",
             "text": [
-                "It was time to use all their Rest skills.",
-                "\"Remember,\" said {{FATHER}}, \"Rest is the key.\"",
-                "Everyone gathered around the stars for a photo."
+                "\"One piece at a time. One small step at a time,\" {{CHILD}} repeated.",
+                "The second piece fell into place. Then the third.",
+                "Momentum built like a gentle snowball rolling downhill."
             ],
-            "illustrationHint": "Page 26: Challenge: {{CHILD}} overcoming an obstacle involving pajamas.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 26: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 26 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "bedtime-story-26"
         },
         {
             "id": "bedtime-story-27",
             "text": [
-                "The yawn was being a bit stubborn today.",
-                "\"Remember,\" said {{FATHER}}, \"Rest is the key.\"",
-                "The house was filled with the scent of blanket."
+                "A wobble on step seven threatened to undo everything.",
+                "But {{CHILD}} caught it in time — quick thinking saved the project!",
+                "\"That was close!\" they exhaled with relief."
             ],
-            "illustrationHint": "Page 27: Challenge: {{CHILD}} overcoming an obstacle involving blanket.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 27: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 27 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "bedtime-story-27"
         },
         {
             "id": "bedtime-story-28",
             "text": [
-                "{{CHILD}} tried to balance the moon on their head.",
-                "\"Remember,\" said {{FATHER}}, \"Rest is the key.\"",
-                "\"Let's put the stars here,\" suggested {{FATHER}}."
+                "\"You didn't panic,\" {{MOTHER}} observed from the doorway.",
+                "\"That's the sign of someone who truly understands security.\"",
+                "{{CHILD}} continued, more determined than ever."
             ],
-            "illustrationHint": "Page 28: Challenge: {{CHILD}} overcoming an obstacle involving stuffed animal.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 28: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 28 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "bedtime-story-28"
         },
         {
             "id": "bedtime-story-29",
             "text": [
-                "\"Whew, that stars is tricky!\" they laughed.",
-                "\"Remember,\" said {{FATHER}}, \"Rest is the key.\"",
-                "They sat down to look at the stuffed animal together."
+                "The hardest part was here — the moment that tested everything.",
+                "Hands steady, breath held, focus sharp as a laser.",
+                "{{CHILD}} gave it every ounce of effort they had."
             ],
-            "illustrationHint": "Page 29: Challenge: {{CHILD}} overcoming an obstacle involving yawn.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 29: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 29 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "bedtime-story-29"
         },
         {
             "id": "bedtime-story-30",
             "text": [
-                "The pajamas was higher than they expected.",
-                "\"Remember,\" said {{FATHER}}, \"Rest is the key.\"",
-                "{{CHILD}} and {{MOTHER}} shared a warm smile."
+                "And then... success! The challenge was CONQUERED!",
+                "\"I DID IT! I actually DID IT!\" {{CHILD}} leaped up and cheered.",
+                "{{MOTHER}} and {{FATHER}} wrapped them in the biggest hug."
             ],
-            "illustrationHint": "Page 30: Challenge: {{CHILD}} overcoming an obstacle involving moon.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 30: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 30 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "bedtime-story-30"
         },
         {
             "id": "bedtime-story-31",
             "text": [
-                "Oh no! The path to the moon was blocked!",
-                "\"Remember,\" said {{FATHER}}, \"Rest is the key.\"",
-                "They sang a song while holding the moon."
+                "The finished project sat before {{CHILD}} — real and beautiful.",
+                "Every challenge, every frustration had led to this moment.",
+                "\"It's even better than I imagined,\" they whispered."
             ],
-            "illustrationHint": "Page 31: Challenge: {{CHILD}} overcoming an obstacle involving stars.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 31: Triumph — {{CHILD}} celebrating success and growth. Unique scene 31 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "bedtime-story-31"
         },
         {
             "id": "bedtime-story-32",
             "text": [
-                "How will we ever move this heavy stars?",
-                "\"Remember,\" said {{FATHER}}, \"Rest is the key.\"",
-                "It was a perfect day for a family pajamas."
+                "{{CHILD}} wanted to share their achievement with everyone.",
+                "Friends, family, even the neighbors were invited to see.",
+                "\"Look what security helped me create!\""
             ],
-            "illustrationHint": "Page 32: Challenge: {{CHILD}} overcoming an obstacle involving pajamas.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 32: Triumph — {{CHILD}} celebrating success and growth. Unique scene 32 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "bedtime-story-32"
         },
         {
             "id": "bedtime-story-33",
             "text": [
-                "The pajamas started to spin faster and faster!",
-                "\"Remember,\" said {{FATHER}}, \"Rest is the key.\"",
-                "They worked together to organize the moon."
+                "\"You should be incredibly proud,\" {{FATHER}} said at dinner.",
+                "\"Not just of the result, but of how you got there.\"",
+                "{{CHILD}} thought about the journey — every up and every down."
             ],
-            "illustrationHint": "Page 33: Challenge: {{CHILD}} overcoming an obstacle involving blanket.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 33: Triumph — {{CHILD}} celebrating success and growth. Unique scene 33 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "bedtime-story-33"
         },
         {
             "id": "bedtime-story-34",
             "text": [
-                "{{CHILD}} had to hold onto the blanket very tightly.",
-                "\"Remember,\" said {{FATHER}}, \"Rest is the key.\"",
-                "They found an old pajamas that brought back memories."
+                "A special presentation was arranged for the family.",
+                "{{CHILD}} explained each step, each challenge, each victory.",
+                "The audience of loved ones listened with shining eyes."
             ],
-            "illustrationHint": "Page 34: Challenge: {{CHILD}} overcoming an obstacle involving stuffed animal.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 34: Triumph — {{CHILD}} celebrating success and growth. Unique scene 34 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "bedtime-story-34"
         },
         {
             "id": "bedtime-story-35",
             "text": [
-                "\"We need to solve this stuffed animal puzzle,\" said {{FATHER}}.",
-                "\"Remember,\" said {{FATHER}}, \"Rest is the key.\"",
-                "{{CHILD}} gave the yawn a big, happy hug."
+                "\"What was the hardest moment?\" asked {{FATHER}}.",
+                "\"When I wanted to quit but didn't,\" {{CHILD}} answered quietly.",
+                "That answer earned nods of deep respect from everyone."
             ],
-            "illustrationHint": "Page 35: Challenge: {{CHILD}} overcoming an obstacle involving yawn.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 35: Triumph — {{CHILD}} celebrating success and growth. Unique scene 35 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "bedtime-story-35"
         },
         {
             "id": "bedtime-story-36",
             "text": [
-                "Success! The moon is finally working!",
-                "The bedtime story adventure was a huge success.",
-                "\"This yawn is the best part of home.\""
+                "{{CHILD}} decided to help someone else learn too.",
+                "Teaching felt different — it deepened their own understanding.",
+                "\"The best way to grow is to help others grow,\" they realized."
             ],
-            "illustrationHint": "Page 36: Success: {{CHILD}} celebrating Rest with moon.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 36: Triumph — {{CHILD}} celebrating success and growth. Unique scene 36 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "bedtime-story-36"
         },
         {
             "id": "bedtime-story-37",
             "text": [
-                "{{CHILD}} mastered the use of the stars!",
-                "The bedtime story adventure was a huge success.",
-                "Being together makes every blanket special."
+                "A moment of reflection: looking at where they started vs. now.",
+                "The difference was remarkable — night and day.",
+                "\"I didn't know I could do all this,\" {{CHILD}} said in wonder."
             ],
-            "illustrationHint": "Page 37: Success: {{CHILD}} celebrating Rest with stars.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 37: Triumph — {{CHILD}} celebrating success and growth. Unique scene 37 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "bedtime-story-37"
         },
         {
             "id": "bedtime-story-38",
             "text": [
-                "A magical glow came from the pajamas.",
-                "The bedtime story adventure was a huge success.",
-                "\"Thank you for helping with the stuffed animal,\" said {{MOTHER}}."
+                "The 💤 became {{CHILD}}'s special symbol.",
+                "It represented their journey, their challenge, their triumph.",
+                "\"Whenever I see 💤, I'll remember what I can do.\""
             ],
-            "illustrationHint": "Page 38: Success: {{CHILD}} celebrating Rest with pajamas.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 38: Triumph — {{CHILD}} celebrating success and growth. Unique scene 38 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "bedtime-story-38"
         },
         {
             "id": "bedtime-story-39",
             "text": [
-                "The blanket turned into a shower of stars!",
-                "The bedtime story adventure was a huge success.",
-                "They felt safe and loved on this moon day."
+                "Celebrating wasn't about bragging — it was about gratitude.",
+                "\"Thank you for believing in me,\" {{CHILD}} told {{MOTHER}} and {{FATHER}}.",
+                "\"We always believed. You just needed to believe in yourself.\""
             ],
-            "illustrationHint": "Page 39: Success: {{CHILD}} celebrating Rest with blanket.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 39: Triumph — {{CHILD}} celebrating success and growth. Unique scene 39 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "bedtime-story-39"
         },
         {
             "id": "bedtime-story-40",
             "text": [
-                "Everyone was proud of the stuffed animal work.",
-                "The bedtime story adventure was a huge success.",
-                "\"I love my family so much,\" thought {{CHILD}}."
+                "The evening ended with quiet pride and a full heart.",
+                "Not everything in life would be this manageable — but security?",
+                "That would carry {{CHILD}} through anything."
             ],
-            "illustrationHint": "Page 40: Success: {{CHILD}} celebrating Rest with stuffed animal.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 40: Triumph — {{CHILD}} celebrating success and growth. Unique scene 40 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "bedtime-story-40"
         },
         {
             "id": "bedtime-story-41",
             "text": [
-                "\"You showed so much Rest,\" said {{MOTHER}}.",
-                "The bedtime story adventure was a huge success.",
-                "\"This yawn is the best part of home.\""
+                "Bath time was extra peaceful tonight.",
+                "{{CHILD}} thought about everything they'd learned.",
+                "Water swirled around them like the flow of the whole day."
             ],
-            "illustrationHint": "Page 41: Success: {{CHILD}} celebrating Rest with yawn.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 41: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 41 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "bedtime-story-41"
         },
         {
             "id": "bedtime-story-42",
             "text": [
-                "The yawn looked beautiful in the end.",
-                "The bedtime story adventure was a huge success.",
-                "Being together makes every blanket special."
+                "In clean pajamas, {{CHILD}} sat on the bed thoughtfully.",
+                "The bedroom at night experience had changed something inside them.",
+                "They felt bigger, not in size, but in spirit."
             ],
-            "illustrationHint": "Page 42: Success: {{CHILD}} celebrating Rest with moon.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 42: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 42 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "bedtime-story-42"
         },
         {
             "id": "bedtime-story-43",
             "text": [
-                "They shared a giant 💤 celebration.",
-                "The bedtime story adventure was a huge success.",
-                "\"Thank you for helping with the stuffed animal,\" said {{MOTHER}}."
+                "\"What did bedtime story teach you?\" {{MOTHER}} asked at tuck-in.",
+                "{{CHILD}} thought carefully before answering.",
+                "\"That security isn't just a word — it's a superpower.\""
             ],
-            "illustrationHint": "Page 43: Success: {{CHILD}} celebrating Rest with stars.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 43: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 43 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "bedtime-story-43"
         },
         {
             "id": "bedtime-story-44",
             "text": [
-                "Success! The moon is finally working!",
-                "The bedtime story adventure was a huge success.",
-                "They felt safe and loved on this moon day."
+                "{{MOTHER}} kissed {{CHILD}}'s forehead with all the love in the world.",
+                "\"Your superpower was inside you all along.\"",
+                "{{CHILD}} pulled the blanket up and smiled."
             ],
-            "illustrationHint": "Page 44: Success: {{CHILD}} celebrating Rest with pajamas.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 44: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 44 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "bedtime-story-44"
         },
         {
             "id": "bedtime-story-45",
             "text": [
-                "{{CHILD}} mastered the use of the stars!",
-                "The bedtime story adventure was a huge success.",
-                "\"I love my family so much,\" thought {{CHILD}}."
+                "The moonlight painted silver patterns on the bedroom wall.",
+                "Somewhere in the house, evidence of today's adventure waited.",
+                "Ready for tomorrow's next chapter."
             ],
-            "illustrationHint": "Page 45: Success: {{CHILD}} celebrating Rest with blanket.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 45: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 45 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "bedtime-story-45"
         },
         {
             "id": "bedtime-story-46",
             "text": [
-                "As the stars came out, they talked about the moon.",
-                "Everyone gathered around the stars for a photo.",
-                "{{CHILD}} gave a happy yawn after the bedtime story day."
+                "Stars appeared one by one in the darkening sky.",
+                "Each one twinkled like a tiny cheerleader.",
+                "\"Even the stars are proud of you tonight,\" {{MOTHER}} whispered."
             ],
-            "illustrationHint": "Page 46: Sleepy: {{CHILD}} reflecting on the bedtime story journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 46: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 46 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "bedtime-story-46"
         },
         {
             "id": "bedtime-story-47",
             "text": [
-                "{{CHILD}} realized that Rest is very important.",
-                "The house was filled with the scent of blanket.",
-                "{{CHILD}} gave a happy yawn after the bedtime story day."
+                "Dreams arrived like gentle waves on a warm shore.",
+                "In the dream, {{CHILD}} was surrounded by everything they loved.",
+                "The bedroom at night, the pillow, the blanket — all glowing with magic."
             ],
-            "illustrationHint": "Page 47: Sleepy: {{CHILD}} reflecting on the bedtime story journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 47: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 47 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "bedtime-story-47"
         },
         {
             "id": "bedtime-story-48",
             "text": [
-                "They tucked the stars into its special box.",
-                "\"Let's put the stars here,\" suggested {{FATHER}}.",
-                "{{CHILD}} gave a happy yawn after the bedtime story day."
+                "Dream-{{CHILD}} was a master — confident, skilled, and kind.",
+                "Every challenge in the dream was met with security.",
+                "And every challenge was overcome, one by one."
             ],
-            "illustrationHint": "Page 48: Sleepy: {{CHILD}} reflecting on the bedtime story journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 48: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 48 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "bedtime-story-48"
         },
         {
             "id": "bedtime-story-49",
             "text": [
-                "\"I loved the pajamas today,\" said {{CHILD}}.",
-                "They sat down to look at the stuffed animal together.",
-                "{{CHILD}} gave a happy yawn after the bedtime story day."
+                "The dream world slowly darkened into the deepest, most restful sleep.",
+                "Outside, the night was peaceful and full of possibility.",
+                "Tomorrow would bring new adventures, new lessons, new growth."
             ],
-            "illustrationHint": "Page 49: Sleepy: {{CHILD}} reflecting on the bedtime story journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 49: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 49 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "bedtime-story-49"
         },
         {
             "id": "bedtime-story-50",
             "text": [
-                "The blanket was now a happy memory.",
-                "{{CHILD}} and {{MOTHER}} shared a warm smile.",
-                "Goodnight, brave adventurer. See you in tomorrow's story!"
+                "The 💤 glowed softly in {{CHILD}}'s imagination as they slept.",
+                "A symbol of what they'd learned, what they'd done, who they were becoming.",
+                "Goodnight, wonderful {{CHILD}}. You made today absolutely magical."
             ],
-            "illustrationHint": "Page 50: Sleepy: {{CHILD}} reflecting on the bedtime story journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 50: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 50 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "bedtime-story-50"
         }
     ]

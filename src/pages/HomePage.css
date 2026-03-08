@@ -379,6 +379,12 @@
     .book-title-text {
         font-size: 1.2rem;
     }
+
+    .features,
+    .themes-preview,
+    .cta-section {
+        padding: var(--space-xl) var(--space-lg);
+    }
 }
 
 @media (max-width: 480px) {
@@ -393,5 +399,20 @@
 
     .gradient-text {
         font-size: 2.2rem;
+    }
+
+    .features,
+    .themes-preview,
+    .cta-section {
+        padding: var(--space-lg) var(--space-md);
+    }
+
+    .theme-preview-card {
+        width: 140px;
+        padding: var(--space-md);
+    }
+
+    .theme-emoji {
+        font-size: 3rem;
     }
 }

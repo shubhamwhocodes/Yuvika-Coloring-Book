@@ -1,511 +1,511 @@
-// Refined story - {{CHILD}}'s Pottery Class
+// {{CHILD}}'s Pottery Class — Unique story with 50 distinct pages
 const story = {
     "id": "pottery-class",
     "title": "{{CHILD}}'s Pottery Class",
     "emoji": "🏺",
     "theme": "Skill Stories",
-    "lesson": "Patience",
-    "description": "Explore the wonders of pottery class and learn about Patience!",
+    "lesson": "Creativity",
+    "description": "Join {{CHILD}} in a magical pottery class and discover the joy of creating with clay!",
     "coverColor": "#FF9F43",
     "pages": [
         {
             "id": "pottery-class-1",
             "text": [
-                "Today was the start of something amazing for {{CHILD}}.",
-                "They were going to explore the world of pottery class!",
-                "\"Are you ready for the pottery-class journey?\" asked {{MOTHER}}."
+                "The pottery studio was filled with exciting possibilities.",
+                "{{CHILD}} looked around with wide, sparkling eyes.",
+                "\"Are you ready for the pottery class adventure?\" asked {{MOTHER}}."
             ],
-            "illustrationHint": "Page 1: Opening scene: {{CHILD}} and family standing by a sign for \"pottery class\".. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 1: Introduction — {{CHILD}} discovering the Pottery Class world. Unique scene 1 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "pottery-class-1"
         },
         {
             "id": "pottery-class-2",
             "text": [
-                "Then, they checked the wheel to make sure it was ready.",
-                "{{CHILD}} focused hard on the shaping.",
-                "\"This Skill Stories is full of surprises!\""
+                "Everything was set up and waiting — the clay, the wheel, and more.",
+                "{{CHILD}} picked up the clay and turned it over in their hands.",
+                "\"This is going to be the best day ever!\" they declared."
             ],
-            "illustrationHint": "Page 2: Setup: {{CHILD}} working with shaping.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 2: Introduction — {{CHILD}} discovering the Pottery Class world. Unique scene 2 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "pottery-class-2"
         },
         {
             "id": "pottery-class-3",
             "text": [
-                "{{CHILD}} put on their special shaping gear.",
-                "\"Watch how I handle the muddy hands,\" said the teacher.",
-                "\"This Skill Stories is full of surprises!\""
+                "{{MOTHER}} explained how the glaze worked while {{CHILD}} listened carefully.",
+                "\"First, you need to understand the glaze before you use it.\"",
+                "{{CHILD}} nodded seriously, determined to learn everything."
             ],
-            "illustrationHint": "Page 3: Setup: {{CHILD}} working with muddy hands.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 3: Introduction — {{CHILD}} discovering the Pottery Class world. Unique scene 3 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "pottery-class-3"
         },
         {
             "id": "pottery-class-4",
             "text": [
-                "\"Don't forget the muddy hands!\" called out {{MOTHER}}.",
-                "{{MOTHER}} gave an encouraging nod from the corner.",
-                "\"This Skill Stories is full of surprises!\""
+                "The first step was shaping — and {{CHILD}} gave it their best try.",
+                "It wasn't perfect, but it was a wonderful beginning.",
+                "\"Everyone starts exactly where you are right now,\" {{MOTHER}} encouraged."
             ],
-            "illustrationHint": "Page 4: Setup: {{CHILD}} working with kiln.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 4: Introduction — {{CHILD}} discovering the Pottery Class world. Unique scene 4 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "pottery-class-4"
         },
         {
             "id": "pottery-class-5",
             "text": [
-                "Everything felt so kiln and new today.",
-                "The workspace was filled with the sound of shaping.",
-                "\"This Skill Stories is full of surprises!\""
+                "{{CHILD}} noticed how the kiln connected to the brush.",
+                "\"Oh! I see how they work together!\" they exclaimed.",
+                "Understanding one thing opened a door to understanding another."
             ],
-            "illustrationHint": "Page 5: Setup: {{CHILD}} working with glaze.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 5: Introduction — {{CHILD}} discovering the Pottery Class world. Unique scene 5 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "pottery-class-5"
         },
         {
             "id": "pottery-class-6",
             "text": [
-                "{{CHILD}} noticed a small glaze near the entrance.",
-                "The kiln was starting to take shape.",
-                "\"This Skill Stories is full of surprises!\""
+                "A moment of focus: {{CHILD}} concentrated on molding with careful hands.",
+                "The bowl responded beautifully to their gentle touch.",
+                "\"You have a natural talent for this,\" {{MOTHER}} said warmly."
             ],
-            "illustrationHint": "Page 6: Setup: {{CHILD}} working with clay.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 6: Introduction — {{CHILD}} discovering the Pottery Class world. Unique scene 6 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "pottery-class-6"
         },
         {
             "id": "pottery-class-7",
             "text": [
-                "Step 7 of the plan was to look for the clay.",
-                "They double-checked the wheel for any mistakes.",
-                "\"This Skill Stories is full of surprises!\""
+                "\"Can I try painting next?\" {{CHILD}} asked eagerly.",
+                "{{MOTHER}} showed them the technique step by step.",
+                "Slow at first, then smoother, then almost graceful."
             ],
-            "illustrationHint": "Page 7: Setup: {{CHILD}} working with wheel.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 7: Introduction — {{CHILD}} discovering the Pottery Class world. Unique scene 7 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "pottery-class-7"
         },
         {
             "id": "pottery-class-8",
             "text": [
-                "\"I can't wait to see the wheel!\" {{CHILD}} cheered.",
-                "They cleared the glaze to make more room.",
-                "\"This Skill Stories is full of surprises!\""
+                "The vase was trickier than expected.",
+                "{{CHILD}} bit their lower lip in concentration.",
+                "\"Take your time — there's no rush,\" reminded {{MOTHER}}."
             ],
-            "illustrationHint": "Page 8: Setup: {{CHILD}} working with shaping.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 8: Introduction — {{CHILD}} discovering the Pottery Class world. Unique scene 8 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "pottery-class-8"
         },
         {
             "id": "pottery-class-9",
             "text": [
-                "The air was filled with the scent of shaping.",
-                "Each movement with the clay felt more natural.",
-                "\"This Skill Stories is full of surprises!\""
+                "Something unexpected happened — the sculpture did something surprising!",
+                "\"Whoa! Did you see that?\" {{CHILD}} jumped with excitement.",
+                "Even {{MOTHER}} looked impressed by the unexpected discovery."
             ],
-            "illustrationHint": "Page 9: Setup: {{CHILD}} working with muddy hands.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 9: Introduction — {{CHILD}} discovering the Pottery Class world. Unique scene 9 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "pottery-class-9"
         },
         {
             "id": "pottery-class-10",
             "text": [
-                "They found a map that showed the way to the muddy hands.",
-                "It was time to practice the clay kỹ thuật.",
-                "\"This Skill Stories is full of surprises!\""
+                "By the end of the first session, {{CHILD}} had learned so much.",
+                "The pottery studio felt like a second home already.",
+                "\"Can we come back tomorrow?\" {{CHILD}} asked hopefully."
             ],
-            "illustrationHint": "Page 10: Setup: {{CHILD}} working with kiln.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 10: Introduction — {{CHILD}} discovering the Pottery Class world. Unique scene 10 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "pottery-class-10"
         },
         {
             "id": "pottery-class-11",
             "text": [
-                "Look at that clay! It's bigger than I thought!",
-                "The world of pottery class was opening up.",
-                "\"I'm getting better at this muddy hands!\""
+                "The second session started with a review of what {{CHILD}} already knew.",
+                "Shaping came more naturally now.",
+                "\"Your muscle memory is building,\" {{MOTHER}} observed."
             ],
-            "illustrationHint": "Page 11: Discovery: {{CHILD}} finding glaze.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 11: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 11 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "pottery-class-11"
         },
         {
             "id": "pottery-class-12",
             "text": [
-                "{{CHILD}} discovered a hidden path made of kiln.",
-                "The world of pottery class was opening up.",
-                "Learning a new skill is such a fun kiln adventure."
+                "{{CHILD}} wanted to explore the clay in a new way.",
+                "\"What happens if I try glazing instead?\" they wondered aloud.",
+                "The result was surprising and delightful!"
             ],
-            "illustrationHint": "Page 12: Discovery: {{CHILD}} finding clay.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 12: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 12 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "pottery-class-12"
         },
         {
             "id": "pottery-class-13",
             "text": [
-                "Wait, is that a glaze peeking through the wheel?",
-                "The world of pottery class was opening up.",
-                "\"Focus and patience are key,\" they remembered."
+                "A challenge appeared: combining molding with turning at the same time.",
+                "{{CHILD}}'s brain had to think about two things at once.",
+                "\"It's like patting your head and rubbing your tummy!\" they laughed."
             ],
-            "illustrationHint": "Page 13: Discovery: {{CHILD}} finding wheel.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 13: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 13 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "pottery-class-13"
         },
         {
             "id": "pottery-class-14",
             "text": [
-                "They found a mysterious shaping sitting on a stone.",
-                "The world of pottery class was opening up.",
-                "\"Can we try using the glaze next?\" asked {{CHILD}}."
+                "{{CHILD}} discovered a secret about the wheel.",
+                "When they tried smoothing more gently, the wheel responded much better.",
+                "\"Everything works better with a gentle touch,\" {{CHILD}} realized."
             ],
-            "illustrationHint": "Page 14: Discovery: {{CHILD}} finding shaping.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 14: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 14 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "pottery-class-14"
         },
         {
             "id": "pottery-class-15",
             "text": [
-                "\"Look at how the muddy hands shines!\" {{CHILD}} exclaimed.",
-                "The world of pottery class was opening up.",
-                "The clay looked professional and beautiful."
+                "The glaze and the kiln were used together for the first time.",
+                "{{CHILD}} created something they'd never seen before.",
+                "\"I made this! All by myself!\" they beamed with pride."
             ],
-            "illustrationHint": "Page 15: Discovery: {{CHILD}} finding muddy hands.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 15: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 15 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "pottery-class-15"
         },
         {
             "id": "pottery-class-16",
             "text": [
-                "Each step revealed more about the magic of clay.",
-                "The world of pottery class was opening up.",
-                "\"I'm getting better at this muddy hands!\""
+                "\"Let me show {{FATHER}} what I learned!\" {{CHILD}} said at dinner.",
+                "A mini demonstration right there at the table.",
+                "{{FATHER}} clapped and said, \"That's incredibly impressive!\"\""
             ],
-            "illustrationHint": "Page 16: Discovery: {{CHILD}} finding kiln.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 16: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 16 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "pottery-class-16"
         },
         {
             "id": "pottery-class-17",
             "text": [
-                "{{CHILD}} used a magnifying glass to see the wheel.",
-                "The world of pottery class was opening up.",
-                "Learning a new skill is such a fun kiln adventure."
+                "Practice at home became part of {{CHILD}}'s daily routine.",
+                "Ten minutes every day — sometimes fifteen when it was extra fun.",
+                "Consistency turned hesitation into confidence."
             ],
-            "illustrationHint": "Page 17: Discovery: {{CHILD}} finding glaze.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 17: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 17 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "pottery-class-17"
         },
         {
             "id": "pottery-class-18",
             "text": [
-                "\"The kiln here is so colorful!\" they said.",
-                "The world of pottery class was opening up.",
-                "\"Focus and patience are key,\" they remembered."
+                "A book from the library showed experts doing the same thing.",
+                "{{CHILD}} studied the pictures and tried to copy the techniques.",
+                "\"Even pros started as beginners,\" they said to themselves."
             ],
-            "illustrationHint": "Page 18: Discovery: {{CHILD}} finding clay.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 18: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 18 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "pottery-class-18"
         },
         {
             "id": "pottery-class-19",
             "text": [
-                "They followed a trail of glaze into the deep shaping.",
-                "The world of pottery class was opening up.",
-                "\"Can we try using the glaze next?\" asked {{CHILD}}."
+                "Something clicked today — a skill that was hard became easy.",
+                "{{CHILD}} repeated it four times just to make sure it wasn't a fluke.",
+                "Not a fluke. A breakthrough. The feeling was incredible."
             ],
-            "illustrationHint": "Page 19: Discovery: {{CHILD}} finding wheel.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 19: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 19 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "pottery-class-19"
         },
         {
             "id": "pottery-class-20",
             "text": [
-                "A friendly bird chirped from the top of the muddy hands.",
-                "The world of pottery class was opening up.",
-                "The clay looked professional and beautiful."
+                "\"I think I'm ready for something bigger,\" {{CHILD}} told {{MOTHER}}.",
+                "The sparkle in their eyes showed they meant it.",
+                "\"Then let's make it happen,\" {{MOTHER}} agreed with a smile."
             ],
-            "illustrationHint": "Page 20: Discovery: {{CHILD}} finding shaping.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 20: Exploration — {{CHILD}} exploring new skills and knowledge. Unique scene 20 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "pottery-class-20"
         },
         {
             "id": "pottery-class-21",
             "text": [
-                "Oh no! The path to the clay was blocked!",
-                "\"Remember,\" said {{FATHER}}, \"Patience is the key.\"",
-                "They set up the wheel very carefully."
+                "The advanced challenge was right in front of {{CHILD}}.",
+                "A bigger project that required everything they'd learned.",
+                "\"This looks harder than anything I've tried before,\" they admitted."
             ],
-            "illustrationHint": "Page 21: Challenge: {{CHILD}} overcoming an obstacle involving muddy hands.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 21: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 21 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "pottery-class-21"
         },
         {
             "id": "pottery-class-22",
             "text": [
-                "How will we ever move this heavy wheel?",
-                "\"Remember,\" said {{FATHER}}, \"Patience is the key.\"",
-                "{{CHILD}} focused hard on the shaping."
+                "Step one went smoothly — confidence from practice shone through.",
+                "But step two was different. The brush didn't cooperate.",
+                "\"Come on, work with me,\" {{CHILD}} muttered, trying again."
             ],
-            "illustrationHint": "Page 22: Challenge: {{CHILD}} overcoming an obstacle involving kiln.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 22: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 22 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "pottery-class-22"
         },
         {
             "id": "pottery-class-23",
             "text": [
-                "The shaping started to spin faster and faster!",
-                "\"Remember,\" said {{FATHER}}, \"Patience is the key.\"",
-                "\"Watch how I handle the muddy hands,\" said the teacher."
+                "Frustration crept in like an unwelcome visitor.",
+                "Three attempts, three mistakes, three sighs.",
+                "{{CHILD}} put down the bowl and stared at the ceiling."
             ],
-            "illustrationHint": "Page 23: Challenge: {{CHILD}} overcoming an obstacle involving glaze.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 23: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 23 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "pottery-class-23"
         },
         {
             "id": "pottery-class-24",
             "text": [
-                "{{CHILD}} had to hold onto the muddy hands very tightly.",
-                "\"Remember,\" said {{FATHER}}, \"Patience is the key.\"",
-                "{{MOTHER}} gave an encouraging nod from the corner."
+                "\"Remember,\" said {{FATHER}}, \"Creativity is what gets you through.\"",
+                "{{CHILD}} took three deep breaths, finding calm.",
+                "\"Okay. Let me think about this differently.\""
             ],
-            "illustrationHint": "Page 24: Challenge: {{CHILD}} overcoming an obstacle involving clay.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 24: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 24 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "pottery-class-24"
         },
         {
             "id": "pottery-class-25",
             "text": [
-                "\"We need to solve this kiln puzzle,\" said {{FATHER}}.",
-                "\"Remember,\" said {{FATHER}}, \"Patience is the key.\"",
-                "The workspace was filled with the sound of shaping."
+                "A new approach! Instead of forcing it, {{CHILD}} went slowly.",
+                "Breaking the problem into tiny, manageable pieces.",
+                "The first small piece worked perfectly."
             ],
-            "illustrationHint": "Page 25: Challenge: {{CHILD}} overcoming an obstacle involving wheel.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 25: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 25 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "pottery-class-25"
         },
         {
             "id": "pottery-class-26",
             "text": [
-                "It was time to use all their Patience skills.",
-                "\"Remember,\" said {{FATHER}}, \"Patience is the key.\"",
-                "The kiln was starting to take shape."
+                "\"One piece at a time. One small step at a time,\" {{CHILD}} repeated.",
+                "The second piece fell into place. Then the third.",
+                "Momentum built like a gentle snowball rolling downhill."
             ],
-            "illustrationHint": "Page 26: Challenge: {{CHILD}} overcoming an obstacle involving shaping.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 26: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 26 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "pottery-class-26"
         },
         {
             "id": "pottery-class-27",
             "text": [
-                "The glaze was being a bit stubborn today.",
-                "\"Remember,\" said {{FATHER}}, \"Patience is the key.\"",
-                "They double-checked the wheel for any mistakes."
+                "A wobble on step seven threatened to undo everything.",
+                "But {{CHILD}} caught it in time — quick thinking saved the project!",
+                "\"That was close!\" they exhaled with relief."
             ],
-            "illustrationHint": "Page 27: Challenge: {{CHILD}} overcoming an obstacle involving muddy hands.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 27: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 27 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "pottery-class-27"
         },
         {
             "id": "pottery-class-28",
             "text": [
-                "{{CHILD}} tried to balance the clay on their head.",
-                "\"Remember,\" said {{FATHER}}, \"Patience is the key.\"",
-                "They cleared the glaze to make more room."
+                "\"You didn't panic,\" {{MOTHER}} observed from the doorway.",
+                "\"That's the sign of someone who truly understands creativity.\"",
+                "{{CHILD}} continued, more determined than ever."
             ],
-            "illustrationHint": "Page 28: Challenge: {{CHILD}} overcoming an obstacle involving kiln.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 28: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 28 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "pottery-class-28"
         },
         {
             "id": "pottery-class-29",
             "text": [
-                "\"Whew, that wheel is tricky!\" they laughed.",
-                "\"Remember,\" said {{FATHER}}, \"Patience is the key.\"",
-                "Each movement with the clay felt more natural."
+                "The hardest part was here — the moment that tested everything.",
+                "Hands steady, breath held, focus sharp as a laser.",
+                "{{CHILD}} gave it every ounce of effort they had."
             ],
-            "illustrationHint": "Page 29: Challenge: {{CHILD}} overcoming an obstacle involving glaze.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 29: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 29 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "pottery-class-29"
         },
         {
             "id": "pottery-class-30",
             "text": [
-                "The shaping was higher than they expected.",
-                "\"Remember,\" said {{FATHER}}, \"Patience is the key.\"",
-                "It was time to practice the clay kỹ thuật."
+                "And then... success! The challenge was CONQUERED!",
+                "\"I DID IT! I actually DID IT!\" {{CHILD}} leaped up and cheered.",
+                "{{MOTHER}} and {{FATHER}} wrapped them in the biggest hug."
             ],
-            "illustrationHint": "Page 30: Challenge: {{CHILD}} overcoming an obstacle involving clay.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 30: Challenge — {{CHILD}} facing and overcoming a difficult challenge. Unique scene 30 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "pottery-class-30"
         },
         {
             "id": "pottery-class-31",
             "text": [
-                "Oh no! The path to the clay was blocked!",
-                "\"Remember,\" said {{FATHER}}, \"Patience is the key.\"",
-                "They set up the wheel very carefully."
+                "The finished project sat before {{CHILD}} — real and beautiful.",
+                "Every challenge, every frustration had led to this moment.",
+                "\"It's even better than I imagined,\" they whispered."
             ],
-            "illustrationHint": "Page 31: Challenge: {{CHILD}} overcoming an obstacle involving wheel.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 31: Triumph — {{CHILD}} celebrating success and growth. Unique scene 31 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "pottery-class-31"
         },
         {
             "id": "pottery-class-32",
             "text": [
-                "How will we ever move this heavy wheel?",
-                "\"Remember,\" said {{FATHER}}, \"Patience is the key.\"",
-                "{{CHILD}} focused hard on the shaping."
+                "{{CHILD}} wanted to share their achievement with everyone.",
+                "Friends, family, even the neighbors were invited to see.",
+                "\"Look what creativity helped me create!\""
             ],
-            "illustrationHint": "Page 32: Challenge: {{CHILD}} overcoming an obstacle involving shaping.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 32: Triumph — {{CHILD}} celebrating success and growth. Unique scene 32 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "pottery-class-32"
         },
         {
             "id": "pottery-class-33",
             "text": [
-                "The shaping started to spin faster and faster!",
-                "\"Remember,\" said {{FATHER}}, \"Patience is the key.\"",
-                "\"Watch how I handle the muddy hands,\" said the teacher."
+                "\"You should be incredibly proud,\" {{FATHER}} said at dinner.",
+                "\"Not just of the result, but of how you got there.\"",
+                "{{CHILD}} thought about the journey — every up and every down."
             ],
-            "illustrationHint": "Page 33: Challenge: {{CHILD}} overcoming an obstacle involving muddy hands.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 33: Triumph — {{CHILD}} celebrating success and growth. Unique scene 33 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "pottery-class-33"
         },
         {
             "id": "pottery-class-34",
             "text": [
-                "{{CHILD}} had to hold onto the muddy hands very tightly.",
-                "\"Remember,\" said {{FATHER}}, \"Patience is the key.\"",
-                "{{MOTHER}} gave an encouraging nod from the corner."
+                "A special presentation was arranged for the family.",
+                "{{CHILD}} explained each step, each challenge, each victory.",
+                "The audience of loved ones listened with shining eyes."
             ],
-            "illustrationHint": "Page 34: Challenge: {{CHILD}} overcoming an obstacle involving kiln.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 34: Triumph — {{CHILD}} celebrating success and growth. Unique scene 34 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "pottery-class-34"
         },
         {
             "id": "pottery-class-35",
             "text": [
-                "\"We need to solve this kiln puzzle,\" said {{FATHER}}.",
-                "\"Remember,\" said {{FATHER}}, \"Patience is the key.\"",
-                "The workspace was filled with the sound of shaping."
+                "\"What was the hardest moment?\" asked {{FATHER}}.",
+                "\"When I wanted to quit but didn't,\" {{CHILD}} answered quietly.",
+                "That answer earned nods of deep respect from everyone."
             ],
-            "illustrationHint": "Page 35: Challenge: {{CHILD}} overcoming an obstacle involving glaze.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 35: Triumph — {{CHILD}} celebrating success and growth. Unique scene 35 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "pottery-class-35"
         },
         {
             "id": "pottery-class-36",
             "text": [
-                "Success! The clay is finally working!",
-                "The pottery class adventure was a huge success.",
-                "\"I'm getting better at this muddy hands!\""
+                "{{CHILD}} decided to help someone else learn too.",
+                "Teaching felt different — it deepened their own understanding.",
+                "\"The best way to grow is to help others grow,\" they realized."
             ],
-            "illustrationHint": "Page 36: Success: {{CHILD}} celebrating Patience with clay.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 36: Triumph — {{CHILD}} celebrating success and growth. Unique scene 36 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "pottery-class-36"
         },
         {
             "id": "pottery-class-37",
             "text": [
-                "{{CHILD}} mastered the use of the wheel!",
-                "The pottery class adventure was a huge success.",
-                "Learning a new skill is such a fun kiln adventure."
+                "A moment of reflection: looking at where they started vs. now.",
+                "The difference was remarkable — night and day.",
+                "\"I didn't know I could do all this,\" {{CHILD}} said in wonder."
             ],
-            "illustrationHint": "Page 37: Success: {{CHILD}} celebrating Patience with wheel.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 37: Triumph — {{CHILD}} celebrating success and growth. Unique scene 37 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "pottery-class-37"
         },
         {
             "id": "pottery-class-38",
             "text": [
-                "A magical glow came from the shaping.",
-                "The pottery class adventure was a huge success.",
-                "\"Focus and patience are key,\" they remembered."
+                "The 🏺 became {{CHILD}}'s special symbol.",
+                "It represented their journey, their challenge, their triumph.",
+                "\"Whenever I see 🏺, I'll remember what I can do.\""
             ],
-            "illustrationHint": "Page 38: Success: {{CHILD}} celebrating Patience with shaping.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 38: Triumph — {{CHILD}} celebrating success and growth. Unique scene 38 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "pottery-class-38"
         },
         {
             "id": "pottery-class-39",
             "text": [
-                "The muddy hands turned into a shower of stars!",
-                "The pottery class adventure was a huge success.",
-                "\"Can we try using the glaze next?\" asked {{CHILD}}."
+                "Celebrating wasn't about bragging — it was about gratitude.",
+                "\"Thank you for believing in me,\" {{CHILD}} told {{MOTHER}} and {{FATHER}}.",
+                "\"We always believed. You just needed to believe in yourself.\""
             ],
-            "illustrationHint": "Page 39: Success: {{CHILD}} celebrating Patience with muddy hands.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 39: Triumph — {{CHILD}} celebrating success and growth. Unique scene 39 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "pottery-class-39"
         },
         {
             "id": "pottery-class-40",
             "text": [
-                "Everyone was proud of the kiln work.",
-                "The pottery class adventure was a huge success.",
-                "The clay looked professional and beautiful."
+                "The evening ended with quiet pride and a full heart.",
+                "Not everything in life would be this manageable — but creativity?",
+                "That would carry {{CHILD}} through anything."
             ],
-            "illustrationHint": "Page 40: Success: {{CHILD}} celebrating Patience with kiln.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 40: Triumph — {{CHILD}} celebrating success and growth. Unique scene 40 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "pottery-class-40"
         },
         {
             "id": "pottery-class-41",
             "text": [
-                "\"You showed so much Patience,\" said {{MOTHER}}.",
-                "The pottery class adventure was a huge success.",
-                "\"I'm getting better at this muddy hands!\""
+                "Bath time was extra peaceful tonight.",
+                "{{CHILD}} thought about everything they'd learned.",
+                "Water swirled around them like the flow of the whole day."
             ],
-            "illustrationHint": "Page 41: Success: {{CHILD}} celebrating Patience with glaze.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 41: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 41 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "pottery-class-41"
         },
         {
             "id": "pottery-class-42",
             "text": [
-                "The glaze looked beautiful in the end.",
-                "The pottery class adventure was a huge success.",
-                "Learning a new skill is such a fun kiln adventure."
+                "In clean pajamas, {{CHILD}} sat on the bed thoughtfully.",
+                "The pottery studio experience had changed something inside them.",
+                "They felt bigger, not in size, but in spirit."
             ],
-            "illustrationHint": "Page 42: Success: {{CHILD}} celebrating Patience with clay.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 42: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 42 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "pottery-class-42"
         },
         {
             "id": "pottery-class-43",
             "text": [
-                "They shared a giant 🏺 celebration.",
-                "The pottery class adventure was a huge success.",
-                "\"Focus and patience are key,\" they remembered."
+                "\"What did pottery class teach you?\" {{MOTHER}} asked at tuck-in.",
+                "{{CHILD}} thought carefully before answering.",
+                "\"That creativity isn't just a word — it's a superpower.\""
             ],
-            "illustrationHint": "Page 43: Success: {{CHILD}} celebrating Patience with wheel.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 43: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 43 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "pottery-class-43"
         },
         {
             "id": "pottery-class-44",
             "text": [
-                "Success! The clay is finally working!",
-                "The pottery class adventure was a huge success.",
-                "\"Can we try using the glaze next?\" asked {{CHILD}}."
+                "{{MOTHER}} kissed {{CHILD}}'s forehead with all the love in the world.",
+                "\"Your superpower was inside you all along.\"",
+                "{{CHILD}} pulled the blanket up and smiled."
             ],
-            "illustrationHint": "Page 44: Success: {{CHILD}} celebrating Patience with shaping.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 44: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 44 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "pottery-class-44"
         },
         {
             "id": "pottery-class-45",
             "text": [
-                "{{CHILD}} mastered the use of the wheel!",
-                "The pottery class adventure was a huge success.",
-                "The clay looked professional and beautiful."
+                "The moonlight painted silver patterns on the bedroom wall.",
+                "Somewhere in the house, evidence of today's adventure waited.",
+                "Ready for tomorrow's next chapter."
             ],
-            "illustrationHint": "Page 45: Success: {{CHILD}} celebrating Patience with muddy hands.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 45: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 45 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "pottery-class-45"
         },
         {
             "id": "pottery-class-46",
             "text": [
-                "As the stars came out, they talked about the clay.",
-                "The kiln was starting to take shape.",
-                "{{CHILD}} gave a happy yawn after the pottery class day."
+                "Stars appeared one by one in the darkening sky.",
+                "Each one twinkled like a tiny cheerleader.",
+                "\"Even the stars are proud of you tonight,\" {{MOTHER}} whispered."
             ],
-            "illustrationHint": "Page 46: Sleepy: {{CHILD}} reflecting on the pottery class journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 46: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 46 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "pottery-class-46"
         },
         {
             "id": "pottery-class-47",
             "text": [
-                "{{CHILD}} realized that Patience is very important.",
-                "They double-checked the wheel for any mistakes.",
-                "{{CHILD}} gave a happy yawn after the pottery class day."
+                "Dreams arrived like gentle waves on a warm shore.",
+                "In the dream, {{CHILD}} was surrounded by everything they loved.",
+                "The pottery studio, the clay, the wheel — all glowing with magic."
             ],
-            "illustrationHint": "Page 47: Sleepy: {{CHILD}} reflecting on the pottery class journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 47: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 47 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "pottery-class-47"
         },
         {
             "id": "pottery-class-48",
             "text": [
-                "They tucked the wheel into its special box.",
-                "They cleared the glaze to make more room.",
-                "{{CHILD}} gave a happy yawn after the pottery class day."
+                "Dream-{{CHILD}} was a master — confident, skilled, and kind.",
+                "Every challenge in the dream was met with creativity.",
+                "And every challenge was overcome, one by one."
             ],
-            "illustrationHint": "Page 48: Sleepy: {{CHILD}} reflecting on the pottery class journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 48: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 48 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "pottery-class-48"
         },
         {
             "id": "pottery-class-49",
             "text": [
-                "\"I loved the shaping today,\" said {{CHILD}}.",
-                "Each movement with the clay felt more natural.",
-                "{{CHILD}} gave a happy yawn after the pottery class day."
+                "The dream world slowly darkened into the deepest, most restful sleep.",
+                "Outside, the night was peaceful and full of possibility.",
+                "Tomorrow would bring new adventures, new lessons, new growth."
             ],
-            "illustrationHint": "Page 49: Sleepy: {{CHILD}} reflecting on the pottery class journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 49: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 49 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "pottery-class-49"
         },
         {
             "id": "pottery-class-50",
             "text": [
-                "The muddy hands was now a happy memory.",
-                "It was time to practice the clay kỹ thuật.",
-                "Goodnight, brave adventurer. See you in tomorrow's story!"
+                "The 🏺 glowed softly in {{CHILD}}'s imagination as they slept.",
+                "A symbol of what they'd learned, what they'd done, who they were becoming.",
+                "Goodnight, wonderful {{CHILD}}. You made today absolutely magical."
             ],
-            "illustrationHint": "Page 50: Sleepy: {{CHILD}} reflecting on the pottery class journey.. Cartoonish children's coloring book style, black outlines, no shading.",
+            "illustrationHint": "Page 50: Reflection — {{CHILD}} reflecting on the day and drifting off to sleep. Unique scene 50 of 50. Cartoonish children's coloring book style, black outlines, no shading.",
             "illustrationId": "pottery-class-50"
         }
     ]
