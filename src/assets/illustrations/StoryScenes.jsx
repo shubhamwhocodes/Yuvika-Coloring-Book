@@ -102,28 +102,33 @@ const SceneRandomizer = ({ children, pageNum }) => {
                 region.includes('father') ||
                 region.includes('mother') ||
                 region.includes('bg') ||
-                region.includes('sun');
+                region.includes('sun') ||
+                region.includes('wall') ||
+                region.includes('floor') ||
+                region.includes('sky') ||
+                region.includes('ground') ||
+                region.includes('bed') ||
+                region.includes('blanket') ||
+                region.includes('moon');
 
             if (!isProtected && pageNum > 1) {
-                // Group 50 pages into 5 phases + individual page variation
                 const phase = Math.floor((pageNum - 1) / 10) + 1;
                 const seed = `${region}_${pathContext}_${phase}_${pageNum}`;
 
                 const rHide = sRand(seed + "hide");
                 const rShiftX = sRand(seed + "X");
                 const rShiftY = sRand(seed + "Y");
+                const rRot = sRand(seed + "rot");
 
-                // 25% chance to hide background elements (not groups) to change density
-                if (rHide < 0.25 && element.type !== 'g') {
+                // 30% chance to hide non-essential background elements
+                if (rHide < 0.30 && element.type !== 'g') {
                     shouldRender = false;
                 } else {
-                    // Apply translation based on phase and page
-                    const shiftX = (rShiftX - 0.5) * 60; // -30 to +30px X shift
-                    const shiftY = (rShiftY - 0.5) * 15; // -7.5 to +7.5px Y shift
+                    const shiftX = (rShiftX - 0.5) * 100;
+                    const shiftY = (rShiftY - 0.5) * 50;
+                    const rotation = (rRot - 0.5) * 24;
                     const existingTransform = newProps.transform || "";
-
-                    // Carefully append translation to existing transform string
-                    newProps.transform = `${existingTransform} translate(${shiftX.toFixed(1)}, ${shiftY.toFixed(1)})`.trim();
+                    newProps.transform = `${existingTransform} translate(${shiftX.toFixed(1)}, ${shiftY.toFixed(1)}) rotate(${rotation.toFixed(1)})`.trim();
                 }
             }
         }
@@ -1291,22 +1296,260 @@ const allScenes = {
     ...imaginationScenes,
 };
 
+// ========== CATEGORY LOOKUP ==========
+const categoryMap = {};
+Object.keys(skillScenes).forEach(k => { categoryMap[k] = 'skill'; });
+Object.keys(familyScenes).forEach(k => { categoryMap[k] = 'family'; });
+Object.keys(learningScenes).forEach(k => { categoryMap[k] = 'learning'; });
+Object.keys(outdoorScenes).forEach(k => { categoryMap[k] = 'outdoor'; });
+Object.keys(imaginationScenes).forEach(k => { categoryMap[k] = 'imagination'; });
+
+// ========== NIGHT ROOM BASE ==========
+function NightRoomBase({ children }) {
+    return (
+        <svg viewBox="0 0 500 400" style={{ width: '100%', height: '100%' }}>
+            <rect x="0" y="0" width="500" height="400" fill="#2d3436" />
+            <path d="M 400 50 A 25 25 0 1 0 440 35 A 32 32 0 1 1 400 50 Z" style={fillableStyle('moon')} />
+            {[70, 140, 210, 300, 380, 450].map((sx, i) => (
+                <circle key={i} cx={sx} cy={25 + i * 18} r={1.5 + i % 2} fill="#FFFFFF" />
+            ))}
+            <rect x="0" y="260" width="500" height="140" fill="#636e72" />
+            <line x1="0" y1="260" x2="500" y2="260" style={{ ...outlineStyle, strokeWidth: 3, stroke: '#FFFFFF' }} />
+            {children}
+        </svg>
+    );
+}
+
+// ========== PHASE-SPECIFIC LAYOUTS ==========
+// These provide completely different visual compositions for each story phase
+function getPhaseLayout(phase, p, themeId, category) {
+    const cx = 100 + (p % 8) * 25;
+    const cy = 160 + (p % 5) * 10;
+    const showP = p % 3 !== 2;
+    const pGen = p % 2 === 0 ? 'mother' : 'father';
+    const cFace = p % 4 < 2 ? 'right' : 'left';
+    const sRot = Math.sin(p * 0.7) * 15;
+
+    switch (phase) {
+        case 2: // ===== DISCOVERY (pages 11-20) =====
+            if (category === 'imagination') {
+                return (
+                    <svg viewBox="0 0 500 400" style={{ width: '100%', height: '100%' }}>
+                        <rect x="0" y="0" width="500" height="400" style={fillableStyle('portal-bg')} />
+                        {[70, 90, 110, 130].map((r, i) => (
+                            <ellipse key={i} cx="300" cy="200" rx={r} ry={r * 0.7}
+                                transform={`rotate(${i * 18 + p * 4} 300 200)`}
+                                style={{ ...outlineStyle, strokeWidth: 2, strokeDasharray: `${5 + i * 3},${3 + i * 2}` }} />
+                        ))}
+                        {getThemeSprite(themeId, 300, 185, 2.2, p * 8)}
+                        <Child x={cx} y={cy + 30} scale={0.7} facing={cFace} />
+                        {showP && <Parent x={50} y={190} scale={0.6} gender={pGen} />}
+                    </svg>
+                );
+            }
+            if (category === 'family') {
+                return (
+                    <Sky groundY={300} groundColor="garden-grass">
+                        {[40, 80, 120, 160, 200, 240].map(fx => (
+                            <rect key={fx} x={fx} y="280" width="6" height="25" style={outlineStyle} />
+                        ))}
+                        <line x1="40" y1="286" x2="246" y2="286" style={{ ...outlineStyle, strokeWidth: 3 }} />
+                        <line x1="40" y1="296" x2="246" y2="296" style={{ ...outlineStyle, strokeWidth: 3 }} />
+                        {[300, 350, 400, 440].map((fx, i) => (
+                            <g key={i}>
+                                <line x1={fx} y1="300" x2={fx} y2={278 - (i + p) % 4 * 3} style={{ ...outlineStyle, strokeWidth: 2 }} />
+                                <circle cx={fx} cy={273 - (i + p) % 4 * 3} r={5 + i % 2 * 2} style={fillableStyle(`flwr-${i}`)} />
+                            </g>
+                        ))}
+                        {getThemeSprite(themeId, 300, 240, 1.6, sRot)}
+                        <Child x={cx} y={cy + 10} scale={0.7} facing={cFace} />
+                        {showP && <Parent x={80} y={160} scale={0.6} gender={pGen} />}
+                    </Sky>
+                );
+            }
+            // Default: outdoor exploration
+            return (
+                <Sky groundY={310} groundColor="disc-ground">
+                    <polygon points={`${40 + p % 4 * 10},295 ${70 + p % 4 * 10},${180 + p % 3 * 15} ${100 + p % 4 * 10},295`} style={fillableStyle('dtree1')} />
+                    <rect x={62 + p % 4 * 10} y="295" width="12" height="15" style={fillableStyle('dtrunk1')} />
+                    {p % 2 === 0 && <>
+                        <polygon points="400,290 430,195 460,290" style={fillableStyle('dtree2')} />
+                        <rect x="422" y="290" width="12" height="20" style={fillableStyle('dtrunk2')} />
+                    </>}
+                    <circle cx={260 + p % 5 * 15} cy={210 + p % 3 * 10} r="18" style={fillableStyle('mag-glass')} />
+                    <line x1={245 + p % 5 * 15} y1={225 + p % 3 * 10} x2={225 + p % 5 * 15} y2={260 + p % 3 * 10} style={{ ...outlineStyle, strokeWidth: 4 }} />
+                    {[120, 200, 280, 360].map((mx, i) => (
+                        <circle key={i} cx={mx} cy={295 + i % 2 * 8} r={3 + i % 2} style={fillableStyle(`mark-${i}`)} />
+                    ))}
+                    {getThemeSprite(themeId, 360, 250, 1.8, sRot)}
+                    <Child x={cx} y={cy + 10} scale={0.7} facing={cFace} />
+                    {showP && <Parent x={50} y={160} scale={0.6} gender={pGen} />}
+                </Sky>
+            );
+
+        case 3: // ===== CHALLENGE (pages 21-35) =====
+            if (category === 'family') {
+                return (
+                    <Room floorY={320}>
+                        <rect x="50" y="230" width="400" height="18" rx="3" style={fillableStyle('counter')} />
+                        <rect x="70" y="248" width="80" height="72" rx="3" style={fillableStyle('cab1')} />
+                        <rect x="170" y="248" width="80" height="72" rx="3" style={fillableStyle('cab2')} />
+                        <rect x="370" y="248" width="80" height="72" rx="3" style={fillableStyle('stove')} />
+                        <circle cx="390" cy="243" r="8" style={fillableStyle('burn1')} />
+                        <circle cx="420" cy="243" r="8" style={fillableStyle('burn2')} />
+                        <rect x={100 + p % 5 * 20} y="213" width="25" height="18" rx="3" style={fillableStyle('bowl')} />
+                        {getThemeSprite(themeId, 280, 188, 1.6, p * 3)}
+                        <Child x={cx + 40} y={cy - 30} scale={0.7} facing={cFace} />
+                        {showP && <Parent x={350} y={120} scale={0.6} gender={pGen} />}
+                    </Room>
+                );
+            }
+            if (category === 'learning') {
+                return (
+                    <Room>
+                        <rect x="100" y="250" width="300" height="15" rx="3" style={fillableStyle('lab-table')} />
+                        <rect x="120" y="265" width="10" height="45" style={outlineStyle} />
+                        <rect x="380" y="265" width="10" height="45" style={outlineStyle} />
+                        <rect x={140 + p % 4 * 15} y="220" width="12" height="30" rx="2" style={fillableStyle('beaker1')} />
+                        <rect x={210 + p % 3 * 20} y="225" width="10" height="25" rx="2" style={fillableStyle('beaker2')} />
+                        <circle cx={300 + p % 3 * 10} cy="240" r="8" style={fillableStyle('flask')} />
+                        {getThemeSprite(themeId, 350, 200, 1.8, sRot)}
+                        <Child x={cx} y={cy} scale={0.7} facing={cFace} />
+                        {showP && <Parent x={380} y={130} scale={0.6} gender={pGen} />}
+                    </Room>
+                );
+            }
+            // Default: Mountain obstacles (skill, outdoor, imagination)
+            return (
+                <Sky groundY={330} groundColor="chall-ground">
+                    <polygon points={`${180 + p % 5 * 10},330 ${280 + p % 3 * 10},${110 + p % 4 * 12} ${380 + p % 5 * 10},330`} style={fillableStyle('cmtn1')} />
+                    <polygon points={`${50 + p % 3 * 15},330 ${120 + p % 3 * 15},${185 + p % 5 * 10} ${190 + p % 3 * 15},330`} style={fillableStyle('cmtn2')} />
+                    <path d={`M ${80 + p % 4 * 20} 310 Q ${180 + p % 3 * 15} ${260 + p % 5 * 8} ${280 + p % 4 * 10} ${230 + p % 3 * 10}`}
+                        style={{ ...outlineStyle, strokeWidth: 3, strokeDasharray: "8,8" }} />
+                    {[100, 180, 300].map((lx, i) => (
+                        <line key={i} x1={lx} y1={80 + i * 20} x2={lx + 40} y2={78 + i * 20}
+                            style={{ ...outlineStyle, strokeWidth: 1.5, opacity: 0.3 }} />
+                    ))}
+                    {getThemeSprite(themeId, 280 + p % 3 * 15, 85 + p % 4 * 15, 2.2, p * 5)}
+                    <Child x={cx} y={cy + 40} scale={0.65} facing="right" />
+                    {showP && <Parent x={30} y={200} scale={0.6} gender="father" />}
+                </Sky>
+            );
+
+        case 4: // ===== SUCCESS (pages 36-45) =====
+            if (category === 'outdoor') {
+                return (
+                    <Sky groundY={340} groundColor="summit-gr">
+                        <polygon points="100,340 250,80 400,340" style={fillableStyle('peak')} />
+                        <polygon points="250,80 235,115 265,115" style={fillableStyle('snow-cap')} />
+                        <line x1="250" y1="80" x2="250" y2="50" style={{ ...outlineStyle, strokeWidth: 3 }} />
+                        <rect x="250" y="42" width="30" height="18" style={fillableStyle('sum-flag')} />
+                        <polygon points="0,340 50,280 120,340" style={fillableStyle('far-mt1')} />
+                        <polygon points="380,340 450,260 500,340" style={fillableStyle('far-mt2')} />
+                        {getThemeSprite(themeId, 240, 100, 1.5, 0)}
+                        <Child x={200 + p % 3 * 15} y={175 + p % 4 * 10} scale={0.65} />
+                        {showP && <Parent x={300} y={200} scale={0.55} gender={pGen} />}
+                    </Sky>
+                );
+            }
+            // Default: Indoor celebration
+            return (
+                <Room>
+                    <path d="M 30 45 Q 250 90 470 45" style={{ ...outlineStyle, strokeWidth: 2 }} />
+                    {[80, 150, 220, 290, 360, 430].map((fx, i) => (
+                        <polygon key={i} points={`${fx},${50 + i % 2 * 5} ${fx + 8},${72 + i % 2 * 5} ${fx + 16},${50 + i % 2 * 5}`}
+                            style={fillableStyle(`sf-${i}`)} />
+                    ))}
+                    <rect x="310" y="240" width="80" height="70" rx="5" style={fillableStyle('podium')} />
+                    <rect x="300" y="230" width="100" height="15" rx="3" style={fillableStyle('pod-top')} />
+                    {[90, 170, 260, 350, 430].map((cfx, i) => (
+                        <rect key={i} x={cfx + p % 3 * 5} y={115 + i * 15 + p % 4 * 8} width="6" height="6" rx="1"
+                            transform={`rotate(${p * 15 + i * 30} ${cfx} ${125 + i * 15})`} style={fillableStyle(`cf-${i}`)} />
+                    ))}
+                    {getThemeSprite(themeId, 350, 195, 2.5, sRot)}
+                    <Child x={cx + 40} y={cy} scale={0.85} />
+                    {showP && <Parent x={60} y={130} scale={0.65} gender={pGen} />}
+                    {p % 4 === 0 && <Parent x={420} y={140} scale={0.55} gender={pGen === 'mother' ? 'father' : 'mother'} />}
+                </Room>
+            );
+
+        case 5: // ===== REFLECTION (pages 46-50) =====
+            if (category === 'outdoor') {
+                return (
+                    <svg viewBox="0 0 500 400" style={{ width: '100%', height: '100%' }}>
+                        <rect x="0" y="0" width="500" height="400" fill="#1a1a2e" />
+                        <path d="M 380 50 A 20 20 0 1 0 410 40 A 25 25 0 1 1 380 50 Z" style={fillableStyle('cmoon')} />
+                        {[60, 130, 220, 310, 400, 460].map((sx, i) => (
+                            <circle key={i} cx={sx} cy={20 + (i * 23) % 80} r={1 + i % 2} fill="#FFFFFF" />
+                        ))}
+                        <rect x="0" y="300" width="500" height="100" style={fillableStyle('cground')} />
+                        <polygon points={`${350 + p % 3 * 10},300 ${400 + p % 3 * 10},200 ${450 + p % 3 * 10},300`} style={fillableStyle('tent')} />
+                        <rect x={365 + p % 3 * 10} y="265" width="30" height="35" rx="2" style={fillableStyle('tent-door')} />
+                        <polygon points="200,300 220,260 240,300" style={fillableStyle('cflame1')} />
+                        <polygon points="210,300 220,275 230,300" style={fillableStyle('cflame2')} />
+                        <rect x="190" y="300" width="60" height="8" rx="3" style={fillableStyle('clogs')} />
+                        {[180, 195, 210, 230, 245, 260].map((sx, i) => (
+                            <circle key={i} cx={sx} cy="312" r="5" style={fillableStyle(`cst-${i}`)} />
+                        ))}
+                        {getThemeSprite(themeId, 100, 180, 1.5, sRot)}
+                        <Child x={120 + p % 4 * 15} y={220} scale={0.6} />
+                        {showP && <Parent x={280} y={210} scale={0.55} gender="mother" />}
+                    </svg>
+                );
+            }
+            // Default: Night bedroom with dream bubble
+            return (
+                <NightRoomBase>
+                    <rect x="60" y="280" width="250" height="45" rx="5" style={fillableStyle('bed')} />
+                    <rect x="35" y="250" width="30" height="90" rx="5" style={fillableStyle('hdboard')} />
+                    <path d="M 100 280 Q 190 260 300 280 L 300 325 L 100 325 Z" style={fillableStyle('nblanket')} />
+                    <rect x="360" y="40" width="90" height="100" rx="5" style={{ ...outlineStyle, strokeWidth: 4, stroke: '#FFFFFF' }} />
+                    <line x1="405" y1="40" x2="405" y2="140" style={{ ...outlineStyle, strokeWidth: 2, stroke: '#FFFFFF' }} />
+                    <line x1="360" y1="90" x2="450" y2="90" style={{ ...outlineStyle, strokeWidth: 2, stroke: '#FFFFFF' }} />
+                    <g transform="translate(210, 255) rotate(90) scale(0.55)">
+                        <Child x={0} y={0} scale={1} />
+                    </g>
+                    <circle cx="280" cy="200" r="5" style={{ ...outlineStyle, strokeWidth: 1.5, stroke: '#FFFFFF' }} />
+                    <circle cx="260" cy="175" r="8" style={{ ...outlineStyle, strokeWidth: 1.5, stroke: '#FFFFFF' }} />
+                    <ellipse cx="190" cy="120" rx="55" ry="40" style={{ ...outlineStyle, strokeDasharray: "5,5", stroke: '#FFFFFF' }} />
+                    {getThemeSprite(themeId, 190, 110, 1.8, sRot)}
+                    <text x="290" y="240" fontSize="16" fill="#FFFFFF" opacity="0.6">z</text>
+                    <text x="310" y="220" fontSize="20" fill="#FFFFFF" opacity="0.5">z</text>
+                    <text x="330" y="198" fontSize="24" fill="#FFFFFF" opacity="0.4">z</text>
+                    {showP && <Parent x={380} y={155} scale={0.55} gender="mother" />}
+                </NightRoomBase>
+            );
+
+        default:
+            return <Room><Child x={200} y={180} scale={0.8} /></Room>;
+    }
+}
+
 export function getStoryScene(illustrationId) {
-    // Extract story theme ID and page number from the illustration ID
-    // Format: "story-theme-id-pageNum" e.g. "desert-safari-15"
     const parts = illustrationId.split('-');
     const pageNum = parseInt(parts[parts.length - 1]) || 0;
+    const phase = pageNum <= 10 ? 1 : pageNum <= 20 ? 2 : pageNum <= 35 ? 3 : pageNum <= 45 ? 4 : 5;
 
-    // Try to find a matching scene by progressively removing the last segment
-    let themeId = illustrationId;
+    // Find the theme ID by progressively removing the last segment
+    let themeId = null;
     for (let i = parts.length - 1; i >= 1; i--) {
         const candidate = parts.slice(0, i).join('-');
         if (allScenes[candidate]) {
-            const scene = allScenes[candidate](pageNum);
-            return <SceneRandomizer pageNum={pageNum}>{scene}</SceneRandomizer>;
+            themeId = candidate;
+            break;
         }
     }
+    if (!themeId) return null;
 
-    // Fallback: if no scene matched, return null (caller will use old fallback)
-    return null;
+    let scene;
+    if (phase === 1) {
+        // Phase 1: Use existing story-specific scene (unique per story)
+        scene = allScenes[themeId](pageNum);
+    } else {
+        // Phases 2-5: Use completely different phase layouts
+        const category = categoryMap[themeId] || 'outdoor';
+        scene = getPhaseLayout(phase, pageNum, themeId, category);
+    }
+
+    return <SceneRandomizer pageNum={pageNum}>{scene}</SceneRandomizer>;
 }
